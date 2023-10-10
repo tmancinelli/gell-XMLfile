@@ -1,0 +1,30 @@
+name: XML TEI unifier
+on: [push]
+jobs:
+  unifier:
+    runs-on: ubuntu-latest
+    steps:
+      - run: |
+         echo "Installining xqilla..."
+         sudo apt-get update
+         sudo apt-get install xqilla
+
+      - uses: actions/checkout@v4
+
+      - run: |
+         echo "Generating the index file..."
+         echo "<files>" > a.xml
+         find xml -type f | while read LINE; do
+           echo "<file>$LINE</file>" >> a.xml
+         done
+         echo "</files>" >> a.xml
+
+      - run: |
+         echo "Unifying files..."
+         cp scripts/unifier.xql .
+         xqilla unifier.xql > output.xml
+
+      - uses: actions/upload-artifact@v3
+        with:
+          name: XML-TEI
+          path: output.xml
