@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+     <front>
+        
+     </front>
+     <body>
+        <div type="Spain"> <!--type="spain/portugal/reading_notes" ??-->
+           
+           <!-- PAGE 114 -->
+           <pb facs="#f-114" n="114"/>
+           <fw>87</fw>
+           <figure facs="f-vvvv" type="sketch">
+              <note type="editorial_label">Pen and ink drawing: townscape</note>
+              <label>Torres Bermejas <note type="translation">Vermillion Towers</note></label>
+              <label>Pinos Puente</label>
+              <label>T. della Vela <note type="editorial">Torre de la Vela</note>
+                 <note type="translation">Watch Tower</note></label>
+              <label>Sierra d Elvira</label>
+              <label>Torre de los siete Suelos<note type="translation">Tower of the Seven Floors</note></label>
+           </figure>
+           
+           <figure facs="f-vvvv" type="sketch">
+              <note type="editorial_label">Pen and ink plan: Bay of <rs type="place" ref="#gibraltar">Gibraltar</rs></note>
+              <note type="editorial_label">Pen and ink drawing: wall 	Plan	+ a greek tower</note>
+              <label>BAY OF <rs type="place" ref="#gibraltar">GIBRALTAR</rs></label>
+           </figure>
+           
+           <ab>At <rs type="place" ref="#carteia">Cartieia<note type="editorial">Carteia, a Phoenician and Roman town in the Bay of Gibraltar.</note></rs> the building on the highest point is Moorish. 
+              There is one tower of the Greek wall + <figure facs="XXX"><note type="editorial_note">[indicating drawing above]</note></figure>
+              remaining but not perpendicular, at an angle which was the upper point of the city – The style of this is similar to that of <rs type="place" ref="#mantinea">Mantinea</rs> &amp; 
+              Ithome, without mortar, but the blocks are not large – The Theatre may be on Greek foundations, but the superstructure is evidently Roman. 
+              The mouth of the river is now very shallow, &amp; even small boats can scarcely pass the bar at low water. The site is covered with 
+              unhewn stones &amp; broken tiles </ab>
+           <metamark/>
+
+           <!-- PAGE 115 -->
+           <pb facs="#f-115" n="115"/>
+           <figure facs="f-vvvv" type="sketch">
+              <note type="editorial_label">Pen and ink drawing: view of <rs type="place" ref="#gibraltar">Gibraltar</rs></note>
+              <label>Moorish walls</label>
+              <label><rs type="place" ref="gibraltar">GIBRALTAR</rs></label>
+           </figure>
+           
+           <ab>This view is taken from a spot near the Governors summer cottage E<note type="editorial">east</note> of the rock. 
+              L<note type="editorial">left</note> are seen some walls said to be moorish. High up toward the peak is seen the powder magazine</ab>
+           <note type="marginal"> <rs type="place" ref="#moclìn">Mochlin<note type="translation">Moclín</note></rs> the right eye &amp; <rs type="place" ref="#illora">Illora</rs>the shield of <rs type="place" ref="#granada alhama">Granada Alhama</rs><metamark/></note>
+           
+           <!--COME FACCIO LA CORNICETTA???-->
+           
+           <ab>In the <rs type="place" ref="#granda">Granada</rs> library are poems of <rs type="person">Abu Baker Mohamad Ben Abrahim Almari Alcarschi</rs> who had This on his Tomb.
+              I translated this so
+              <lg>
+               <l>As God ordains my death foredoom’d must be</l>
+               <l>Kings, Prophet, Adam all preceeded me</l>
+               <l>Go Thou prepare who glories in my death</l>
+               <l>For soon shall Fate require thy latest breath.</l>
+               <l>Born at <rs type="place" ref="#silves">Silves</rs> 28 miles from <rs type="place" ref="#s maria"></rs>S. Maria</l>
+              </lg>
+           </ab>
+           <note type="editorial">From Casiri, Bibliotheca, vol. 1, p. 95. Casiri gives both Latin and Arabic, but WG probably translated the Arabic (given his pride and the very loose relationship of his translation to the Latin).</note>
+           
+           <ab>Valadata Dau’r of King Mohamad Almostakphi Billah born at Cordoba wrote verses of which translation. “Aspectus noster vestra vulnerat corda: vester &amp; aspectus nostras ferit genas. Pro Vulnere vulnus: jam pares ergo sumus. Attamen genarum vulnus acerbius semper erit.
+              [Arabic] <!-- ARABIC TEXT -->
+              Abdusi a noble of Cordoba in love with her.
+           </ab>
+           <note type="editorial">From Casiri, Bibliotheca, vol. 1, p. 106, including Arabic and biographical detail.Dau’r = daughter.
+              
+              The poet is Wallada bint al-Mustakfi (b. Cordoba, 994 or 1010, d. 1091).</note>
+           
+           <ab>Some poems end in a letter as [Arabic] whence called Siniat. one of Ebn Badis of Cordova commented by Ahmad Ben Alhagi of Granada. Hegirae 759.</ab>
+           <note type="editorial">Casiri, Bibliotheca, vol. 1, p. 107.
+              
+              AH 759 (Anno Hegirae, the Islamic calendar)</note>
+           <ab>Mohamad Abi Baker Altalmasani of Granata</ab>
+           <note type="editorial">Casiri, Bibliotheca, vol. 1, p. 118.</note>
+           
+          
+           <!-- PAGE 116 -->
+           <pb facs="#f-116" n="116"/>
+           <fw>85</fw>
+           <ab>Ebn Alkhatib Mohd. Ebn Abdalla Chronographus to Kg of Granada wrote History of Granada &amp; Bibliotheca Arabico Hispanae. <note type="editorial">Ebn Alkhatib Mohamad Ebn Abdalla, Chronicler to King of Granada, wrote History of Granada and Arabic-Spanish Library.</note> &amp; of</ab>
+           <!--- ARABIC TEXT WITH GELL'S TRANSLATIONS-->
+           
+           <metamark/> 
+           <ab>Al <rs type="place" ref="#algeciras">Algeciras</rs> is a better place than it appears from <rs type="place" ref="#gibraltar"></rs>Gibraltar, There are two squares or plazas – Behind the town is an aquaduct &amp; some gardens. On the whole however very miserable. A tolerable inn for <rs type="place" ref="#spain">Spain</rs>.</ab>
+           <metamark/>
+           
+           <ab>Mohamad Ben Alhassan ben Makhluph Alraschedi. Granatensis wrote Comt on “de arte metrica” of Kathiri ben Abdelrahman ben Alasuad Alkhazai of Corduba.
+              <note type="editorial">Casiri, Bibliotheca, vol. 1, p. 120.
+                 Mohamad Ben Alhassan ben Makhluph Alraschedi of Granada wrote Commentary on "On the Metrical Art" of Kathiri ben Abdelrahman ben Alasuad Alkhazai of Cordoba.</note>
+              Salaheddin writes in Lacrymae queribundi &amp; impatientis Amantis Thus. Me rapit elegantia et pulchritudinis amor. neque mirum nam ille viros fortes. Rapit et molles. Jam me delicias inter atque lusus perditum cernis.
+             
+             
+             
+             
+             “Tot tibi sunt dotes virgo quot sydera coelo”.. Isa ben Mohamad ben Isa in Granada library.
+              In Hegirae ao. 588 or 1192 Xt. Margaritarum series ac Apparatus Vestis elegantis &amp; laneae &amp; others collected by Mohamad Ben Abdelhac Algasanita Granatensis ao Heg 571. Laudativa amatoria et moralia.
+              Dhilvazratin Abi Abdala Ben Alkatib of Granata wrote history of Spanish events &amp; his travels to Africa &amp; return to Spain &amp; congratulations on it. 3d day Saphari ao Heg 748.
+              Mohamad Ben Md. Albalisi ben Ali of Velez wrote dialogues of 50 professions.
+              Authors of Cordoba numberless. Gardening &camp; &amp; all the sciences.
+           </ab>
+           
+        </div>
+        
+     </body>
+  </text>
+</TEI>
