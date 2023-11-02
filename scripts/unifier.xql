@@ -78,10 +78,12 @@ element tei:TEI {
   (: Here the text :)
   element tei:text {
     element tei:body {
-      (: Here the list of blocks :)
-      local:create_body("spain"),
-      local:create_body("portugal")
-      (: TODO: are they all? :)
+      let $types :=
+        for $file in doc("a.xml")//file/data(.)
+        return doc($file)//tei:text/tei:body/tei:div/@type
+
+      for $distinctType  in distinct-values($types)
+      return local:create_body($distinctType)
     }
   }
 }
