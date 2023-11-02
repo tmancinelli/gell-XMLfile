@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface xml:id="zone_Page_26">
+         <graphic url="https://iiif.bsr.ac.uk/iiif/2/GELL-VI%2Fwg_06_026.tif/full/full/0/default.jpg"/>
+         <zone points="1120,1044 1120,1278 1408,1283 1408,1039" xml:id="zone_Page_26_735b111a-19ee-47d6-a87f-ad4a80e58119"/> <!-- zone building -->
+         <zone points="489,1517 484,1713 723,1708 712,1517" xml:id="zone_Page_26_6423b57e-ff1b-4f02-9c8f-410d4712e179"/> <!-- zone arch -->
+         <zone points="1109,2894 1093,3089 1425,3089 1414,2899" xml:id="zone_Page_26_10391a80-d5be-4832-8951-0d2cfc8726df"/> <!-- zone arch2 -->
+         <zone points="2001,157 1904,685 1909,1049 2110,1588 2143,2121 3416,2121 3367,146" xml:id="zone_Page_26_0f82521a-9bfd-40e1-8fa4-66a40414ec4c"/> <!-- Santiago de Compostela -->
+         <zone points="2295,2241 2360,3209 3285,3182 3215,2230" xml:id="zone_Page_26_940faa72-8f75-4900-b40a-1e6454978030"/> <!-- <zone Pen and ink drawing: tower -->
+         <zone points="2301,3204 2317,3699 3492,3672 3470,3187" xml:id="zone_Page_26_3a3733d6-6c14-4469-9f26-be879e3d6f85"/> <!-- zone marginal note -->
+      </surface>
+   </facsimile>
+   <text>
+      <front>
+         <div type="cover">
+            <note> </note>
+         </div>
+         <div type="inlet">
+            <head> </head>
+         </div>
+      </front>
+
+      <body>
+         <div type="spain">
+            <pb facs="#zone_Page_26" n="026"/>
+            <fw>186</fw>
+            <ab>towers of the <rs type="place" ref="XXX">Cathedral</rs> was striking. We visited the Plaza Mayor on the <choice>
+                  <abbr>N</abbr>
+                  <expan>north</expan>
+            </choice> side of the <rs type="place" ref="XXX">cathedral</rs>. A very small part of the ancient building remains of
+               the <choice>
+                  <abbr>W</abbr>
+                  <expan>west</expan>
+               </choice> end of the <rs type="place" ref="XXX">Cathedral</rs>, more Saxon than Gothic. <figure type="in_text"
+                  facs="#zone_Page_26_735b111a-19ee-47d6-a87f-ad4a80e58119">
+                  <note type="editorial_label">[drawing: building]</note>
+               </figure> but within at this end is a very fine screen with <figure type="in_text"
+                  facs="#zone_Page_26_6423b57e-ff1b-4f02-9c8f-410d4712e179">
+                  <note type="editorial_label">[drawing: arch]</note>
+               </figure> arches round which the heavenly choir are carved, with harps &amp;c. The
+               <rs type="place" ref="XXX">Cathedral</rs> is not more than two centuries old &amp; besides being very large is the
+               finest pile of building in the style of <rs type="person" ref="XXX">Inigo Jones I</rs> ever saw. The roof is entirely
+               of fine white uncoloured stone with <figure type="in_text" facs="#zone_Page_26_10391a80-d5be-4832-8951-0d2cfc8726df">
+                  <note type="editorial_label">[drawing: arch]</note>
+               </figure> arches, sometimes not quite regular. It is very lofty so as to have the
+               proportions of a Gothic church. The Shrine of S<hi rend="superscript">t</hi>
+                  Jago<note type="translation">St James</note> is entirely of silver, the body is
+               buried below. There is a very fine organ. S<hi rend="superscript">t</hi> Jago was
+               seen in a vision driving the Moors out of <rs type="place" ref="XXX">Spain</rs>.</ab>
+            <figure type="sketch" facs="#zone_Page_26_0f82521a-9bfd-40e1-8fa4-66a40414ec4c">
+               <note type="editorial_label">Pen and ink plan: <rs type="place" ref="XXX">Santiago de Compostela</rs></note>
+               <label>Free Stone a building in which the metopes are windows</label>
+            </figure>
+            <figure type="sketch" facs="#zone_Page_26_940faa72-8f75-4900-b40a-1e6454978030">
+               <note type="editorial_label">Pen and ink drawing: tower</note>
+               <label>A tower of the <rs type="place" ref="XXX">cathedral</rs> hangs on in this manner</label>
+            </figure>
+            <note type="marginal" facs="#zone_Page_26_3a3733d6-6c14-4469-9f26-be879e3d6f85">Encima la sacristia de la catedral de Santiago y sobre un arco toral de la obra
+               vieja. Para gloria de Dios acabó esta obra Miguel de Bozllar natural de S. Miguel de
+               Areno. Año de 1245. <note type="translation">Above the sacristy of St James's
+                  cathedral and on a central arch of the old work. For the glory of God, Miguel de
+                  Bozllar, a native of San Miguel de Areno, finished this work. The year
+                  1245.</note>
+               <note type="editorial">Spanish text abridged from <bibl>Eugenio Llaguno y Amírola,
+                     Noticias de los arquitectos y arquitectura de España..., 4 vols (Madrid:
+                     Imprenta Real, 1829), vol. 1, p. 52.</bibl></note></note>
+         </div>
+         <div type="portugal">
+            <ab> </ab>
+         </div>
+         <div type="reading_notes"> </div>
+      </body>
+
+      <back>
+         <div type="cover">
+            <note> </note>
+         </div>
+         <div type="index"> </div>
+      </back>
+   </text>
+
+</TEI>

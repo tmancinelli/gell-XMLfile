@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface xml:id="zone_Page_30">
+         <graphic url="https://iiif.bsr.ac.uk/iiif/2/GELL-VI%2Fwg_06_030.tif/full/full/0/default.jpg"/>
+         <zone points="1914,190 1920,375 1196,359 1234,184" xml:id="zone_Page_30_7b3df1b1-4672-4909-8a1b-fdd32d4d4cdb"/><!-- zone hils -->
+         <zone points="968,386 968,652 1952,663 1942,391" xml:id="zone_Page_30_be7d2e79-ace7-442e-a0fd-3cd2007c9e45"/><!-- zone pacaje -->
+         <zone points="1517,859 1523,1000 1882,1011 1849,848" xml:id="zone_Page_30_ae08b1bc-d7e7-43cf-9864-904e6ff6aaaa"/><!-- zone drawing -->
+         <zone points="141,1332 136,1887 1795,1882 1778,1349" xml:id="zone_Page_30_49521f6b-4361-4e24-a48b-0ab41fd8e385"/><!-- zone Betanzos -->
+         <zone points="3187,1457 1931,1457 1909,1773 3182,1778" xml:id="zone_Page_30_4f58e0c0-503e-4d31-81b9-35123bf586b4"/><!-- zone marginal note -->
+      </surface>
+   </facsimile>
+   <text>
+      <front>
+         <div type="cover">
+            <note> </note>
+         </div>
+         <div type="inlet">
+            <head> </head>
+         </div>
+      </front>
+
+      <body>
+         <div type="spain">
+            <pb facs="#zone_Page_30" n="030"/>
+            <fw>178</fw>
+            <ab>two hills like stations <figure type="in_text" facs="#zone_Page_30_7b3df1b1-4672-4909-8a1b-fdd32d4d4cdb">
+                  <note type="editorial_label">[drawing: hills]</note>
+               </figure> seen</ab>
+            <ab>the bay rather <figure type="in_text" facs="#zone_Page_30_be7d2e79-ace7-442e-a0fd-3cd2007c9e45">
+                  <note type="editorial_label">[pencil, pen and ink drawing: ‘Entrance of
+                     <rs type="place" ref="XXX">Pacaje</rs>’]</note>
+               <label>‘Entrance of <rs type="place" ref="XXX">Pacaje</rs>’<note type="editorial">WG seems to mean the Ría da Coruña (Estuary of A Coruña), the mouth of the Mero river.</note></label>
+               </figure></ab>
+            <ab>pretty, &amp; perfectly landlocked. At 11<hi rend="superscript">m</hi> to 10<note type="editorial">9.49</note> the 3<hi rend="superscript">d</hi> league, abt 10<hi rend="superscript">h</hi><note type="editorial">about 10am</note> the <figure
+               type="in_text" facs="#zone_Page_30_ae08b1bc-d7e7-43cf-9864-904e6ff6aaaa">
+                  <note type="editorial_label">[drawing]</note>
+            </figure> close <choice><abbr>L.</abbr><expan>left</expan></choice> 28 p 10<note type="editorial">10.28</note> <choice><abbr>a + L</abbr><expan>a church on the left</expan></choice> see &amp; descend to <rs type="place" ref="XXX">Betanços<note type="editorial">Betanzos</note></rs> entirely surrounded
+               with vines. met a coach &amp; 7 mules</ab>
+            <figure type="in_text" facs="#zone_Page_30_49521f6b-4361-4e24-a48b-0ab41fd8e385">
+               <note type="editorial_label">Pen and ink drawing: view of <rs type="place" ref="XXX">Betanzos</rs></note>
+            </figure>
+            <note type="marginal" facs="#zone_Page_30_4f58e0c0-503e-4d31-81b9-35123bf586b4">Tamarisk bushes in the bed of the river</note>
+            <ab>the town is in the bottom of a valley on the <choice><abbr>R</abbr><expan>right</expan></choice> bank of the river. A <figure type="in_text" facs="xxx"><note type="editorial_label">[drawing: arch
+               bridge]</note></figure> with several tamarisk bushes. At 10 p 11 arrive in the town, full of Vines &amp;
+               terraces. The Plaza is full of Posadas Posada della Cruz. del Sole. de la Aurora &amp;
+               ours of L’Estrella<note type="translation">full of Inns: the Cross Inn, the Sun [sol] Inn, the Dawn Inn and ours, the Star Inn</note>, a very good house where they killed 2 chickens, scalded off the
+               feathers &amp; made a very good stew with potatoes, &amp; an omelet with Tomatas for which 2
+               of us &amp; 2 servants paid 2 dollars &amp; about 6 pence; There is a building</ab>
+         </div>
+         <div type="portugal">
+            <ab> </ab>
+         </div>
+         <div type="reading_notes">
+            <ab> </ab>
+         </div>
+      </body>
+
+      <back>
+         <div type="cover">
+            <note> </note>
+         </div>
+         <div type="index"> </div>
+      </back>
+   </text>
+
+</TEI>

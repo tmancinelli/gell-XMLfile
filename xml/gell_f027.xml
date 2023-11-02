@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface xml:id="zone_Page_27">
+         <graphic url="https://iiif.bsr.ac.uk/iiif/2/GELL-VI%2Fwg_06_027.tif/full/full/0/default.jpg"/>
+         <zone points="1708,293 1713,761 3274,767 3258,272" xml:id="zone_Page_27_0c3fb243-57b5-4352-a18b-5dc58273e66d"/> <!-- zone marginal note -->
+      </surface>
+   </facsimile>
+   <text>
+      <front>
+         <div type="cover">
+            <note> </note>
+         </div>
+         <div type="inlet">
+            <head> </head>
+         </div>
+      </front>
+
+      <body>
+         <div type="spain">
+            <pb facs="#zone_Page_27" n="027"/>
+            <ab>as represented over the door of his church at <rs type="place" ref="XXX">Coruña</rs> in the 8<hi rend="superscript">th</hi> century as we were
+               told <metamark>–</metamark> Almost every building in the City is in the same stile of architecture, all
+               very massive but some highly ornamented. The humidity of the climate has taken much
+               from the beauty of many of the edifices. Upon the whole perhaps there is no
+               provincial town better adorned with fine buildings. The Seminary <choice><abbr>N</abbr><expan>north</expan></choice> of the great
+               square is very magnificent &amp; regular, an academy makes the <choice><abbr>E</abbr><expan>east</expan></choice> side the splendid
+               cathedral the <choice><abbr>S</abbr><expan>south</expan></choice> &amp; an Hospital excellently provided with beds &amp; assistance for the
+               sick, has a very noble front to the E of the Square. We heard music in the Cathedral
+               from the Archbishops tribunal, with</ab>
+
+
+            <note type="marginal" facs="#zone_Page_27_0c3fb243-57b5-4352-a18b-5dc58273e66d"><rs type="person" ref="XXX">Alhagib</rs> captain of <rs type="person" ref="XXX"><choice><abbr>Kg</abbr><expan>King</expan></choice> of Cordova<note type="editorial">King of Cordoba</note></rs> entered <rs type="place" ref="XXX">Galicia</rs> &amp;
+               sacked <rs type="place" ref="XXX">St Yago<note type="editorial">Santiago de Compostela</note> </rs>&amp; took the great bells to the mosque at <rs type="place" ref="XXX">Cordova</rs> but in <date when="1236">1236</date> <rs type="person" ref="XXX"><choice><abbr>D.</abbr><expan>Don</expan></choice>
+               Fernando</rs> retook them &amp; made the Moors carry them back on their shoulders.</note>
+         </div>
+         <div type="portugal">
+            <ab> </ab>
+         </div>
+         <div type="reading_notes"> </div>
+      </body>
+
+      <back>
+         <div type="cover">
+            <note> </note>
+         </div>
+         <div type="index"> </div>
+      </back>
+   </text>
+
+</TEI>

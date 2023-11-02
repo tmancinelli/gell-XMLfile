@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface xml:id="zone_Page_18">
+         <graphic url="https://iiif.bsr.ac.uk/iiif/2/GELL-VI%2Fwg_06_018.tif/full/full/0/default.jpg"/>
+         <zone points="1196,125 1207,1610 3416,1577 3394,130" xml:id="zone_Page_18_8a16e464-6758-47e9-8640-356abb0a7cb8"/> <!-- landscape drawing zone -->
+         <zone points="1191,2453 1158,4085 1762,4074 1800,2426" xml:id="zone_Page_18_135cfd5c-6d3c-480f-ad66-380dc5a915d0"/> <!-- person drawing zone -->
+      </surface>
+   </facsimile> 
+   <text>
+      <front>
+         <div type="cover">
+            <note> </note>
+         </div>
+         <div type="inlet">
+            <head> </head>
+         </div>
+      </front>
+
+      <body>
+         <div type="spain">
+            <pb facs="#zone_Page_18" n="018"/>
+            <fw>194</fw>
+            <figure facs="#zone_Page_18_8a16e464-6758-47e9-8640-356abb0a7cb8"><note type="editorial_label">Pen and ink drawing: landscape with tower</note> <!-- other half of the image is on folio 019 -->
+            <label>TOWER OF</label></figure>
+            
+            <figure type="sketch" rend="colored" facs="#zone_Page_18_135cfd5c-6d3c-480f-ad66-380dc5a915d0"><note type="editorial_label">Pencil, pen and ink drawing with watercolour: man and mule</note>
+            <label><rs type="place" ref="XXX">GALEGO</rs></label></figure>
+            
+         </div>
+         <div type="portugal">
+            <ab> </ab>
+         </div>
+         <div type="reading_notes"> 
+         </div>
+      </body>
+
+      <back>
+         <div type="cover">
+            <note> </note>
+         </div>
+         <div type="index"> </div>
+      </back>
+   </text>
+
+</TEI>

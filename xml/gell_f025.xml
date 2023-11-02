@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface xml:id="zone_Page_25">
+         <graphic url="https://iiif.bsr.ac.uk/iiif/2/GELL-VI%2Fwg_06_025.tif/full/full/0/default.jpg"/>
+         <zone points="1740,587 1637,990 1675,1447 1708,1909 1768,2143 1936,2306 2333,2426 3062,2409 3291,2241 3269,913 3416,777 3176,511" xml:id="zone_Page_25_17f5c57a-70c1-4cef-bec8-c12538816108"/> <!-- zone poem -->
+         <zone points="3367,4161 2045,4167 2078,3563 3367,3574" xml:id="zone_Page_25_e94ead5e-384e-491b-9f3c-8906b43b297e"/> <!-- zone note -->
+      </surface>
+   </facsimile>
+   <text>
+      <front>
+         <div type="cover">
+            <note> </note>
+         </div>
+         <div type="inlet">
+            <head> </head>
+         </div>
+      </front>
+
+      <body>
+         <div type="spain">
+            <pb facs="#zone_Page_25" n="025"/>
+            <ab>the city &amp; lodge at the Casa de Portugueses<note type="editorial">Portuguese
+                  House</note>
+               <metamark>–</metamark> where the people were very civil <metamark>–</metamark> The
+               bill for 3 persons &amp; two Servants for Lodging 2 night 2 dinners &amp; two
+               breakfasts, was 198 reals or about 10 dollars. The <rs type="person" ref="XXX">Napoleon</rs> was on the staircase
+               &amp; the performer was subject to the inspection of passengers
+                  <metamark>–</metamark> Our passports were examined with an apology for the times
+               which made it necessary. On walking out to see the Cathedral we asked the way &amp; a
+               person shewed it us. A second joined us &amp; then a third who introduced us to the
+                  Junta<note type="editorial">Provincial government</note> in the College. They were
+               very civil &amp; much pleased with the head of the king on a halfpenny. They
+               complained that more money had been sent to <rs type="place" ref="XXX">Corunna</rs> instead of to the central
+                  Junta<note type="editorial">Perhaps of Galicia, but probably the Supreme Central
+                  Junta (central authority during the Napoleonic occupation).</note>. The view from
+               the court of the College of the</ab>
+
+
+            <note type="marginal" facs="#zone_Page_25_17f5c57a-70c1-4cef-bec8-c12538816108"><date when="1808-09-25">25 Sep</date> at <rs type="place" ref="XXX">St
+                     Yago<note type="editorial">Santiago de Compostela</note></rs> rain almost all
+               day Verses handed about at <rs type="person" ref="XXX"><choice>
+                     <abbr>D<hi rend="superscript">n</hi></abbr>
+                     <expan>Don</expan>
+                  </choice> Juan Berillas</rs> dinner <lg>
+                  <l>Por Pracmatica sancion</l>
+                  <l>Se ha mandado publicar</l>
+                  <l>De que el vasa de cagar</l>
+                  <l>Se llame: Napoleon:</l>
+                  <l>Y, por la misma razon</l>
+                  <l>Por esta Ley, se decreta</l>
+                  <l>Se publique en la Gazeta</l>
+                  <l>En un capitulo à parte</l>
+                  <l>Que se llame Buonaparte</l>
+                  <l>Toda comun o<hi rend="superscript">u</hi> secreta</l>
+                  <note type="translation"><lg>
+                        <l>By Pragmatic sanction,</l>
+                        <l>It has been ordered to be made known</l>
+                        <l>That the crock of shit</l>
+                        <l>Is called Napoleon:</l>
+                        <l>And, for the same reason</l>
+                        <l>By this Law, it is decreed</l>
+                        <l>That it be published in the Gazette</l>
+                        <l>In a separate chapter</l>
+                        <l>Called Buonoparte</l>
+                        <l>All common or secret</l>
+                  </lg></note></lg>
+                     <note>Mandase publicar p<hi rend="superscript">ra</hi>. q<hi rend="superscript"
+                        >e</hi>. el language sea general. <note type="translation">Ordered to be published so that the language is
+                           widespread.</note></note>
+               </note>
+
+            <note type="marginal" facs="#zone_Page_25_e94ead5e-384e-491b-9f3c-8906b43b297e">It was plain that no money was wanted in <rs type="place" ref="XXX">Spain</rs> for none
+               of the English money had ever been sent from <rs type="place" ref="XXX">Corunna</rs> to the army.</note>
+
+         </div>
+         <div type="portugal">
+            <ab> </ab>
+         </div>
+         <div type="reading_notes"> </div>
+      </body>
+
+      <back>
+         <div type="cover">
+            <note> </note>
+         </div>
+         <div type="index"> </div>
+      </back>
+   </text>
+
+</TEI>

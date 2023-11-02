@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface xml:id="zone_Page_19">
+         <graphic url="https://iiif.bsr.ac.uk/iiif/2/GELL-VI%2Fwg_06_019.tif/full/full/0/default.jpg"/>
+         <zone points="38,130 27,1566 2872,1588 2883,125" xml:id="zone_Page_19_b410a0fb-bd7a-43f1-bcd0-4aeec9e5dcef"/> <!-- zone landscape -->
+         <zone points="1991,3144 239,3193 228,2273 2040,2224 2246,2600" xml:id="zone_Page_19_e9f4f02a-b9ac-449e-b54c-0ab9832a4cf9"/> <!-- zone house -->
+         <zone points="636,3182 1708,3138 1653,3786 576,3775" xml:id="zone_Page_19_fd914c30-9096-4f1c-b898-d3685683ea3a"/> <!-- zone oxen on left -->
+         <zone points="1708,3100 1675,3427 2437,3628 3274,3400 3253,3051 2458,2894" xml:id="zone_Page_19_3d1bf139-b6ac-4b6f-b9d3-2030c43a6b30"/> <!-- zone oxen on right -->
+      </surface>
+   </facsimile>
+   <text>
+      <front>
+         <div type="cover">
+            <note> </note>
+         </div>
+         <div type="inlet">
+            <head> </head>
+         </div>
+      </front>
+
+      <body>
+         <div type="spain">
+            <pb facs="#zone_Page_19" n="019"/>
+            <figure facs="#zone_Page_19_b410a0fb-bd7a-43f1-bcd0-4aeec9e5dcef"><note type="editorial_label">Pen and ink drawing: landscape</note>
+               <label>HERCULES <rs type="place" ref="XXX">CORUNNA</rs></label>		<label>Cape Prior</label>		<label>Fèrrol</label></figure>
+            
+            <figure facs="#zone_Page_19_e9f4f02a-b9ac-449e-b54c-0ab9832a4cf9"><note type="editorial_label">Pen and ink drawing: house</note>
+               <label>A Country house of <rs type="person" ref="XXX"><choice><abbr>D</abbr><expan>Don</expan></choice> Juan de Barila</rs> <del>Monastery</del> opposite <rs type="place" ref="XXX">Corunna</rs></label>
+            <label>This house was at least 10 miles distant but was drawn with a camera lucida <sic>fixid</sic> to a Telescope.</label></figure>
+            
+            <figure facs="#zone_Page_19_fd914c30-9096-4f1c-b898-d3685683ea3a"><note type="editorial_label">Pen and ink drawing: oxen</note>
+               <label><rs type="place" ref="XXX">Corunna</rs></label></figure>
+            
+            <figure facs="#zone_Page_19_3d1bf139-b6ac-4b6f-b9d3-2030c43a6b30"><note type="editorial_label">Pen and ink drawing: oxen</note>
+            <label><rs type="place" ref="XXX">Corunna</rs></label></figure>
+            
+         </div>
+         <div type="portugal">
+            <ab> </ab>
+         </div>
+         <div type="reading_notes"> 
+         </div>
+      </body>
+
+      <back>
+         <div type="cover">
+            <note> </note>
+         </div>
+         <div type="index"> </div>
+      </back>
+   </text>
+
+</TEI>

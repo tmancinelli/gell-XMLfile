@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface xml:id="zone_Page_20">
+         <graphic url="https://iiif.bsr.ac.uk/iiif/2/GELL-VI%2Fwg_06_020.tif/full/full/0/default.jpg"/>
+         <zone points="206,184 212,2224 2817,2186 2926,168 2279,38" xml:id="zone_Page_20_d6a947b7-17ea-4ddd-ba97-78168f30e751"/> <!-- street scene and quayside -->
+         <zone points="397,2796 375,4243 2317,4243 2339,2768" xml:id="zone_Page_20_678f66d6-0e0c-4e79-90d2-064886f92ce2"/> <!-- zone interior plan -->
+      </surface>
+   </facsimile>
+   <text>
+      <front>
+         <div type="cover">
+            <note> </note>
+         </div>
+         <div type="inlet">
+            <head> </head>
+         </div>
+      </front>
+
+      <body>
+         <div type="spain">
+            <pb facs="#zone_Page_20" n="020"/>
+            <fw>192</fw>
+            <figure facs="#zone_Page_20_d6a947b7-17ea-4ddd-ba97-78168f30e751"><note type="editorial_label">Pencil drawing: street scene and quayside</note></figure>
+            
+            <figure facs="#zone_Page_20_678f66d6-0e0c-4e79-90d2-064886f92ce2"><note type="editorial_label">Pen and ink interior plan</note>
+               <label>Venta de <rs type="place" ref="XXX">Ordines</rs><note type="translation">Country inn at Ordes</note></label>
+            <label>Farm Yard</label>
+               <label>Road to <rs type="place" ref="XXX">S<hi rend="superscript">t</hi> Yago<note type="editorial">Santiago de Compostela</note></rs></label></figure>
+         </div>
+         <div type="portugal">
+            <ab> </ab>
+         </div>
+         <div type="reading_notes"> 
+         </div>
+      </body>
+
+      <back>
+         <div type="cover">
+            <note> </note>
+         </div>
+         <div type="index"> </div>
+      </back>
+   </text>
+
+</TEI>

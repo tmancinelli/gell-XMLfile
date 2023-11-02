@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface xml:id="zone_Page_24">
+         <graphic url="https://iiif.bsr.ac.uk/iiif/2/GELL-VI%2Fwg_06_024.tif/full/full/0/default.jpg"/>
+         <zone points="1708,1387 1708,1534 1844,1534 1844,1398" xml:id="zone_Page_24_909250eb-de73-4bf9-a513-b7c5b062380c"/> <!-- zone arch bridge -->
+         <zone points="554,1555 549,1729 832,1713 837,1517" xml:id="zone_Page_24_84658610-99b6-48a5-bbb8-4350cdc9da2b"/> <!-- zone map -->
+         <zone points="952,1974 968,2083 1098,2088 1115,1969" xml:id="zone_Page_24_e2052263-5636-43bb-be48-dfb76f48edda"/><!-- zone arch bridge2 -->
+         <zone points="696,2181 685,2273 1300,2312 1316,2203" xml:id="zone_Page_24_4b7e231b-f8b8-4426-b983-ed83601b137c"/><!-- zone arch bridge3 pretty -->
+         <zone points="364,3530 380,3623 522,3623 533,3525" xml:id="zone_Page_24_08d1700e-b8be-4605-8229-1437c22ed042"/><!-- zone arch bridge4 -->
+      </surface>
+   </facsimile>
+   
+   <text>
+      <front>
+         <div type="cover">
+            <note> </note>
+         </div>
+         <div type="inlet">
+            <head> </head>
+         </div>
+      </front>
+
+      <body>
+         <div type="spain">
+            <pb facs="#zone_Page_24" n="024"/>
+
+            <fw>188</fw>
+            <ab>24 often rainy in</ab>
+            <ab>Eggs wine &amp; bread were to be found &amp; they made us an excellent omelet. Many
+               soldiers were on the road to join the Galician army at Coruña. At 25 minutes to 2
+               proceed. 25 p 2<note type="editorial">2.25</note> <choice><abbr>X</abbr><expan>cross</expan></choice> a stream running to <choice><abbr>R</abbr><expan>right</expan></choice>, a Village before it. 3 to 3<hi
+                  rend="superscript">qu</hi><!-- in pencil --><note type="editorial">i.e. WG is asking himself whether it really was nearly 3pm.</note> larger stream &amp; house. 7 p 3 X
+               <figure type="in_text" facs="#zone_Page_24_909250eb-de73-4bf9-a513-b7c5b062380c">
+                  <note type="editorial_label">[drawing: arch bridge]</note>
+               </figure> river runs R <figure type="in_text" facs="#zone_Page_24_84658610-99b6-48a5-bbb8-4350cdc9da2b">
+                  <note type="editorial_label">[drawing: map]</note>
+               </figure> 45 p 3 7<hi rend="superscript">th</hi> League. 7 to 4 a <choice><abbr>Vill</abbr><expan>Village</expan></choice> &amp; church
+               +. in a Valley on R a river is seen. 15 p 4 X <figure type="in_text" facs="#zone_Page_24_e2052263-5636-43bb-be48-dfb76f48edda">
+                  <note type="editorial_label">[drawing: arch bridge]</note>
+               </figure> runs R. a village &amp; X a great <figure type="in_text" facs="#zone_Page_24_4b7e231b-f8b8-4426-b983-ed83601b137c">
+                  <note type="editorial_label">[drawing: arch bridge]</note>
+               </figure> <rs type="place" ref="XXX">Tambra<!-- in pencil --><note type="editorial">Tambre (river)</note></rs> to <choice><abbr>L.</abbr><expan>left</expan></choice> 25 p 4 a grove on R full of men women &amp;
+               oxen, making a very picturesque appearance, probably a fair where oxen were sold for
+               the people were leading them home in every direction.</ab>
+            <ab>45 p 4 Venta<note type="translation">Country inn</note> 8 leagues. At 6<hi rend="superscript">h</hi> a few houses &amp; place
+               like an encampment on a hill R. X a <figure type="in_text" facs="#zone_Page_24_08d1700e-b8be-4605-8229-1437c22ed042">
+                  <note type="editorial_label">[drawing: arch bridge]</note>
+               </figure> running R. A Venta. 5<hi rend="superscript">m</hi> to 6<note type="editorial">5.55</note> 9 league stone
+               cultivation improves. At 6<hi rend="superscript">h</hi> on a hill see <rs type="place" ref="XXX">S<hi
+                  rend="superscript">t</hi> Yago de Compostella<note type="editorial">Santiago de Compostela</note></rs> one an eminence &amp; <sic>ornamted</sic> by 6
+               spires <metamark>–</metamark> At 20 p 6, enter</ab>
+         </div>
+         <div type="portugal">
+            <ab> </ab>
+         </div>
+         <div type="reading_notes"> </div>
+      </body>
+
+      <back>
+         <div type="cover">
+            <note> </note>
+         </div>
+         <div type="index"> </div>
+      </back>
+   </text>
+
+</TEI>

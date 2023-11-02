@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface xml:id="zone_Page_33">
+         <graphic
+            url="https://iiif.bsr.ac.uk/iiif/2/GELL-VI%2Fwg_06_033.tif/full/full/0/default.jpg"/>
+         <zone
+            points="59,119 54,2921 1283,3002 1370,3111 1610,3128 1996,3122 2154,3079 2165,3030 2937,3035 3057,3079 3209,3024 3394,2970 3378,119"
+            xml:id="zone_Page_33_295aef7b-4ab6-4e2e-93af-dace3778656a"/>
+         <!-- zone drawing full page-->
+         <zone points="728,3340 1229,3269 1697,3361 1588,3525 1272,3557 1028,3497 979,3432"
+            xml:id="zone_Page_33_93b5c13e-279f-4424-a932-f57153869c01"/>
+         <!-- zone map in text-->
+         <zone
+            points="1327,3720 1403,3759 1398,3818 1343,3851 1354,3927 1496,3992 1719,3916 1969,3759 1768,3688 1512,3682"
+            xml:id="zone_Page_33_b3d8d59b-3cca-4e35-87f4-d91b5d74309b"/>
+         <!-- zone valley in text-->
+         <zone points="2083,3361 2040,4069 2312,4172 2632,4128 3193,3933 3334,3329"
+            xml:id="zone_Page_33_9bbf1008-908f-436b-b793-954816964fdf"/>
+         <!-- zone valley sketch-->
+      </surface>
+   </facsimile>
+   <text>
+      <front>
+         <div type="cover">
+            <note> </note>
+         </div>
+         <div type="inlet">
+            <head> </head>
+         </div>
+      </front>
+      <body>
+         <div type="spain">
+            <pb facs="#zone_Page_33" n="033"/>
+            <figure type="full_page" facs="#zone_Page_33_295aef7b-4ab6-4e2e-93af-dace3778656a">
+               <note type="editorial_label">Pen and ink drawing: landscape with arch bridge</note>
+               <label><rs type="place" ref="XXX">PUENTA DE CORZUN<note type="editorial">Bridge
+                        [puente] of Corzun [from WG's account, probably at <rs type="place"
+                           ref="XXX">As Nogais</rs>, which the British called
+                  Nogales].</note></rs></label>
+               <label>finished 8 years ago</label>
+               <label>village</label>
+            </figure>
+            <ab>This the English shortly afterwards attempted To blow up &amp; failed so that the
+               french passed with all their artillery &amp; harassed <rs type="person" ref="XXX">Sir
+                     J<hi rend="superscript">on</hi> Moores</rs> flying army all the way to
+               Corunna.</ab>
+            <ab>long ascent, pretty bottom, all along which are watered meadows. <figure
+                  type="in_text" facs="#zone_Page_33_93b5c13e-279f-4424-a932-f57153869c01">
+                  <note type="editorial_label">[drawing: map]</note>
+               </figure> The river runs with the road. ascend. 10 p 5<note type="editorial"
+                  >5.10</note> a <choice>
+                  <abbr>Vill</abbr>
+                  <expan>Village</expan>
+               </choice> down a dreadful descent <choice>
+                  <abbr>L</abbr>
+                  <expan>left</expan>
+               </choice>
+               <figure type="in_text" facs="#zone_Page_33_b3d8d59b-3cca-4e35-87f4-d91b5d74309b">
+                  <note type="editorial_label">[drawing: valley]</note>
+               </figure> quit that valley &amp; turn over a top into another where the river joins
+               the last &amp; both run towards <rs type="place" ref="XXX">Asturias</rs> North.</ab>
+            <figure type="sketch" facs="#zone_Page_33_9bbf1008-908f-436b-b793-954816964fdf">
+               <note type="editorial_label">Pen and ink drawing: valley</note>
+               <label>Along this road the English fled</label>
+            </figure>
+         </div>
+         <div type="portugal">
+            <ab> </ab>
+         </div>
+         <div type="reading_notes">
+            <ab> </ab>
+         </div>
+      </body>
+
+      <back>
+         <div type="cover">
+            <note> </note>
+         </div>
+         <div type="index"> </div>
+      </back>
+   </text>
+
+</TEI>

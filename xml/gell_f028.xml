@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface xml:id="zone_Page_28">
+         <graphic url="https://iiif.bsr.ac.uk/iiif/2/GELL-VI%2Fwg_06_028.tif/full/full/0/default.jpg"/>
+         <zone points="903,522 739,712 886,864 881,1196 1240,1202 1283,908 1251,821 1278,696 1213,592 1207,516" xml:id="zone_Page_28_6cb20d87-837f-4e7e-805d-1b2fe13c8978"/> <!-- zone woman -->
+         <zone points="1256,3644 1240,3829 1969,3824 1963,3644" xml:id="zone_Page_28_5a9eaddd-2074-414a-ae8b-7ca61f5a8396"/> <!-- zone flat arch -->
+         <zone points="3280,3557 3269,3786 2350,3791 2350,3557" xml:id="zone_Page_28_2e4655fe-e7dc-4e22-ab63-c265e722f389"/> <!-- <zone marginal note -->
+      </surface>
+   </facsimile>
+   <text>
+      <front>
+         <div type="cover">
+            <note> </note>
+         </div>
+         <div type="inlet">
+            <head> </head>
+         </div>
+      </front>
+      <body>
+         <div type="spain">
+            <pb facs="#zone_Page_28" n="028"/>
+            <fw>184</fw>
+            <ab>his Sister, a good humoured old Lady who never ceased talking during the whole
+               Service. <figure type="in_text" facs="#zone_Page_28_6cb20d87-837f-4e7e-805d-1b2fe13c8978">
+                  <note type="editorial_label">[Pen and ink drawing: woman]</note>
+               </figure> The people were astonished at our dining at five, and came before we had
+               finished to conduct us to the Cathedral to hear singing &amp; .. Un Capon<note
+                  type="translation">A Capon, i.e. a eunuch</note>. We saw the convent of the
+               Benedictines near the cathedral a very magnificent building of the Inigo Jones doric
+               order. It had several courts &amp; a very fine library in which were the books
+               forbidden by the Inquisition about 150 feet long. The stair case to it was the most
+               solid I ever saw. There are 100 monks who have immense revenues &amp; 100 servants.
+               The church is large, very lofty &amp; not handsome. The roof vaulted &amp; there is a
+               perfectly flat arch <figure type="in_text" facs="#zone_Page_28_5a9eaddd-2074-414a-ae8b-7ca61f5a8396">
+                  <note type="editorial_label">[drawing: arch]</note>
+               </figure> of 14 yards across over one part. </ab>
+
+            <note type="marginal" facs="#zone_Page_28_2e4655fe-e7dc-4e22-ab63-c265e722f389">The inner line shews by how little this must
+               hang</note>
+         </div>
+         <div type="portugal">
+            <ab> </ab>
+         </div>
+         <div type="reading_notes">
+            <ab> </ab>
+         </div>
+      </body>
+
+      <back>
+         <div type="cover">
+            <note> </note>
+         </div>
+         <div type="index"> </div>
+      </back>
+   </text>
+
+</TEI>

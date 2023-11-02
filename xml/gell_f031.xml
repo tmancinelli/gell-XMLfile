@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface xml:id="zone_Page_31">
+         <graphic url="https://iiif.bsr.ac.uk/iiif/2/GELL-VI%2Fwg_06_031.tif/full/full/0/default.jpg"/>
+         <zone points="386,54 380,1485 1893,1539 2208,1773 2545,1572 3285,1588 3307,70" xml:id="zone_Page_31_496f9151-811d-4b4b-b827-a2b007b47d28"/> <!-- zone sketch oxen -->
+         <zone points="1436,1708 1447,1800 1816,1800 1816,1697" xml:id="zone_Page_31_70be5e93-afc1-4709-bed1-e92a228013f1"/><!-- zone note Qu Castro --> 
+         <zone points="500,1914 516,2056 663,2121 777,2078 832,1947" xml:id="zone_Page_31_155d0b87-d21c-4e95-b9eb-022366a2f473"/><!-- zone arch bridge -->
+         <zone points="451,2159 462,2273 582,2273 603,2148" xml:id="zone_Page_31_d9d2da65-34f8-4435-84b2-4cddc414ed85"/><!-- zone arch bridge2 -->
+         <zone points="544,2839 549,2730 391,2725 364,2845" xml:id="zone_Page_31_4230acaa-c895-459e-9b70-31144d8c5069"/><!-- zone arch bridge3 -->
+         <zone points="152,3138 163,3225 288,3247 304,3128" xml:id="zone_Page_31_9975756b-3c71-4e35-a89c-b0e17b20a25f"/><!-- zone arch bridge4 -->
+         <zone points="435,3911 424,4009 598,4020 614,3911" xml:id="zone_Page_31_7777733c-fa7a-4390-933b-4578c14d93e2"/><!-- zone arch bridge5 -->
+         <zone points="1991,1887 2007,3965 3400,4014 3394,1876" xml:id="zone_Page_31_828b178f-02d2-423d-a40c-36d6d4a56d4a"/><!-- zone drawing -->
+      </surface>
+   </facsimile>
+   <text>
+      <front>
+         <div type="cover">
+            <note> </note>
+         </div>
+         <div type="inlet">
+            <head> </head>
+         </div>
+      </front>
+
+      <body>
+         <div type="spain">
+            <pb facs="#zone_Page_31" n="031"/>
+            <figure type="sketch" facs="#zone_Page_31_496f9151-811d-4b4b-b827-a2b007b47d28"><label><date when="1808-09-29">Sep 29</date></label>
+            
+            <note type="editorial_label">Pencil drawing: oxen</note></figure>
+            
+            <ab>for the view. A village cross it.</ab> <note type="marginal" facs="#zone_Page_31_70be5e93-afc1-4709-bed1-e92a228013f1">Qu Castro <!-- in pencil --></note>
+            <ab>40 p 6<note type="editorial">6.40</note> 15<hi rend="superscript">th</hi> League river beautiful.</ab>
+            <ab>5 to 7<note type="editorial">6.55</note> <choice><abbr>Vill</abbr><expan>Village</expan></choice> <figure type="in_text" facs="#zone_Page_31_155d0b87-d21c-4e95-b9eb-022366a2f473"><note type="editorial_label">[drawing: arch bridge]</note></figure> to <choice><abbr>R</abbr><expan>right</expan></choice> <!-- space in between -->20 p 7 Vill R.</ab>
+            <ab>35 p 7 <choice><abbr>X</abbr><expan>cross</expan></choice> <figure type="in_text" facs="#zone_Page_31_d9d2da65-34f8-4435-84b2-4cddc414ed85"><note type="editorial_label">[drawing: arch bridge]</note></figure> of a Riv<hi rend="superscript">r</hi> running R. 5 to 8 Vill R &amp; 16<hi rend="superscript">th</hi> League. 12 p 8 Vill 1 mile R. a better country. 24 p 8 Vill R. 2 p 9 Valley X <figure type="in_text" facs="#zone_Page_31_4230acaa-c895-459e-9b70-31144d8c5069"><note type="editorial_label">[drawing: arch bridge]</note></figure>, river runs to R a Village.</ab>
+            <ab>League 17. ascend. heath. 10<hi rend="superscript">h</hi> a Vill. 5 p 10 X <figure type="in_text" facs="#zone_Page_31_9975756b-3c71-4e35-a89c-b0e17b20a25f"><note type="editorial_label">[drawing: arch bridge]</note></figure> to R. 30 p 10 League 10. Stream on R runs back to the Minho in a glen. Minho strikes off. 5 p 11 Vill. Glen, descent.</ab>
+            <ab>chestnuts, mountains rise finely</ab>
+            <ab>17 p 11 X <figure type="in_text" facs="#zone_Page_31_7777733c-fa7a-4390-933b-4578c14d93e2"><note type="editorial_label">[drawing: arch bridge]</note></figure> at bottom of <choice><abbr>Vall</abbr><expan>Valley</expan></choice>. The <choice><abbr>Riv</abbr><expan>River</expan></choice> runs to R. League 19 at 20<hi rend="superscript">m</hi> ascend. At </ab>
+            
+            <figure type="sketch" rend="colored" facs="#zone_Page_31_828b178f-02d2-423d-a40c-36d6d4a56d4a"><note type="editorial_label">Pen and ink drawing with watercolour: man and mule</note>
+            <label>LEATHERN Dress OF THE MANCHEGANS LIKE A SUIT OF RUSTY ARMOUR.</label>
+            </figure>
+         </div>
+         <div type="portugal">
+            <ab> </ab>
+         </div>
+         <div type="reading_notes">
+            <ab> </ab>
+         </div>
+      </body>
+
+      <back>
+         <div type="cover">
+            <note> </note>
+         </div>
+         <div type="index"> </div>
+      </back>
+   </text>
+
+</TEI>

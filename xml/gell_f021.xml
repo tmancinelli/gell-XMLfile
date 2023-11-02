@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface xml:id="zone_Page_21">
+         <graphic url="https://iiif.bsr.ac.uk/iiif/2/GELL-VI%2Fwg_06_021.tif/full/full/0/default.jpg"/>
+         <zone points="3247,1354 119,1305 97,65 3280,81" xml:id="zone_Page_21_0ca12ee9-dd70-4b7a-ae4e-25e82e7d4782"/> <!-- zone street scene -->
+         <zone points="10,2186 27,3731 3291,3786 3274,2208" xml:id="zone_Page_21_facf3f48-5741-47ee-b5af-25f836c27c39"/> <!-- zone house -->
+      </surface>
+   </facsimile>
+   <text>
+      <front>
+         <div type="cover">
+            <note> </note>
+         </div>
+         <div type="inlet">
+            <head> </head>
+         </div>
+      </front>
+
+      <body>
+         <div type="spain">
+            <pb facs="#zone_Page_21" n="021"/>
+            <figure facs="#zone_Page_21_0ca12ee9-dd70-4b7a-ae4e-25e82e7d4782">
+               <note>Pen and ink drawing: street scene</note>
+               <label><date when="1808-09-24">Sep 24</date> <choice><abbr>Vill</abbr><expan>Village</expan></choice> of <rs type="place" ref="XXX">Caral</rs> 5 leagues from <rs type="place" ref="XXX">Coruña</rs></label>
+            </figure>
+
+            <ab>Quitting <rs type="place" ref="XXX">Corunna</rs> at 6 in the morning of <date when="1808-09-24">Sept<hi rend="superscript">r</hi> 24<hi rend="superscript">th</hi></date> in a coach drawn by 6 mules, Our
+               passports from the junta were examined at the gate. At 20 minutes before 7 reach
+               Palavia<note type="editorial">Palavea</note>, where we had dined the day before, landing at the mouth of the <rs type="place" ref="XXX">river of
+                  Paçaje<note type="ediotiral">WG seems to mean the Ría da Coruña (Estuary of A Coruña), the mouth of the Mero river.</note></rs></ab>
+            <ab>Our mules were called Valerosa ‘Ortolana Palagrina Gagliarda Platena &amp; Cahona or
+               Cajona.</ab>
+
+            <figure facs="#zone_Page_21_facf3f48-5741-47ee-b5af-25f836c27c39">
+               <note>Pen and ink drawing: house</note>
+               <label>Venta de <rs type="place" ref="XXX">Ordines</rs><note type="translation">Country inn at Ordes</note></label>
+               <label><date when="1808-09-24">Sep 24</date></label>
+            </figure>
+
+            <ab>and ascending among vineyards chestnuts &amp; hedges of Baytree. Our host was named
+               <rs type="person" ref="XXX">Don Juan de Barila</rs> and treated us magnificently at his Villa. Each course consisted
+               of 18 dishes</ab>
+            <metamark/>
+
+         </div>
+         <div type="portugal">
+            <ab> </ab>
+         </div>
+         <div type="reading_notes"> </div>
+      </body>
+
+      <back>
+         <div type="cover">
+            <note> </note>
+         </div>
+         <div type="index"> </div>
+      </back>
+   </text>
+
+</TEI>

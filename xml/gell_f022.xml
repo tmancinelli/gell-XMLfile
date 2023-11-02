@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface xml:id="zone_Page_22">
+         <graphic url="https://iiif.bsr.ac.uk/iiif/2/GELL-VI%2Fwg_06_022.tif/full/full/0/default.jpg"/>
+         <zone points="1882,2480 2045,2480 2045,2660 1871,2665" xml:id="zone_Page_22_4b1818a6-d437-453e-be3f-8f8bf7513fd5"/> <!-- zone league stone -->
+         <zone points="489,3884 854,3862 783,4041 598,4036" xml:id="zone_Page_22_6a7e968c-6492-4cc4-8caf-6d61f3b54867"/><!-- zone ravine -->
+         <zone points="2154,1196 2137,2246 2937,2241 2992,1169" xml:id="zone_Page_22_b91ef9fe-6b80-46bd-8c9e-a55d965a25f5"/><!-- zone woman -->
+         
+      </surface>
+   </facsimile>
+   <text>
+      <front>
+         <div type="cover">
+            <note> </note>
+         </div>
+         <div type="inlet">
+            <head> </head>
+         </div>
+      </front>
+
+      <body>
+         <div type="spain">
+            <pb facs="#zone_Page_22" n="022"/>
+            <fw>190</fw>
+            <ab>Pass a kind of Barrier but no toll was taken. At 10 minutes to 7 the road to <rs type="place" ref="XXX">Madrid</rs>
+               by <rs type="place" ref="XXX">Betancos<note type="editorial">Betanzos</note></rs> turns off <choice><abbr>L</abbr><expan>Left</expan></choice>. The country is very well cultivated. Maize in abundance.
+               Some Pines.</ab>
+            <ab>At 7 past 7 in a bottom a stream running to the left. Pretty Villas &amp; vineyards,
+               Chest nuts Walnuts &amp; Oaks. The cloaks of the peasants going to market very
+               becoming. At 35 p 7<note type="editorial">7.35</note> after a steep hill in a bottom, a river runs to L. A fine valley
+               with a <choice><abbr>Mt</abbr><expan>Mountain</expan></choice> in the centre</ab>
+            <ab>A high mountain bounds the vale on <choice><abbr>S.</abbr><expan>south</expan></choice> At 5 to 8 pass the 2 league stone <figure
+               type="in_text" facs="#zone_Page_22_4b1818a6-d437-453e-be3f-8f8bf7513fd5">
+                  <note type="editorial_label">[drawing: league stone]</note>
+            </figure>. At 10 to 9 stops at the village of <rs type="place" ref="XXX">Carral</rs> <metamark>–</metamark> 10 past 9 proceed. At 20 p 9
+               the 3d League stone. the valley delightful with gardens &amp; orchards. Black sheep.
+               Chestnuts. At 25 past 9 cross a clear stream running to L. many houses. 18 p 10 cross
+               a ravine <figure type="in_text" facs="#zone_Page_22_6a7e968c-6492-4cc4-8caf-6d61f3b54867">
+                  <note type="editorial_label">[drawing: ravine]</note>
+               </figure> after a terrible ascent from the stream. The road always good</ab>
+            <metamark/>
+
+
+            <figure type="sketch" facs="#zone_Page_22_b91ef9fe-6b80-46bd-8c9e-a55d965a25f5">
+               <label>Villa Boa</label>
+               <note type="editorial_label">Pen and ink drawing: woman</note>
+            </figure>
+
+         </div>
+         <div type="portugal">
+            <ab> </ab>
+         </div>
+         <div type="reading_notes"> </div>
+      </body>
+
+      <back>
+         <div type="cover">
+            <note> </note>
+         </div>
+         <div type="index"> </div>
+      </back>
+   </text>
+
+</TEI>

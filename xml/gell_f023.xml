@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface xml:id="zone_Page_23">
+         <graphic url="https://iiif.bsr.ac.uk/iiif/2/GELL-VI%2Fwg_06_023.tif/full/full/0/default.jpg"/>
+         <zone points="1610,527 1599,620 2029,636 2029,500" xml:id="zone_Page_23_d17c86c0-7b3e-4c4a-a0d9-945654e0f273"/> <!-- note1 -->
+         <zone points="1234,1381 1251,1501 1370,1512 1360,1376" xml:id="zone_Page_23_8ea1915e-9afa-4dae-9038-f1a830dc2182"/><!-- league stone -->
+         <zone points="1729,1724 1735,2638 3329,2665 3345,1729" xml:id="zone_Page_23_64e646e4-b6a6-4633-93cc-ab052f7a7408"/><!-- note2 -->
+      </surface>
+   </facsimile>
+   <text>
+      <front>
+         <div type="cover">
+            <note> </note>
+         </div>
+         <div type="inlet">
+            <head> </head>
+         </div>
+      </front>
+
+      <body>
+         <div type="spain">
+            <pb facs="#zone_Page_23" n="023"/>
+            <ab>At 25<hi rend="superscript">m</hi> to 11 pass the 4<hi rend="superscript"
+                  >th</hi><note type="editorial">10.35</note> stone on the top of the mountain which
+               is bleak &amp; like a <rs type="place" ref="XXX">Westmoreland Moor</rs>.</ab> <note type="marginal" facs="#zone_Page_23_d17c86c0-7b3e-4c4a-a0d9-945654e0f273">rainy &amp; cold</note>
+            <ab>Maize. At 15 p 11<note type="editorial">15.11</note> the streams run toward the
+               South. Several poor Inns or Ventas<note type="translation">Country inns</note> in the way. A Village &amp; at 18 to 12 the 5<hi
+                  rend="superscript">th</hi> stone <figure type="in_text" facs="#zone_Page_23_8ea1915e-9afa-4dae-9038-f1a830dc2182">
+                  <note type="editorial_label">[drawing: league stone]</note>
+               </figure>. The country is very poor in appearance but does not want habitations even
+               at this elevation. At 15 p 12 the Venta di <rs type="place" ref="XXX">Ordines</rs><note type="translation">Country inn at Ordes</note> on the road side where we stopped
+               to refresh. The house is entered by a porch, next a passage appears on <choice><abbr>R</abbr><expan>right</expan></choice> of which is
+               the stable the mules eating with their heads towards the kitchen which is on the <choice><abbr>L.</abbr><expan>left</expan></choice>
+               Above the stable is a room with 3 windows, 4 beds of straw on wooden frames, two
+               tables, a chest &amp; some chairs to sit upon, A deal cross &amp; two pictures of the
+               Virgin.</ab>
+
+
+            <note type="marginal" facs="#zone_Page_23_64e646e4-b6a6-4633-93cc-ab052f7a7408">The whole or nearly all the country is enclosed but the
+               mode of tillage seems to be to cultivate each field once in 5 years in which interval
+               it becomes full of high furze &amp; heath &amp; appears quite neglected. It is then
+               pared &amp; burned.</note>
+
+         </div>
+         <div type="portugal">
+            <ab> </ab>
+         </div>
+         <div type="reading_notes"> </div>
+      </body>
+
+      <back>
+         <div type="cover">
+            <note> </note>
+         </div>
+         <div type="index"> </div>
+      </back>
+   </text>
+
+</TEI>

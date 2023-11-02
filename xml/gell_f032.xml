@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface xml:id="zone_Page_32">
+         <graphic
+            url="https://iiif.bsr.ac.uk/iiif/2/GELL-VI%2Fwg_06_032.tif/full/full/0/default.jpg"/>
+         <zone points="875,250 859,386 1039,369 1055,233"
+            xml:id="zone_Page_32_5e2330b2-e937-481e-9ce0-33449f7bffd6"/>
+         <!-- zone arch bridge -->
+         <zone points="2105,2687 2110,2807 2594,2790 2594,2654"
+            xml:id="zone_Page_32_bbbcf94a-c858-4925-9d88-092c3b0a1e73"/>
+         <!-- zone marginal highly cold place -->
+         <zone points="2290,3274 2295,3378 2785,3367 2779,3236"
+            xml:id="zone_Page_32_a46979cd-7174-4f33-b03c-b4e3c73816d6"/>
+         <!-- zone marginal better climate -->
+         <zone points="2268,1387 2241,1947 3247,1958 3236,1370"
+            xml:id="zone_Page_32_6ccac9e8-0757-40cf-a50e-91010726f884"/>
+         <!-- zone drawing -->
+      </surface>
+   </facsimile>
+   <text>
+      <front>
+         <div type="cover">
+            <note> </note>
+         </div>
+         <div type="inlet">
+            <head> </head>
+         </div>
+      </front>
+      <body>
+         <div type="spain">
+            <pb facs="#zone_Page_32" n="032"/>
+            <fw>170</fw>
+            <ab>30 p 12<note type="editorial">12.30</note> a stream &amp; <figure type="in_text"
+                  facs="#zone_Page_32_5e2330b2-e937-481e-9ce0-33449f7bffd6">
+                  <note type="editorial_label">[drawing: arch bridge]</note>
+               </figure> runs <choice>
+                  <abbr>L.</abbr>
+                  <expan>left</expan>
+               </choice> a toll bar, a <choice>
+                  <abbr>Vill R.</abbr>
+                  <expan>Village right</expan>
+               </choice></ab>
+            <ab>40 p 11 steep ascent Village Co<del>n</del>stantin<note type="editorial">Probably
+                  Constantín, though WG has crossed out the 'n'. </note>. 10 p 12 very long ascent
+               curious Gothic Rock very like a ruin*<!-- asterisk -->. Small vill near it R. 3 Villages R &amp;
+               pretty Valley. still ascend. 20 to 1<note type="editorial">12.40</note> top Glen
+               &amp; houses L. 10 to 1 League 20. The river in the new valley runs back <choice>
+                  <abbr>9<hi rend="superscript">m</hi></abbr>
+                  <expan>9 miles</expan>
+               </choice> to <rs type="place" ref="XXX">Asturias</rs>; perhaps into the <rs
+                  type="place" ref="XXX">Minho</rs>. 20 p 1 arrive at Santa Isabella<note
+                  type="translation">Santa Isabel</note>. A very wretched Venta<note
+                  type="translation">Country inn</note> with only one room a travelling hurdy gurdy
+               man, very civil drivers of oxen. hens cat dog &amp; pig all in the room. A great
+               caldron on the fire boiling potatoes greens &amp;c. for the pigs.</ab>
+            <ab>At 15 p 4 quit S<hi rend="superscript">t</hi> Isabella. very fine Mountains <note
+               type="marginal" facs="#zone_Page_32_bbbcf94a-c858-4925-9d88-092c3b0a1e73">A high <!-- in pencil -->
+                  cold place</note> on getting into next valley. The hills very lofty but up to the
+               top cultivated, the bottoms full of chestnut trees. descend, Vill L.<note
+                  type="marginal" facs="#zone_Page_32_a46979cd-7174-4f33-b03c-b4e3c73816d6">Better
+                  climate</note></ab>
+            <ab>10 p 4 Vill. fine view &amp; chestnuts.</ab>
+            <ab>20 p 4 Vill up another branch of Vale L 3 miles dist &amp; large 35 p 4 21 leagues
+               &amp; pretty Vill L. 40 p 4 <choice>
+                  <abbr>X</abbr>
+                  <expan>cross</expan>
+               </choice> a magnificent bridge over a bottom called</ab>
+
+            <figure type="sketch" rend="colored"
+               facs="#zone_Page_32_6ccac9e8-0757-40cf-a50e-91010726f884">
+               <note type="editorial_label">Pen and ink drawing with watercolour: women</note>
+               <label>Women of S<hi rend="superscript">ta</hi> Isabella beating hemp</label>
+            </figure>
+         </div>
+         <div type="portugal">
+            <ab> </ab>
+         </div>
+         <div type="reading_notes">
+            <ab> </ab>
+         </div>
+      </body>
+
+      <back>
+         <div type="cover">
+            <note> </note>
+         </div>
+         <div type="index"> </div>
+      </back>
+   </text>
+
+</TEI>
