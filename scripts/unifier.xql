@@ -79,7 +79,7 @@ element tei:TEI {
   element tei:text {
     element tei:body {
       (: Here the list of blocks :)
-      local:create_body("Spain"),
+      local:create_body("spain"),
       local:create_body("portugal")
       (: TODO: are they all? :)
     }
