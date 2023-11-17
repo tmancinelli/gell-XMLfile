@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<listPlace xmlns="http://www.tei-c.org/ns/1.0">
+   <place xml:id="gibraltar">
+      <placeName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q1410">Gibraltar</placeName>
+      <settlement type="country">United Kindom</settlement>
+   </place>
+</listPlace>

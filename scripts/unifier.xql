@@ -37,13 +37,18 @@ declare function local:create_surfaces() {
   return doc($file)//tei:facsimile/tei:surface
 };
 
+declare function local:create_body_from_file($file as xs:string, $what as xs:string) {
+  let $content := doc($file)//tei:text/tei:body/tei:div[@type=$what]/*
+  return $content
+};
+
 (: Let's create a body text for a particular type :)
 declare function local:create_body($what as xs:string) {
   element tei:div {
     attribute type { $what },
 
     for $file in doc("a.xml")//file/data(.)
-    return doc($file)//tei:text/tei:body/tei:div[@type=$what]/*
+    return local:create_body_from_file($file, $what)
   }
 };
 
@@ -65,7 +70,10 @@ element tei:TEI {
       },
 
       element tei:sourceDesc {
-        element tei:p {}
+        let $listPerson := doc('persons.xml')//tei:listPerson
+        return $listPerson,
+        let $listPlace := doc('places.xml')//tei:listPlace
+        return $listPlace
       }
     }
   },

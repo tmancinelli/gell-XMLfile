@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<listPerson xmlns="http://www.tei-c.org/ns/1.0">
+  <person xml:id="abubaker">
+     <persName xml:lang="en" sameAs="xx">Abu Baker Mohamad Ben Abrahim Almari Alcarschi</persName>
+  </person>
+  <person xml:id="marquezdeabrantes">
+     <persName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q62096712">Marquez de Abrantes</persName>
+  </person>
+</listPerson>
