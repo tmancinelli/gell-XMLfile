@@ -1,8 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <listPlace xmlns="http://www.tei-c.org/ns/1.0">
-   <place xml:id="gibraltar">
-      <placeName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q1410">Gibraltar</placeName>
-      <settlement type="country">United Kindom</settlement>
+   <place xml:id="greece">
+      <placeName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q41">Greece</placeName> 
+      <settlement type="country">Greece</settlement>
+   </place>
+   <place xml:id="acoruna">
+      <placeName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q6063659">A Coruña</placeName> 
+      <placeName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q6063659">Corunna</placeName> 
+      <placeName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q105703440">Brigantium</placeName>
+      <settlement type="country">Spain</settlement>
+   </place>
+   <place xml:id="ferrol">
+      <placeName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q485329">Fèrrol</placeName>
+      <settlement type="country">Spain</settlement>
+   </place>
+   <place xml:id="ordines">
+      <placeName sameAs="https://www.wikidata.org/wiki/Q1442661">Ordines</placeName> <!-- probably misspelled -->
+      <placeName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q1442661">Ordes</placeName>
+      <settlement type="country">Spain</settlement>
+   </place>
+   <place xml:id="santiagodecompostela">
+      <placeName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q14314">Santiago de Compostela</placeName>
+      <settlement type="country">Spain</settlement>
+   </place>
+   <place xml:id="carral">
+      <placeName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q601352">Carral</placeName>
+      <placeName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q601352">Carral</placeName> <!-- probably misspelled -->
+      <settlement type="country">Spain</settlement>
+   </place>
+   <place xml:id="madrid">
+      <placeName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q2807">Madrid</placeName>
+      <settlement type="country">Spain</settlement>
+   </place>
+   <place xml:id="betanzos">
+      <placeName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q671341">Betanzos</placeName>
+      <settlement type="country">Spain</settlement>
    </place>
    <place xml:id="falmouth">
       <placeName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q478029">Falmouth</placeName>

@@ -6,4 +6,7 @@
   <person xml:id="marquezdeabrantes">
      <persName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q62096712">Marquez de Abrantes</persName>
   </person>
+  <person xml:id="juandebarila">
+    <persName xml:lang="es" sameAs="xx">Don Juan de Barila</persName>
+  </person>
 </listPerson>
