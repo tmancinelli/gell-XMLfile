@@ -37,9 +37,9 @@
             <pb facs="#zone_Page_16" n="016"/>
             <fw>196</fw>
             <metamark>+</metamark>
-            <ab>decreasing daily as that of <rs type="place" ref="XXX">Madrid</rs> will at length
+            <ab>decreasing daily as that of <rs type="place" ref="#madrid">Madrid</rs> will at length
                entirely supersede it. The soil is sandy (and the rocks entirely of coarse granite)
-               like that of <rs type="place" ref="XXX">Falmouth</rs>
+               like that of <rs type="place" ref="#falmouth">Falmouth</rs>
                <note type="editorial">This passage does not follow on from the previous page, though
                   they are recto and verso of the same leaf. Perhaps WG had a loose sheet, to which
                   the symbol + presumably relates. It does not link to any obvious passage in the
@@ -51,7 +51,7 @@
             </figure>
 
             <ab>North of the Town in the way to the tower of Hercules or new light house is a
-               fountain ornamented like those of <rs type="place" ref="XXX">Greece</rs>. The base
+               fountain ornamented like those of <rs type="place" ref="#greece">Greece</rs>. The base
                seems Roman upon which some statues or other modern additions have been placed, now
                destroyed </ab>
             <metamark/>

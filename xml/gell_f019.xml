@@ -39,17 +39,17 @@
          <div type="spain">
             <pb facs="#zone_Page_19" n="019"/>
             <figure facs="#zone_Page_19_b410a0fb-bd7a-43f1-bcd0-4aeec9e5dcef"><note type="editorial_label">Pen and ink drawing: landscape</note>
-               <label>HERCULES <rs type="place" ref="XXX">CORUNNA</rs></label>		<label>Cape Prior</label>		<label>Fèrrol</label></figure>
+               <label>HERCULES <rs type="place" ref="#acoruna">CORUNNA</rs></label>		<label>Cape Prior</label>		<label><rs type="place" ref="#ferrol">Fèrrol</rs></label></figure>
             
             <figure facs="#zone_Page_19_e9f4f02a-b9ac-449e-b54c-0ab9832a4cf9"><note type="editorial_label">Pen and ink drawing: house</note>
-               <label>A Country house of <rs type="person" ref="XXX"><choice><abbr>D</abbr><expan>Don</expan></choice> Juan de Barila</rs> <del>Monastery</del> opposite <rs type="place" ref="XXX">Corunna</rs></label>
+               <label>A Country house of <rs type="person" ref="#juandebarila"><choice><abbr>D</abbr><expan>Don</expan></choice> Juan de Barila</rs> <del>Monastery</del> opposite <rs type="place" ref="#acoruna">Corunna</rs></label>
             <label>This house was at least 10 miles distant but was drawn with a camera lucida <sic>fixid</sic> to a Telescope.</label></figure>
             
             <figure facs="#zone_Page_19_fd914c30-9096-4f1c-b898-d3685683ea3a"><note type="editorial_label">Pen and ink drawing: oxen</note>
-               <label><rs type="place" ref="XXX">Corunna</rs></label></figure>
+               <label><rs type="place" ref="#acoruna">Corunna</rs></label></figure>
             
             <figure facs="#zone_Page_19_3d1bf139-b6ac-4b6f-b9d3-2030c43a6b30"><note type="editorial_label">Pen and ink drawing: oxen</note>
-            <label><rs type="place" ref="XXX">Corunna</rs></label></figure>
+               <label><rs type="place" ref="#acoruna">Corunna</rs></label></figure>
             
          </div>
          <div type="portugal">

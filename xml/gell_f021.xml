@@ -38,10 +38,10 @@
             <pb facs="#zone_Page_21" n="021"/>
             <figure facs="#zone_Page_21_0ca12ee9-dd70-4b7a-ae4e-25e82e7d4782">
                <note>Pen and ink drawing: street scene</note>
-               <label><date when="1808-09-24">Sep 24</date> <choice><abbr>Vill</abbr><expan>Village</expan></choice> of <rs type="place" ref="XXX">Caral</rs> 5 leagues from <rs type="place" ref="XXX">Coruña</rs></label>
+               <label><date when="1808-09-24">Sep 24</date> <choice><abbr>Vill</abbr><expan>Village</expan></choice> of <rs type="place" ref="#carral">Caral</rs> 5 leagues from <rs type="place" ref="#acoruna">Coruña</rs></label>
             </figure>
 
-            <ab>Quitting <rs type="place" ref="XXX">Corunna</rs> at 6 in the morning of <date when="1808-09-24">Sept<hi rend="superscript">r</hi> 24<hi rend="superscript">th</hi></date> in a coach drawn by 6 mules, Our
+            <ab>Quitting <rs type="place" ref="#acoruna">Corunna</rs> at 6 in the morning of <date when="1808-09-24">Sept<hi rend="superscript">r</hi> 24<hi rend="superscript">th</hi></date> in a coach drawn by 6 mules, Our
                passports from the junta were examined at the gate. At 20 minutes before 7 reach
                Palavia<note type="editorial">Palavea</note>, where we had dined the day before, landing at the mouth of the <rs type="place" ref="XXX">river of
                   Paçaje<note type="ediotiral">WG seems to mean the Ría da Coruña (Estuary of A Coruña), the mouth of the Mero river.</note></rs></ab>
@@ -50,12 +50,12 @@
 
             <figure facs="#zone_Page_21_facf3f48-5741-47ee-b5af-25f836c27c39">
                <note>Pen and ink drawing: house</note>
-               <label>Venta de <rs type="place" ref="XXX">Ordines</rs><note type="translation">Country inn at Ordes</note></label>
+               <label>Venta de <rs type="place" ref="#ordines">Ordines</rs><note type="translation">Country inn at <rs type="place" ref="#ordines">Ordes</rs></note></label>
                <label><date when="1808-09-24">Sep 24</date></label>
             </figure>
 
             <ab>and ascending among vineyards chestnuts &amp; hedges of Baytree. Our host was named
-               <rs type="person" ref="XXX">Don Juan de Barila</rs> and treated us magnificently at his Villa. Each course consisted
+               <rs type="person" ref="juandebarila">Don Juan de Barila</rs> and treated us magnificently at his Villa. Each course consisted
                of 18 dishes</ab>
             <metamark/>
 

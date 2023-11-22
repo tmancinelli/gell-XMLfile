@@ -37,18 +37,18 @@
          <div type="spain">
             <pb facs="#zone_Page_15" n="015"/>
             <figure facs="#zone_Page_15_61dbcc84-126f-4add-9531-8a7928eb7004">
-               <note type="editorial_label">Pen and ink drawing: view of <rs type="place" ref="XXX">A
+               <note type="editorial_label">Pen and ink drawing: view of <rs type="place" ref="#acoruna">A
                   Coruña</rs></note>
                <label>Citadel.</label>
-               <label>River Pasaja<note type="editorial_note">WG seems to mean the Ría del Pasaje estuary at A Coruña.</note></label>
+               <label>River Pasaja<note type="editorial_note">WG seems to mean the Ría del Pasaje estuary at <rs type="place" ref="#acoruna">A Coruña</rs>.</note></label>
                <label>Isthmus St Lucia</label>
             </figure>
-            <ab> The town of <rs type="place" ref="XXX">Corunna</rs> is placed on a peninsula <note
+            <ab> The town of <rs type="place" ref="#acoruna">Corunna</rs> is placed on a peninsula <note
                facs="#zone_Page_15_b9aef96a-36ff-4e91-ab32-bf4d2c36eb58" type="marginal">Coarse Granite</note>which joins a high knoll to
                the main land The port is very secure. The ancient name was <rs type="place"
                   ref="XYXY">Adabicum</rs>. About 5 miles up the river which falls into the port <choice><abbr>S</abbr><expan>south</expan></choice>
                of the town is a bridge of 13 arches &amp; near it was the town of <rs type="place"
-                  ref="XYXX">Brigantium</rs></ab>
+                  ref="#acoruna">Brigantium</rs></ab>
             <metamark/>
             <ab>The Country though rocky seems to produce figs grapes melons capsicums &amp;c in
                great abundance in September.</ab>

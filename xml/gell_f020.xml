@@ -40,9 +40,9 @@
             <figure facs="#zone_Page_20_d6a947b7-17ea-4ddd-ba97-78168f30e751"><note type="editorial_label">Pencil drawing: street scene and quayside</note></figure>
             
             <figure facs="#zone_Page_20_678f66d6-0e0c-4e79-90d2-064886f92ce2"><note type="editorial_label">Pen and ink interior plan</note>
-               <label>Venta de <rs type="place" ref="XXX">Ordines</rs><note type="translation">Country inn at Ordes</note></label>
+               <label>Venta de <rs type="place" ref="#ordines">Ordines</rs><note type="translation">Country inn at <rs type="place" ref="#ordines">Ordes</rs></note></label>
             <label>Farm Yard</label>
-               <label>Road to <rs type="place" ref="XXX">S<hi rend="superscript">t</hi> Yago<note type="editorial">Santiago de Compostela</note></rs></label></figure>
+               <label>Road to <rs type="place" ref="#santiagodecompostela">S<hi rend="superscript">t</hi> Yago<note type="editorial">Santiago de Compostela</note></rs></label></figure>
          </div>
          <div type="portugal">
             <ab> </ab>

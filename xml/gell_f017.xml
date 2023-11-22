@@ -37,10 +37,10 @@
             <pb facs="#zone_Page_17" n="017"/>
             <figure rend="colored" facs="#zone_Page_17_718a188b-6217-4ac1-9342-03fa80e6fef4">
                <note type="editorial_label">Pen and ink drawing with watercolour: church</note>
-               <label>Gate of <choice><abbr>S<hi rend="superscript">t</hi></abbr><expan>Santiago</expan></choice><note type="translation">St James</note>. Yago <rs type="place" ref="XXX">Corunna</rs>.</label>
+               <label>Gate of <choice><abbr>S<hi rend="superscript">t</hi></abbr><expan>Santiago</expan></choice><note type="translation">St James</note>. Yago <rs type="place" ref="#acoruna">Corunna</rs>.</label>
             </figure>
 
-            <ab>The Church of S<hi rend="superscript">t</hi> Yago at <rs type="place" ref="XXX">Corunna</rs>. The Saint is
+            <ab>The Church of S<hi rend="superscript">t</hi> Yago at <rs type="place" ref="#acoruna">Corunna</rs>. The Saint is
                represented driving the Moors before Him. The Church contains several altars &amp; a
                large organ but is not handsome. Thermometer 76 <date when="1808-09-22">Sep 22<hi rend="superscript"
                >d</hi></date>.</ab>

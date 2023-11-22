@@ -39,8 +39,8 @@
          <div type="spain">
             <pb facs="#zone_Page_22" n="022"/>
             <fw>190</fw>
-            <ab>Pass a kind of Barrier but no toll was taken. At 10 minutes to 7 the road to <rs type="place" ref="XXX">Madrid</rs>
-               by <rs type="place" ref="XXX">Betancos<note type="editorial">Betanzos</note></rs> turns off <choice><abbr>L</abbr><expan>Left</expan></choice>. The country is very well cultivated. Maize in abundance.
+            <ab>Pass a kind of Barrier but no toll was taken. At 10 minutes to 7 the road to <rs type="place" ref="#madrid">Madrid</rs>
+               by <rs type="place" ref="#betanzos">Betancos<note type="editorial">Betanzos</note></rs> turns off <choice><abbr>L</abbr><expan>Left</expan></choice>. The country is very well cultivated. Maize in abundance.
                Some Pines.</ab>
             <ab>At 7 past 7 in a bottom a stream running to the left. Pretty Villas &amp; vineyards,
                Chest nuts Walnuts &amp; Oaks. The cloaks of the peasants going to market very
@@ -49,7 +49,7 @@
             <ab>A high mountain bounds the vale on <choice><abbr>S.</abbr><expan>south</expan></choice> At 5 to 8 pass the 2 league stone <figure
                type="in_text" facs="#zone_Page_22_4b1818a6-d437-453e-be3f-8f8bf7513fd5">
                   <note type="editorial_label">[drawing: league stone]</note>
-            </figure>. At 10 to 9 stops at the village of <rs type="place" ref="XXX">Carral</rs> <metamark>–</metamark> 10 past 9 proceed. At 20 p 9
+            </figure>. At 10 to 9 stops at the village of <rs type="place" ref="#carral">Carral</rs> <metamark>–</metamark> 10 past 9 proceed. At 20 p 9
                the 3d League stone. the valley delightful with gardens &amp; orchards. Black sheep.
                Chestnuts. At 25 past 9 cross a clear stream running to L. many houses. 18 p 10 cross
                a ravine <figure type="in_text" facs="#zone_Page_22_6a7e968c-6492-4cc4-8caf-6d61f3b54867">
