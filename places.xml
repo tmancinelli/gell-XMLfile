@@ -4,4 +4,8 @@
       <placeName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q1410">Gibraltar</placeName>
       <settlement type="country">United Kindom</settlement>
    </place>
+   <place xml:id="falmouth">
+      <placeName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q478029">Falmouth</placeName>
+      <settlement type="country">United Kingdom</settlement>
+   </place>
 </listPlace>
