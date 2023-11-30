@@ -37,7 +37,7 @@
             <pb facs="#zone_Page_29" n="029"/>
             <figure type="full_page" facs="#zone_Page_29_0bb84a5a-fcd2-4167-810e-24a98c771c98"><label><date when="1808-09-27">27 Sep</date></label>
             <note type="editorial_label">Pen and ink drawing: tower</note>
-               <label><rs type="place" ref="xxx">BETANCOS<note type="editorial">Betanzos</note></rs></label></figure>
+               <label><rs type="place" ref="#betanzos">BETANCOS<note type="editorial">Betanzos</note></rs></label></figure>
             
             
          </div>

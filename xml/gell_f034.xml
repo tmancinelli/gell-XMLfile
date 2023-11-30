@@ -47,7 +47,7 @@
          <div type="spain">
             <pb facs="#zone_Page_34" n="034"/>
             <fw>168</fw>
-            <ab>The country like <rs type="place" ref="XXX">Achaia</rs>, but valleys green.
+            <ab>The country like <rs type="place" ref="#achaia">Achaia</rs>, but valleys green.
                uncommonly fine and awful descent from the road to river. 30 p 5<note
                   type="editorial_label">5.30</note> a pretty church &amp; sycamore <choice>
                   <abbr>L</abbr>
@@ -70,19 +70,19 @@
                stream of which joins the great river of the valley. 25 p 6 arrive. decent
                   Posada<note type="translation">Inn</note> of <rs>Los Nogales<note type="editorial"
                      >As Nogais</note></rs>. A small village like a welch town very wet &amp; dirty.
-               The host a great sportsman. His gun made at <rs type="place" ref="XXX">Ribadeo</rs>
+               The host a great sportsman. His gun made at <rs type="place" ref="#ribadeo">Ribadeo</rs>
                cost 60 Dollars &amp; was very neat. <date when="1808-09-30">Sep<hi
-                     rend="superscript">r</hi> 30</date> quit <rs type="place" ref="XXX">Los
+                     rend="superscript">r</hi> 30</date> quit <rs type="place" ref="#losnogales">Los
                   Nogales</rs> at 15<hi rend="superscript">m</hi> to 8<note type="editorial"
                      >7.45</note> X <figure type="in_text" facs="#zone_Page_34_3a5c92b3-9fa3-4911-a3d3-0cbb4cbc92c7">
                   <note type="editorial_label">[drawing: arch bridge]</note>
                </figure> over the stream of the valley 15 p 8 a Glen runs up to L up which 13
                intersections of the mountains are seen. Very steep ascent. 30 p 8 23<hi
                   rend="superscript">d</hi> League. Very steep. chestnuts. 36 a Village called <rs
-                  type="place" ref="XXX">Conco qu? Donco<note type="editorial">Doncos. WG is not
+                  type="place" ref="#doncos">Conco qu? Donco<note type="editorial">Doncos. WG is not
                      sure if the village is called Conco or Donco.</note></rs>. 15 p 9 a poor
                Village another valley R the stream of which runs all the way to <rs type="place"
-                  ref="XXX">Villa Franca<note type="editorial">Villafranca del Bierzo</note></rs>.
+                  ref="#villafranca">Villa Franca<note type="editorial">Villafranca del Bierzo</note></rs>.
                10 p 10 a kind of top but still there is a higher. at 15 to 11 descend. Summer</ab>
 
 

@@ -45,16 +45,16 @@
                </figure> seen</ab>
             <ab>the bay rather <figure type="in_text" facs="#zone_Page_30_be7d2e79-ace7-442e-a0fd-3cd2007c9e45">
                   <note type="editorial_label">[pencil, pen and ink drawing: ‘Entrance of
-                     <rs type="place" ref="XXX">Pacaje</rs>’]</note>
-               <label>‘Entrance of <rs type="place" ref="XXX">Pacaje</rs>’<note type="editorial">WG seems to mean the Ría da Coruña (Estuary of A Coruña), the mouth of the Mero river.</note></label>
+                     <rs type="place" ref="#pacaje">Pacaje</rs>’]</note>
+               <label>‘Entrance of <rs type="place" ref="#pacaje">Pacaje</rs>’<note type="editorial">WG seems to mean the Ría da Coruña (Estuary of A Coruña), the mouth of the Mero river.</note></label>
                </figure></ab>
             <ab>pretty, &amp; perfectly landlocked. At 11<hi rend="superscript">m</hi> to 10<note type="editorial">9.49</note> the 3<hi rend="superscript">d</hi> league, abt 10<hi rend="superscript">h</hi><note type="editorial">about 10am</note> the <figure
                type="in_text" facs="#zone_Page_30_ae08b1bc-d7e7-43cf-9864-904e6ff6aaaa">
                   <note type="editorial_label">[drawing]</note>
-            </figure> close <choice><abbr>L.</abbr><expan>left</expan></choice> 28 p 10<note type="editorial">10.28</note> <choice><abbr>a + L</abbr><expan>a church on the left</expan></choice> see &amp; descend to <rs type="place" ref="XXX">Betanços<note type="editorial">Betanzos</note></rs> entirely surrounded
+            </figure> close <choice><abbr>L.</abbr><expan>left</expan></choice> 28 p 10<note type="editorial">10.28</note> <choice><abbr>a + L</abbr><expan>a church on the left</expan></choice> see &amp; descend to <rs type="place" ref="#betanzos">Betanços<note type="editorial">Betanzos</note></rs> entirely surrounded
                with vines. met a coach &amp; 7 mules</ab>
             <figure type="in_text" facs="#zone_Page_30_49521f6b-4361-4e24-a48b-0ab41fd8e385">
-               <note type="editorial_label">Pen and ink drawing: view of <rs type="place" ref="XXX">Betanzos</rs></note>
+               <note type="editorial_label">Pen and ink drawing: view of <rs type="place" ref="#betanzos">Betanzos</rs></note>
             </figure>
             <note type="marginal" facs="#zone_Page_30_4f58e0c0-503e-4d31-81b9-35123bf586b4">Tamarisk bushes in the bed of the river</note>
             <ab>the town is in the bottom of a valley on the <choice><abbr>R</abbr><expan>right</expan></choice> bank of the river. A <figure type="in_text" facs="xxx"><note type="editorial_label">[drawing: arch

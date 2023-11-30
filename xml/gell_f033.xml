@@ -50,15 +50,15 @@
             <pb facs="#zone_Page_33" n="033"/>
             <figure type="full_page" facs="#zone_Page_33_295aef7b-4ab6-4e2e-93af-dace3778656a">
                <note type="editorial_label">Pen and ink drawing: landscape with arch bridge</note>
-               <label><rs type="place" ref="XXX">PUENTA DE CORZUN<note type="editorial">Bridge
+               <label><rs type="place" ref="#asnogais">PUENTA DE CORZUN<note type="editorial">Bridge
                         [puente] of Corzun [from WG's account, probably at <rs type="place"
-                           ref="XXX">As Nogais</rs>, which the British called
+                           ref="#asnogais">As Nogais</rs>, which the British called
                   Nogales].</note></rs></label>
                <label>finished 8 years ago</label>
                <label>village</label>
             </figure>
             <ab>This the English shortly afterwards attempted To blow up &amp; failed so that the
-               french passed with all their artillery &amp; harassed <rs type="person" ref="XXX">Sir
+               french passed with all their artillery &amp; harassed <rs type="person" ref="sir_john_moore">Sir
                      J<hi rend="superscript">on</hi> Moores</rs> flying army all the way to
                Corunna.</ab>
             <ab>long ascent, pretty bottom, all along which are watered meadows. <figure
@@ -75,7 +75,7 @@
                <figure type="in_text" facs="#zone_Page_33_b3d8d59b-3cca-4e35-87f4-d91b5d74309b">
                   <note type="editorial_label">[drawing: valley]</note>
                </figure> quit that valley &amp; turn over a top into another where the river joins
-               the last &amp; both run towards <rs type="place" ref="XXX">Asturias</rs> North.</ab>
+               the last &amp; both run towards <rs type="place" ref="#asturias">Asturias</rs> North.</ab>
             <figure type="sketch" facs="#zone_Page_33_9bbf1008-908f-436b-b793-954816964fdf">
                <note type="editorial_label">Pen and ink drawing: valley</note>
                <label>Along this road the English fled</label>
