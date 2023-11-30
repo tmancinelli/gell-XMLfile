@@ -36,26 +36,26 @@
       <body>
          <div type="spain">
             <pb facs="#zone_Page_25" n="025"/>
-            <ab>the city &amp; lodge at the Casa de Portugueses<note type="editorial">Portuguese
+            <ab>the city &amp; lodge at the Casa de Portugueses <note type="editorial">Portuguese
                   House</note>
                <metamark>–</metamark> where the people were very civil <metamark>–</metamark> The
                bill for 3 persons &amp; two Servants for Lodging 2 night 2 dinners &amp; two
-               breakfasts, was 198 reals or about 10 dollars. The <rs type="person" ref="XXX">Napoleon</rs> was on the staircase
+               breakfasts, was 198 reals or about 10 dollars. The <rs type="person" ref="#napoleon">Napoleon</rs> was on the staircase
                &amp; the performer was subject to the inspection of passengers
                   <metamark>–</metamark> Our passports were examined with an apology for the times
                which made it necessary. On walking out to see the Cathedral we asked the way &amp; a
                person shewed it us. A second joined us &amp; then a third who introduced us to the
                   Junta<note type="editorial">Provincial government</note> in the College. They were
                very civil &amp; much pleased with the head of the king on a halfpenny. They
-               complained that more money had been sent to <rs type="place" ref="XXX">Corunna</rs> instead of to the central
+               complained that more money had been sent to <rs type="place" ref="#acoruna">Corunna</rs> instead of to the central
                   Junta<note type="editorial">Perhaps of Galicia, but probably the Supreme Central
                   Junta (central authority during the Napoleonic occupation).</note>. The view from
                the court of the College of the</ab>
 
 
-            <note type="marginal" facs="#zone_Page_25_17f5c57a-70c1-4cef-bec8-c12538816108"><date when="1808-09-25">25 Sep</date> at <rs type="place" ref="XXX">St
+            <note type="marginal" facs="#zone_Page_25_17f5c57a-70c1-4cef-bec8-c12538816108"><date when="1808-09-25">25 Sep</date> at <rs type="place" ref="#santiagodecompostela">St
                      Yago<note type="editorial">Santiago de Compostela</note></rs> rain almost all
-               day Verses handed about at <rs type="person" ref="XXX"><choice>
+               day Verses handed about at <rs type="person" ref="#juandebarila"><choice>
                      <abbr>D<hi rend="superscript">n</hi></abbr>
                      <expan>Don</expan>
                   </choice> Juan Berillas</rs> dinner <lg>
@@ -86,8 +86,8 @@
                            widespread.</note></note>
                </note>
 
-            <note type="marginal" facs="#zone_Page_25_e94ead5e-384e-491b-9f3c-8906b43b297e">It was plain that no money was wanted in <rs type="place" ref="XXX">Spain</rs> for none
-               of the English money had ever been sent from <rs type="place" ref="XXX">Corunna</rs> to the army.</note>
+            <note type="marginal" facs="#zone_Page_25_e94ead5e-384e-491b-9f3c-8906b43b297e">It was plain that no money was wanted in <rs type="place" ref="#spain">Spain</rs> for none
+               of the English money had ever been sent from <rs type="place" ref="#acoruna">Corunna</rs> to the army.</note>
 
          </div>
          <div type="portugal">

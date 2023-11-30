@@ -35,7 +35,7 @@
       <body>
          <div type="spain">
             <pb facs="#zone_Page_27" n="027"/>
-            <ab>as represented over the door of his church at <rs type="place" ref="XXX">Coruña</rs> in the 8<hi rend="superscript">th</hi> century as we were
+            <ab>as represented over the door of his church at <rs type="place" ref="#acoruna">Coruña</rs> in the 8<hi rend="superscript">th</hi> century as we were
                told <metamark>–</metamark> Almost every building in the City is in the same stile of architecture, all
                very massive but some highly ornamented. The humidity of the climate has taken much
                from the beauty of many of the edifices. Upon the whole perhaps there is no
@@ -46,8 +46,8 @@
                from the Archbishops tribunal, with</ab>
 
 
-            <note type="marginal" facs="#zone_Page_27_0c3fb243-57b5-4352-a18b-5dc58273e66d"><rs type="person" ref="XXX">Alhagib</rs> captain of <rs type="person" ref="XXX"><choice><abbr>Kg</abbr><expan>King</expan></choice> of Cordova<note type="editorial">King of Cordoba</note></rs> entered <rs type="place" ref="XXX">Galicia</rs> &amp;
-               sacked <rs type="place" ref="XXX">St Yago<note type="editorial">Santiago de Compostela</note> </rs>&amp; took the great bells to the mosque at <rs type="place" ref="XXX">Cordova</rs> but in <date when="1236">1236</date> <rs type="person" ref="XXX"><choice><abbr>D.</abbr><expan>Don</expan></choice>
+            <note type="marginal" facs="#zone_Page_27_0c3fb243-57b5-4352-a18b-5dc58273e66d"><rs type="person" ref="#alhagib">Alhagib</rs> captain of <rs type="person" ref="#kingcordoba"><choice><abbr>Kg</abbr><expan>King</expan></choice> of Cordova<note type="editorial">King of Cordoba</note></rs> entered <rs type="place" ref="#galicia">Galicia</rs> &amp;
+               sacked <rs type="place" ref="#santiagodecompostela">St Yago<note type="editorial">Santiago de Compostela</note> </rs>&amp; took the great bells to the mosque at <rs type="place" ref="#cordoba">Cordova</rs> but in <date when="1236">1236</date> <rs type="person" ref="#donfernando"><choice><abbr>D.</abbr><expan>Don</expan></choice>
                Fernando</rs> retook them &amp; made the Moors carry them back on their shoulders.</note>
          </div>
          <div type="portugal">
