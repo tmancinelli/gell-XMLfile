@@ -8,8 +8,25 @@
   </person>
   <person xml:id="juandebarila">
     <persName xml:lang="es" sameAs="xx">Don Juan de Barila</persName>
+    <persName xml:lang="es" sameAs="xx"><choice><abbr>D<hi rend="superscript">n</hi></abbr><expan>Don</expan></choice> Juan Berillas</persName>
   </person>
   <person xml:id="sir_john_moore">
     <persName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q711378">Sir Jon Moores</persName>
+  </person>
+  <person xml:id="napoleon">
+    <persName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q517">Napoleon</persName>
+  </person>
+  <person xml:id="inigojones">
+    <persName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q295929">Inigo Jones I</persName>
+    <persName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q295929">Inigo Jones</persName>
+  </person>
+  <person xml:id="alhagib">
+    <persName xml:lang="en" sameAs="xx">Alhagib</persName>
+  </person>
+  <person xml:id="donfernando">
+    <persName xml:lang="en" sameAs="xx"><choice><abbr>D.</abbr><expan>Don</expan></choice>Fernando</persName>
+  </person>
+  <person xml:id="kingcordoba">
+    <persName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q111678014"><choice><abbr>Kg</abbr><expan>King</expan></choice> of Cordova</persName>
   </person>
 </listPerson>
