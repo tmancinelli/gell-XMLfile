@@ -5,7 +5,8 @@
       <settlement type="country">Greece</settlement>
    </place>
    <place xml:id="acoruna">
-      <placeName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q6063659">A Coruña</placeName> 
+      <placeName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q6063659">A Coruña</placeName>
+      <placeName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q6063659">Coruña</placeName>
       <placeName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q6063659">Corunna</placeName> 
       <placeName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q105703440">Brigantium</placeName>
       <settlement type="country">Spain</settlement>
@@ -21,6 +22,8 @@
    </place>
    <place xml:id="santiagodecompostela">
       <placeName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q14314">Santiago de Compostela</placeName>
+      <placeName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q14314">S<hi rend="superscript">t</hi> Yago de Compostella</placeName>
+      <placeName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q14314">St Yago</placeName>
       <settlement type="country">Spain</settlement>
    </place>
    <place xml:id="carral">
@@ -79,4 +82,25 @@
       <placeName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q1912688">Villa Franca</placeName>
       <settlement type="country">Spain</settlement>
    </place>
+   <place xml:id="westmorland">
+      <placeName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q23326">Westmoreland Moor</placeName>
+      <settlement type="country">United Kindom</settlement>
+   </place>
+   <place xml:id="tambra">
+      <placeName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q14546">Tambra</placeName>
+      <settlement type="country">Spain</settlement>
+   </place>
+   <place xml:id="spain">
+      <placeName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q29">Spain</placeName>
+      <settlement type="country">Spain</settlement>
+   </place>
+   <place xml:id="galicia">
+      <placeName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q3908">Galicia</placeName>
+      <settlement type="country">Spain</settlement>
+   </place>
+   <place xml:id="cordoba">
+      <placeName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q5818">Cordova</placeName>
+      <settlement type="country">Spain</settlement>
+   </place>
+   
 </listPlace>
