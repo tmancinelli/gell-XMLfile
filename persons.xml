@@ -12,6 +12,7 @@
   </person>
   <person xml:id="sir_john_moore">
     <persName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q711378">Sir Jon Moores</persName>
+    <persName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q711378">S<hi rend="superscript">r</hi> John Moors</persName>
   </person>
   <person xml:id="napoleon">
     <persName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q517">Napoleon</persName>
@@ -28,5 +29,110 @@
   </person>
   <person xml:id="kingcordoba">
     <persName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q111678014"><choice><abbr>Kg</abbr><expan>King</expan></choice> of Cordova</persName>
+  </person>
+  <person xml:id="smarchesini">
+    <persName xml:lang="en" sameAs="xx"><choice><abbr>S<hi rend="superscript">ra</hi></abbr><expan>Signora</expan></choice>Marchesini</persName>
+  </person>
+  <person xml:id="sfineschi">
+    <persName xml:lang="en" sameAs="xx"><choice><abbr>S<hi rend="superscript">a</hi></abbr><expan>Signora</expan></choice>Fineschi</persName>
+  </person>
+  <person xml:id="altemira">
+    <persName xml:lang="en" sameAs="xx">The Condesa<note type="translation">Countess</note>Altemira</persName>
+  </person>
+  <person xml:id="infantado">
+    <persName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q724968">Infantado</persName>
+    <persName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q724968">Duca de Infantado</persName>
+  </person>
+  <person xml:id="cuesta">
+    <persName xml:lang="en" sameAs="xx">General Cuesta</persName>
+  </person>
+  <person xml:id="kingwamba">
+    <persName xml:lang="en" sameAs="xx">King Wamba</persName>
+    <persName xml:lang="en" sameAs="xx">Wamba</persName>
+  </person>
+  <person xml:id="kingrecesvinto">
+    <persName xml:lang="en" sameAs="xx">King Recesvinto</persName>
+  </person>
+  <person xml:id="pisnerga">
+    <persName xml:lang="en" sameAs="xx">Pisnerga</persName>
+  </person>
+  <person xml:id="kingervigio">
+    <persName xml:lang="en" sameAs="xx">Ervigio</persName>
+    <persName xml:lang="en" sameAs="xx">This King</persName>
+  </person>
+  <person xml:id="eugenius">
+    <persName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q5408346">Eugenius 3</persName>
+  </person>
+  <person xml:id="bermudez">
+    <persName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q3136698"><choice><abbr>D</abbr><expan>Don</expan></choice> Juan Cean Bermudez</persName>
+  </person>
+  <person xml:id="amirola">
+    <persName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q5408346">Eugenio Llaguno y Amírola</persName>
+  </person>
+  <person xml:id="kingcarlos_iv">
+    <persName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q183226">King Carlos IV</persName>
+    <persName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q183226">the King</persName>
+  </person>
+  <person xml:id="sir_charles_stuart">
+    <persName xml:lang="en" sameAs="xx">Sir Cha<hi rend="superscript">s</hi> Stuarts</persName>
+  </person>
+  <person xml:id="bentinck">
+    <persName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q58432192">L<hi rend="superscript">d</hi>.W<hi rend="superscript">m</hi>. Bentinck</persName>
+  </person>
+  <person xml:id="walpole">
+    <persName xml:lang="en" sameAs="xx">L<hi rend="superscript">d</hi> Walpole</persName>
+  </person>
+  <person xml:id="sir_thomas_graham">
+    <persName xml:lang="en" sameAs="xx">S<hi
+      rend="superscript">r</hi> Tho<hi rend="superscript">s</hi> Graham</persName>
+  </person>
+  <person xml:id="wilkins">
+    <persName xml:lang="en" sameAs="xx"><choice><abbr>Wm</abbr><expan>William</expan></choice> Wilkins</persName>
+  </person>
+  <person xml:id="daymel">
+    <persName xml:lang="en" sameAs="xx">Don Vicente Gomiel de Daymel</persName>
+  </person>
+  <person xml:id="elsabio">
+    <persName xml:lang="en" sameAs="xx">Alonzo el Sabio</persName>
+  </person>
+  <person xml:id="carlos_v">
+    <persName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q32500">Carlos V</persName>
+    <persName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q32500">Emperor Charles V</persName>
+  </person>
+  <person xml:id="king_adam">
+    <persName xml:lang="en" sameAs="xx">Adam first King of Spain</persName>
+  </person>
+  <person xml:id="ferdinand_aragona">
+    <persName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q12860">Ferdinand</persName>
+  </person>
+  <person xml:id="isabella_castile">
+    <persName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q45859">Isabella</persName>
+  </person>
+  <person xml:id="alphonso_vi">
+    <persName xml:lang="en" sameAs="xx">Alphonso VI</persName>
+  </person>
+  <person xml:id="archbishop_toledo">
+    <persName xml:lang="en" sameAs="xx">Eminence the Cardinal Archbishop of Toledo &amp; Seville</persName>
+  </person>
+  <person xml:id="nephew_of_the_king">
+    <persName xml:lang="en" sameAs="xx">Nephew of the King</persName>
+  </person>
+  <person xml:id="cavez">
+    <persName xml:lang="en" sameAs="xx">Cavez</persName>
+  </person>
+  <person xml:id="don_diego_torres">
+    <persName xml:lang="en" sameAs="xx">Don Diego de las Torres y Arze of the Order of St. Yago</persName>
+  </person>
+  <person xml:id="alfonso">
+    <persName xml:lang="en" sameAs="xx">Alfonso</persName>
+  </person>
+  <person xml:id="alfonso_viii">
+    <persName xml:lang="en" sameAs="xx">Alfonso VIII</persName>
+  </person>
+  <person xml:id="alfonso_x">
+    <persName xml:lang="en" sameAs="xx">Alfonso X</persName>
+  </person>
+  <person xml:id="abu_abdallah_mohamad">
+    <persName xml:lang="en" sameAs="xx">Abu Abdallah Ben Said Mohamad</persName>
   </person>
 </listPerson>
