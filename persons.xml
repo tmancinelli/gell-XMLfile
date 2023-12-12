@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<listPerson xmlns="http://www.tei-c.org/ns/1.0">
+<listPerson >
   <person xml:id="abubaker">
      <persName xml:lang="en" sameAs="xx">Abu Baker Mohamad Ben Abrahim Almari Alcarschi</persName>
   </person>
