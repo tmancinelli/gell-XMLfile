@@ -622,5 +622,34 @@
       <placeName xml:lang="en" sameAs="xx">Averturas</placeName>
       <settlement type="country">Spain</settlement>
    </place>
+   <place xml:id="vill_escurial">
+      <placeName xml:lang="en" sameAs="xx">Vill of Baxo Escurial</placeName>
+      <settlement type="country">Spain</settlement>
+   </place>
+   <place xml:id="galapagar">
+      <placeName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q1615953">Galapagas</placeName>
+      <settlement type="country">Spain</settlement>
+   </place>
+   <place xml:id="la_rota">
+      <placeName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q592747">La Rota</placeName>
+      <settlement type="country">Spain</settlement>
+   </place>
+   <place xml:id="aravaca">
+      <placeName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q3314682">Arbaca</placeName>
+      <settlement type="country">Spain</settlement>
+   </place>
+   <place xml:id="fuente_rey">
+      <placeName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q24023695">Fuente del Rey</placeName>
+      <settlement type="country">Spain</settlement>
+   </place>
+   <place xml:id="river_manzanares">
+      <placeName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q23995548">River Manzanares</placeName>
+      <settlement type="country">Spain</settlement>
+   </place>
+   <place xml:id="puerta_san_vicente">
+      <placeName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q860191"><choice><abbr>Puerta St Vicente</abbr><expan>Puerta de San Vicente</expan></choice></placeName>
+      <settlement type="country">Spain</settlement>
+   </place>
+   
    
 </listPlace>
