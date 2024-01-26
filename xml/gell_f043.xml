@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface xml:id="zone_Page_43">
+         <graphic url="https://iiif.bsr.ac.uk/iiif/2/GELL-VI%2Fwg_06_043.tif/full/full/0/default.jpg"/>
+         <zone points="299,429 315,533 756,544 777,435" xml:id="zone_Page_43_4bacbb7f-d5ee-4e7a-aab2-19f4c2a83849"/><!-- arch bridge 1 -->
+         <zone points="1343,435 1338,549 1436,554 1447,418" xml:id="zone_Page_43_50392025-0901-486d-bb95-7ca988e1e595"/><!-- arch bridge 2 -->
+         <zone points="1000,1115 984,1316 1626,1338 1637,1120" xml:id="zone_Page_43_18c6c662-2949-4a99-a55f-99a127e82c42"/><!-- castel -->
+         <zone points="1479,1757 1474,1882 1604,1882 1621,1757" xml:id="zone_Page_43_951bac8d-4a7a-481c-99a0-902da578920d"/><!-- arch bridge 3 -->
+         <zone points="1811,174 1768,1006 3291,1055 3220,157" xml:id="zone_Page_43_2310d660-5354-4fe2-9efa-cf96d995a9e6"/><!-- marginal at baneza -->
+         <zone points="1463,1523 1806,4025 3258,4080 3253,1463" xml:id="zone_Page_43_0228bdc8-5cd0-4ba1-9ca7-1a5a8bf9bccf"/><!-- woman and child -->
+      </surface>
+   </facsimile>
+   <text>
+      <front>
+         <div type="cover">
+            <note> </note>
+         </div>
+         <div type="inlet">
+            <head> </head>
+         </div>
+      </front>
+
+      <body>
+         <div type="spain">
+            <pb facs="#zone_Page_43" n="043"/>
+            
+            <ab>20 p 3 10 Villages at once seen before us. a <figure facs="#zone_Page_43_4bacbb7f-d5ee-4e7a-aab2-19f4c2a83849" type="in_text"><note type="editorial_label">[drawing: arch bridge]</note></figure> seen <choice><abbr>L &amp; X</abbr><expan>left and cross</expan></choice> a <figure facs="#zone_Page_43_50392025-0901-486d-bb95-7ca988e1e595" type="in_text"><note type="editorial_label">[drawing: arch bridge]</note></figure> into a <choice><abbr>Vill</abbr><expan>Village</expan></choice> the rivulet under which runs from L at 37 p 3. The village called <rs type="place" ref="#juandetorres">S<hi rend="superscript">t</hi> Juan de Torres <note type="editorial">San Juan de Torres</note></rs>. at 45 p 3 <choice><abbr>R</abbr><expan>right</expan></choice> a <rs>Vill &amp; Castle called Villa Nueva <figure facs="#zone_Page_43_18c6c662-2949-4a99-a55f-99a127e82c42" type="in_text"><note type="editorial_label">[drawing: castle]</note></figure> <note type="editorial">Villanueva de Jamuz</note></rs> 15 p 4 Vill &amp; Castle &amp; wood &amp; hills R. a Vill L. 37 p 4 Vill R. 15 to 5 <note type="editorial">4.45</note> Vill L. R Hills. 8 p 5 a Vill. A Vill R X <figure facs="#zone_Page_43_951bac8d-4a7a-481c-99a0-902da578920d" type="in_text"><note type="editorial_label">[drawing: arch bridge]</note></figure> a <choice><abbr>R</abbr><expan>River</expan></choice> runs on L with road. Large. 30 p 5 Vill &amp; Convent at foot of hills R. opposite bank of <choice><abbr>Riv</abbr><expan>River</expan></choice> L woods. At 6<hi rend="superscript">h</hi> Posada <note type="translation">Inn</note>. Avisana 7 leagues. a decent inn close to it the bridge over the <rs type="place" ref="#riverorbigo">river Orvigo <note type="editorial">Órbigo</note></rs> the centre arch of which spans 24 steps – just across it is a grove of poplars in which the Spanish peasants were collected before the affair of Rio Seco. All the rivers of this plain seem to rise in the <choice><abbr><rs type="place" ref="minho">M<hi rend="superscript">s</hi> N of Leon &amp; S of Asturias</rs></abbr><expan>Mountains north of León and south of Asturias</expan></choice>. The plain bounded by hills on <choice><abbr>W</abbr><expan>west</expan></choice> but unbounded on <choice><abbr>E</abbr><expan>east</expan></choice>.</ab>
+            
+            
+            <note facs="#zone_Page_43_2310d660-5354-4fe2-9efa-cf96d995a9e6" type="marginal">At <rs type="place" ref="#baneza">La Baneza <note type="editorial">La Bañeza</note></rs> the French entered after the battle of Rio Seco <note type="editorial">Battle of Medina de Rioseco, 14 July 1808</note> with 18 men only. General Blake was in the Mountains &amp; the people of the town thought the whole french army was coming.</note>
+            <note type="editorial">Similar text in pencil erased </note>
+            
+            <figure facs="#zone_Page_43_0228bdc8-5cd0-4ba1-9ca7-1a5a8bf9bccf" type="sketch"><note type="editorial_label">Pen and ink drawings with watercolour: women and child</note>
+               <label>Lady of <rs type="place" ref="#benavente">Benevente <note type="editorial">Benavente</note></rs></label>
+            <label>Peasants at Benevente</label>
+               <label><rs type="place" ref="#benavente">Benevente</rs> <note type="editorial">[written over different text in pencil]</note></label>
+               <label><rs type="place" ref="#benavente">Benevente</rs> <note type="editorial">[written over different text in pencil]</note></label></figure>
+            
+            
+            
+            
+         </div>
+         <div type="portugal">
+            <ab></ab>
+         </div>
+         <div type="reading_notes">
+            <ab> </ab>
+         </div>
+      </body>
+
+      <back>
+         <div type="cover">
+            <note> </note>
+         </div>
+         <div type="index"> </div>
+      </back>
+   </text>
+
+</TEI>
