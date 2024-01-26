@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface xml:id="zone_Page_38">
+         <graphic url="https://iiif.bsr.ac.uk/iiif/2/GELL-VI%2Fwg_06_038.tif/full/full/0/default.jpg"/>
+         <zone points="141,130 125,1234 3470,1213 3487,125" xml:id="zone_Page_38_1afe8fa1-2976-4168-83a1-ca9a21b72f60"/><!-- landscape -->
+         <zone points="1245,3302 1267,3443 1414,3448 1457,3296" xml:id="zone_Page_38_2181b846-16f3-4977-8915-0cbc40e24439"/><!-- arch bridge 1-->
+         <zone points="2110,4052 2083,4226 2360,4232 2371,4047" xml:id="zone_Page_38_e0f5c929-1328-4468-9a68-4aeb161be456"/><!-- arch bridge 2 -->
+      </surface>
+   </facsimile>
+   <text>
+      <front>
+         <div type="cover">
+            <note> </note>
+         </div>
+         <div type="inlet">
+            <head> </head>
+         </div>
+      </front>
+
+      <body>
+         <div type="spain">
+            <pb facs="#zone_Page_38" n="038"/>
+            <fw>164</fw>
+
+            <figure facs="#zone_Page_38_1afe8fa1-2976-4168-83a1-ca9a21b72f60">
+               <note type="editorial_label">Pen and ink drawing: landscape</note>
+               <label>The same from <rs type="place" ref="#villagecongoste"><choice><abbr>Vill</abbr><expan>Village</expan></choice> Congoste</rs></label>
+               <label><rs type="place" ref="#conventodelapena">Convento de la Peña <note type="translation">Monastery on the Rock</note></rs></label>
+               <label>congosto</label>
+            </figure>
+
+            <ab>well wooded. 10 to 11 <note type="editorial">10.50</note> Vill. 7 to 11 Vill &amp; Cypress <choice><abbr>L</abbr><expan>left</expan></choice>. 12 p 11 <note type="editorial">11.12</note> Vill R. Snowy <rs type="place" ref="#cerrodelcastro">M<hi rend="superscript">t</hi> S
+               del Castro <note type="editorial">the mountain, Cerro del Castro</note></rs> very fine. gravelly country had not rained for some time. 25 p 11 Vill 33
+               p 11 League 32<hi rend="superscript">d</hi>, &amp; Vill L. Vill R &amp; d<hi rend="superscript">o</hi><note type="editorial">ditto (the same)</note> 3 miles R large &amp; wooded <rs type="place" ref="#valdeorras">La Val de
+                  Uras<note type="editorial">Possibly Valdeorras</note></rs>. by which name the plain is called. 20 p 11 Vill L another 1 mile L d<hi rend="superscript">o</hi> 2. 47 p
+               12 …. Vill good grapes … Val de Urra. 5 to 1 Stone League 33. bank of cistus prickly
+               oak &amp; Arbutus, hot sun climate improves, 8 p 1 fine rapid river runs &amp; <choice><abbr>X</abbr><expan>cross</expan></choice> it
+               by a <figure facs="#zone_Page_38_2181b846-16f3-4977-8915-0cbc40e24439" type="in_text"><note type="editorial_label">[drawing: arch bridge]</note></figure>, <rs type="place" ref="#conventoffrayles">Convent of Frayles<note type="editorial">(frailes: friars)</note></rs> L on a high rock. A Vill R banks of
+               last river very pretty R. 30 p 2 Vill Congosto Vintage the Convent L above it called
+               <rs type="place" ref="#conventodelapena">de la Peña<note type="translation">on the Rock</note></rs> – 25 p 2 34<hi rend="superscript">th</hi> League little green pretty valley R, trees &amp; flocks X
+               <figure facs="#zone_Page_38_e0f5c929-1328-4468-9a68-4aeb161be456" type="in_text"><note type="editorial_label">[drawing: arch bridge]</note></figure></ab>
+
+         </div>
+         <div type="portugal">
+            <ab> </ab>
+         </div>
+         <div type="reading_notes">
+            <ab> </ab>
+         </div>
+      </body>
+
+      <back>
+         <div type="cover">
+            <note> </note>
+         </div>
+         <div type="index"> </div>
+      </back>
+   </text>
+
+</TEI>

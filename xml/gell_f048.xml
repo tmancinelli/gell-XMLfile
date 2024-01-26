@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface xml:id="zone_Page_48">
+         <graphic url="https://iiif.bsr.ac.uk/iiif/2/GELL-VI%2Fwg_06_048.tif/full/full/0/default.jpg"/>
+         <zone points="1381,1169 1349,1376 1784,1414 1816,1180" xml:id="zone_Page_48_96f70c28-e71f-41cc-9e5a-f2cadd367785"/><!-- + in box -->
+         <zone points="935,2339 930,2513 1403,2535 1441,2371" xml:id="zone_Page_48_ee51efc4-f46b-4dc7-8199-f15971ab1164"/><!-- arch bridge -->
+      </surface>
+   </facsimile>
+   <text>
+      <front>
+         <div type="cover">
+            <note> </note>
+         </div>
+         <div type="inlet">
+            <head> </head>
+         </div>
+      </front>
+
+      <body>
+         <div type="spain">
+            <pb facs="#zone_Page_48" n="048"/>
+            <fw>154</fw>
+            <!-- sentence starts from previous folio -->
+            <ab>time of the vintage. People very civil everywhere offered us grapes. Sandy flat.
+               vineyards everywhere At 10<hi rend="superscript">m</hi> p 12<hi rend="superscript"
+                  >h</hi>
+               <note type="editorial">12.10</note> see the <rs type="place" ref="#castillian">Castillian <choice>
+                     <abbr>M<hi rend="superscript">ts</hi><expan>Mountains</expan></abbr>
+               </choice></rs>. 4 p 1 arrive at town of <rs type="place" ref="#medinacampo">Medina del
+                  Campo</rs> fount large Town houses on wooden pillars. a river nearly dry many
+               brick <choice>
+                  <abbr>+<hi rend="superscript">s</hi> &amp; <figure facs="#zone_Page_48_96f70c28-e71f-41cc-9e5a-f2cadd367785" type="in_text">
+                        <note type="editorial_label">[+ in box]</note>
+                     </figure><hi rend="superscript">s</hi></abbr>
+                  <expan>churches and monasteries</expan>
+               </choice>. A very large rather handsome Plaza. Ruined castle at <choice>
+                  <abbr>NE</abbr>
+                  <expan>north-east</expan>
+               </choice> end of City. <choice>
+                  <abbr>SE</abbr>
+                  <expan>south-east</expan>
+               </choice> of the town the Alcazar<note type="editorial">Fortress</note> fine in point
+               of size, a kind of barrack. 5 p 2 sand &amp; Italian pines. Tilled carts here with 5
+               mules. <choice>
+                  <abbr>7 p 3 vill L. 8 p 3 X </abbr>
+                  <expan>3.07 village left. 3.08 cross</expan>
+               </choice><figure facs="#zone_Page_48_ee51efc4-f46b-4dc7-8199-f15971ab1164" type="in_text">
+                  <note type="editorial_label">[drawing: arch bridge]</note>
+               </figure> the rivulet runs L. The mode of sowing wheat is to throw it on the ground
+               &amp; then plough it in</ab>
+            <ab>Meet a coach &amp; 7. Wine cellars. 30 p 3 Vill <rs type="place" ref="#sanvicentepalacio">San.
+                     Vicente<note type="editorial">San Vicente del Palacio</note></rs>.. 30 p 4 <rs
+                  type="place" ref="#ataquines">Taquinas<note type="editorial">Ataquines</note></rs> where
+               sleep. A large Village houses very neat, of mud all on one floor. good brick <choice>
+                  <abbr>+</abbr>
+                  <expan>church</expan>
+               </choice>. people asked us to eat as we walked by the door &amp; the boys were
+               playing at ploughing &amp; at Soldiers.</ab>
+
+
+         </div>
+         <div type="portugal">
+            <ab> </ab>
+         </div>
+         <div type="reading_notes">
+            <ab> </ab>
+         </div>
+      </body>
+
+      <back>
+         <div type="cover">
+            <note> </note>
+         </div>
+         <div type="index"> </div>
+      </back>
+   </text>
+
+</TEI>

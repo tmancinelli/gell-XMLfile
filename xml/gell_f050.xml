@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface xml:id="zone_Page_50">
+         <graphic url="https://iiif.bsr.ac.uk/iiif/2/GELL-VI%2Fwg_06_050.tif/full/full/0/default.jpg"/>
+         <zone points="973,592 984,777 1147,788 1147,587" xml:id="zone_Page_50_7aadb261-46d4-46a6-913a-2cbcf3f8b6e7"/><!-- arch bridge -->
+         <zone points="843,1729 821,1904 990,1925 990,1719" xml:id="zone_Page_50_d4bc4767-f487-4f00-b79a-76f7f4a91a11"/><!-- in box -->
+      </surface>
+   </facsimile>
+   <text>
+      <front>
+         <div type="cover">
+            <note> </note>
+         </div>
+         <div type="inlet">
+            <head> </head>
+         </div>
+      </front>
+
+      <body>
+         <div type="spain">
+            <pb facs="#zone_Page_50" n="050"/>
+            <fw>152</fw>
+            <ab>Granite. 11 p 8<note type="editorial">8.11</note> League 12. Rocks of granite like
+               Cyclopian walls <choice>
+                  <abbr>R &amp; L</abbr>
+                  <expan>right and left</expan>
+               </choice> ascend, enter the Sierra 36 p 8 stony glen <choice>
+                  <abbr>Xd</abbr>
+                  <expan>crossed</expan>
+               </choice> by <figure facs="#zone_Page_50_7aadb261-46d4-46a6-913a-2cbcf3f8b6e7" type="in_text">
+                  <note type="editorial_label">[drawing: arch bridge]</note>
+               </figure> brook to L. <rs type="place" ref="#rivercardenia">Cardenia <choice>
+                     <abbr>Riv</abbr>
+                     <expan>River</expan>
+                  </choice></rs> At 9<hi rend="superscript">h</hi> a stone but not a league Paso del
+                  Monte<note type="translation">Mountain Pass</note> shrubs &amp; rocks. 25 p 9
+               11<hi rend="superscript">th</hi> League<rs type="place" ref="#navasdesanantonio﻿"> Las Navas del Rey qu S<hi
+                     rend="superscript">n</hi> Antonio <note type="editorial">Navas de San Antonio [WG is correct]</note></rs> large Village, meet a coach &amp; 6. steep hill.
+               pass of <rs type="place" ref="#guadarrama">Guaderama<note  type="editorial">Guadarrama</note></rs>. 10 p 10 meet 3 coaches &amp; 6 <choice><abbr>NB</abbr><expan>nota bene (take note)</expan></choice> larger coaches &amp; very like
+               ours. 15 p 10 house on a top, descend, to a <choice><abbr>M<hi rend="superscript">tain</hi></abbr><expan>mountain</expan></choice> valley. 40 p 10 <figure facs="#zone_Page_50_d4bc4767-f487-4f00-b79a-76f7f4a91a11" type="in_text"><note type="editorial_label">[+ in box]</note><note type="editorial">monastery</note></figure> El
+               Christo en colloquio de calloco <note type="translation">The hermitage of Cristo del Caloco</note>. 40 p 10 10<hi rend="superscript">th</hi> League a brook runs L. A <rs type="place" ref="#elespinar"><choice><abbr>Vill</abbr><expan>Village</expan></choice> R El
+                  Espinal <note type="editorial">El Espinar</note></rs> large, at 5 p 11 – At 12<hi rend="superscript">h</hi> 9<hi rend="superscript">th</hi> League &amp; Vill Fonda de San Rafael <note type="translation">the inn at San Rafael</note>stop to
+               dine, a good, house. a fount. <choice><abbr>M<hi rend="superscript">ts</hi></abbr><expan>Mountains</expan></choice> covered seen in View with scotch firs &amp;
+               pinastres. a <choice><abbr>+</abbr><expan>church</expan></choice>. <rs type="place" ref="#segovia">Segovia</rs> road turns off here. ascend steep winding road among pines
+               wild &amp; often beautiful several sorts of thyme. well watered. The Puerto or pass
+               of <rs type="place" ref="#guadarrama">Guaderama</rs>. On the top after a very long ascent a pedestal of Stone <rs type="person" ref="XXX">Fer VI <note type="editorial">Fernando VI of Spain (1713-59)</note></rs>. a lion
+               at top of granite done when he had finished the roads. On the top see as far as the
+               plains of <rs type="place" ref="#leonplace">Leon</rs> one way &amp; to <rs type="place" ref="#madrid">Madrid</rs> 8 leagues &amp; as much beyond, the other.
+               Distinguish at <rs type="place" ref="#madrid">Madrid</rs> the <rs type="place" ref="#realfabrica">casa del China<note type="editorial">The Real Fábrica del Buen Retiro (Royal Factory of Buen Retiro), the porcelain factory, known as 'La China'.</note></rs>. L at bottom a Vill &amp; gardens.</ab>
+
+         </div>
+         <div type="portugal">
+            <ab> </ab>
+         </div>
+         <div type="reading_notes">
+            <ab> </ab>
+         </div>
+      </body>
+
+      <back>
+         <div type="cover">
+            <note> </note>
+         </div>
+         <div type="index"> </div>
+      </back>
+   </text>
+
+</TEI>
