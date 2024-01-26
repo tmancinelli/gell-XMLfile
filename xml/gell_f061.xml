@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface xml:id="zone_Page_61">
+         <graphic url="https://iiif.bsr.ac.uk/iiif/2/GELL-VI%2Fwg_06_061.tif/full/full/0/default.jpg"/>
+         <zone points="-6,70 3416,87 3427,4264 1098,4275 1055,3013 984,2524 10,1708" xml:id="zone_Page_61_289aa2b3-1c66-483a-a5e5-41b10940a37c"/>
+      </surface>
+   </facsimile>
+   <text>
+      <front>
+         <div type="cover">
+            <note> </note>
+         </div>
+         <div type="inlet">
+            <head> </head>
+         </div>
+      </front>
+
+      <body>
+         <div type="spain">
+            <pb facs="#zone_Page_61" n="061"/>
+            <figure facs="#zone_Page_61_289aa2b3-1c66-483a-a5e5-41b10940a37c" type="map">
+               <label><rs type="place" ref="#toledo">TOLEDO</rs> TO <rs type="place" ref="#valdepenas">VAL DE
+                        PEÑAS<note type="editorial">Valdepeñas</note></rs></label>
+               <note type="editorial_label">Pen and ink map with watercolour: <rs type="place"
+                     ref="#toledo">Toledo</rs> to <rs type="place" ref="#valdepenas">Valdepeñas</rs></note>
+            </figure>
+            <ab> Helvas was<rs type="place" ref="#albasch">
+                  <note type="arabic" facs="xxx"> فحص البلوط </note></rs> Albasch.</ab>
+            <ab>
+               <rs type="place" ref="#hosnalzahr_penaflor"><note type="arabic" facs="xxx">قلعه حماد</note></rs>
+               Hosnalzahr or Peñaflor</ab>
+            <ab><rs type="place" ref="#calathhamad_alamedilla"><note type="arabic" facs="xxx">حصن الزهر</note></rs>
+               Calathhamad or Alamedilla</ab>
+            <ab><rs type="place" ref="#fahsalballuth"><note type="arabic" facs="xxx">البش </note></rs>
+               FahSalballuth or Llano de la Bellotas</ab>
+            <ab><rs type="place" ref="#acab_lasnavas"><note type="arabic" facs="xxx">غزوة عقاب</note></rs>
+               proelium Acab or of Las Navas<note type="translation">Battle of Al-Uqab or of Las
+                  Navas</note></ab>
+
+
+
+
+
+         </div>
+         <div type="portugal">
+            <ab> </ab>
+         </div>
+         <div type="reading_notes">
+            <ab> </ab>
+         </div>
+      </body>
+
+      <back>
+         <div type="cover">
+            <note> </note>
+         </div>
+         <div type="index"> </div>
+      </back>
+   </text>
+
+</TEI>

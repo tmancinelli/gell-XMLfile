@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface xml:id="zone_Page_62">
+         <graphic url="https://iiif.bsr.ac.uk/iiif/2/GELL-VI%2Fwg_06_062.tif/full/full/0/default.jpg"/>
+         <zone points="108,81 3476,59 3470,908 108,913" xml:id="zone_Page_62_a9aa01b6-68f2-45f1-a0c1-dc30dfffa4a0"/> <!-- landscape -->
+         <zone points="1757,881 1925,875 1920,952 1746,952" xml:id="zone_Page_62_15a8d60d-663b-49c2-9f5a-1cc47a207060"/> <!-- arch bridge -->
+         <zone points="1985,2491 2339,2480 2344,2665 1980,2671" xml:id="zone_Page_62_2174e078-7aef-4513-8408-ba4095738ded"/> <!-- crenellations -->
+         <zone points="2415,2388 2714,2366 2709,2551 2458,2584" xml:id="zone_Page_62_a03ae6f0-e6f1-44ef-8a69-9d113042a0a7"/> <!-- crenellations -->
+         <zone points="500,4036 745,4014 870,4150 500,4161" xml:id="zone_Page_62_9552d92b-d5eb-4f60-8fca-f64c8707ee0c"/> <!-- castle -->
+      </surface>
+   </facsimile>
+   <text>
+      <front>
+         <div type="cover">
+            <note> </note>
+         </div>
+         <div type="inlet">
+            <head> </head>
+         </div>
+      </front>
+
+      <body>
+         <div type="spain">
+            <pb facs="#zone_Page_62" n="062"/>
+            <fw>136</fw>
+            <figure facs="#zone_Page_62_a9aa01b6-68f2-45f1-a0c1-dc30dfffa4a0">
+               <note type="editorial_label">Pen and ink drawing: landscape with two buildings</note>
+               <label>Nuestra Señora de Consolacion<note type="translation">Our Lady of Consolation
+                  </note></label>
+               <label>Venta de Avertura.<note type="translation">Country inn at
+                  Avertura</note></label>
+            </figure>
+
+            <ab>Quit <rs type="place" ref="#toledo">Toledo</rs>
+               <date when="--10-28">Octob 28</date> fine day at 9h. pass <figure type="in_text"
+                  facs="#zone_Page_62_15a8d60d-663b-49c2-9f5a-1cc47a207060">
+                  <note type="editorial_label">[drawing: arch bridge]</note>
+               </figure> &amp; ascend behind the Moorish <rs type="place" ref="#castillo_cervantes">castle of
+                     Cervantes<note type="editorial">San Servando</note></rs> very steep ascent. On
+               top a moorish building now called <choice>
+                  <abbr>S<hi rend="sueprscript">t</hi></abbr>
+                  <expan>Santa</expan>
+               </choice> Ana<note type="editorial">Country inn.</note>. Venta. has a well &amp;
+               moorish door &amp; garden &amp; olives. The air scented with very aromatic Thyme.
+               Little cultivation. 30 p 10<note type="editorial">10.30</note> <choice><abbr>Vill</abbr><expan>Village</expan></choice> ½ league R hill 1 league <choice><abbr>R</abbr><expan>right</expan></choice>. some cultivation.
+               Olives. 35 p 10 Venta Blanca<note type="editorial">White country inn</note>. one house. L &amp; R trees ½ mile distn. 5 p 12 pass
+               between 2 hills, town &amp; castle of Almonacid ruined castle <choice><abbr>L</abbr><expan>left</expan></choice> 8 miles. 17 to 2<note type="editorial">1.43</note>
+               <rs type="place" ref="#villaminaya">Villa aminaya<note type="editorial">Villaminaya</note></rs> probably Amin aga name of the Moor who built it. Houses round courts
+               &amp; wells as in greece. On one an inscript<hi rend="superscript">n</hi> AMA A DIOS SOBRE TODAS LA COSAS<note type="translation">Love God above all things</note>. it is
+               a ruinous place. enter a dry country the people call all this side of the <rs type="place" ref="#tagus">Tajo<note type="translation">Tagus</note></rs> La
+               Mancha. A road L to <rs type="place" ref="#mora">Mora</rs> Town &amp; ruined castle on a hill. 5 to 4 Vill &amp; ruined
+               castle with arms of <rs type="place" ref="#castile">Castile</rs> but Turkish battlements <figure type="in_text" facs="#zone_Page_62_2174e078-7aef-4513-8408-ba4095738ded"><note type="editorial_label">[drawing: crenellations]</note></figure> or
+               <figure type="in_text" facs="#zone_Page_62_a03ae6f0-e6f1-44ef-8a69-9d113042a0a7"><note type="editorial_label">[drawing: crenellations]</note></figure> called MANZANIQUE<note type="editorial">Manzaneque</note>. poor village very poor Inn the Alcayde <note type="editorial">Governor (alcaide). WG has indicated 'de Manzanique'.</note> a
+               very poor man &amp; the curate came to learn the news &amp; offer what they could –
+               The room had no windows bill for 2 &amp; 2 servants 4 dollars &amp; 3 shillings</ab>
+            <ab><date when="--10-29">Octob 29</date> quit <rs type="place" ref="#manzanique">Manzanique<note type="editorial">Manzaneque</note></rs> at ¼ p 9h delightful day. At
+               10h + R &amp; house L of Filistera large old +. a fount at it which seems the reason
+               of building it. 15 p 10 <choice><abbr>X</abbr><expan>cross</expan></choice> the river running from it. 10 to 1 <rs type="place" ref="#las_carboneras">Las Carboneras</rs> a few
+               
+               houses &amp; well some Valencians &amp; Murcians exactly in the common Greek dress.
+               Some people of <rs type="place" ref="#la_mancha">La Mancha</rs> with leathern doublets &amp; the rest brown looking exactly
+               like a rusty suit of armour. At 2h = to <rs type="place" ref="#consuegra">Consuegra</rs> town &amp;<figure type="in_text" facs="#zone_Page_62_9552d92b-d5eb-4f60-8fca-f64c8707ee0c"><note type="editorial_label">[drawing: castle]</note></figure> moorish
+               castle R. 5 p 3 fields of Saffron, blue flowers &amp; enter <rs type="place" ref="#madridejos">Madridejos</rs></ab>
+
+            <note type="editorial">WG's translation of the Latin in <bibl>Miguel Casiri, Bibliotheca arabico-hispana escurialensis..., 2 vols (Madrid: Antonio Perez de Soto, 1760-1770), vol. 1, pp. 208-11.</bibl></note>
+            <!-- from here bibl -->
+            <note type="marginal" facs="xxx">Ezzeddin Abdelaziz Ebn Abilcassem Babasri in the
+               Library at Granada writes of Samarkand <note type="arabic">سمرنقد<note type="translation">Samarkand</note></note> thus or rather Amet Ben Vadeh</note>
+            <note type="marginal" facs="xxx">Lofty Samarcand deserves to be called the glory of
+               Chorasan. the paradise of regions. Are not its towers hung so high that they elude
+               the sight. Like the moon in a grove of trees shady. Like the full moon its rivers are
+               the milky way &amp; its citadels shine like Stars.</note>
+            <note type="marginal" facs="xxx">Its walls also says Hassan Ben Almonder are like the
+               sun for roundness.</note> <!-- to there bibl -->
+
+            <note type="marginal" facs="xxx"> Gothic <rs type="place" ref="#los_reyes_nuevos">church of los Reyes Nuevos<note type="translation">the New Kings</note></rs> next after
+               Cathedral. Many little churches built for mosques remain little altered</note>
+            <note type="marginal" facs="xxx">The Alhajas<note type="editorial">Or treasures more generally</note> or robes of great ceremony in the cathedral
+               invaluable.</note>
+            <note type="marginal" facs="xxx">summer hot at <rs type="place" ref="#toledo">Toledo</rs> winter mild.</note>
+
+         </div>
+         <div type="portugal">
+            <ab> </ab>
+         </div>
+         <div type="reading_notes">
+            <ab> </ab>
+         </div>
+      </body>
+
+      <back>
+         <div type="cover">
+            <note> </note>
+         </div>
+         <div type="index"> </div>
+      </back>
+   </text>
+
+</TEI>

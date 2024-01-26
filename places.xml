@@ -650,6 +650,10 @@
       <placeName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q860191"><choice><abbr>Puerta St Vicente</abbr><expan>Puerta de San Vicente</expan></choice></placeName>
       <settlement type="country">Spain</settlement>
    </place>
+   <place xml:id="vill_escurial">
+      <placeName xml:lang="en" sameAs="xx">Vill of Baxo Escurial</placeName>
+      <settlement type="country">Spain</settlement>
+   </place>
    
    
 </listPlace>

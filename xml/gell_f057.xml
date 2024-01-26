@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface xml:id="zone_Page_57">
+         <graphic url="https://iiif.bsr.ac.uk/iiif/2/GELL-VI%2Fwg_06_057.tif/full/full/0/default.jpg"/>
+         <zone points="1637,962 3383,1000 3383,114 1653,108" xml:id="zone_Page_57_f709b858-6c1a-4673-9a6c-d41f88b53c47"/> <!-- gate walls -->
+         <zone points="2660,924 2638,1670 1849,1675 1887,935" xml:id="zone_Page_57_b79fb28a-ee1c-4396-9717-619e85542600"/> <!-- interior -->
+         <zone points="2317,2214 2856,2214 2861,2725 2306,2725" xml:id="zone_Page_57_ea3cf42e-1614-4253-810d-61e5c7ca6994"/> <!-- clock -->
+         <zone points="2235,2839 3329,2856 3340,3693 2219,3693" xml:id="zone_Page_57_bd258f16-b3c7-47dc-836a-b23254f98da8"/> <!-- woman and man -->
+      </surface>
+   </facsimile>
+   <text>
+      <front>
+         <div type="cover">
+            <note> </note>
+         </div>
+         <div type="inlet">
+            <head> </head>
+         </div>
+      </front>
+
+      <body>
+         <div type="spain">
+            <pb facs="#zone_Page_57" n="057"/>
+            <ab><rs type="place" ref="#toledo">Toledo</rs> capital of <rs type="place" ref="#carpetania"
+                  >Carpetania</rs>. Here was the table of the shew bread taken from the <rs
+                  type="place" ref="#temple_solomon">Temple of Solomon</rs>. Hyacinths &amp; emeralds. Taric
+               took it.</ab>
+            <ab><rs type="place" ref="#toledo">Toledo</rs> taken by <choice>
+                  <abbr>Xtians</abbr>
+                  <expan>Christians</expan>
+               </choice>
+               <date when="1085">1085</date>. In <date notBefore="1601" notAfter="1700">17
+                  century</date> 200 000 souls, now 20 000.</ab>
+            <ab><rs type="person" ref="#elsabio">Alonzo el Sabio<note type="translation">the
+                  Wise</note></rs> &amp; <rs type="person" ref="#carlos_v">Carlos V</rs> here.</ab>
+            <ab>There is a Fonda del Arzobispo <note type="transaltion">The Archbishop's
+               Inn</note>.</ab>
+            <ab><rs type="person" ref="#king_adam">Adam first King of Spain</rs> of which <rs type="place"
+                  ref="#toledo">Toledo</rs> the Capital. Tradition.</ab>
+            <ab>the market place, where the houses have a very grotesque appearance 5 or 6 stories
+               of wooden galleries – The Cathedral is a most magnificent gothic edifice, about 450
+               feet long, the central Aisle abt 14 yards wide the pillars 5 yds. the side Aisles 7
+               the pillars again 5 &amp; the next aisle about 7 more. The windows are richly
+               stained.</ab>
+            <ab>The Archbishops Palace is joined to the cathedral by an arch thrown over the
+               street.</ab>
+            <ab>In the cathedral a compleat dress for the holy image of gold cloth of which very
+               little is seen being covered with pearls and every kind of precious stone, the riches
+               of the church are immense in silver diamonds gold rubies amethysts emeralds
+               &amp;ccccc. The clock has a curious method of construction for the palates which
+               seems very good &amp; the clock itself is of beautiful workmanship. The gothic work
+               of the shrines in silver &amp; painted wood the great altar the carving of the wars
+               of <rs type="place" ref="#granada">Granada</rs> on the stalls in the choir 3 organs gold
+               cups &amp;cccc are well worth seeing. In the sacristy pictures. The church is said to
+               be of the <date notBefore="1101" notAfter="1200">12<hi rend="superscript">th</hi>
+                  century</date>, but not that now standing. On the <rs type="place" ref="#church_stfrancis"
+                  >church of S<hi rend="superscript">t</hi> Francis </rs>built by <rs type="person"
+                  ref="#ferdinand_aragona">Ferdinand</rs> &amp; <rs type="person" ref="#isabella_castile">Isabella</rs> after the
+               conquest of <rs type="place" ref="#granada">Granada</rs> a<hi rend="underline">re the
+                  fetters of the Christians the King found or pretended to find imprisoned at <rs
+                     type="place" ref="#granada">Granada</rs></hi>. The Palace of that Most catholic
+               monarch joined the church and was a very moderate edifice. <rs type="place" ref="#palace_rodrigo"
+                  >The palace of Rodrigo</rs>.</ab>
+
+
+            <figure facs="#zone_Page_57_f709b858-6c1a-4673-9a6c-d41f88b53c47">
+               <note>Pen and ink drawing with watercolour: gate walls.</note>
+               <label>Moorish Gate &amp; walls <rs type="place" ref="#toledo">Toledo</rs></label>
+            </figure>
+            <note type="marginal" facs="xxx">Built before <date when="1085">1085</date> when the <choice>
+                  <abbr>Xtians</abbr>
+                  <expan>Christians</expan>
+               </choice> retook it.</note>
+            <figure facs="#zone_Page_57_b79fb28a-ee1c-4396-9717-619e85542600">
+               <note>Pen and ink plan: interior</note>
+            </figure>
+            <note type="arabic" facs="xxx">ال باب في ط لا ي ل<note type="translation">The gate in
+                  Toledo</note><note type="editorial">Gell’s separation of letters suggests this is
+                  early in his learning of Arabic</note></note>
+            <note type="marginal" facs="xxx">Tolaitola <note type="translation">Toledo</note>, in
+               Arab <choice>
+                  <abbr>M.S.S.</abbr>
+                  <expan>Manuscripts</expan>
+               </choice></note>
+            <note>Petticoats of Peasants turned up with rose leaves flowers &amp; stripes used as
+               veils.</note>
+            <metamark/>
+            
+            <note type="marginal" facs="xxx">Of the <rs type="place" ref="#castillo_cervantes">Castillo de Cervantes<note type="translation"
+                     >Castle of [San] Servando</note></rs>. the romance says
+            <lg><l>“Castillo de san Cervantes</l>
+            <l>“Tu que estas par de Toledo</l>
+            <l>“Cercote el Rey don Alfonzo</l>
+            <l>“Sobre las aguas de Tejo”.</l></lg> &amp;c &amp;c</note>
+            <note type="translation"><lg><l>"Castle of San Servando </l><l>"You who are opposite Toledo </l><l>"King Don
+               Alfonso walled you in </l><l>"Over the waters of the Tagus"</l></lg>. Etc etc ('Cercote' could also
+               mean 'besieged you', but Alfonso was a benefactor of the castle)</note>
+            <note type="editorial">WG may have taken this from <bibl>Romancero general, en que se
+               contienen todos los Romances que andan impressos, ed. Pedro Flores (Madrid: Juan de
+               la Cuesta, 1614), p. 435.</bibl> [Introduced as 'Otro Romance', worded exactly the same and
+               on page before 'Letrilla', noted below.] There are many editions of Flores's
+               collection.</note>
+            <figure facs="#zone_Page_57_ea3cf42e-1614-4253-810d-61e5c7ca6994">
+               <note>Pen and ink drawing: cogs</note><label>clock at <rs type="place" ref="#toledo">Toledo</rs></label>
+            </figure>
+            <note type="marginal" facs="xxx">A little oratory remains at <rs type="place" ref="#toledo">Toledo</rs> built by the Moors of still older Roman
+               materials before <date when="1085">1085</date>.</note>
+            <figure facs="#zone_Page_57_bd258f16-b3c7-47dc-836a-b23254f98da8">
+               <note>Pen and ink drawings with watercolour: woman and man</note>
+               <label>Peasant <rs type="place" ref="#toledo">Toledo</rs></label>
+            </figure>
+            <note type="marginal" facs="xxx">After Swilla it became Gothic capital</note>
+            <note type="marginal" facs="xxx">It had 150 Towers to landside 1083</note>
+            <note type="marginal" facs="xxx">Moors took it <date when="0714">714</date>. <rs type="person" ref="#alphonso_vi">Alphonso VI</rs> in <date when="1085-05">May 1085</date>.</note>
+            <note type="marginal" facs="xxx">He styled himself Emperor Magnif of <rs type="place" ref="#toledo">Toledo</rs>.</note>
+            <note type="marginal" facs="xxx">Cid Governor in <date when="1089">1089</date> built <rs type="place" ref="#castillo_cervantes">Castle of San Cervantes</rs>. Title Imperial.</note>
+            <note type="marginal" facs="xxx"><label>LETRILLA</label>
+            <lg><l>“Buena orina y buen color”</l>
+            <l>“Y dos higas al Doctor.”</l>
+               <note type="tranlsation">Letrilla [Spanish poetic form, often satirical]
+                  "Good urine and good colour"
+                  "And two figs to the Doctor"</note></lg></note>
+            <note type="marginal" facs="xxx">The Alcasar is 80 Toises
+            6
+            480 feet above <rs type="place" ref="#tagus">Tagus</rs>. <note type="editorial">This is a sum: 80x6=480
+               One toise divided into six feet.</note></note>
+
+         </div>
+         <div type="portugal">
+            <ab> </ab>
+         </div>
+         <div type="reading_notes">
+            <ab> </ab>
+         </div>
+      </body>
+
+      <back>
+         <div type="cover">
+            <note> </note>
+         </div>
+         <div type="index"> </div>
+      </back>
+   </text>
+
+</TEI>

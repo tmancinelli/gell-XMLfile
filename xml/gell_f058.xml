@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface xml:id="zone_Page_58">
+         <graphic url="https://iiif.bsr.ac.uk/iiif/2/GELL-VI%2Fwg_06_058.tif/full/full/0/default.jpg"/>
+         <zone points="277,919 2801,935 2801,87 277,92" xml:id="zone_Page_58_2a50f346-fbf3-455c-96c7-dd3e49a25b60"/> <!-- country inn -->
+         <zone points="1365,3530 1865,3525 1871,3693 1349,3704" xml:id="zone_Page_58_e2c2916c-f22e-4790-a017-01ba6ced36fa"/> <!-- sword -->
+         <zone points="3503,2306 3487,924 2132,924 2116,2290" xml:id="zone_Page_58_0e8966e1-f968-4bd6-ad58-bc0a7ba04fed"/> <!-- map of toledo -->
+         <zone points="2442,2513 2426,3095 3198,3106 3182,2496" xml:id="zone_Page_58_733e735d-8c13-4cbe-8980-409a11b7b0ac"/> <!-- mozarabic chapel --> 
+      </surface>
+   </facsimile>
+   <text>
+      <front>
+         <div type="cover">
+            <note> </note>
+         </div>
+         <div type="inlet">
+            <head> </head>
+         </div>
+      </front>
+
+      <body>
+         <div type="spain">
+            <pb facs="#zone_Page_58" n="058"/>
+            <fw>140</fw>
+
+            <figure facs="#zone_Page_58_2a50f346-fbf3-455c-96c7-dd3e49a25b60">
+               <label>VENTA DE SANT ANA<note type="translation">Country inn of Santa Ana</note> NEAR
+                     <rs type="place" ref="#toledo">TOLEDO</rs></label>
+               <note type="editorial_label">Pen and ink drawing with watercolour: landscape with
+                  building</note>
+               <label>Moorish</label>
+            </figure>
+            <ab>last King of the Goths is now a convent near <rs type="place" ref="#church_stfrancis"><choice><abbr>S<hi rend="superscript">n</hi> Francis</abbr><expan>i.e. the church of St Francis</expan></choice></rs>. The college is a beautiful
+               Ionic building, the court entered &amp; surrounded by very handsome Ionic columns of
+               Granite. The Church &amp; college of the ex Jesuits is also handsome. The Alcasar or
+               Palace is now a kind of barrack, on the highest point in the city a magnificent
+               edifice on the site of the Moorish palace built by the <rs type="person" ref="#carlos_v">Emperor Charles V</rs> as the Eagle
+               over the door seems to indicate. It is very handsome within as far as the courts
+               staircase. A fine gallery overlooks the deep glen of the Tagus. The Market place is
+               called Socodover<note type="editorial">Plaza de Zocodover</note>. There are two bridges over the <rs type="place" ref="#tagus">Tagus</rs> one from Aranjuez &amp; one
+               towd the South both handsome &amp; picturesque. out of the Gate <choice><abbr>towd N W</abbr><expan>towards north-west</expan></choice> is the
+               church &amp; <rs type="place" ref="#tomb_santa_leocadia">tomb of Santa Leocadia</rs> very ancient, has been converted into a mosque
+               &amp; back again is of the earliest style. Council of <rs type="place" ref="#toledo">Toledo</rs> held here. Little Brick
+               arches. one of S<hi rend="sueprscript">n</hi> Vincent in the town of the same architecture. The sword factory a
+               square palace about ½ mile NW of the city, the trial of them is not so severe as in
+               <rs type="place" ref="#england">England</rs> <figure type="in_text" facs="#zone_Page_58_e2c2916c-f22e-4790-a017-01ba6ced36fa"><note type="editorial_label">[drawing: sword]</note></figure> They are begun by a piece of iron between two pieces of
+               steel proportion 12 to 23. The work does not go on very briskly but the few workmen
+               clever. Visited his <rs type="person" ref="#archbishop_toledo">Eminence the Cardinal Archbishop of Toledo &amp; Seville</rs> 
+               Metropolitan of Spain <rs type="person" ref="#nephew_of_the_king">Nephew of the King</rs> &amp; aged 28.</ab>
+
+
+            <figure type="map" facs="#zone_Page_58_0e8966e1-f968-4bd6-ad58-bc0a7ba04fed">
+               <note type="editorial_label">Pen and ink map with watercolour: <rs type="place"
+                     ref="#toledo">Toledo</rs></note>
+               <label>SITE OF <rs type="place" ref="#toledo">TOLEDO</rs></label>
+            </figure>
+
+            <note type="marginal" facs="xxx">There is in the <rs type="place" ref="#cathedral_toledo">Cathedral of
+                  Toledo</rs> a little bit of Moorish frieze. But it may be Mozarabic <choice>
+                  <abbr>Xtian</abbr>
+                  <expan>Christian</expan>
+               </choice> ie not Moorish.</note>
+            <figure type="sketch" facs="#zone_Page_58_733e735d-8c13-4cbe-8980-409a11b7b0ac">
+               <label>Mozarabic Chapel.</label>
+               <note type="editorial_label"> [drawing: building]</note>
+            </figure>
+            <note type="marginal" facs="xxx"><choice>
+                  <abbr>A<hi rend="superscript">o</hi></abbr>
+                  <expan>The year (anno)</expan>
+               </choice>
+               <date when="1226">1226</date> foundation of <rs type="place" ref="#cathedral_toledo">Cathedral of
+                  Toledo</rs> by architect <rs type="person" ref="#cavez">Cavez</rs>.</note>
+            <note type="marginal" facs="xxx"> the market place called Socodover has windows like
+               opera boxes for the people to see tournaments &amp; shews as it was formerly.</note>
+            <note type="marginal" facs="xxx">circus Roman</note>
+            <note type="marginal" facs="xxx">circus Roman</note>
+            <!-- pencil -->
+
+
+         </div>
+         <div type="portugal">
+            <ab> </ab>
+         </div>
+         <div type="reading_notes">
+            <ab> </ab>
+         </div>
+      </body>
+
+      <back>
+         <div type="cover">
+            <note> </note>
+         </div>
+         <div type="index"> </div>
+      </back>
+   </text>
+
+</TEI>

@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface xml:id="zone_Page_64">
+         <graphic url="https://iiif.bsr.ac.uk/iiif/2/GELL-VI%2Fwg_06_064.tif/full/full/0/default.jpg"/>
+         <zone points="103,81 3427,65 3421,1229 2110,1251 2099,1169 97,1164" xml:id="zone_Page_64_7d067d06-6138-41f5-b9cb-815e3567a4fa"/> <!-- courtyard -->
+         <zone points="1196,2448 1479,2448 1479,2567 1185,2567" xml:id="zone_Page_64_c9332c65-c929-4efa-92d2-0aa118e9fd23"/> <!-- castle -->
+         <zone points="2328,2741 3291,2730 3312,3454 2366,3497" xml:id="zone_Page_64_08c5fe3d-da79-4915-81ca-0922d487c845"/> <!-- ploughing -->
+         <zone points="2643,3459 2866,3459 2861,3606 2638,3623" xml:id="zone_Page_64_7646941e-9ec8-4ee8-b773-6a48075afa35"/> <!-- well -->
+         <zone points="2475,3617 3247,3617 3258,4297 2458,4292" xml:id="zone_Page_64_f1d61947-d16f-4e1a-b8c0-94b302a36b30"/> <!-- country inn -->
+      </surface>
+   </facsimile>
+   <text>
+      <front>
+         <div type="cover">
+            <note> </note>
+         </div>
+         <div type="inlet">
+            <head> </head>
+         </div>
+      </front>
+
+      <body>
+         <div type="spain">
+            <pb facs="#zone_Page_64" n="064"/>
+            <fw>134</fw>
+            <figure facs="#zone_Page_64_7d067d06-6138-41f5-b9cb-815e3567a4fa">
+               <note type="editorial_label">Pen and ink drawing: courtyard</note>
+               <label>Court &amp; Corrida de los Toros<note type="translation">Bull-ring</note> at
+                  Church of <rs type="place" ref="#nuestra_sra_consolacion"><choice>
+                     <abbr>N<hi rend="superscript">ra</hi> S<hi rend="superscript">ra</hi> de
+                        Consolacion</abbr>
+                     <expan>Nuestra Señora de Consolación</expan>
+                  </choice><note type="translation">Our Lady of Consolation</note></rs></label>
+               <note>a very great want of consolation throughout.</note>
+            </figure>
+
+            <ab><date when="1808-10-31">Octob 31</date> fine but cold &amp; white frost till about 9<hi rend="superscript">h</hi>.
+               15 to 9<note type="editorial">8.45</note> quit <rs type="place" ref="#guadiana_villaherta">Villaharta<note type="editorial">Villarta de San Juan</note></rs>, small place. a plain without end. sometimes uncultivated
+               some: part of it bushy, had been woody. At 18<hi rend="superscript">h</hi> Casa nueva del Rey<note type="translation">King's New House</note>, Post house, single
+               house, thought unsafe to sleep at because single. Many soldiers on road. country very
+               uninhabited from <rs type="place" ref="#madridejos">Madridejos</rs>. Qu?<note type="editorial">i.e. WG wonders</note> is this the Venta de <rs type="place" ref="#quesada">Quesada</rs><note type="translation">Country inn at <rs type="place" ref="#quesada">Quesada</rs></note>. The Guadiana here runs
+               underground 7 Leagues. ploughed country. The curve of the earth plainly perceptible
+               here, first the church &amp; then the houses of <rs type="place" ref="#manzanares">Manzanares</rs> seen. 25 to 1 a castle qu
+               <rs type="place" ref="#alhambra">Alhambra</rs> <figure type="in_text" facs="#zone_Page_64_c9332c65-c929-4efa-92d2-0aa118e9fd23"><note type="editorial_label">[drawing: castle]</note></figure> seen <choice><abbr>L</abbr><expan>left</expan></choice> distant. 30 p 1<note type="editorial">1.30</note> Mancanares<note type="editorial">Manzanares</note> town large mud walled
+               said to be the best town in the country. The people ugly. Saffron blue flower &amp;c
+               .. A couple of mules &amp; 2 men drew two ploughs here. soon after see another
+               country descending very little to <rs type="place" ref="#nuestra_sra_consolacion">Nuestra Señora de La Consolacion</rs><note type="translation">Our Lady of Consolation: the village, <rs type="place" ref="#nuestra_sra_consolacion">Consolación</rs>, between <rs type="place" ref="#manzanares">Manzanares</rs> and <rs type="place" ref="#valdepenas">Valdepeñas</rs></note> where arrive at 5
+               to 4. The place called Venta de l’ <rs type="place" ref="#avertura">Avertura</rs><note type="translation">Country inn at <rs type="place" ref="#avertura">Avertura</rs></note>, consists of one miserable Venta<note type="translation">Country inn</note> &amp;
+               the <choice><abbr>+</abbr><expan>church</expan></choice> joined to a corrida de los Toros<note type="translation">Bull-ring</note> &amp; an Anchorites cell. Eremita<note type="translation">Hermit</note>. No other
+               houses near. A well Alarm of thieves being a single house. No appearance of any real
+               danger but forced to watch during the greater part of the night
+                  <metamark>–</metamark></ab>
+
+
+            <figure type="sketch" facs="#zone_Page_64_08c5fe3d-da79-4915-81ca-0922d487c845">
+               <note type="editorial_label"> Pen and ink drawing: ploughing</note>
+               <label>Making 2 furrows</label>
+            </figure>
+            <figure type="sketch" facs="#zone_Page_64_7646941e-9ec8-4ee8-b773-6a48075afa35">
+               <note type="editorial_label">Pen and ink drawing: well </note>
+               <label>well</label>
+            </figure>
+            <figure type="sketch" facs="#zone_Page_64_f1d61947-d16f-4e1a-b8c0-94b302a36b30">
+               <label>Venta<note type="translation">Country inn</note> of <rs type="place" ref="#avertura">Averturas</rs></label>
+               <note type="editorial_label">Pen and ink plan: interior</note>
+            </figure>
+
+         </div>
+         <div type="portugal">
+            <ab> </ab>
+         </div>
+         <div type="reading_notes">
+            <ab> </ab>
+         </div>
+      </body>
+
+      <back>
+         <div type="cover">
+            <note> </note>
+         </div>
+         <div type="index"> </div>
+      </back>
+   </text>
+
+</TEI>

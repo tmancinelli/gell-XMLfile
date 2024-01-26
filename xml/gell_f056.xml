@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface xml:id="zone_Page_56">
+         <graphic url="https://iiif.bsr.ac.uk/iiif/2/GELL-VI%2Fwg_06_056.tif/full/full/0/default.jpg"/>
+         <zone points="114,114 3312,108 3312,750 108,739" xml:id="zone_Page_56_3ce3c309-7f79-4298-87e5-14e321e01bab"/> <!-- view of Toledo -->
+         <zone points="1311,690 1784,701 2350,1234 3470,1153 3432,2437 2170,2480 1169,2322" xml:id="zone_Page_56_21e570aa-8b5c-4b02-b542-97c8b08547db"/> <!-- cathedral -->
+         <zone points="1039,3307 1283,3307 1283,3427 1039,3427" xml:id="zone_Page_56_c2538060-d9fc-4238-8e0a-90c280a10e54"/> <!-- arch bridge -->
+         <zone points="544,3416 544,3416 696,3410 712,3525 533,3514" xml:id="zone_Page_56_5099fc32-9be5-4d70-ae33-a33c1cc991a7"/> <!-- arch bridge -->
+         <zone points="1566,3949 1838,3944 1838,4063 1550,4069" xml:id="zone_Page_56_c75ad5a8-7ab0-47aa-8a14-46a66c09e3e9"/> <!-- arch bridge -->
+      </surface>
+   </facsimile>
+   <text>
+      <front>
+         <div type="cover">
+            <note> </note>
+         </div>
+         <div type="inlet">
+            <head> </head>
+         </div>
+      </front>
+
+      <body>
+         <div type="spain">
+            <pb facs="#zone_Page_56" n="056"/>
+            <fw>142</fw>
+            <figure facs="#zone_Page_56_3ce3c309-7f79-4298-87e5-14e321e01bab">
+               <note type="editorial_label">Pen and ink drawing: view of <rs type="place" ref="#toledo"
+                     >Toledo</rs></note>
+               <label>Alcazar<note type="translation">Fortress</note></label>
+               <label>Cervantes</label>
+               <label><rs type="place" ref="#tagus">Tajo<note type="translation">Tagus</note></rs>
+                  River</label>
+               <label><rs type="place" ref="#toledo">TOLEDO</rs></label>
+               <label>approach from <rs type="place" ref="#aranjuez">Aranjuez</rs></label>
+            </figure>
+            <figure facs="#zone_Page_56_21e570aa-8b5c-4b02-b542-97c8b08547db" type="sketch">
+               <note type="editorial_label">Pen and ink drawing: cathedral</note>
+               <label><rs type="place" ref="#cathedral_toledo">Cathedral of Toledo</rs></label>
+               <label>gallery of Kings</label>
+            </figure>
+            
+
+            <ab>highest perfection, even white marble &amp; so well done as to appear fully equal to
+               the rest. The <rs type="place" ref="#tagus">Tajo</rs> joins the <rs type="place"
+                  ref="#jarama">Jarama</rs> &amp; the <rs type="place" ref="#manzanares">Mançanares<note
+                     type="editorial">Manzanares</note></rs> near <rs type="place" ref="#aranjuez"
+                  >Aranjuez</rs>. Near the <rs type="place" ref="#casa_labrador">casa del Labrador<note
+                     type="translation">Gardener's house</note></rs>
+               <rs type="person" ref="#kingcarlos_iv">the King <!-- King Carlos IV --></rs> has built several
+               ships of the line &amp; frigates on the river. In miniature. In these ships he took
+               great delight &amp; went often on board. There is a theatre in the hall of the pit
+               &amp; boxes is square &amp; the actors were most wretched <metamark>–</metamark> The weather beautiful
+               &amp; so hot as to scorch the skin of the face</ab>
+            <ab><date when="--10-26">Octob 26</date> fine day but a fog in the morning quit palace
+               of <rs type="place" ref="#aranjuez">Aranjuez</rs> at 15 to 9<note type="editorial"
+                  >8.45</note>
+               <metamark>–</metamark> Road in an avenue. 35 p 9<note type="editorial">9.35</note> a
+               Casa de Campo<note type="translation">country house</note> like a monastery on the
+               bank, planted wih olives, near on <choice>
+                  <abbr>L.</abbr>
+                  <expan>left</expan>
+               </choice>
+               <rs type="place" ref="#puerto_flaminges">Puerto de Flaminges</rs>. ¾ of a league. Tamarisks in
+               forests. Fine pastures on which the royal horses &amp;c. grazed. A second casa del
+               Campo <choice>
+                  <abbr>R.</abbr>
+                  <expan>right</expan>
+               </choice> 8 leagues from <rs type="place" ref="#madrid">Madrid</rs>. About a league from
+                  <rs type="place" ref="#aranjuez">Aranjuez</rs> the Royal avenues cease. 10 to 10 <choice>
+                  <abbr>X</abbr>
+                  <expan>cross</expan>
+               </choice> a river, on R across the Tajus on a bank high is the Village of <rs
+                  type="place" ref="#anover_tajo">Anoure del Tajo<note type="editorial">Añover de
+                     Tajo</note></rs>. 10 p 12 <rs type="place" ref="#villamejor">Villa Mejor<note type="editorial">Villamejor</note></rs> two
+               large houses, an Inn the made road ceases. 15 p 1 X [drawing: arch bridge] over a
+               stream running R. 20 to 2 X <figure type="in_text" facs="#zone_Page_56_c2538060-d9fc-4238-8e0a-90c280a10e54">
+                  <note type="editorial_label">[drawing: arch bridge]</note>
+               </figure>. Plain covered with Liquorice. 20 p 2 X <figure type="in_text" facs="#zone_Page_56_5099fc32-9be5-4d70-ae33-a33c1cc991a7">
+                  <note type="editorial_label">[drawing: arch bridge]</note>
+               </figure>. 20 to 5 <rs type="place" ref="#toledo">Toledo</rs>, All the way is an
+               uncultivated heath or Thyme common. R the bed of the <rs type="place" ref="#tagus"
+                  >Tajo</rs> is always marked by trees. miles of Tamarisks. Entering <rs
+                  type="place" ref="#toledo">Toledo</rs> is a ruined castellated garden house. some
+               pretty Fountains. A fine Statue of <rs type="person" ref="#kingwamba">King Wamba</rs> K<hi
+                  rend="superscript">g</hi> of the Goths. The entrance to the city a fine <figure
+                     type="in_text" facs="#zone_Page_56_c75ad5a8-7ab0-47aa-8a14-46a66c09e3e9">
+                  <note type="editorial_label">[drawing: arch bridge]</note>
+               </figure> over the <rs type="place" ref="#tagus">Tajo</rs> very rocky deep bed very
+               picturesque. steep ascent to</ab>
+
+
+
+            <note type="marginal" facs="xxx">As much as I could sketch before the Archbishop
+               entered</note>
+            <note type="marginal" facs="xxx">Specimen of Spanish wit instead of <choice>
+                  <abbr>D-n</abbr>
+                  <expan>Damn</expan>
+               </choice> Pitt. <rs type="person" ref="#wilkins"><choice>
+                     <abbr>Wm</abbr>
+                     <expan>William</expan>
+                  </choice> Wilkins</rs> is a fool &amp;c <metamark>–</metamark></note>
+            <note type="marginal" facs="xxx">En una secreta<note type="translation">In a
+                  privy</note></note>
+            <note type="marginal" facs="xxx">“Aqui cago Dn Josef Guttierrez<note type="translation"
+                  >"Here shat Don Josef Gutiérrez</note></note>
+            <note type="marginal" facs="xxx">“<date when="1792-06-01">dia 1mo de Junio
+                  1792</date>”.<note type="translation">"First day of June 1792"</note></note>
+            <note type="marginal" facs="xxx">Not content with this the author proceeds with his
+               title “Empleado en les Reales salines de Pinilla en La Mancha.<note
+                  type="translation">Employee in the Royal saltworks [salinas] at Pinilla in La
+                  Mancha.</note></note>
+            <note type="marginal" facs="xxx"><rs type="person" ref="#daymel">Don Vicente Gomiel de
+                  Daymel</rs> follows his example. <metamark>–</metamark></note>
+
+
+         </div>
+         <div type="portugal">
+            <ab> </ab>
+         </div>
+         <div type="reading_notes">
+            <ab> </ab>
+         </div>
+      </body>
+
+      <back>
+         <div type="cover">
+            <note> </note>
+         </div>
+         <div type="index"> </div>
+      </back>
+   </text>
+
+</TEI>

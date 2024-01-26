@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface xml:id="zone_Page_55">
+         <graphic url="https://iiif.bsr.ac.uk/iiif/2/GELL-VI%2Fwg_06_055.tif/full/full/0/default.jpg"/>
+         <zone points="38,103 43,810 3312,875 3307,119" xml:id="zone_Page_55_3d690224-0292-4905-b742-1ede5ddbfe9a"/> <!-- landscape -->
+         <zone points="2137,1343 3155,1311 3231,2507 2714,2507 2159,2458" xml:id="zone_Page_55_f0509a32-71c0-40e2-a268-03f64b907249"/> <!-- woman on mule with man -->
+         <zone points="2186,2475 3176,2513 3187,2997 2170,2970" xml:id="zone_Page_55_dd5b157b-4c67-4fbb-a1e9-45c33dd3c385"/> <!-- interior -->
+      </surface>
+   </facsimile>
+   <text>
+      <front>
+         <div type="cover">
+            <note> </note>
+         </div>
+         <div type="inlet">
+            <head> </head>
+         </div>
+      </front>
+
+      <body>
+         <div type="spain">
+
+            <pb facs="#zone_Page_55" n="055"/>
+            <figure facs="#zone_Page_55_3d690224-0292-4905-b742-1ede5ddbfe9a">
+               <note type="editorial_label">Pen and ink drawing: landscape</note>
+               <label>Palace on the Tajus between <rs type="place" ref="#aranjuez">Aranjuez</rs> &amp; <rs
+                     type="place" ref="#toledo">TOLEDO</rs></label>
+            </figure>
+
+            <ab>At <rs type="place" ref="#aranjuez">Aranjues<note type="editorial">Aranjuez</note></rs>
+               the houses almost all of one story and very regularly built with very wide streets.
+               Plaistered with a coat of mud, next mortar &amp; then paint. the streets &amp;
+               squares generally right angles. The whole is surrounded with wood &amp; delightful
+               avenues which extend eight or 10 miles in length up &amp; down the <rs type="place"
+                  ref="#tagus">Tajo<note type="translation">Tagus</note></rs>, and 3 or 4 in the
+               opposite direction. The palace is very like all the other palaces of <rs type="place"
+                  ref="#spain">Spain</rs>. Great staircases of stone, balls pyramids, obeliscs,
+               &amp;c.... The <rs type="place" ref="#tagus">Tagus</rs> is cut into 2 streams or runs so
+               naturally as to leave an island for a private garden which is shady &amp; pretty.
+                  <rs type="place" ref="#casa_labrador">The Casa de Labrador</rs> or gardeners house a folly of <rs type="person"
+                  ref="#kingcarlos_iv">King Carlos IV</rs> is about a mile distant from the town up the <rs
+                  type="place" ref="#tagus">Tajo</rs>. the outside is ugly but like everything at <rs
+                  type="place" ref="#aranjuez">Aranjuez</rs> surrounded by trees. A moat is made round it
+               with a wooden bridge. Urns of marble &amp;c. The inside is painted &amp; ornamented
+               very prettily. In some parts no expense has been spared. One small room has pilasters
+               covered with arabesques uncommonly well executed in solid gold &amp; Plateria<note
+                  type="translation">silver</note>. Every thing is well finished, &amp; the best
+               specimens of <rs type="place" ref="#valencia">Valencia</rs> silk &amp; cloth of Gold are
+               seen on almost every wall. The floors are not all good, some indeed of inlaid marble
+               &amp; some of Tiles glazed &amp; prettily painted but many are of brick &amp; of the
+               common kind not baked sufficiently or of bad materials which fill all Spanish rooms
+               with red dust <metamark>–</metamark> The imitation of marble in Scagliola is here in the </ab>
+
+
+            <note facs="xxx" type="marginal"><choice>
+                  <abbr>Great No of Arabic M.S.S. at <rs type="person" ref="XXX">K<hi
+                           rend="superscript">gs</hi></rs> Library</abbr>
+                  <expan>Great Number of Arabic Manuscripts at <rs type="person" ref="XXX"
+                     >King</rs>'s Library</expan>
+               </choice> shewing that <!-- King Carlos IV --> there was a great College of
+               Physicians at <rs type="place" ref="#toledo">Toledo</rs> <metamark>–</metamark></note>
+            <figure type="sketch" facs="#zone_Page_55_f0509a32-71c0-40e2-a268-03f64b907249">
+               <note type="editorial_label"> Pen and ink drawing with watercolour: woman on mule with
+                  man</note>
+            </figure>
+            <figure type="sketch" facs="#zone_Page_55_dd5b157b-4c67-4fbb-a1e9-45c33dd3c385">
+               <note type="editorial_label">Pen and ink plan with watercolour: interior</note>
+            </figure>
+            <note facs="xxx" type="marginal">We dined at <rs type="person" ref="#sir_charles_stuart">Sir Cha<hi
+                     rend="superscript">s</hi> Stuarts <note type="editorial">Sir Charles Stuart,
+                     future 1st Baron Stuart de Rothesay (1779-1845), then on an
+                     intelligence-gathering mission to French-occupied Spain (1808-10). Afterwards
+                     minister at Lisbon (1810-14).</note></rs> at <rs type="place" ref="#aranjuez"
+                  >Aranjuez</rs> with <rs type="person" ref="#bentinck">L<hi rend="superscript">d</hi>.
+                     W<hi rend="superscript">m</hi>. Bentinck <note type="editorial">Lord William
+                     Bentinck (1774-1839), army officer and later governer-general in
+                  India.</note></rs>. <rs type="person" ref="#walpole">L<hi rend="superscript">d</hi>
+                  Walpole <note type="editorial">Lord Walpole (Horatio, future 2nd Earl of Orford,
+                     1752-1822), politician.</note></rs> &amp; <rs type="person" ref="#sir_thomas_graham">S<hi
+                     rend="superscript">r</hi> Tho<hi rend="superscript">s</hi> Graham <note
+                     type="editorial">Sir Thomas Graham, future 1st Baron Lynedoch (1748-1843), army
+                     officer.</note></rs>. The last was getting supplies for <rs type="person"
+                        ref="#sir_john_moore">S<hi rend="superscript">r</hi> John Moors<note type="editorial">Sir John
+                     Moore (1761-1809), army officer famous for his retreat to Corunna (and his
+                     death at the subsequent Battle of Corunna).</note></rs> Army the others amusing
+               themselves. </note>
+            <note facs="xxx" type="marginal">Arsenal. <rs type="place" ref="#casa_marineros">Casa de los
+                     Marineros<note type="translation">The Sailors' House</note></rs>, cannon.
+               frigates. real Sailors. sham fights. <rs type="person" ref="XXX">Kings</rs> boat very
+               fine.</note>
+            <note facs="xxx" type="marginal">Court comes here in <date when="--04">April</date>
+               &amp; in dog days goes to <rs type="place" ref="#granja_ildefonso">La Granja S<hi
+                     rend="superscript">t</hi> Ildefonso<note type="translation">The Farm, San
+                     Ildefonso</note></rs> thence to the <rs type="place" ref="#escurial">Escurial</rs>
+               &amp; in <date when="--11">Novr</date> to <rs type="place" ref="#madrid">Madrid</rs>.
+               &amp; <rs type="place" ref="#prado">Prado</rs></note>
+
+         </div>
+         <div type="portugal">
+            <ab> </ab>
+         </div>
+         <div type="reading_notes">
+            <ab> </ab>
+         </div>
+      </body>
+
+      <back>
+         <div type="cover">
+            <note> </note>
+         </div>
+         <div type="index"> </div>
+      </back>
+   </text>
+
+</TEI>

@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface xml:id="zone_Page_52">
+         <graphic url="https://iiif.bsr.ac.uk/iiif/2/GELL-VI%2Fwg_06_052.tif/full/full/0/default.jpg"/>
+         <zone points="3138,685 3323,669 3334,821 3133,837" xml:id="zone_Page_52_ad1d9f8a-9d1d-478c-b6f6-f09c85118a58"/> <!-- Maltese cross -->
+         <zone points="163,3296 3427,3253 3432,3644 157,3682" xml:id="zone_Page_52_d42e1551-f1eb-47a9-ad17-8c8f3394ea0c"/> <!-- Bullfighting arena -->
+      </surface>
+   </facsimile>
+   <text>
+      <front>
+         <div type="cover">
+            <note> </note>
+         </div>
+         <div type="inlet">
+            <head> </head>
+         </div>
+      </front>
+
+      <body>
+         <div type="spain">
+            <pb facs="#zone_Page_52" n="052"/>
+            <fw>148</fw>
+            <ab>handsome but upon a very high basement of 3 or 4 stories the rest beautiful. drive
+               to the Cruz de Malta <note type="translation">Cross of Malta</note> a pretty good but dear Fonda<note type="translation">Inn</note> where we staid 2 days &amp; then
+               took a lodging. Italian opera very good <rs type="person" ref="#smarchesini"><choice><abbr>S<hi rend="superscript">ra</hi></abbr><expan>Signora</expan></choice> Marchesini</rs>&amp; <rs type="person" ref="#sfineschi"><choice><abbr>S<hi rend="superscript">a</hi></abbr><expan>Signora</expan></choice> Fineschi</rs> the singers
+               &amp; two very good men. Opera a ridicule of Gli Orazii e Curiazii. the after piece
+               Filandro e Carolina. On the morning of the <date when="1808-10-10">tenth Oct 1808</date> a bull feast Corrida de los
+               Toros<note type="editorial">bullfight (or 'bull feast', WG's term shared by most British contemporaries)</note> 6 bulls killed 4 or 5 poor horses cruelly gored to death. In the afternoon 8
+               bulls &amp; many horses besides a man fell. The amphitheatre is at least 100 yards in
+               <choice><abbr>diam<hi rend="superscript">r</hi></abbr><expan>diameter</expan></choice> &amp; the seats have 15 rows besides 7 in the boxes behind &amp; the upper
+               story where the private boxes are hung with silk of all colours. It is exactly except
+               in being a circle on the plan of a roman amphitheatre. The palace full of fine
+               pictures – A court in the middle – Our Lodging cost a dollar a day. 2 bad bed rooms,
+               a good sitting</ab>
+            <figure facs="#zone_Page_52_d42e1551-f1eb-47a9-ad17-8c8f3394ea0c">
+               <note type="editorial_label">Pen and ink drawing: bull-ring</note>
+               <label> Section of the Colliseo de los Toros<note type="translation">Bullfighting arena [coliseo]</note></label>
+            </figure>
+            <ab>room, a bad dining room, servants rooms &amp; kitchen. Cloth &amp; every thing which
+               requires labour very dear. The people we knew. <rs type="person" ref="#altemira">The Condesa<note type="translation">Countess</note> Altemira</rs></ab>
+
+
+            <note type="marginal">Thermometer from 62 to 66 from <date notBefore="1808-10-10" notAfter="1808-10-20">10th to 20 of October</date></note>
+
+            <note type="marginal">Bill for us &amp; Servants at <figure facs="#zone_Page_52_ad1d9f8a-9d1d-478c-b6f6-f09c85118a58" type="in_text"><note type="editorial_label">[drawing: Maltese cross]</note></figure> 18 dollars
+               &amp; ½. 2 dinners. 2 nights. 2 breakfasts for each. 4 rooms.</note>
+
+            <note type="marginal"> The language of <rs type="place" ref="#madrid">Madrid</rs> seems very impure. <rs type="person" ref="#infantado">Infantado<note type="editorial">Duque del Infantado (Duke of the Infantado)</note></rs> is always
+               pronounced Infantao. Valladolid Vaioi &amp;c</note>
+
+            <note type="marginal"> Eating for 2 &amp; 3 servants for a fortnight cost 105
+               dollars</note>
+
+
+         </div>
+         <div type="portugal">
+            <ab> </ab>
+         </div>
+         <div type="reading_notes">
+            <ab> </ab>
+         </div>
+      </body>
+
+      <back>
+         <div type="cover">
+            <note> </note>
+         </div>
+         <div type="index"> </div>
+      </back>
+   </text>
+
+</TEI>

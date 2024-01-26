@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface xml:id="zone_Page_63">
+         <graphic url="https://iiif.bsr.ac.uk/iiif/2/GELL-VI%2Fwg_06_063.tif/full/full/0/default.jpg"/>
+         <zone points="81,65 2981,65 3030,1670 1648,1691 1082,881 81,772" xml:id="zone_Page_63_c370a2f3-b9bd-4070-bf0b-ba9f2454111d"/> <!-- church -->
+         <zone points="2926,3655 3122,3650 3128,3759 2932,3759" xml:id="zone_Page_63_d61a35c9-995a-4ecf-badd-50a54a388e47"/> <!-- arch bridge -->
+         <zone points="2284,1855 2834,1849 2817,3035 2306,3030" xml:id="zone_Page_63_14bb75a1-7e06-4a9e-b8d4-aff54cd19007"/> <!-- man -->
+      </surface>
+   </facsimile>
+   <text>
+      <front>
+         <div type="cover">
+            <note> </note>
+         </div>
+         <div type="inlet">
+            <head> </head>
+         </div>
+      </front>
+
+      <body>
+         <div type="spain">
+            <pb facs="#zone_Page_63" n="063"/>
+
+            <figure facs="#zone_Page_63_c370a2f3-b9bd-4070-bf0b-ba9f2454111d">
+               <note type="editorial_label">Pen and ink drawing with watercolour: church</note>
+               <label>church at <rs type="place" ref="#madridejos">Madridejos</rs></label>
+            </figure>
+
+            <ab><rs type="place" ref="#madridejos">Madridejos</rs> a large mud village with a large old church not built in the form of a
+               cross, more like some mosques but that the top has arches like the churches of
+               <rs type="place" ref="#constantine">Constantine</rs>.</ab>
+            <ab>The Bill here was 6 dollars of which waiting &amp; beds came to 3. The Inn was kept
+               by Gipsies. The woman who waited at dinner launched out in praise of English
+               handkerchiefs. I got up to give one to her which was placed in the top of a trunk.
+               She had already<!-- pencil --> stolen it which produced that eulogium on the manufacture. She was
+               going to carry off my night shirt when she had made my bed &amp; in the morning my
+               servant set down my shoes while the barber shaved him. The Barber managed to keep the
+               razor at his throat while his wife stole the shoes. The servant saw her, knocked the
+               barbers hand away &amp; caught the woman putting the shoes into another womans
+               pocket. The hat of one of the coachmen was also stolen <metamark>–</metamark></ab>
+            <ab><date when="1808-10-30">Octob 30</date> fine day hot 15 to 9<note type="editorial">8.45</note> quit <rs type="place" ref="#madridejos">Madridejos</rs> pass a <choice><abbr>+</abbr><expan>church</expan></choice> &amp; <figure type="in_text" facs="#zone_Page_63_d61a35c9-995a-4ecf-badd-50a54a388e47"><note type="editorial_label">[drawing: arch bridge]</note></figure>.
+               Abt 1 mile out is a + of wood, the stones of an anathema <note type="editorial">i.e. a votive offering</note> &amp; aqui murio por
+               Violencia .…<note type="translation">here ... died by violence</note> a murder. A few houses <choice><abbr>L.</abbr><expan>left</expan></choice> 15 p 11<note type="editorial">11.15</note> Venta de <rs type="place" ref="#lapiche">Lapiche</rs><note type="translation">Country inn at <rs type="place" ref="#lapiche">Lápice</rs></note> hills begin. Olives
+               bear well. 15 to 12 <choice><abbr>Vill</abbr><expan>Village</expan></choice> &amp; pass a mile wide <rs type="place" ref="#puerta_lapiche">La Puerta de Lapiche</rs>. Don Quixote. <note type="editorial"><rs type="place" ref="#puerta_lapiche">Puerto Lápice</rs>, the site of the inn at which Don Quixote is knighted.</note>
+               see 40 miles of plain &amp; the tops of a Sierra. At 10 to 2 <choice><abbr>X causey</abbr><expan>cross a causeway</expan></choice> reeds &amp;
+               river running into <rs type="place" ref="#guadiana_villaherta">Guadiana Villaherta<note type="editorial">Villarta de San Juan</note></rs>. mud village poor inn.</ab>
+
+
+            <figure type="sketch" facs="#zone_Page_63_14bb75a1-7e06-4a9e-b8d4-aff54cd19007">
+               <note type="editorial_label">Pen and ink drawing with watercolour: man</note>
+               <label>Boy of <rs type="place" ref="#mengibar">Mengibar</rs></label>
+            </figure>
+
+
+
+         </div>
+         <div type="portugal">
+            <ab> </ab>
+         </div>
+         <div type="reading_notes">
+            <ab> </ab>
+         </div>
+      </body>
+
+      <back>
+         <div type="cover">
+            <note> </note>
+         </div>
+         <div type="index"> </div>
+      </back>
+   </text>
+
+</TEI>

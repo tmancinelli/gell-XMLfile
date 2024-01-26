@@ -1,0 +1,432 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface xml:id="zone_Page_53">
+         <graphic url="https://iiif.bsr.ac.uk/iiif/2/GELL-VI%2Fwg_06_053.tif/full/full/0/default.jpg"/>
+         <zone points="16,92 3400,81 3410,1136 5,1175" xml:id="zone_Page_53_d58ce802-51bb-4c67-bdff-6b2db3492c12"/>
+      </surface>
+   </facsimile>
+   <text>
+      <front>
+         <div type="cover">
+            <note> </note>
+         </div>
+         <div type="inlet">
+            <head> </head>
+         </div>
+      </front>
+
+      <body>
+         <div type="spain">
+
+            <pb facs="#zone_Page_53" n="053"/>
+            <note>Music by <rs type="person" ref="#senorsor">Señor Sor</rs>.</note>
+            <label>THE BATTLE OF BAYLEN.</label>
+            <label>DUO</label>
+
+            <figure facs="#zone_Page_53_d58ce802-51bb-4c67-bdff-6b2db3492c12" type="score">
+               <note type="editorial_label">[Music]</note>
+               <note type="lyrics">Venid Vencedores Coronas de Onor la Patria es el premio de tanto
+                  Valor Tomad los laureles que habeis merecido los que os han rendido Moncey y
+                  Dupont Vosotros que fieles habeis acudido al primer gemido di nuestra opresion.
+                     Venid<note type="translation"> Come, Conquerors, Crowns of Honour, the Homeland
+                     is the prize of so much Courage Take the laurels you have deserved, those that
+                     Moncey and Dupont have given you You who have faithfully come at the first
+                     groan of our oppression. Come... </note></note>
+            </figure>
+
+            <lg>
+               <l>Venid Vencidores</l>
+               <l>De la Patria honor</l>
+               <l> La Patria os de el premio</l>
+               <l>De tanto valor <metamark>–</metamark></l>
+            </lg>
+
+            <lg>
+               <l>Tomad los laureles</l>
+               <l>Que habeis merecido</l>
+               <l>Los que os han rendido</l>
+               <l>Moncey y Dupont</l>
+               <l>Vosotros que fieles</l>
+               <l>Habeis acudido</l>
+               <l>Al primer gemido</l>
+               <l>De nuestra opresion</l>
+               <l>Venid &amp;c</l>
+            </lg>
+            <cb/>
+            <lg>
+               <l>Venganza llamaba</l>
+               <l>De sangre inocente</l>
+               <l>Alzasteis la frente</l>
+               <l>Que jamas temiò</l>
+               <l>Y al veros los dueños</l>
+               <l>De tantas conquistas</l>
+               <l>Huyen como aristas</l>
+               <l>Que el viento arrollò</l>
+               <l>Venid &amp;.</l>
+            </lg>
+            <cb/>
+            <lg>
+               <l>Vos de una mirada</l>
+               <l>Que echasteis al cielo</l>
+               <l>Parasteis el vuelo</l>
+               <l>Del Aguila audaz</l>
+               <l>Y al polvo arrojasteis</l>
+               <l>Con iras bizarras</l>
+               <l>Las alas y garras</l>
+               <l>Del ave rapaz. Venid &amp;.</l>
+            </lg>
+            <cb/>
+            <lg>
+               <l><metamark>X</metamark> Llegad ya Provincias</l>
+               <l>Que valeis naciones</l>
+               <l>Ya vuestros pendones</l>
+               <l>Deslumbran al Sol.</l>
+               <l>Palido el Tiranno</l>
+               <l>Tiembla, y sus legiones</l>
+               <l>Muerden los terrones</l>
+               <l>Del suelo español.</l>
+               <l>V…</l>
+            </lg>
+            <cb/>
+            <lg>
+               <l>Son à vuestras plantas</l>
+               <l>Alfombra serena</l>
+               <l>Laureles de Jena</l>
+               <l>Palmas de Austerliz:</l>
+               <l>Son cantos de Gloria</l>
+               <l>Volver los cantivos</l>
+               <l>Sus gritos altivos</l>
+               <l>El llanto infeliz. V…</l>
+            </lg>
+            <cb/>
+            <lg>
+               <l><metamark>X</metamark> O que hermosos vienen</l>
+               <l>Su porte quan fiero</l>
+               <l>Qual suena el acero</l>
+               <l>Qual brilla el arnes.</l>
+               <l>Estos son guerreros</l>
+               <l>Valientes y bravos</l>
+               <l>Y no los esclavos</l>
+               <l> Del yugo frances. V..</l>
+            </lg>
+
+            <lg>
+               <l><metamark>X</metamark> Gloria, o flor del Betis</l>
+               <l>Que habeis bien probado</l>
+               <l>El brio heredado</l>
+               <l>Del suelo natal</l>
+               <l>Que alli sin cultivo</l>
+               <l>Cresce y se levanta</l>
+               <l>Del triunfo la planta</l>
+               <l> La Oliva inmortal.</l>
+            </lg>
+            <cb/>
+            <lg>
+               <l><metamark>X</metamark> Funesto es el dia</l>
+               <l>Frances orgulloso</l>
+               <l>Y el campo ominoso</l>
+               <l>Que pisas, tambien</l>
+               <l>La sombra de Alfonso</l>
+               <l> Con iras mas bravas</l>
+               <l>Su Gloria en las Navas</l>
+               <l>Defiende en Baylen.</l>
+            </lg>
+            <cb/>
+            <lg>
+               <l>Salve honor del Turia</l>
+               <l>De Marte centellas</l>
+               <l>Pues vivos como ellas</l>
+               <l>Al triunfo volais,</l>
+               <l> La hueste enemiga</l>
+               <l>Rompeis imprevistos</l>
+               <l>Y apenas sois vistos</l>
+               <l>Victoria cantais.</l>
+            </lg>
+            <cb/>
+            <lg>
+               <l><metamark>X</metamark> Gloria o valerosos</l>
+               <l>Del solar Manchego</l>
+               <l>O quan bello riego</l>
+               <l>Dais à vuestra mies</l>
+               <l>Los surcos se vuelven</l>
+               <l>Sepulcro a tiranos</l>
+               <l>Sangrientes los granos</l>
+               <l>Se mecen despues.</l>
+            </lg>
+            <cb/>
+            <lg>
+               <l><metamark>X</metamark> Y tanto en el Ebro</l>
+               <l>Los pechos son muros</l>
+               <l>Que atienden seguros</l>
+               <l>Morir o vencer</l>
+               <l>Siempre el sol los halla</l>
+               <l>Lidiando con Gloria</l>
+               <l>Siempre con Victoria</l>
+               <l>Los dexa al caer.</l>
+            </lg>
+            <cb/>
+            <lg>
+               <l>O quien claros veo</l>
+               <l>Brillar en sus ojos</l>
+               <l>Los fieros enojos</l>
+               <l> Que van a vengar</l>
+               <l>O quanto trofeo</l>
+               <l>Que ganò su espada</l>
+               <l>Verà consolada</l>
+               <l>La Patria en su altar.</l>
+            </lg>
+            <cb/>
+            <lg>
+               <l>O Patria respira</l>
+               <l>De males prolixos</l>
+               <l>Descansa en los hijos</l>
+               <l>Que al cielo te dio.</l>
+               <l>Ni temas que el arte</l>
+               <l>Falte a su fortuna</l>
+               <l>Soldados la cuna</l>
+               <l>Naciendo los vio.</l>
+            </lg>
+            <cb/>
+            <lg>
+               <l><metamark>X</metamark> Ya vengada solo</l>
+               <l>Dexara en memoria</l>
+               <l>Tu agravio en Madrid</l>
+               <l>Tiempo es ya que altiva</l>
+               <l>La frente levantes</l>
+               <l>Pues llegan triunfantes</l>
+               <l>Los hijos del Cid.</l>
+            </lg>
+            <metamark/>
+            <cb/>
+            <lg>
+               <l><metamark>X</metamark> Palafox. que Orfeo</l>
+               <l>Dira tu constancia</l>
+               <l>Si eclipsa a Numantia</l>
+               <l>Tu heroico teson</l>
+               <l>Que cisne o Câstaños.</l>
+               <l>Tu honor cantaria</l>
+               <l>Si el triunfo en Pavia</l>
+               <l>Se humilla a tu accion.</l>
+            </lg>
+            <metamark/>
+            <cb/>
+            <lg>
+               <l>Ninfas vengan lauros</l>
+               <l>Frescos verdes bellos</l>
+               <l>Enjugad con ellos</l>
+               <l>Tan noble sudor</l>
+               <l>Ni olvideis la oliva</l>
+               <l>Que es planta gloriosa</l>
+               <l>Ni aun alguna rosa</l>
+               <l>Que os brinde amor.</l>
+            </lg>
+            <note type="translation">
+               <lg>
+                  <l>Come, Conquerors</l>
+                  <l>Honour of the Homeland</l>
+                  <l>The Homeland gives you the prize</l>
+                  <l>For so much courage</l>
+               </lg>
+               <lg>
+                  <l>Take the laurels</l>
+                  <l>That you have earned</l>
+                  <l>Those that Moncey and Dupont have given you</l>
+                  <l>You who faithfully</l>
+                  <l>Came</l>
+                  <l>At the first groan</l>
+                  <l>Of our oppression</l>
+                  <l>Come etc</l>
+               </lg>
+               <lg>
+                  <l>Vengence was calling</l>
+                  <l>For innocent blood</l>
+                  <l>You lifted your foreheads</l>
+                  <l>Which never feared</l>
+                  <l>And on seeing you, the victors</l>
+                  <l>Of so many conquests</l>
+                  <l>Flee like chaff</l>
+                  <l>Swept away by the wind</l>
+                  <l>Come etc</l>
+               </lg>
+               <lg>
+                  <l>You, with a glance</l>
+                  <l>That you threw to heaven,</l>
+                  <l>You halted the flight</l>
+                  <l>Of the bold Eagle</l>
+                  <l>And you threw to the dust</l>
+                  <l> With gallant rage</l>
+                  <l>The wings and claws</l>
+                  <l>Of the bird of prey. Come etc</l>
+               </lg>
+               <lg>
+                  <l>Come now, Provinces</l>
+                  <l>That are worth nations,</l>
+                  <l>Your banners now</l>
+                  <l>Dazzle the sun.</l>
+                  <l>Pale, the Tyrant</l>
+                  <l>Trembles, and his legions</l>
+                  <l>Bite the clods</l>
+                  <l>Of Spanish soil.</l>
+                  <l>Come etc</l>
+               </lg>
+               <lg>
+                  <l>The Laurels of Jena,</l>
+                  <l>The Palms of Austerlitz,</l>
+                  <l>Are to your soles</l>
+                  <l>A serene carpet:</l>
+                  <l>Their overbearing screams,</l>
+                  <l>The wretched weeping,</l>
+                  <l>Are songs of Glory</l>
+                  <l>Returning songs</l>
+                  <l>Come etc</l>
+               </lg>
+               <lg>
+                  <l>Oh how beautiful they come,</l>
+                  <l>How fierce their demeanour,</l>
+                  <l>How the steel sounds,</l>
+                  <l>How the armour shines.</l>
+                  <l>These are warriors</l>
+                  <l>Valiant and brave</l>
+                  <l>And not the slaves</l>
+                  <l>Of the French yoke.</l>
+                  <l>Come etc</l>
+               </lg>
+               <lg>
+                  <l>Glory, oh flower of the Betis [Guadalquivir],</l>
+                  <l>Who have well proven</l>
+                  <l>The inherited spirit</l>
+                  <l>Of your native soil,</l>
+                  <l>That there, without cultivation,</l>
+                  <l>The immortal Olive plant</l>
+                  <l>Grows and rises up</l>
+                  <l>In triumph.</l>
+               </lg>
+               <lg>
+                  <l>The day is baleful</l>
+                  <l> The Frenchman proud</l>
+                  <l>And the field on which you tread ominous too.</l>
+                  <l>The shadow of Alfonso,</l>
+                  <l>With wilder rage,</l>
+                  <l>Upholds at Bailén</l>
+                  <l>His glory at Las Navas [de Tolosa].</l>
+               </lg>
+               <lg>
+                  <l>Hail, honour of the Turia,</l>
+                  <l>Flashes of Mars,</l>
+                  <l>Well, alive like them,</l>
+                  <l>You fly to triumph,</l>
+                  <l>You unexpectedly break</l>
+                  <l>The enemy host</l>
+                  <l>And you are barely seen;</l>
+                  <l>You sing of victory.</l>
+               </lg>
+               <lg>
+                  <l>Glory oh brave ones</l>
+                  <l>From the Manchegan plot,</l>
+                  <l>Oh what beautiful irrigation</l>
+                  <l> You give to your harvest.</l>
+                  <l>The furrows become</l>
+                  <l>A grave for tyrants,</l>
+                  <l>Bloody is the grain</l>
+                  <l>That afterwards sways.</l>
+               </lg>
+               <lg>
+                  <l>And how in the Ebro</l>
+                  <l>Their breasts are walls</l>
+                  <l>That serve secure,</l>
+                  <l>In death or conquest.</l>
+                  <l>The sun always meets them</l>
+                  <l>Fighting with Glory,</l>
+                  <l>Always leaves them with Victory</l>
+                  <l>When it sets.</l>
+               </lg>
+               <lg>
+                  <l>Oh how clearly I see</l>
+                  <l>Shining in their eyes</l>
+                  <l>The wild anger</l>
+                  <l>That they are going to avenge.</l>
+                  <l> Oh what a trophy,</l>
+                  <l> Won by its sword,</l>
+                  <l>Will the comforted Homeland</l>
+                  <l>See on its altar.</l>
+               </lg>
+               <lg>
+                  <l>Oh Homeland, rest</l>
+                  <l> From diffuse evils,</l>
+                  <l>Repose in the sons</l>
+                  <l>That heaven gave you.</l>
+                  <l>Fear not that art</l>
+                  <l>Lacks in fortune:</l>
+                  <l>It saw them born</l>
+                  <l>Soldiers in the cradle.</l>
+               </lg>
+               <lg>
+                  <l>Now avenged,</l>
+                  <l>Your grievance in Madrid</l>
+                  <l>Will only leave a memory of</l>
+                  <l>Liberty and glory.</l>
+                  <l>Now is the time that, haughty,</l>
+                  <l>You raise your forehead,</l>
+                  <l>Since the sons of El Cid</l>
+                  <l>Come through triumphant.</l>
+               </lg>
+               <lg>
+                  <l>Palafox, what Orpheus</l>
+                  <l>Will tell of your constancy,</l>
+                  <l>Your heroic tenacity</l>
+                  <l>At Numancia is eclipsed. [se, not 'si']</l>
+                  <l>What swan, oh Castaños,</l>
+                  <l>Would sing of your honour</l>
+                  <l>If the triumph at Pavia</l>
+                  <l>Is humbled before your deeds.</l>
+               </lg>
+               <lg>
+                  <l>Nymphs come [with] laurels</l>
+                  <l>Fresh, green, beautiful;</l>
+                  <l>Wipe with them</l>
+                  <l>Such noble sweat.</l>
+                  <l>Forget not the olive,</l>
+                  <l>A glorious plant,</l>
+                  <l>Nor yet any rose</l>
+                  <l>That offers you love.</l>
+               </lg></note>
+
+
+
+
+
+         </div>
+         <div type="portugal">
+            <ab> </ab>
+         </div>
+         <div type="reading_notes">
+            <ab> </ab>
+         </div>
+      </body>
+
+      <back>
+         <div type="cover">
+            <note> </note>
+         </div>
+         <div type="index"> </div>
+      </back>
+   </text>
+
+</TEI>

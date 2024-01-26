@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface xml:id="zone_Page_54">
+         <graphic url="https://iiif.bsr.ac.uk/iiif/2/GELL-VI%2Fwg_06_054.tif/full/full/0/default.jpg"/>
+         <zone points="125,97 3497,65 3481,892 119,935" xml:id="zone_Page_54_8b1861af-28b8-48cc-a40d-770ca3770d74"/> <!-- landscape -->
+         <zone points="299,1408 777,1408 794,1550 299,1544" xml:id="zone_Page_54_1a952a5b-e347-4d94-96e9-fa1c3fdde15f"/> <!-- hill -->
+         <zone points="1757,1675 2148,1659 2165,1784 1751,1784" xml:id="zone_Page_54_dc85534c-3cf4-46c7-8b92-aa2a13b51f4f"/> <!-- second hill -->
+      </surface>
+   </facsimile>
+   <text>
+      <front>
+         <div type="cover">
+            <note> </note>
+         </div>
+         <div type="inlet">
+            <head> </head>
+         </div>
+      </front>
+
+      <body>
+         <div type="spain">
+
+            <pb facs="#zone_Page_54" n="054"/>
+            <fw>144</fw>
+            <figure facs="#zone_Page_54_8b1861af-28b8-48cc-a40d-770ca3770d74">
+               <note type="editorial_label">Pen and ink drawing: landscape</note>
+               <label>Hill &amp; <rs type="place" ref="#santamariadelosangeles">Church of <choice>
+                     <abbr>S<hi rend="superscript">ta</hi><expan>Santa</expan></abbr>
+                  </choice> Maria de los Angeles.</rs></label>
+            </figure>
+
+            <ab>Quit <rs type="place" ref="#madrid">Madrid</rs> at 9<hi rend="superscript">h</hi>
+               <date when="--10-24">Octob 24</date> very fine hot &amp; clear to bridge of <rs
+                  type="place" ref="#toledo">Toledo</rs> over the <rs type="place" ref="#manzanares"
+                  >Manzanares</rs>, very fine strike off from it. Turn L. 38 p 9<note
+                  type="editorial">left. 9.38</note> Toll. At 10<hi rend="superscript">h</hi> a
+               <figure facs="#zone_Page_54_1a952a5b-e347-4d94-96e9-fa1c3fdde15f" type="in_text">
+                  <note type="editorial_label">[drawing: hill]</note>
+               </figure> hill <choice>
+                  <abbr>X</abbr>
+                  <expan>cross</expan>
+               </choice> the river L. At 15 p 10 a road turns <choice>
+                  <abbr>R</abbr>
+                  <expan>right</expan>
+               </choice> to <rs type="place" ref="#villaverde">Villaverde</rs> &amp; beyond it a <choice>
+                  <abbr>Vill</abbr>
+                  <expan>Village</expan>
+               </choice> &amp; palace of the <rs type="person" ref="#infantado">Duca de Infantado<note
+                     type="editorial">Duque del Infantado (Duke of the Infantado)</note></rs>. A
+               Vill left under <figure facs="#zone_Page_54_dc85534c-3cf4-46c7-8b92-aa2a13b51f4f" type="in_text">
+                  <note type="editorial_label">[drawing: hill]</note>
+               </figure>. At 11<hi rend="superscript">h</hi> <rs type="place" ref="#getafe">Getafe</rs> large vill R &amp; the hill &amp; <rs type="place" ref="#santamariadelosangeles"><choice><abbr>+</abbr><expan>church</expan></choice> of
+               La Vergine<note type="editorial">Virgen</note> de los Angeles</rs> L. 25 p 11 2<hi rend="superscript">d</hi> league. Post house Angeles Olives scattered
+               &amp; vines. 15 p 12 Vill R Pinto. 32 p 12 League 3<hi rend="superscript">d</hi>. 20 p 1 <rs type="place" ref="#valdemoro">Val de Moro<note type="editorial">Valdemoro</note></rs>, <rs type="person" ref="#cuesta">General
+               Cuesta</rs> has a house there. large Vill or Town. 40 p 1 4<hi rend="superscript">th</hi> League. 15 p 2 League 4 ½.
+               Post house Olives – 15 to 3<note type="editorial">2.45</note> league 5. 15 p 3 at bottom of the hill &amp; in the vale
+               of <rs type="place" ref="#manzanares">Mancanares<note type="editorial">Manzanares</note></rs>, having seen the vale of the <rs type="place" ref="#tagus">Tagus</rs> from the top. on each side the road,
+               rows double, of Trees. League 6. turn L. 35 p 3 X a great bridge over <rs type="place" ref="#manzanares">Manzanares</rs>,
+               vale about 2 miles wide. Deer Trees of <rs type="place" ref="#royal_demesne">Royal Demesne</rs> begin. Very long avenue turning
+               again R from the bridge. 20 p 4 L is an aquaduct &amp; a wheel of 30 feet <choice><abbr>diam~</abbr><expan>diameter</expan></choice> which
+               throws up the water for the grounds. Enter thicker woods. 34 p 4 league 6 ½. 15 p 5.
+               cascade of the <rs type="place" ref="#tagus">Tagus</rs> a white muddy river and the palace. Gardens very shady. The <rs type="place" ref="#aranjuez">town
+               of Aranjuez</rs> very regularly laid out. wide streets. rows of trees in them – A large
+               Inn full of people &amp; Carriages. We met many on the road from <rs type="place" ref="#madrid">Madrid</rs>.</ab>
+
+
+            <note type="marginal" facs="xxx"><rs type="person" ref="#kingwamba">King Wamba</rs> of <rs type="place" ref="#bamba">pueblo de Bamba<note type="translation">town od Bamba</note></rs>. his body translated from
+               a <choice><abbr>+</abbr><expan>church</expan></choice> he built there to <rs type="place" ref="#toledo">Toledo</rs>. <rs type="person" ref="#kingrecesvinto">King Recesvinto</rs> built at at <rs type="place" ref="#pisnerga">Pisnerga</rs> in 610 as an
+               inscriptn yet says on a stone.</note>
+            <note type="marginal" facs="xxx"><rs type="person" ref="#kingwamba">Wamba</rs> in <date when="0674">674</date> built walls &amp; Towers round <rs type="place" ref="#toledo">Toledo</rs>.
+               with stones from <rs type="place" ref="#circus_maximus">Circus maximus</rs> &amp;c.</note>
+            <note type="marginal" facs="xxx">Erexit fautore Deo rex inclytus urbem Wamba
+               &amp;c.<note type="translation">With the support of God, the illustrious <rs type="person" ref="#kingwamba">King Wamba</rs> erected the city etc.</note></note>
+            <note type="marginal" facs="xxx"><rs type="place" ref="#bridge_alcantara">Bridge of Alcantara</rs> at <rs type="place" ref="#toledo">Toledo</rs> impassable in time of
+               <rs type="person" ref="#kingervigio">Ervigio</rs> successor of <rs type="person" ref="#kingwamba">Wamba</rs>. <rs type="person" ref="#kingervigio">This King</rs> sent a Duke or Governor Sala to repair it.
+               Verses of <rs type="person" ref="#eugenius">Eugenius 3</rs> archbishop confirm this.</note>
+            <note type="marginal" facs="xxx">Gothic monuments of <rs type="place" ref="#spain">Spain</rs>. <rs type="person" ref="#bermudez"><choice><abbr>D</abbr><expan>Don</expan></choice> Juan Cean Bermudez</rs><note type="editorial"><rs type="person" ref="#bermudez">Juan Agustín Ceán Bermúdez</rs> collaborated with <rs type="person" ref="#amirola">Eugenio Llaguno y Amírola</rs> on <bibl>Noticias de los arquitectos y arquitectura de España..., 4 vols (Madrid: Imprenta Real, 1829)</bibl>.</note></note>
+            <note type="marginal" facs="xxx">Arabs in <date when="0713">713</date> came &amp; copied from <rs type="place" ref="#egypt">Egypt</rs> pointed
+               arches. pretence of media luna for arcos de herradura.<note type="translation">half-moon (or crescent) for horseshoe arches</note></note>
+            <note type="marginal" facs="xxx">Friezes called Almocarabes o ajaracas.</note>
+            <note type="marginal" facs="xxx">frisos enriquecidos con lazos cintos plantas y letras
+               floreadas. Con moldes y yeso.</note>
+            <note type="marginal" facs="xxx">Tarbeas high &amp; great salones.</note>
+            <note type="marginal" facs="xxx">Alfagias o patios. en vez de grades tenien
+               ranques.</note>
+            <note type="translation">friezes enriched with bows, cinctures, plants and flowery letters. With molds and plaster
+               High great rooms &amp; great salons.
+               Alfagias or patios. instead of grades they had ranks.</note>
+            <note type="marginal" facs="xxx">Alhamias = dormitories. Alcoves in walls.</note>
+
+            <note type="marginal" facs="xxx">Kings Dairy very fine in the way.</note>
+
+
+
+         </div>
+         <div type="portugal">
+            <ab> </ab>
+         </div>
+         <div type="reading_notes">
+            <ab> </ab>
+         </div>
+      </body>
+
+      <back>
+         <div type="cover">
+            <note> </note>
+         </div>
+         <div type="index"> </div>
+      </back>
+   </text>
+
+</TEI>
