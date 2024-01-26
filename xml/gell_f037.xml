@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface xml:id="zone_Page_37">
+         <graphic url="https://iiif.bsr.ac.uk/iiif/2/GELL-VI%2Fwg_06_037.tif/full/full/0/default.jpg"/>
+         <zone points="76,136 87,1196 3312,1207 3334,97" xml:id="zone_Page_37_75465210-971c-4796-85c2-6ab545b1373d"/><!-- view of Villafranca -->
+         <zone points="375,2121 364,2268 745,2273 756,2099" xml:id="zone_Page_37_69743877-a794-43a4-b13d-f5a293e7d858"/><!-- arch bridge -->
+         <zone points="359,2877 331,3079 864,3111 881,2894" xml:id="zone_Page_37_b48cc165-62f3-4678-aadc-450e937241ee"/><!-- wells -->
+         <zone points="1996,1349 2012,1675 2611,1621 2594,1321" xml:id="zone_Page_37_cbe4b3eb-88ce-4ada-a87b-b1b993984538"/><!-- castel -->
+         <zone points="2676,1365 2671,1528 3318,1566 3340,1316" xml:id="zone_Page_37_f101ddb5-c046-4463-afec-6e19f02f92ab"/><!-- marginal finewarmday -->
+         <zone points="2257,1659 2268,1795 3285,1768 3280,1610" xml:id="zone_Page_37_c09c53a8-03ff-4bf8-abc1-2a52f789108f"/><!-- marginal sheepwithbeautifulwool -->
+         <zone points="2056,1740 2050,1996 3138,2007 3138,1740" xml:id="zone_Page_37_d74ef09a-a2cc-4d91-8e06-35ea5407d53f"/><!-- marginal sheepwithfinewool -->
+         <zone points="2165,2137 2159,2366 3225,2399 3236,2121" xml:id="zone_Page_37_94947c71-105a-418c-8912-dbd4505d98f6"/><!-- marginal Gil -->
+      </surface>
+   </facsimile>
+   <text>
+      <front>
+         <div type="cover">
+            <note> </note>
+         </div>
+         <div type="inlet">
+            <head> </head>
+         </div>
+      </front>
+
+      <body>
+         <div type="spain">
+            <pb facs="#zone_Page_037" n="037"/>
+            <figure facs="#zone_Page_37_75465210-971c-4796-85c2-6ab545b1373d">
+               <note type="editorial_label">Pen and ink drawing: view of <rs type="place" ref="#villafrancabierzo">Villafranca del
+                  Bierzo</rs></note>
+               <label>First sight of <rs type="place" ref="#villafrancabierzo">Villa Franca <note type="editorial">Villafranca del Bierzo</note></rs></label>
+            </figure>
+
+            <ab>Sheep</ab>
+            <ab><date when="--10-01">October 1<hi rend="superscript">st</hi></date>. At 10 to 9<note type="editorial">8.50</note> quit <rs type="place" ref="#villafrancabierzo">Villa franca</rs> Delightful valley trees &amp; river <choice><abbr>R.
+               &amp; Mts</abbr><expan>right and Mountains</expan></choice> with wood &amp; cultivation vineyards. 12 to 10 Village Snow on M<hi rend="superscript">ts</hi> <choice><abbr>L</abbr><expan>left</expan></choice> 20
+               miles L. 5 p 10 <note type="editorial">10.05</note> <figure facs="#zone_Page_37_69743877-a794-43a4-b13d-f5a293e7d858" type="in_text"><note type="editorial_label">[drawing: arch bridge]</note></figure> of Cacabelus<note type="editorial">Cacabelos</note> <choice><abbr>Vill</abbr><expan>Village</expan></choice> with olives. 16 p 10 through
+               the Vill, the large houses grated with iron as at <rs type="place" ref="#villafrancabierzo">V. Franca</rs> &amp; many built with
+               large river pebbles as at <rs type="place" ref="#villafrancabierzo">V.F.</rs> Wells <figure facs="#zone_Page_37_b48cc165-62f3-4678-aadc-450e937241ee" type="in_text"><note type="editorial_label">[drawing: wells]</note></figure> as in <rs type="place" ref="#greece">Greece</rs>. Climate improves
+               on leaving the mountains. Very like a <rs type="place" ref="#thessalianvillage">Thessalian Village</rs>. People not so handsome in
+               this Vill as before. 20 p 10 31 Leagues. The river joins the <rs type="place" ref="#villafrancabierzo">VF</rs> river &amp; runs with
+               it into <rs type="place" ref="#minho">Minho</rs>. Very high fine snowy mountain R with many vallies in it <rs type="place" ref="#cerrodelcastro">Sierra del
+               Castro <note type="editorial">Cerro del Castro (mountain)</note></rs>. 2 Villages at the base</ab>
+
+
+            <!-- this marginal notes are mixed in ink and pencil -->
+            <figure facs="#zone_Page_37_cbe4b3eb-88ce-4ada-a87b-b1b993984538" type="sketch">
+               <note type="editorial_label">[Pen and ink plan: castle]</note>
+               <label>Castle</label>
+            </figure>
+            <note facs="#zone_Page_37_f101ddb5-c046-4463-afec-6e19f02f92ab" type="marginal">Fine warm day</note>
+            <note facs="#zone_Page_37_c09c53a8-03ff-4bf8-abc1-2a52f789108f" type="marginal">Sheep with beautiful wool &amp; very tame</note>
+            <note facs="#zone_Page_37_d74ef09a-a2cc-4d91-8e06-35ea5407d53f" type="marginal">Sheep fine wool &amp; tame</note>
+            <note facs="#zone_Page_37_94947c71-105a-418c-8912-dbd4505d98f6" type="marginal"><bibl>Gil Blas <note type="editorial">Alain-René Lesage, L'Histoire de Gil Blas de Santillane (1715-35)</note></bibl><rs type="person" ref="#alain_rene_lesage">His</rs> tour begins with <rs type="place" ref="#cacabelos">Cacabelas <note type="editorial">Cacabelos</note>, <rs type="place" ref="#elbierzo">El Vierso  <note type="editorial">El Bierzo</note></rs></rs> <!-- His = Alain-René Lesage -->
+               <rs type="place" ref="#astorga">Astorga</rs> &amp;c</note>
+
+         </div>
+         <div type="portugal">
+            <ab> </ab>
+         </div>
+         <div type="reading_notes">
+            <ab> </ab>
+         </div>
+      </body>
+
+      <back>
+         <div type="cover">
+            <note> </note>
+         </div>
+         <div type="index"> </div>
+      </back>
+   </text>
+
+</TEI>

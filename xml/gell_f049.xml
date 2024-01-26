@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface xml:id="zone_Page_49">
+         <graphic url="https://iiif.bsr.ac.uk/iiif/2/GELL-VI%2Fwg_06_049.tif/full/full/0/default.jpg"/>
+         <zone points="48,97 59,908 3372,924 3378,87" xml:id="zone_Page_49_cbf6f743-85e3-4ca3-9bb4-53931ee527f1"/><!-- orbita -->
+         <zone points="1534,1224 1528,1272 1740,1272 1762,1218" xml:id="zone_Page_49_4a9b8874-32ad-4656-ba29-be19cb604b76"/><!-- arch bridge -->
+         <zone points="342,1414 337,1566 598,1561 582,1414" xml:id="zone_Page_49_4ac43ddd-b2ab-426d-afba-12c94b9f1692"/><!-- arch bridge -->
+         <zone points="1039,3225 1039,3400 1300,3410 1321,3242" xml:id="zone_Page_49_039a447d-43b0-4d22-9f76-d28994a2708c"/><!-- arch bridge -->
+      </surface>
+   </facsimile>
+   <text>
+      <front>
+         <div type="cover">
+            <note> </note>
+         </div>
+         <div type="inlet">
+            <head> </head>
+         </div>
+      </front>
+
+      <body>
+         <div type="spain">
+
+            <pb facs="#zone_Page_49" n="049"/>
+
+            <figure facs="#zone_Page_49_cbf6f743-85e3-4ca3-9bb4-53931ee527f1">
+               <note type="editorial_label">Pen and ink drawing: view of <rs type="place" ref="#orbita"
+                     >Orbita</rs></note>
+               <label>Specimen of Villages on the plains of <rs type="place" ref="#leonplace"
+                  >Leon</rs></label>
+               <label><rs type="place" ref="#orbita">ORVITA<note type="editorial"
+                  >Orbita</note></rs></label>
+               <label>&amp; <rs type="place" ref="#oldcastile">old Castile</rs>.</label>
+            </figure>
+
+
+            <ab><date when="--10-07">Octob 7</date>. a fine hot day quit <rs type="place" ref="#ataquines"
+                  >Taquines Aloquines<note type="editorial">Ataquines</note></rs> at 7h. <choice>
+                  <abbr>20 p 8 Vill R</abbr>
+                  <expan>8.20 Village right</expan>
+               </choice>. At 9<hi rend="superscript">h</hi> Pines. 10 p 9 Vill R. 10 to 10<note
+                  type="editorial">9.50</note>
+               <rs type="place" ref="#arevalo">Arevalos<note type="editorial">Arévalo</note></rs> town
+               with towers ruined castle. <choice>
+                  <abbr>X</abbr>
+                  <expan>cross</expan>
+               </choice> a glen to it <figure facs="#zone_Page_49_4a9b8874-32ad-4656-ba29-be19cb604b76" type="in_text"><note type="editorial_label">[drawing: arch bridge]</note></figure> walls 2 towers Another
+               <figure facs="#zone_Page_49_4ac43ddd-b2ab-426d-afba-12c94b9f1692" type="in_text"><note type="editorial_label">[drawing: arch bridge]</note></figure> over a glen 17 p 10 stream Runs to <choice><abbr>L</abbr><expan>left</expan></choice> but turns &amp; runs
+               under <choice><abbr>+</abbr><expan>church</expan></choice>. An inscript<hi rend="superscript">n</hi> of <rs type="person" ref="carlos_iiii">Carlos IIII</rs>. 10 to 11 Vill L. Pine forests R &amp; L. 25 p
+               11 Vill, meet a Calesh. 40 p 11 Vill <rs type="place" ref="#orbita">Orbita</rs> where dine, bill for 4 persons less than
+               a dollar. 15 p 2 quit <rs  type="place" ref="#orbita">Orbita</rs> 35 p 3 Vill. flocks of Bustards like geese. 33 p 3 Vill
+               <rs  type="place" ref="#adanero">Araniero<note type="editorial">Adanero</note></rs>. Vultures black in the fields. 40 p 4 large Vill <rs  type="place" ref="#sanchidrian">San Cyrian<note type="editorial">Sanchidrián</note></rs>. Road made &amp;
+               a stone 15 leagues to <rs>Madrid</rs>. A small vill called <rs type="place" ref="#almarza">Almorza<note type="editorial">Almarza</note></rs> at 10 p 5. Road to
+               Salamanca turns off here R. Real <rs type="place" ref="#portasego">Port Asego</rs>. descend into a better &amp; roughly
+               wooded plain. 15 p 5 X <figure facs="#zone_Page_49_039a447d-43b0-4d22-9f76-d28994a2708c" type="in_text"><note type="editorial_label">[drawing: arch bridge]</note></figure> River runs L. Qu a chase <note type="editorial">i.e. WG wonders if it is a hunting ground</note>. 5 to 6
+               ascending. 14 league stone. 7 p 6 8 crosses <rs type="place" ref="#crucecalvario">La cruce cruz del Calvario <note type="editorial" >The cross of Calvary [probably the name of a village]</note></rs> 8 p 6 Vill..
+               <rs type="place" ref="#labajos">Alabaxos Lavajos<note type="editorial">Labajos</note></rs> Bill not 3 dollars</ab>
+            <ab>Quit <rs type="place" ref="#labajos">Alabaxos</rs> where a decent Posada<note type="translation">Inn</note> <date when="--10-08">Oct 8</date>, at 6<hi rend="superscript">h</hi>. a fine day but colder as we
+               ascended. High Bushy plain. 4 to 7 League 14. 8<hi rend="superscript">h</hi> Vill <rs type="place" ref="villacastin">Villa Castin<note type="editorial">Villacastín</note></rs>.</ab>
+
+         </div>
+         <div type="portugal">
+            <ab> </ab>
+         </div>
+         <div type="reading_notes">
+            <ab> </ab>
+         </div>
+      </body>
+
+      <back>
+         <div type="cover">
+            <note> </note>
+         </div>
+         <div type="index"> </div>
+      </back>
+   </text>
+
+</TEI>

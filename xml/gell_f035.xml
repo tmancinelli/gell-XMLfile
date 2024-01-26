@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface xml:id="zone_Page_35">
+         <graphic url="https://iiif.bsr.ac.uk/iiif/2/GELL-VI%2Fwg_06_035.tif/full/full/0/default.jpg"/>
+         <zone points="32,92 27,1577 3383,1577 3394,103" xml:id="zone_Page_35_16ac7e77-ab28-4cd5-8e89-d44d4c8bc271"/><!-- Las Nogales -->
+         <zone points="48,2643 27,4232 3318,4232 3340,2665" xml:id="zone_Page_35_aec8cb6a-eb50-4504-afd6-52773a966d62"/><!-- Zerantina -->
+      </surface>
+   </facsimile>
+   <text>
+      <front>
+         <div type="cover">
+            <note> </note>
+         </div>
+         <div type="inlet">
+            <head> </head>
+         </div>
+      </front>
+
+      <body>
+         <div type="spain">
+            <pb facs="#zone_Page_035" n="035"/>
+            <figure facs="#zone_Page_35_16ac7e77-ab28-4cd5-8e89-d44d4c8bc271">
+               <note type="editorial_label">Pen and ink drawing: landscape</note>
+               <label><rs type="place" ref="#asnogais">LAS NOGALES<note type="editorial">As
+                     Nogais</note></rs></label>
+               <label><choice>
+                     <abbr>Mt</abbr>
+                     <expan>Mountain</expan>
+                  </choice> near <rs type="place" ref="#rasiro">Rasiro</rs></label>
+            </figure>
+
+            <ab>huts or Kalybea’s <choice>
+                  <abbr>R.</abbr>
+                  <expan>right</expan>
+               </choice> 5 to 11<note type="editorial">10.55</note> large Kalybea 20 p 11<note
+                  type="editorial">11.20</note>
+               <choice>
+                  <abbr>Vill</abbr>
+                  <expan>Village</expan>
+               </choice> &amp; Posada<note type="treanslation">11.20</note> EL CASTRO<note
+                  type="editorial">Possibly Castelo</note> as <rs type="place" ref="#asnogais"
+                     >Nogales<note type="editorial">As
+                  Nogais</note><!-- as nogales in pencil --></rs> the last <choice>
+                  <abbr>Vill</abbr>
+                  <expan>village</expan>
+               </choice> of <rs type="place" ref="#galicia">Galicia</rs>. Enter the <rs type="place"
+                  ref="#villafrancabierzo">Vierso of Villa Franca<note type="editorial">Villafranca del Bierzo
+                     (i.e. its region)</note></rs>. At 12<hi rend="superscript">h</hi> league Stone
+               26. 35 p 12 <rs type="place" ref="#hierreria">La Hierreria<note type="editorial">Las Herrerías</note></rs> a Village with
+               Iron mines. at 8 p 1 a pretty ruined castle <rs type="place" ref="#zeranina">Castillo Zeranina<note type="editorial">Castillo de Sarracín</note></rs> on a hill R.</ab>
+
+            <figure facs="#zone_Page_35_aec8cb6a-eb50-4504-afd6-52773a966d62">
+               <note type="editorial_label">Pen and ink drawing: landscape</note>
+               <label> <rs type="place" ref="#zeranina">ZERANINA<note type="editorial">Castillo de Sarracín</note></rs></label>
+            </figure>
+
+
+         </div>
+         <div type="portugal">
+            <ab> </ab>
+         </div>
+         <div type="reading_notes">
+            <ab> </ab>
+         </div>
+      </body>
+
+      <back>
+         <div type="cover">
+            <note> </note>
+         </div>
+         <div type="index"> </div>
+      </back>
+   </text>
+
+</TEI>

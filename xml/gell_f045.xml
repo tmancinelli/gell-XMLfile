@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface xml:id="zone_Page_45">
+         <graphic url="https://iiif.bsr.ac.uk/iiif/2/GELL-VI%2Fwg_06_045.tif/full/full/0/default.jpg"/>
+         <zone points="16,87 0,1049 3340,1093 3340,97" xml:id="zone_Page_45_35baab2b-98c6-4675-a8f5-56ce29fd13fb"/><!-- landscape with bridge -->
+         <zone points="16,1011 21,1925 3345,2029 3351,1077" xml:id="zone_Page_45_f9f524bb-8ae5-44c7-a3ca-5259e978d369"/><!-- wine cellars -->
+         <zone points="38,2486 21,2703 233,2709 255,2486" xml:id="zone_Page_45_6b412bcf-af08-4125-adc6-7a97d8c399d9"/><!-- wheel -->
+         <zone points="2148,2007 2165,3176 3002,3204 3035,2018" xml:id="zone_Page_45_6522fcfa-e37c-42d3-b77f-8c67a66704f5"/><!-- woman -->
+         <zone points="2317,3389 2284,3944 3193,3938 3182,3318" xml:id="zone_Page_45_bd716433-6225-4cdd-977e-3a13303741c2"/><!-- arch bridge -->
+      </surface>
+   </facsimile>
+   <text>
+      <front>
+         <div type="cover">
+            <note> </note>
+         </div>
+         <div type="inlet">
+            <head> </head>
+         </div>
+      </front>
+
+      <body>
+         <div type="spain">
+            <pb facs="#zone_Page_45" n="045"/>
+
+            <figure facs="#zone_Page_45_35baab2b-98c6-4675-a8f5-56ce29fd13fb">
+               <note type="editorial_label">Pen and ink drawing: landscape with arch bridge</note>
+               <label>FROM THE INN AT <rs type="place" ref="#avisana">AVISANA</rs></label>
+            </figure>
+
+            <figure facs="#zone_Page_45_f9f524bb-8ae5-44c7-a3ca-5259e978d369">
+               <note type="editorial_label">Pen and ink drawing: cellars</note>
+               <label>wine cellars in the bank at <rs type="place" ref="#cerecinosorden">Serrazin <note
+                        type="editorial">Cerecinos de la Orden</note></rs></label>
+            </figure>
+
+
+            <ab>The soil is so firm that cellars are made at <rs type="place" ref="#cerecinosorden">Sarrazino de
+                  Ordin <note type="editorial">Cerecinos de la Orden</note></rs> merely be
+               excavating. Some of the doors are so handsome that they appear like habitations. Here
+               the carts have real wheels instead of <figure facs="#zone_Page_45_6b412bcf-af08-4125-adc6-7a97d8c399d9" type="in_text"><note type="editorial_label">[drawing: wheel]</note></figure>. sandy so that wooden not iron
+               pullies are used Mules are used here in plowing. At 25 p 5 <note type="editorial">5.25</note> over a very ugly country,
+               arrive at <rs type="place" ref="#villalpando">Vilalpondo <note type="editorial">Villalpando</note></rs>. 8 leagues Appearance of poverty the mud wall being in ruins.
+               The convent spires only looking well at a distance. The Posada <note type="translation">Inn</note> just out of the town.
+               Many Priests. No made road. The drawer of the table where we write at the Inn broken
+               up by the French in hopes of finding money – Rain in the night.</ab>
+
+            <figure facs="#zone_Page_45_6522fcfa-e37c-42d3-b77f-8c67a66704f5" type="sketch">
+               <note type="editorial_label">Pen and ink drawing with watercolour: woman</note>
+               <label><rs type="place" ref="#tordesillas">Tordesillas</rs></label>
+            </figure>
+
+            <figure facs="#zone_Page_45_bd716433-6225-4cdd-977e-3a13303741c2" type="sketch">
+               <note type="editorial_label">Pencil drawing: arch bridge</note>
+            </figure>
+
+
+
+
+         </div>
+         <div type="portugal">
+            <ab/>
+         </div>
+         <div type="reading_notes">
+            <ab> </ab>
+         </div>
+      </body>
+
+      <back>
+         <div type="cover">
+            <note> </note>
+         </div>
+         <div type="index"> </div>
+      </back>
+   </text>
+
+</TEI>

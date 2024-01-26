@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface xml:id="zone_Page_40">
+         <graphic url="https://iiif.bsr.ac.uk/iiif/2/GELL-VI%2Fwg_06_040.tif/full/full/0/default.jpg"/>
+         <zone points="690,402 696,549 826,549 843,391" xml:id="zone_Page_40_1511f203-06a8-47d1-bb93-051cf1f321b7"/><!-- arch bridge 1 -->
+         <zone points="1033,609 1039,734 1196,739 1175,609" xml:id="zone_Page_40_99c9c429-0161-4de1-976c-cb5de0cccbd4"/><!-- arch bridge 2-->
+         <zone points="903,984 908,1131 1060,1131 1082,968" xml:id="zone_Page_40_3058d236-786e-4fc0-b929-9fadb7cfd783"/><!-- arch bridge 3 -->
+         <zone points="582,2551 598,2687 756,2692 777,2551" xml:id="zone_Page_40_2c56ae35-62bb-4205-b3a6-cead11f9449e"/><!-- arch bridge 4 -->
+         <zone points="1136,2937 1126,3111 1642,3100 1577,2948" xml:id="zone_Page_40_910c12be-0359-488a-ae5e-598cffb1fc92"/><!-- wall -->
+         <zone points="1773,3655 1757,3808 1980,3824 1991,3650" xml:id="zone_Page_40_52099804-acae-4cef-8682-f1375ec41f68"/><!-- arch -->
+      </surface>
+   </facsimile>
+   <text>
+      <front>
+         <div type="cover">
+            <note> </note>
+         </div>
+         <div type="inlet">
+            <head> </head>
+         </div>
+      </front>
+
+      <body>
+         <div type="spain">
+            <pb facs="#zone_Page_40" n="040"/>
+            <fw>162</fw>
+            <ab><date when="--10-02">Octob 2d</date></ab>
+            <ab>At 23<hi rend="superscript">m</hi> p 7<note type="editorial"
+               >rend="superscript"</note> quit <rs type="place" ref="#bembibre">Bembibres<note
+                     type="editorial">Bembibre</note></rs> 35<hi rend="superscript">th</hi>
+               League.</ab>
+            <note type="marginal">fine warm day</note>
+            <!-- pencil -->
+            <ab>40 p 7 <choice>
+                  <abbr>X</abbr>
+                  <expan>cross</expan>
+            </choice> a <figure type="in_text" facs="#zone_Page_40_1511f203-06a8-47d1-bb93-051cf1f321b7">
+                  <note type="editorial_label">[drawing: arch bridge]</note>
+               </figure>. 30 p 8 the 36<hi rend="superscript">th</hi> League.</ab>
+            <ab>3 p 9 Village. X a <figure type="in_text" facs="#zone_Page_40_99c9c429-0161-4de1-976c-cb5de0cccbd4">
+                  <note type="editorial_label">[drawing: arch bridge]</note>
+               </figure> &amp; <choice>
+                  <abbr>Riv from L</abbr>
+                  <expan>River from left</expan>
+               </choice> runs into that on <choice>
+                  <abbr>R</abbr>
+                  <expan>right</expan>
+               </choice> both fall into the Sill.</ab>
+            <ab>Ascend from the <figure type="in_text" facs="#zone_Page_40_3058d236-786e-4fc0-b929-9fadb7cfd783">
+                  <note type="editorial_label">[drawing: arch bridge]</note>
+               </figure> &amp; glen. 12 to 10<note type="editorial">9.48</note> 37<hi
+                  rend="superscript">th</hi> league</ab>
+            <ab>Long ascent called <rs type="place" ref="#elpuertodemanzanal">El Puerto de Manzanal <note
+                     type="translation">The Manzanal Pass</note></rs></ab>
+            <ab>3 p 11 38<hi rend="superscript">th</hi> League continual ascent. 20 p 11 <rs
+               type="place" ref="#villofManzanales">Vill of Manzanales<note type="editorial">Village of
+                     Manzanal del Puerto</note></rs>. Regiment of peasants</ab>
+            <note type="marginal"><choice>
+                  <abbr>3<hi rend="superscript">h</hi> 20<hi rend="superscript">m</hi></abbr>
+                  <expan>3 hours 20 minutes</expan>
+               </choice> to <rs type="place" ref="#astorga">Astorga</rs></note>
+            <ab>5 to 12 top. descend High snowy <rs type="place" ref="#asturias">mountains of
+                  Asturias</rs> L Octob 2<hi rend="superscript">d</hi>. Plain of <rs type="place"
+                  ref="leonplace">Leon</rs> like a sea.</ab>
+
+            <!-- continue from here -->
+            <ab>20 p 12 League 39. Stream on R runs <choice>
+                  <abbr>SE</abbr>
+                  <expan>south-east</expan>
+               </choice> to <rs type="place" ref="#douro">Douro</rs>.</ab>
+            <ab>30 p 1 40<hi rend="superscript">th</hi> League, <choice>
+                  <abbr>Vill</abbr>
+                  <expan>Village</expan>
+               </choice> Large <rs type="place" ref="#combarros">Lombardo<note type="editorial">Possibly
+                     Combarros</note></rs>. At 2<hi rend="superscript">h</hi> Vill L.</ab>
+            <ab>5 p 2 X <figure type="in_text" facs="#zone_Page_40_2c56ae35-62bb-4205-b3a6-cead11f9449e">
+                  <note type="editorial_label">[drawing: arch bridge]</note>
+               </figure>. 25 p 2 see <rs type="place" ref="#astorga">Astorga</rs>. Ugly parched corn
+               country no trees. 43 p 2 41<hi rend="superscript">st</hi> League 15 p 3 <rs
+                  type="place" ref="#astorga">Astorga</rs>.</ab>
+            <ab>Large town old X a <figure type="in_text" facs="#zone_Page_40_910c12be-0359-488a-ae5e-598cffb1fc92">
+                  <note type="editorial_label">[drawing: wall]</note>
+               </figure> Towers walk on them. <sic>Roughstones</sic> &amp; mud. Castle called
+               Moorish but with a latin inscription arms a Saint &amp; other Figures. a Cathedral of
+               Gothic appearance with Inigo Jones twisted pillars &amp; <figure type="in_text"
+                  facs="#zone_Page_40_52099804-acae-4cef-8682-f1375ec41f68">
+                  <note type="editorial_label">[drawing: arch]</note>
+               </figure> arches – In the Square there is a building in which two figures in the
+               habits of the Maragotes a people</ab> <!-- text continues on the next page -->
+
+         </div>
+         <div type="portugal">
+            <ab> </ab>
+         </div>
+         <div type="reading_notes">
+            <ab> </ab>
+         </div>
+      </body>
+
+      <back>
+         <div type="cover">
+            <note> </note>
+         </div>
+         <div type="index"> </div>
+      </back>
+   </text>
+
+</TEI>
