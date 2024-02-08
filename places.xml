@@ -650,10 +650,78 @@
       <placeName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q860191"><choice><abbr>Puerta St Vicente</abbr><expan>Puerta de San Vicente</expan></choice></placeName>
       <settlement type="country">Spain</settlement>
    </place>
-   <place xml:id="vill_escurial">
-      <placeName xml:lang="en" sameAs="xx">Vill of Baxo Escurial</placeName>
+   <place xml:id="genil">
+      <placeName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q17760">Xenil</placeName>
       <settlement type="country">Spain</settlement>
    </place>
-   
+   <place xml:id="llangollen">
+      <placeName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q1002793">Llangollen</placeName>
+      <settlement type="country">United Kingdom</settlement>
+   </place>
+   <place xml:id="granada alhama">
+      <placeName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q501674">Alhama</placeName>
+      <settlement type="country">Spain</settlement>
+   </place>
+   <place xml:id="loja">
+      <placeName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q332989">Loja</placeName>
+      <placeName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q332989">Loxa</placeName>
+      <settlement type="country">Spain</settlement>
+   </place>
+   <place xml:id="guadalquivir">
+      <placeName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q14309">Guadalquivir</placeName>
+      <settlement type="country">Spain</settlement>
+   </place>
+   <place xml:id="infiernos_loja">
+      <placeName xml:lang="en" sameAs="xx">Los infiernos de Loja</placeName>
+      <settlement type="country">Spain</settlement>
+   </place>
+   <place xml:id="mala">
+      <placeName xml:lang="en" sameAs="xx">Mala</placeName>
+      <settlement type="country">Spain</settlement>
+   </place>
+   <place xml:id="alhendin">
+      <placeName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q564773">Alhendin</placeName>
+      <settlement type="country">Spain</settlement>
+   </place>
+   <place xml:id="padul">
+      <placeName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q23982303">Padul</placeName>
+      <settlement type="country">Spain</settlement>
+   </place>
+   <place xml:id="library_escorial">
+      <placeName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q3848863">Library of Escorial</placeName>
+      <settlement type="country">Spain</settlement>
+   </place>
+   <place xml:id="cairo">
+      <placeName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q85">Cairo</placeName>
+      <settlement type="country">Egypt</settlement>
+   </place>
+   <place xml:id="pena_enamorados">
+      <placeName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q1983409">peña de los enamorados</placeName>
+      <settlement type="country">Spain</settlement>
+   </place>
+   <place xml:id="generalife">
+      <placeName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q525811">Generaliph</placeName>
+      <settlement type="country">Spain</settlement>
+   </place>
+   <place xml:id="comares">
+      <placeName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q24012607">Comares</placeName>
+      <settlement type="country">Spain</settlement>
+   </place>
+   <place xml:id="court_myrtles">
+      <placeName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q6066338">Patio de los Arrayones</placeName>
+      <settlement type="country">Spain</settlement>
+   </place>
+   <place xml:id="hall_comares">
+      <placeName xml:lang="en" sameAs="xx">Hall of Comaresch</placeName>
+      <settlement type="country">Spain</settlement>
+   </place>
+   <place xml:id="archidona">
+      <placeName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q920126">Archidone</placeName>
+      <settlement type="country">Spain</settlement>
+   </place>
+   <place xml:id="antequera">
+      <placeName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q572041">Antequera</placeName>
+      <settlement type="country">Spain</settlement>
+   </place>
    
 </listPlace>

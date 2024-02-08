@@ -122,6 +122,7 @@
   <person xml:id="carlos_v">
     <persName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q32500">Carlos V</persName>
     <persName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q32500">Emperor Charles V</persName>
+    <persName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q32500">Carlos 5</persName>
   </person>
   <person xml:id="king_adam">
     <persName xml:lang="en" sameAs="xx">Adam first King of Spain</persName>
@@ -158,5 +159,47 @@
   </person>
   <person xml:id="abu_abdallah_mohamad">
     <persName xml:lang="en" sameAs="xx">Abu Abdallah Ben Said Mohamad</persName>
+  </person>
+  <person xml:id="masdeu">
+    <persName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q9015516">Masdew</persName>
+  </person>
+  <person xml:id="pulgar">
+    <persName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q1406896">Pulgar</persName>
+  </person>
+  <person xml:id="giafor">
+    <persName xml:lang="en" sameAs="xx">Ramaleddin Giafor</persName>
+  </person>
+  <person xml:id="aben_amar">
+    <persName xml:lang="en" sameAs="xx">Aben Amar</persName>
+  </person>
+  <person xml:id="ali_beker_mohamad">
+    <persName xml:lang="en" sameAs="xx">Ali Beker Mohamad</persName>
+  </person>
+  <person xml:id="brewster">
+    <persName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q168468">David Brewster</persName>
+  </person>
+  <person xml:id="azimuth">
+    <persName xml:lang="en" sameAs="xx">Zenith Nadir Azimuth</persName>
+  </person>
+  <person xml:id="mahmet_naserita">
+    <persName xml:lang="en" sameAs="xx">Mahmet abu Abdallah Benjusuph Ben Ahmed Naserita</persName>
+  </person>
+  <person xml:id="medinat_alhamra">
+    <persName xml:lang="en" sameAs="xx">Medinat Alhamra</persName>
+  </person>
+  <person xml:id="nasrids">
+    <persName xml:lang="en" sameAs="xx">Naseritas<note type="editorial">Nasrids</note> Muhamed Abu Abdallah</persName>
+  </person>
+  <person xml:id="hagex_yusuph">
+    <persName xml:lang="en" sameAs="xx">Hagex Yusuph</persName>
+  </person>
+  <person xml:id="abulgualid_nacer">
+    <persName xml:lang="en" sameAs="xx">Abulgualid aben Nacer</persName>
+  </person>
+  <person xml:id="abulhagiagi">
+    <persName xml:lang="en" sameAs="xx">King Abulhagiagi</persName>
+  </person>
+  <person xml:id="billah">
+    <persName xml:lang="en" sameAs="xx">Abu Abdallah Elgani Billah</persName>
   </person>
 </listPerson>
