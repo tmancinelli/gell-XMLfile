@@ -654,6 +654,7 @@
       <placeName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q17760">Xenil</placeName>
       <settlement type="country">Spain</settlement>
    </place>
+
    <place xml:id="llangollen">
       <placeName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q1002793">Llangollen</placeName>
       <settlement type="country">United Kingdom</settlement>
@@ -723,5 +724,415 @@
       <placeName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q572041">Antequera</placeName>
       <settlement type="country">Spain</settlement>
    </place>
-   
+
+   <place xml:id="santacruzdemudela">
+      <placeName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q958776">Santa Cruz de Mudela</placeName>
+      <settlement type="country">Spain</settlement>
+   </place>
+   <place xml:id="viso_del_marques">
+      <placeName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q1641553">Viso del Marqués</placeName>
+      <settlement type="country">Spain</settlement>
+   </place>
+   <place xml:id="santa_elena">
+      <placeName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q1774857">Santa Elena</placeName>
+      <settlement type="country">Spain</settlement>
+   </place>  
+   <place xml:id="visillo">
+      <placeName xml:lang="en" sameAs="">Visillo</placeName>
+      <settlement type="country">Spain</settlement>
+   </place> 
+   <place xml:id="guadalquivir">
+      <placeName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q14309">Guadalquivir</placeName>
+      <settlement type="country">Spain</settlement>
+   </place>  
+   <place xml:id="andalusia">
+      <placeName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q5783">Andalusia</placeName>
+      <settlement type="country">Spain</settlement>
+   </place> 
+   <place xml:id="despenaperros">
+      <placeName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q111575109">Despeñaperros</placeName>
+      <settlement type="country">Spain</settlement>
+   </place> 
+   <place xml:id="pitch_of_dogs">
+      <placeName xml:lang="en" sameAs="">Pitch of Dogs</placeName>
+      <settlement type="country">Spain</settlement>
+   </place> 
+   <place xml:id="castle_of_tolosa">
+      <placeName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q109950198">CASTLE OF TOLOSA</placeName>
+      <settlement type="country">Spain</settlement>
+   </place>  
+   <place xml:id="guarroman">
+      <placeName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q1313369">Guarromán</placeName>
+      <settlement type="country">Spain</settlement>
+   </place>  
+   <place xml:id="castle_martos">
+      <placeName xml:lang="en" sameAs="">CASTLE MARTOS</placeName>
+      <settlement type="country">Spain</settlement>
+   </place>  
+   <place xml:id="torredelcampo">
+      <placeName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q1765676">Torredelcampo</placeName>
+      <settlement type="country">Spain</settlement>
+   </place>
+   <place xml:id="mounts_of_guadalupe">
+      <placeName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q692982">Mounts of Guadalupe</placeName>
+      <settlement type="country">Spain</settlement>
+   </place>
+   <place xml:id="baylen">
+      <placeName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q695456">Baylen</placeName>
+      <settlement type="country">Spain</settlement>
+   </place>
+   <place xml:id="sierra_de_jaen">
+      <placeName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q1641553">Sierra de Jaen</placeName>
+      <settlement type="country">Spain</settlement>
+   </place>
+   <place xml:id="torredonjimeno">
+      <placeName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q1915208">Torredonjimeno</placeName>
+      <settlement type="country">Spain</settlement>
+   </place>
+   <place xml:id="martos">
+      <placeName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q695425">Martos</placeName>
+      <settlement type="country">Spain</settlement>
+   </place>
+   <place xml:id="mentesa">
+      <placeName xml:lang="en" sameAs="">Mentesa</placeName>
+      <settlement type="country">Spain</settlement>
+   </place>
+   <place xml:id="castle_de_hicbin">
+      <placeName xml:lang="en" sameAs="">Castillo de Hicbin</placeName>
+      <settlement type="country">Spain</settlement>
+   </place>
+   <place xml:id="castle_heznalquilah">
+      <placeName xml:lang="en" sameAs="">castle HEZNALQUILAH</placeName>
+      <settlement type="country">Spain</settlement>
+   </place>
+   <place xml:id="castillo_de_alcala">
+      <placeName xml:lang="en" sameAs="">Castillo de Alcala</placeName>
+      <settlement type="country">Spain</settlement>
+   </place>
+   <place xml:id="castillo_de_las_agilas">
+      <placeName xml:lang="en" sameAs="">Castillo de las Agilas</placeName>
+      <settlement type="country">Spain</settlement>
+   </place>
+   <place xml:id="castillo_de_dizensiones">
+      <placeName xml:lang="en" sameAs="">Castillo de dizensiones</placeName>
+      <settlement type="country">Spain</settlement>
+   </place>
+   <place xml:id="castillo_de_las_pendencias">
+      <placeName xml:lang="en" sameAs="">Castillo de las Pendencias</placeName>
+      <settlement type="country">Spain</settlement>
+   </place>
+   <place xml:id="castillo_de_duelo">
+      <placeName xml:lang="en" sameAs="">Castillo de duelo</placeName>
+      <settlement type="country">Spain</settlement>
+   </place>
+   <place xml:id="servilla﻿">
+      <placeName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q8717">Sevilla</placeName>
+      <settlement type="country">Spain</settlement>
+   </place>
+   <place xml:id="alcaudete">
+      <placeName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q1613282">Alcaudete</placeName>
+      <settlement type="country">Spain</settlement>
+   </place>
+   <place xml:id="turkey">
+      <placeName xml:lang="en" sameAs="">Turkey</placeName>
+      <settlement type="country">Spain</settlement>
+   </place>
+   <place xml:id="sierra_de_aguilla">
+      <placeName xml:lang="en" sameAs="">Sierra de Aguilla</placeName>
+      <settlement type="country">Spain</settlement>
+   </place>
+   <place xml:id="castille">
+      <placeName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q1641553">Castille</placeName>
+      <settlement type="country">Spain</settlement>
+   </place>
+   <place xml:id="rock_of_martos">
+      <placeName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q27919729">Rock of Martos</placeName>
+      <settlement type="country">Spain</settlement>
+   </place>
+   <place xml:id="aguila">
+      <placeName xml:lang="en" sameAs="">AGUILA</placeName>
+      <settlement type="country">Spain</settlement>
+   </place>
+   <place xml:id="alcala">
+      <placeName xml:lang="en" sameAs="">Alcala</placeName>
+      <settlement type="country">Spain</settlement>
+   </place>
+   <place xml:id="puerto_lope">
+      <placeName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q5804908">Village Puerto Lope</placeName>
+      <settlement type="country">Spain</settlement>
+   </place>
+   <place xml:id="puerta_de_elvira">
+      <placeName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q2452989">Puerta de Elvira</placeName>
+      <settlement type="country">Spain</settlement>
+   </place>
+   <place xml:id="illora">
+      <placeName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q291752">Illora</placeName>
+      <settlement type="country">Spain</settlement>
+   </place>
+   <place xml:id="pinos_puente">
+      <placeName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q611199">Pinos Puente</placeName>
+      <settlement type="country">Spain</settlement>
+   </place>
+   <place xml:id="covarrubios">
+      <placeName xml:lang="en" sameAs="">Covarrubios</placeName>
+      <settlement type="country">Spain</settlement>
+   </place>
+   <place xml:id="velilla">
+      <placeName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q1906964">Velilla</placeName>
+      <settlement type="country">Spain</settlement>
+   </place>
+   <place xml:id="m_elvira">
+      <placeName xml:lang="en" sameAs="">Elvira</placeName>
+      <settlement type="country">Spain</settlement>
+   </place>
+   <place xml:id="fuente_del_pino">
+      <placeName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q23993846">Fuente del Pino</placeName>
+      <settlement type="country">Spain</settlement>
+   </place>
+   <place xml:id="atarfe">
+      <placeName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q550974">Atarfe</placeName>
+      <settlement type="country">Spain</settlement>
+   </place>
+   <place xml:id="alhambra_amphitheatre">
+      <placeName xml:lang="en" sameAs="">Alhambra Amphitheatre</placeName>
+      <settlement type="country">Spain</settlement>
+   </place> 
+   <place xml:id="jaen">
+      <placeName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q15681">JAEN</placeName>
+      <settlement type="country">Spain</settlement>
+   </place> 
+   <place xml:id="t_elvira">
+      <placeName xml:lang="en" sameAs="">Elvira</placeName><!-- no longer existing town -->
+      <settlement type="country">Spain</settlement>
+   </place> 
+   <place xml:id="caparacena">
+      <placeName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q5748188">Caparacena</placeName>
+      <settlement type="country">Spain</settlement>
+   </place> 
+   <place xml:id="mochlin">
+      <placeName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q593637">Mochlin</placeName>
+      <settlement type="country">Spain</settlement>
+   </place> 
+   <place xml:id="cartuja">
+      <placeName xml:lang="en" sameAs="">Cartuja</placeName>
+      <settlement type="country">Spain</settlement>
+   </place>  
+   <place xml:id="albolote">
+      <placeName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q565415">Albolote</placeName>
+      <settlement type="country">Spain</settlement>
+   </place> 
+   <place xml:id="calle_de_los_gomeles">
+      <placeName xml:lang="en" sameAs="">Calle de Los Gomeles</placeName>
+      <settlement type="country">Spain</settlement>
+   </place> 
+   <place xml:id="gate_of_the_granadas">
+      <placeName xml:lang="en" sameAs="">gate of the granadas</placeName>
+      <settlement type="country">Spain</settlement>
+   </place>  
+   <place xml:id="torre_de_la_campana">
+      <placeName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q98754985">Torre de la Campana</placeName>
+      <settlement type="country">Spain</settlement>
+   </place> 
+   <place xml:id="torre_bermejas">
+      <placeName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q6074003">Torres Bermejas</placeName>
+      <settlement type="country">Spain</settlement>
+   </place>  
+   <place xml:id="plaza_de_bibarrambla">
+      <placeName xml:lang="en" sameAs="">plaza de Bivarambla</placeName>
+      <settlement type="country">Spain</settlement>
+   </place> 
+   <place xml:id="fount_of_the_leoncillo">
+      <placeName xml:lang="en" sameAs="">fount of the Leoncillo</placeName>
+      <settlement type="country">Spain</settlement>
+   </place>  
+   <place xml:id="puente_de_carbon">
+      <placeName xml:lang="en" sameAs="">Puente de Carbon</placeName>
+      <settlement type="country">Spain</settlement>
+   </place> 
+   <place xml:id="calle_de_zacatin">
+      <placeName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q121625947">calle de Zacatin</placeName>
+      <settlement type="country">Spain</settlement>
+   </place>  
+   <place xml:id="plaza_nueva">
+      <placeName xml:lang="en" sameAs="">Plaza Nueva</placeName>
+      <settlement type="country">Spain</settlement>
+   </place>  
+   <place xml:id="st_miguel">
+      <placeName xml:lang="en" sameAs="">St. Miguel</placeName>
+      <settlement type="country">Spain</settlement>
+   </place>  
+   <place xml:id="albaicin">
+      <placeName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q550974">Albaicín</placeName>
+      <placeName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q550974">Albaycin</placeName>
+      <settlement type="country">Spain</settlement>
+   </place> 
+   <place xml:id="silla_del_moro">
+      <placeName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q98501261">silla del Moro</placeName>
+      <settlement type="country">Spain</settlement>
+   </place>
+   <place xml:id="alcazar">
+      <placeName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q679269">Alcazar</placeName>
+      <settlement type="country">Spain</settlement>
+   </place> 
+   <place xml:id="zahara">
+      <placeName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q140520">Zahara</placeName>
+      <settlement type="country">Spain</settlement>
+   </place>
+   <place xml:id="guadalete">
+      <placeName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q17812">Guadalete</placeName>
+      <settlement type="country">Spain</settlement>
+   </place>  
+   <place xml:id="torrevieja">
+      <placeName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q221749">Torrevieja</placeName>
+      <settlement type="country">Spain</settlement>
+   </place>  
+   <place xml:id="murcia">
+      <placeName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q12225">Murcia</placeName>
+      <settlement type="country">Spain</settlement>
+   </place> 
+   <place xml:id="purchena">
+      <placeName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q1445232">Purchena</placeName>
+      <settlement type="country">Spain</settlement>
+   </place> 
+   <place xml:id="sierra_de_filabres">
+      <placeName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q602169">Sierra de Filabres</placeName>
+      <settlement type="country">Spain</settlement>
+   </place>  
+   <place xml:id="macael">
+      <placeName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q1161455">Macael</placeName>
+      <settlement type="country">Spain</settlement>
+   </place>  <place xml:id="london">
+      <placeName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q84">London</placeName>
+      <settlement type="country">United Kingdom</settlement>
+   </place>  
+   <place xml:id="malaga">
+      <placeName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q8851">Málaga</placeName>
+      <settlement type="country">Spain</settlement>
+   </place>
+  <place xml:id="gibralfaro">
+      <placeName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q1049197">Gibralfaro</placeName>
+      <settlement type="country">Spain</settlement>
+   </place> 
+   <place xml:id="alcazaba">
+      <placeName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q2096768">Alcazaba</placeName>
+      <settlement type="country">Spain</settlement>
+   </place>
+   <place xml:id="tarifa">
+      <placeName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q222702">Tarifa</placeName>
+      <settlement type="country">Spain</settlement>
+   </place> 
+   <place xml:id="europa_point﻿">
+      <placeName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q658246">Europa point</placeName>
+      <settlement type="country">Spain</settlement>
+   </place>  
+   <place xml:id="parsley">
+      <placeName xml:lang="en" sameAs="">Parsley</placeName>
+      <settlement type="country">Spain</settlement>
+   </place>  
+   <place xml:id="palacio_de_la_contaduria">
+      <placeName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q97617261">Palacio de la Contaduría</placeName>
+      <settlement type="country">Spain</settlement>
+   </place> 
+   <place xml:id="carteia">
+      <placeName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q97616842">Cartieia</placeName>
+      <settlement type="country">Spain</settlement>
+   </place>
+   <place xml:id="mantinea">
+      <placeName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q1160195">Mantinea</placeName>
+      <settlement type="country">Greek</settlement>
+   </place> 
+   <place xml:id="gibraltar">
+      <placeName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q1410">Gibraltar</placeName>
+      <settlement type="country">Spain</settlement>
+   </place>  
+   <place xml:id="smaria">
+      <placeName xml:lang="en" sameAs="">S. Maria</placeName>
+      <settlement type="country">Spain</settlement>
+   </place>
+   <place xml:id="silves">
+      <placeName xml:lang="en" sameAs="">Silves</placeName>
+      <settlement type="country">Spain</settlement>
+   </place> 
+   <place xml:id="algeciras">
+      <placeName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q484552">Algeciras</placeName>
+      <settlement type="country">Spain</settlement>
+   </place>  
+   <place xml:id="africa">
+      <placeName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q15">Africa</placeName>
+      <settlement type="country">Africa</settlement>
+   </place> 
+   <place xml:id="mecca">
+      <placeName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q5806">Mecca</placeName>
+      <settlement type="country">Arabia</settlement>
+   </place> 
+   <place xml:id="egypt">
+      <placeName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q79">Egypt</placeName>
+      <settlement type="country">Egypt</settlement>
+   </place>  
+   <place xml:id="cadiz">
+      <placeName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q15682">Cádiz</placeName>
+      <settlement type="country">Spain</settlement>
+   </place> 
+
+   <place xml:id="venta_nueva">
+      <placeName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q6160354">Venta Nueva</placeName>
+      <settlement type="country">Spain</settlement>
+   </place>  
+   <place xml:id="baeza">
+      <placeName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q488555">Baeza</placeName>
+      <settlement type="country">Spain</settlement>
+   </place>  
+   <place xml:id="mt_jaen">
+      <placeName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q54799927">Mountain of Jaen</placeName>
+      <settlement type="country">Spain</settlement>
+   </place>   
+   <place xml:id="jabalquinto">
+      <placeName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q1114768">Jabalquinto</placeName>
+      <settlement type="country">Spain</settlement>
+   </place>  
+   <place xml:id="betis">
+      <placeName xml:lang="en" sameAs="">Betis</placeName>
+      <settlement type="country">Spain</settlement>
+   </place> 
+   <place xml:id="almenara">
+      <placeName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q1917433">Almenara</placeName>
+      <settlement type="country">Spain</settlement>
+   </place>  
+   <place xml:id="castel_jaen">
+      <placeName xml:lang="en" sameAs="">castle of Jaen</placeName>
+      <settlement type="country">Spain</settlement>
+   </place> 
+   <place xml:id="river_jaen">
+      <placeName xml:lang="en" sameAs="">river of Jaen</placeName>
+      <settlement type="country">Spain</settlement>
+   </place>  
+   <place xml:id="granena">
+      <placeName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q24664841">Grañena</placeName>
+      <settlement type="country">Spain</settlement>
+   </place>  
+   <place xml:id="mosque_cordova">
+      <placeName xml:lang="en" sameAs="">mosque Cordova</placeName>
+      <settlement type="country">Spain</settlement>
+   </place>  
+   <place xml:id="cordova﻿">
+      <placeName xml:lang="pt" sameAs="https://www.wikidata.org/wiki/Q79607">Cordova</placeName>
+      <settlement type="country">Spain</settlement>
+   </place>  
+   <place xml:id="cordova_gate">
+      <placeName xml:lang="en" sameAs="">Cordova gate</placeName>
+      <settlement type="country">Spain</settlement>
+   </place>  
+   <place xml:id="masana">
+      <placeName xml:lang="en" sameAs="">Masana</placeName>
+      <settlement type="country">Spain</settlement>
+   </place>  
+   <place xml:id="campillo_de_arenas">
+      <placeName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q780608">Campillo de Arenas</placeName>
+      <settlement type="country">Spain</settlement>
+   </place>  
+   <place xml:id="ubeda">
+      <placeName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q329984">Ubeda</placeName>
+      <settlement type="country">Spain</settlement>
+   </place>  
+
 </listPlace>

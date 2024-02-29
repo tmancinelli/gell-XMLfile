@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface xml:id="zone_Page_110">
+         <graphic url="https://iiif.bsr.ac.uk/iiif/2/GELL-VI%2Fwg_06_110.tif/full/full/0/default.jpg"/>
+         <zone points="1224,4156 1218,4264 3454,4264 3448,3992" xml:id="zone_Page_110_e5e7d223-319c-41da-bea4-f101a4f87078"/><!-- arabic 1 -->
+         <zone points="2176,3655 2186,3802 2480,3764 2475,3617" xml:id="zone_Page_110_73cbfc44-2add-4767-83f1-4b017d0c8dd3"/><!-- arabic 2 -->
+      </surface>
+   </facsimile>
+   <text>
+      <front>
+         <div type="cover">
+            <note> </note>
+         </div>
+         <div type="inlet">
+            <head> </head>
+         </div>
+      </front>
+
+      <body>
+         <div type="spain">
+            <pb facs="#zone_Page_110" n="110"/>
+            <fw>95</fw>
+            <ab>Sala de las dos Hermanas<note type="translation">Hall of the Two Sisters</note>
+               Alhambra. the eastern chamber of the lions court is the Abencerraxes hall on the
+               crest the Sala de las dos Hermanas <metamark>–</metamark></ab>
+            <ab>Marble of Machael<note type="editorial">Macael</note>. 4 varas<note type="editorial"
+                  >Unit of measurement, explained on pag 190.</note> &amp; 21 inches &amp; 2 varas
+               &amp; four inches wide.</ab>
+            <ab>Enter by an arched gate the side of which ½ marble ½
+               stucco.<!-- citation starts here --> Inscription “aid o God our lord Abulhagiagi.
+               Give glory to our King &amp; lord Abulhagiagi whom God assist. And the beauty which
+               thou hast emanates from God. God is our the help in all affliction, In another place
+               is in entry inscribed “Hapiness.” &amp; again “God alone is the conqueror”. The
+               alcoves called Alhami. The Mirador of the garden of Lindaraxa. Among the azulejos the
+               arms of Mahomad Abu Abdallah. Among the inscriptions “My structure disposed with
+               exquisite art has passed into a proverb, &amp; my praise is current in every ones
+                  mouth.<note type="editorial">WG's translations from <bibl>Spanish in Antigüedades
+                     árabes, vol. 2, pp. 10-11.</bibl></note></ab>
+            <ab>Another <!-- citation starts here -->Alli’ tambien los obscuros marmoles ya
+               desbastados y bruñidos despiden su resplandor, y convierten en luz las tinieblas<note
+                  type="editorial"><bibl>Antigüedades árabes, vol. 2, p. 11</bibl>. WG's
+                  'desbastados' is correct, but AA has 'desvastados', suggesting that WG might not
+                  be using the 1804 published version.<note type="translation">There too the dark
+                     marbles, already smoothed and polished, give off their radiance, and turn
+                     darkness into light.</note></note>. Other “Te pareciera que los orbes celestes
+               apresuran su curso para hacer sombra a las columnas de la aurora porque sale mas
+                  temprano.<note type="editorial"><bibl>Antigüedades árabes, vol. 2, p. 11.</bibl>
+                  AA has 'pareceria' and 'colunas', but WG's 'pareciera' and 'columnas' are right
+                  interestingly. Another suggestion that WG might be using a different source to the
+                  1804 published version.<note type="translation">It seems to you that the celestial
+                     orbs hurry along their course to cast in shadow the columns of dawn, because it
+                     [i.e. dawn] comes earlier.</note>
+               </note></ab>
+            <ab>Other <!-- citation starts here -->“Quantas asperas y toscas piedras se han empleado
+               en este Alcázar, resplandecen en fuerza de la luz que reciben del mismo regio
+                  palacio.<note type="editorial"><bibl>Antigüedades árabes, vol. 2, p.
+                     11.</bibl><note type="translation">How many rough and coarse stones have been
+                     used in this Fortress, they shine in the strength of the light they receive
+                     from the royal palace itself.</note></note></ab>
+            <ab>Another <!-- citation starts here -->“The stars themselves obey &amp; serve this
+               King, In truth those who are employed in the service of his princes merit the
+               greatest honours. another “and if they stood at his side they would haste to serve
+               him while the bystanders would rejoice at it.<note type="editorial">WG's translations
+                  from <bibl>Spanish in Antigüedades árabes, vol. 2, p. 11.</bibl></note></ab>
+            <ab>Other. <!-- citation starts here -->“Oh quanto desean los mismos astros el esplendor
+               si en ella tuvieran fixo su asiento y no tuviesen que recorrer al hemisferio.<note
+                  type="editorial"><bibl>Antigüedades árabes, vol. 2, p. 11.</bibl><note
+                     type="translation">Oh how the stars themselves [would] desire splendour if they
+                     had their place fixed in it [reference unclear] and did not have to travel
+                     across the [AA has 'el'] hemisphere</note></note></ab>
+            <note type="arabic" facs="#zone_Page_110_e5e7d223-319c-41da-bea4-f101a4f87078">باسمك اللهم من عمرو هند الي الكعبر * كتابي هذا *<note
+                  type="translation">By the name of Allah, from Amru Hend (name) to Al Kahber (name)
+                  [unknown word] my book [unknown word]</note></note>
+
+            <cb/>
+            <ab>These inscriptions are in medallions ornamented with shields &amp; other inscript<hi
+                  rend="superscript">s</hi> – in which <!-- citation starts here -->Dese Gloria
+               perpetuamente al Señor de ella. Sea el reyno perpetus al Señor de el <note
+                  type="editorial"><bibl>Antigüedades árabes, vol. 2, p. 5.</bibl>AA has 'sea el
+                  reyno perpetuamente del Señor de él'.<note type="translation">Give Glory
+                     perpetually to her [or its] Lord. May the kingdom belong perpetually to his [or
+                     its] Lord</note></note><!-- citation starts here -->“The omnipotence of God”
+               other. “Give glory to our lord Abu Abdallah. <metamark>–</metamark> In the mirador of
+               Lindaraxa also “give glory to our King &amp; lord Abuabdallah<note type="editorial"
+                  >WG's translations from <bibl>Spanish in Antigüedades árabes, vol. 2. p.
+                     11.</bibl></note>. Verses <!-- citation starts here -->“El que me viere me
+               tendra por una muger que habla con aquel aguamanil, manefiestandole su vivo deseo de
+                  conseguirlo<note type="editorial">Antigüedades árabes, vol. 2, p. 7.<note
+                     type="translation">He who sees me will take me for a woman who speaks with that
+                     water jug [or washbasin], showing [AA has 'manifestándole'] her strong desire
+                     to obtain it.</note></note>. Other verses <!-- citation starts here -->Quando
+               el que mira considera mi belleza su misma imaginacion desmiente su vista.”<note
+                  type="editorial">Antigüedades árabes, vol. 2, p. 6.<note type="translation"/>When
+                  he who looks considers my beauty, his own imagination denies his sight.</note>
+               other Solo Dios es vencedor<note type="translation">Only God is victorious</note>
+               <!-- citation starts here -->God give perpetual help &amp; victory propicious to our
+               lord Abuabdallah, emperor of the faithful<note type="editorial">WG's translation from
+                     <bibl>Spanish in Antigüedades árabes, vol. 2, p. 12.</bibl></note>. Again <choice>
+                  <abbr>S D es Venced</abbr>
+                  <expan>Solo Dios es Vencedor</expan>
+               </choice><note type="translation">only God is victorious</note>
+               <!-- citation starts here -->give honor &amp; praise to the King our lord Abu
+               Abdallah, son of our lord Abulhagiagi, Solo Dios &amp;. <note type="editorial">WG's
+                  translation from <bibl>Spanish in Antigüedades árabes, vol. 2, p. 12.</bibl>'Solo
+                  Dios es vencedor': only God is victorious.</note><metamark>–</metamark> Other
+               <!-- citation starts here -->“Este es un alcazar de cristal. Ele que lo mira lo tiene
+               por un pielago que rebosa y se derrama<note type="editorial"><bibl>Antigüedades
+                     árabes, vol. 2, p. 7.</bibl> Antigüedades árabes has 'el' rather than
+                     'ele'.<note type="translation">This is a fortress of crystal. He who looks at
+                     it takes it for a sea that overflows and spills.</note></note>.
+                  <metamark>–</metamark> other. <!-- citation starts here -->God is in himself
+               goodness itself. He is above all merciful &amp; His truth is great.” other
+                  <metamark>–</metamark> Hapiness<note type="editorial">WG's translation from
+                     <bibl>Spanish in Antigüedades árabes, vol. 2, p. 10.</bibl></note>. Above is a
+               frieze of fine carv’d wood.</ab>
+            <ab><bibl>P72 Arab library<note type="editorial">i.e. Miguel Casiri, Bibliotheca
+                     arabico-hispana escurialensis..., 2 vols (Madrid: Antonio Perez de Soto,
+                     1760-1770), vol. 1, p. 72.</note></bibl>. Tarph &amp; Motalmesus <note
+                        type="arabic" facs="#zone_Page_110_73cbfc44-2add-4767-83f1-4b017d0c8dd3">[Arabic]</note> wrote a poem against their protector King
+               Amrun. Motalmesis suspected a letter of recommendation from the King, but Tarphe
+               went. The letter. In nomine tuo Deus. Ab Amru Ebn Handa ad Alcabaram Ubi ad te
+               literae nostrae per Motalmesum pervenerint, fac ipsum manibus &amp; pedibus truncatum
+               vivum defodias<note type="translation">In your name, God. From Amrun Ebn Handa to
+                  Alcabara. When our letters come to you through Motalmesis, mutilate him alive in
+                  the hands and feet.</note></ab>
+
+         </div>
+         <div type="portugal">
+            <ab> </ab>
+         </div>
+         <div type="reading_notes">
+            <ab> </ab>
+         </div>
+      </body>
+
+      <back>
+         <div type="cover">
+            <note> </note>
+         </div>
+         <div type="index"> </div>
+      </back>
+   </text>
+
+</TEI>

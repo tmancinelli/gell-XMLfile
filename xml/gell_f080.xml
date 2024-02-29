@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface xml:id="zone_Page_80">
+         <graphic url="https://iiif.bsr.ac.uk/iiif/2/GELL-VI%2Fwg_06_080.tif/full/full/0/default.jpg"/>
+         <zone points="103,103 103,1311 3481,1147 3481,103" xml:id="zone_Page_80_8642b9e9-9eb1-4aa8-98f1-e48f5597821a"/><!-- view of Atarfe -->
+         <zone points="2110,1115 2148,3699 3497,3737 3497,1126" xml:id="zone_Page_80_c1abbabd-ef38-4073-a88a-d1b6db6b3498"/><!-- marginal 1 -->
+         <zone points="2192,3715 2192,3867 3481,3911 3481,3720" xml:id="zone_Page_80_ad055da9-5e6e-4af2-b166-935c0d1c50f9"/><!-- marginal 2 -->
+         <zone points="2192,3856 2208,4243 3519,4270 3519,3889" xml:id="zone_Page_80_179d05ab-a946-40ca-8ed5-7435c0fb2d3d"/><!-- marginal 3 -->
+      </surface>
+   </facsimile>
+   
+   <text>
+      <front>
+         <div type="cover">
+            <note> </note>
+         </div>
+         <div type="inlet">
+            <head> </head>
+         </div>
+      </front>
+
+      <body>
+         <div type="spain">
+            <pb facs="#zone_Page_80" n="080"/>
+            <fw>117</fw>
+            <figure facs="#zone_Page_80_8642b9e9-9eb1-4aa8-98f1-e48f5597821a">
+               <note type="editorial_label">Pen and ink drawing: view of <rs>Atarfe</rs> </note>
+               <label><rs type="place" ref="#atarfe">ATARFE</rs></label>
+               <label>in Vega de <rs type="place" ref="#granada">Granada</rs><note type="translation">in the Fertile Plain of Granada</note></label>
+               <label><rs type="place" ref="#m_elvira">Sierra de Elvira</rs></label>
+            </figure>
+
+            <ab>functions &amp; religious processions. the magistrate retaining their gallery on the
+               top of the Custom house, where probably was the Royal Mirador El Mirab<note type="translation">Mirador: balcony/oriel
+                  Mirab = mihrab: a niche indicating the direction of Mecca.</note>. The houses
+               opposite the sun have had shades. In some the Turkish lattice work yet remains
+               perfect. The famous <rs type="place" ref="#calle_de_zacatin">calle de Zacatin<note type="editorial">Calle Zacatín</note></rs> runs from the <choice><abbr>S.E.</abbr><expan>south-east</expan></choice> corner of the Bivarambla<note type="editorial">Plaza de Bib-Rambla or Bibarrambla</note> to
+               the <rs type="place" ref="#plaza_nueva">Plaza Nueva</rs> &amp; is ab<hi rend="superscript">t</hi> 12 feet wide. The <rs type="place" ref="XXX">Calle de Elvira</rs> may be about 18. that
+               of the Gomeles wider. The Cathedral was a mosque but the court is now filled up by
+               the nave. the circle of the Mosque is still preserved at least the form, &amp; is
+               very handsome with rich windows, &amp; is entirely gilt. The place much subject to
+               earthquakes, &amp; the Cathedral has lately suffered. They say scarcely a fortnight
+               passes without a shock. The houses seldom fall but the Moorish towers often fail. The
+               moors had a way of building with earth &amp; gravel in appearance &amp; brick on the
+               outside which seems to stand wonderfully well. Every house in <rs type="place" ref="#granada">Granada</rs> has one or more
+               fountains.</ab>
+
+
+            <note type="marginal" facs="#zone_Page_80_c1abbabd-ef38-4073-a88a-d1b6db6b3498">The Spanish Kings have in many parts spoiled the open
+               Moorish Galleries by filling up the intercolumniations. particularly near the Tocador
+               or peinador della Reyna<note type="translation">Queen's Boudoir or Dressing Room</note> &amp; the apartments of the <rs type="person" ref="#juan_i">mad queen<note type="editorial">Juana I ('la loca': the mad) of Castile, 1479-1555, wife of Filipe I of Castile.</note></rs> who was literally
+               confined toward the court by iron bars. Wherever the Spaniards have touched the
+               building it is ruined, both in taste execution &amp; durability – They have imitated
+               the tiles azulejos of the Moors ill &amp; their plaister work worse. besides tearing
+               up, the moorish pavements of green &amp; white tiles with the colours of different
+               patterns chiefly blue yellow &amp; green, to place among the dusty Spanish bricks.
+               The first court has a cistern, all is entirely a white marble pavement throughout the
+               whole court.</note>
+            <note type="marginal" facs="#zone_Page_80_ad055da9-5e6e-4af2-b166-935c0d1c50f9">Gold fish, now muddy water.</note>
+            <note type="marginal" facs="#zone_Page_80_179d05ab-a946-40ca-8ed5-7435c0fb2d3d">The gilding of the moorish roofs remains in many parts
+               but the delicacy of the ornaments</note>
+
+         </div>
+         <div type="portugal">
+            <ab> </ab>
+         </div>
+         <div type="reading_notes">
+            <ab> </ab>
+         </div>
+      </body>
+
+      <back>
+         <div type="cover">
+            <note> </note>
+         </div>
+         <div type="index"> </div>
+      </back>
+   </text>
+
+</TEI>

@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface xml:id="zone_Page_75">
+         <graphic url="https://iiif.bsr.ac.uk/iiif/2/GELL-VI%2Fwg_06_075.tif/full/full/0/default.jpg"/>
+         <zone points="1180,2899 1164,3002 1289,3013 1311,2899" xml:id="zone_Page_75_6757b2e8-c8e6-4c8b-bff9-8dbf36e7a644"/><!-- triangle -->
+         <zone points="146,3797 146,3922 310,3911 315,3808" xml:id="zone_Page_75_9c27842a-ff28-4314-80dc-9f3b55b1038e"/><!-- arch bridge -->
+         <zone points="1936,1267 1925,1544 3367,1599 3372,1327" xml:id="zone_Page_75_16b6771c-fd06-457f-9f87-b5cf0b354729"/><!-- marginal 1 -->
+         <zone points="1931,1517 1931,1642 2317,1637 2322,1528" xml:id="zone_Page_75_1e922780-709a-4afe-b22b-9c1fb9e92d94"/><!-- marginal 2 -->
+         <zone points="1871,1691 2137,2448 3394,2480 3389,1686" xml:id="zone_Page_75_7610c8fb-979d-4461-9895-a2801b1b2a76"/><!-- marginal 3 -->
+         <zone points="2110,2605 2148,3617 3405,3628 3389,2616" xml:id="zone_Page_75_35af6b66-fd41-40a2-9623-1fdd0a878e78"/><!-- sketch -->
+         <zone points="2197,3601 2197,3731 3389,3775 3400,3612" xml:id="zone_Page_75_58766c2a-fe83-4ee1-b68b-a7f27b3a4980"/><!-- marginal 4 -->
+         <zone points="2263,3715 2263,3802 2970,3900 2964,3726" xml:id="zone_Page_75_6b627cc6-0ca9-4ca9-997c-b27fe8d9ebdd"/><!-- marginal 5 -->
+         <zone points="2203,3775 2176,3900 2350,3916 2366,3775" xml:id="zone_Page_75_6655b83d-eae3-4154-a5eb-d9819bd5bae8"/><!-- peak -->
+      </surface>
+   </facsimile>
+   <text>
+      <front>
+         <div type="cover">
+            <note> </note>
+         </div>
+         <div type="inlet">
+            <head> </head>
+         </div>
+      </front>
+
+      <body>
+         <div type="spain">
+            <pb facs="#zone_Page_75" n="075"/>
+            <figure>
+               <note type="editorial_label">Pen and ink drawing: landscape</note>
+               <label>[ALCU]DETE</label> <!-- encoded as place on previous folio -->
+               <!-- Description of the image: a continuous meadow of mountains, with a pencil-blacked meadow with three small trees in the foreground,
+            a lower mountain field with a few light shades in the middele, and mountains outlined by pencil in the background-->
+               <!-- the image is tha same on folio 74 -->
+               <label><rs type="place" ref="#aguila">AGUILA</rs></label>
+            </figure>
+
+            <ab>The road as bad as where there is no post. or worse. very steep &amp; bad hill. 30 p
+               5<note type="editorial">5.30</note> after a very steep hill houses. After this a moor* with the <rs>castle of Alcala la
+                  Real</rs> at the other end, at the other side of which is the town which reach at 10 to 7<note type="editorial">6.50</note>.
+               A good Posada<note type="translation">Inn</note> but the people had no money to buy eggs &amp; bacon. At <rs type="place" ref="#alcala">Alcala</rs> houses
+               made of good stone &amp; strongly built. There is a very pretty garden with walks
+               &amp; trees at the <choice><abbr>SE</abbr><expan>south-east</expan></choice> entry of the town. the castle is in ruins in it is a <choice><abbr>+</abbr><expan>church</expan></choice>. Many
+               stone crosses about. The fount ornamented with arabesques almost five feet high.
+               griffins &amp; men. The streets good &amp; people civil. Jalousies or lattices as in
+               turkey, remains of Moorish custom. 30 p 9 quit gate trees &amp; <figure type="in_text" facs="#zone_Page_75_6757b2e8-c8e6-4c8b-bff9-8dbf36e7a644"><note type="editorial_label">[drawing: triangle]</note></figure>
+               chapel. At 10<hi rend="superscript">h</hi> fount soon after <choice><abbr>X</abbr><expan>cross</expan></choice> a brook very bad or no road, a road turns R qu to
+               Allora<note type="editorial">right. WG wonders if it is to Álora.</note>, brook runs with road. corn &amp; spotted trees. 10 p 1 descend after steep
+               &amp; muddy ascent among fine Mountains &amp; trees. see a magnificent cap in front
+               in the <choice><abbr>M<hi rend="superscript">ts</hi></abbr><expan>Mountains</expan></choice> 30 p 1 through which the Vega<note type="translation">Fertile Plain</note> &amp; city <sic>of of</sic> <rs type="place" ref="#granada">Granada</rs>. &amp; 3 Atalayas
+               castles or watch towers. the scenery quite beautiful, Road turns R. 15 to 2 X
+               <figure type="in_text" facs="#zone_Page_75_9c27842a-ff28-4314-80dc-9f3b55b1038e"><note type="editorial_label">[drawing: arch bridge]</note></figure> in the vale. 35 p 2 <rs type="place" ref="#puerto_lope">Vill Puente de Lopez<note type="editorial">Village Puerto Lope</note></rs>. small Vill. good
+               posada<note type="translation">inn</note> civil people. rather cold people say never snows 3 leagues from <rs type="place" ref="#alcala">Alcala</rs>
+               beautiful country.</ab>
+
+
+            <note type="marginal" facs="#zone_Page_75_16b6771c-fd06-457f-9f87-b5cf0b354729">*It being dark the road was rather dangerous. passing 2
+               or 3 streams.</note>
+            <note type="marginal" facs="#zone_Page_75_1e922780-709a-4afe-b22b-9c1fb9e92d94">VIEW 118<note type="editorial">pag 079 (WG's page 118)</note></note>
+            <note type="marginal" facs="3zone_Page_75_7610c8fb-979d-4461-9895-a2801b1b2a76">bill 6 dollars. At Alcala the beds on the floor. even
+               at Jaen beds on legs were particular “camas de madeira”<note type="editorial">beds, either Madeira-style or (more likely) wooden (de madera)</note>. A blanket of cotton softer
+               than Indian shawle &amp; very warm said to be made at <rs type="place" ref="#granada">Granada</rs> &amp; to cost 6
+               dollars.</note>
+            <figure type="sketch" facs="#zone_Page_75_35af6b66-fd41-40a2-9623-1fdd0a878e78">
+               <note type="editorial_label">Pen and ink drawing: gate</note>
+               <label><rs type="place" ref="#puerta_de_elvira">Puerta de Elvira<note type="translation">Elvira Gate</note></rs></label>
+            </figure>
+            <note type="marginal" facs="#zone_Page_75_58766c2a-fe83-4ee1-b68b-a7f27b3a4980">The King broke his lance on passing thro’ it against
+               the Arch. Omen. Taken Prisoner.</note>
+            <note type="marginal" facs="#zone_Page_75_6b627cc6-0ca9-4ca9-997c-b27fe8d9ebdd">vide view next leaf.<note type="editorial">see view on pag 076 (i.e. of beautiful scenery mentioned above)</note></note>
+            <figure type="sketch" facs="#zone_Page_75_6655b83d-eae3-4154-a5eb-d9819bd5bae8">
+               <note type="editorial_label">drawing: peak</note>
+            </figure>
+
+         </div>
+         <div type="portugal">
+            <ab> </ab>
+         </div>
+         <div type="reading_notes">
+            <ab> </ab>
+         </div>
+      </body>
+
+      <back>
+         <div type="cover">
+            <note> </note>
+         </div>
+         <div type="index"> </div>
+      </back>
+   </text>
+
+</TEI>

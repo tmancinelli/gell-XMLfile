@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface xml:id="zone_Page_74">
+         <graphic url="https://iiif.bsr.ac.uk/iiif/2/GELL-VI%2Fwg_06_074.tif/full/full/0/default.jpg"/>
+         <zone points="554,2480 549,2589 690,2600 718,2502" xml:id="zone_Page_74_a4f1553d-23d3-46cf-abbb-05abf5261eab"/><!-- arch bridge 1-->
+         <zone points="353,3715 364,3829 489,3824 516,3704" xml:id="zone_Page_74_1802a68b-a5cb-4cea-ac12-4a24fb5822bf"/><!-- arch bridge 2-->
+         <zone points="1196,3699 1196,3813 1311,3813 1311,3699" xml:id="zone_Page_74_ced464f4-9928-46e7-89e0-a61ad19defc2"/><!-- in box -->
+         <zone points="2502,1224 2496,1974 3476,1942 3487,1213" xml:id="zone_Page_74_6351c609-d7d6-4230-b61e-3047e12c0d54"/><!-- marginal 1-->
+         <zone points="2371,2834 2360,3019 3264,2992 3264,2828" xml:id="zone_Page_74_a5b89cb1-d08d-464c-a40b-ec92e3aced94"/><!-- marginal 2-->
+         <zone points="2453,3019 2453,3133 3312,3128 3312,3002" xml:id="zone_Page_74_5a673964-68e9-44a6-80a1-bd7ff331fc1f"/><!-- marginal 3 -->
+         <zone points="3128,3106 3128,3215 3280,3209 3285,3106" xml:id="zone_Page_74_5fe110fe-5b22-401d-b0af-979c815cd778"/><!-- marginal 4 -->
+      </surface>
+   </facsimile>
+   
+   <text>
+      <front>
+         <div type="cover">
+            <note> </note>
+         </div>
+         <div type="inlet">
+            <head> </head>
+         </div>
+      </front>
+
+      <body>
+         <div type="spain">
+            <pb facs="#zone_Page_74" n="074"/>
+            <fw>124</fw>
+            <!-- figure is divided between two pages -->
+            <!-- Description of the image: a continuous meadow of mountains, with a pencil-blacked meadow with three small trees in the foreground,
+            a lower mountain field with a few light shades in the middele, and mountains outlined by pencil in the background-->
+            <!-- the image is continued on folio 75 -->
+            <figure>
+               <note>Pen and ink drawing: landscape</note>
+               <label>
+                  <rs type="place" ref="#martos">MARTOS</rs></label>
+               <label>VIEW NEAR <rs type="place" ref="#alcaudete">ALCU[DETE]<note type="editorial"
+                        >Alcaudete</note></rs></label>
+            </figure>
+
+            <ab><date when="1808-11-06">Nov 6</date> cloudy but warm. bill 6 dollars but civil people. South of the <rs type="place" ref="#guadalquivir">Guadalquivir</rs>,
+               the beds are made on the ground as in <rs type="place" ref="#turkey">Turkey</rs>, &amp; the chairs are not in general
+               above a foot high. People at the Posada<note type="translation">Inn</note> very civil. Some of the inhabitants of <rs>Martos</rs>
+               which is a large town called upon us to offer any thing we might want. quit <rs>Martos</rs> ½
+               p 8<note type="editorial">8.30</note>. 30 p 9 covered with olives &amp; woods of prickly oak, fine country the <rs type="place" ref="#sierra_de_aguilla">Sierra
+                  de Aguilla</rs> <choice><abbr>L</abbr><expan>left</expan></choice> a peaked mountain whence the name<note type="translation">águila: eagle</note>. 14 p 10 house L. descend &amp; <choice><abbr>X</abbr><expan>cross</expan></choice>
+               river then a hill. recross branch of same river 32 p 11 by a ford &amp; <figure type="in_text" facs="#zone_Page_74_a4f1553d-23d3-46cf-abbb-05abf5261eab"><note type="editorial_label">[drawing:
+                  arch bridge]</note></figure> with a large cavern in the rock. hills very fine. a castle <choice><abbr>R.</abbr><expan>right</expan></choice> Oleanders.
+               Ascend very steep hill till 1<hi rend="superscript">h</hi>. fine view both ways. under the peak woods &amp;
+               fields, like the Nomian <choice><abbr>M<hi rend="superscript">ts</hi></abbr><expan>Mountains</expan></choice>. descend. 20 p 1 fount &amp; posada<note type="translation">Inn</note> of <rs>Alcudete<note type="editorial">Alcaudete</note></rs> a town on
+               the post road with a very picturesque castle &amp; +. Turn L still keeping the
+               Aguilla L. Olives, Women in Turkish dress red gowns &amp; white shawl veils, At a
+               garden some very fine cypresses &amp; a summer house. X a <figure type="in_text" facs="#zone_Page_74_1802a68b-a5cb-4cea-ac12-4a24fb5822bf"><note type="editorial_label">[drawing: arch bridge]</note></figure>. 30
+               p 2 descending <choice><abbr><figure type="in_text" facs="#zone_Page_74_ced464f4-9928-46e7-89e0-a61ad19defc2"><note type="editorial_label">[+ in box]</note></figure></abbr><expan>monastery</expan></choice> &amp; cypresses. A tower on hill R. having passed another
+               watch tower before, At 3<hi rend="superscript">h</hi> a few houses Cortejo<note type="editorial">Probably Cortijo (farmhouse)</note> de los Señores. X 10 p 3 a river to
+               them the <rs>Algodone</rs> &amp; ascend. R 2 more watch towers. 20 to 4h<note type="editorial">3.40</note> <choice><abbr>Vill &amp; venta</abbr><expan>Village and country inn</expan></choice></ab>
+
+
+            <note type="marginal" facs="#zone_Page_74_6351c609-d7d6-4230-b61e-3047e12c0d54"><rs type="person" ref="#ferdinand_iv">Ferdinand IV</rs> K <rs type="place" ref="#castille">Castille</rs> &amp; <rs type="person" ref="#leon_person">Leon</rs> ordered 2 Carvajals
+               to be thrown from <rs type="place" ref="#rock_of_martos">Rock of Martos</rs> suppose not Peña de los enamorados<note type="translation">Lovers' Rock</note> No, for having
+               murdered a Courtier. Benavides. They dying summoned the King to appear in 30 days
+               before God, which he dying did. An English Play in 1832 made on this
+                  <metamark>–</metamark></note>
+
+            <note type="marginal" facs="#zone_Page_74_a5b89cb1-d08d-464c-a40b-ec92e3aced94">Vide<note type="translation">See</note> top of this page</note>
+            <note type="marginal" facs="#zone_Page_74_5a673964-68e9-44a6-80a1-bd7ff331fc1f"><rs>ALCAUDETE</rs> views 120</note>
+            <note type="marginal" facs="#zone_Page_74_5fe110fe-5b22-401d-b0af-979c815cd778">121</note><note type="editorial">pag 076-077 (WG’s pages 120-1)</note>
+
+         </div>
+         <div type="portugal">
+            <ab> </ab>
+         </div>
+         <div type="reading_notes">
+            <ab> </ab>
+         </div>
+      </body>
+
+      <back>
+         <div type="cover">
+            <note> </note>
+         </div>
+         <div type="index"> </div>
+      </back>
+   </text>
+
+</TEI>

@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface xml:id="zone_Page_79">
+         <graphic url="https://iiif.bsr.ac.uk/iiif/2/GELL-VI%2Fwg_06_079.tif/full/full/0/default.jpg"/>
+         <zone points="0,81 0,1169 3394,1234 3389,92" xml:id="zone_Page_79_54f4cd08-b66c-453e-9a84-97172b7813cc"/><!-- view of Alcala -->
+         <zone points="712,2366 690,2671 1175,2681 1191,2377" xml:id="zone_Page_79_4a4dcdb6-50b6-4cbc-aed0-a7bf6acfd147"/><!-- brick -->
+         <zone points="1697,3106 1691,3514 2034,3530 2072,3111" xml:id="zone_Page_79_1b24e797-eba7-4dd7-889b-9dd16e0d68a0"/><!-- galleries -->
+         <zone points="2143,1419 2127,1925 3389,1952 3378,1408" xml:id="zone_Page_79_9b8233d0-da84-4ac4-899a-ffb7baba978c"/><!-- marginal 1 -->
+         <zone points="2159,1893 2154,2224 3394,2263 3405,1931" xml:id="zone_Page_79_4c44a42b-889c-490d-98c1-83525ea2e67e"/><!-- marginal 2 -->
+         <zone points="2186,2208 2197,2992 3394,3051 3394,2252" xml:id="zone_Page_79_1826ec9c-1e5a-4789-804f-1ffb41e206f3"/><!-- marginal 3 -->
+         <zone points="2660,2807 2654,3024 2888,3024 2921,2812" xml:id="zone_Page_79_5685ba8b-e499-41f7-809e-a383e5b71098"/><!-- galleries -->
+         <zone points="2224,2953 2214,4248 3400,4237 3400,2992" xml:id="zone_Page_79_71ebe243-e16e-4060-a1a1-2a0552a852d1"/><!-- marginal 4 -->
+      </surface>
+   </facsimile>
+   
+   <text>
+      <front>
+         <div type="cover">
+            <note> </note>
+         </div>
+         <div type="inlet">
+            <head> </head>
+         </div>
+      </front>
+
+      <body>
+         <div type="spain">
+            <pb facs="#zone_Page_79" n="079"/>
+            <figure facs="#zone_Page_79_54f4cd08-b66c-453e-9a84-97172b7813cc">
+               <note type="editorial_label">Pen and ink drawing: view of <rs type="place" ref="#alcala">Alcalá la Real</rs></note>
+               <label>Vid.<note type="translation">See</note> 2 leaves back</label>
+               <label><rs type="place" ref="#alcala">ALCALA LA REAL HEZNALQUILAH</rs></label>
+               <label>looking Back</label>
+               <label><rs type="place" ref="#castillo_de_las_pendencias">Castillo de las Pendencias</rs><note type="translation">Castle of the
+                     Quarrels</note></label>
+            </figure>
+
+            <ab>The <rs type="place" ref="#alhambra">Alhambra</rs> at <rs type="place" ref="#granada">Granada</rs> is upon the lower step of a Mountain, with a deep ravine to
+               the Darro on the <choice><abbr>L</abbr><expan>left</expan></choice> another on the <choice><abbr>R</abbr><expan>right</expan></choice> &amp; a third which divides it from the
+               Generalife a Moorish Kiosk &amp; garden, higher up the <choice><abbr>M<hi rend="superscript">t</hi></abbr><expan>Mountain</expan></choice>. The <rs type="place" ref="#gate_of_the_granadas">Gate</rs> &amp; <rs type="place" ref="#calle_de_los_gomeles">Calle de<note type="translation">Street of</note>
+                  Elvira the Plaza Nueva</rs> &amp; the <rs type="place" ref="#calle_de_los_gomeles">Calle de Los Gomeles</rs> lead to the <rs type="place" ref="#gate_of_the_granadas">gate of the
+                     Granadas</rs> betwen the <rs type="place" ref="#torre_de_la_campana">Torre de la Campana</rs> or Vela or watch<note type="translation">Torre de la Vela [Watch Tower]</note> &amp; the <rs type="place" ref="#torre_bermejas">Torres Bermeijas<note type="translation">Torres Bermejas (Vermillion Towers)</note></rs>
+               The last house in the <rs type="place" ref="#calle_de_los_gomeles">C de los Gomeles</rs> evidently of Moorish construction, it has
+               fountains &amp; a court with arcades. &amp; is built like the <rs type="place" ref="#alhambra">Alhambra</rs> <figure type="in_text" facs="#zone_Page_79_4a4dcdb6-50b6-4cbc-aed0-a7bf6acfd147"><note type="editorial_label">[drawing:
+               brick]</note></figure> several summer houses with cypresses in this street retain their original
+               appearance. some of the jalousies are quite Turkish. The town is full of Moorish
+               houses, consisting generally of a tower or moorish arch a court &amp; 4 or 5 stories
+               of galleries <figure type="in_text" facs="#zone_Page_79_1b24e797-eba7-4dd7-889b-9dd16e0d68a0"><note type="editorial_label">[drawing: galleries]</note></figure> within which are rooms. The <rs type="place" ref="#plaza_de_bibarrambla">plaza de Bivarambla</rs> is
+               ab<hi rend="superscript">t</hi> <space/> long &amp; <space/> broad the houses from 5 to 6 stories of these galleries
+               &amp; except the custom house &amp; the Archbishops palace just as it was. in it is
+               the <rs type="place" ref="#fount_of_the_leoncillo">fount of the Leoncillo<note type="translation">Young Lion</note></rs> the lion of which may be Moorish. Even yet the place is
+               used for great</ab>
+
+
+            <note type="marginal" facs="zone_Page_79_9b8233d0-da84-4ac4-899a-ffb7baba978c">Spiders are said not to pass over the plaister work of
+               the Moors. while over that of the Kings of Spain in the<rs type="place" ref="#alhambra"> Alhambra</rs> there are many webs.
+                  <metamark>–</metamark></note>
+            <note type="marginal" facs="#zone_Page_79_4c44a42b-889c-490d-98c1-83525ea2e67e">Subterraneous passages in the rock of the <rs type="place" ref="#alhambra">Alhambra</rs>,
+               said to lead to all parts of the City.</note>
+            <note type="marginal" facs="#zone_Page_79_1826ec9c-1e5a-4789-804f-1ffb41e206f3">Near the Darro above the Paseo<note type="translation">Promenade</note> opposite to the <rs type="place" ref="#puente_de_carbon">Puente
+               de Carbon<note type="translation">Puente de Carbón [literally, Coal Bridge]</note></rs> on Passeo a Moorish house compleat with a door in a tower like the <rs type="place" ref="#alhambra">Alhambra</rs>
+               equally good. gold red &amp; blue the house a square court. 3 stories high <figure type="in_text" facs="#zone_Page_79_5685ba8b-e499-41f7-809e-a383e5b71098"><note type="editorial_label">[drawing:
+               galleries]</note></figure> The horse guards of the Moorish Kings</note>
+            <note type="marginal" facs="#zone_Page_79_71ebe243-e16e-4060-a1a1-2a0552a852d1"><rs type="place" ref="#plaza_de_bibarrambla">The Plaza de Bivarambla<note type="editorial">Plaza de Bib-Rambla or Bibarrambla</note></rs> is except the Archbishops house
+               as it was in the time of the Juego de Cañas<note type="editorial">A game, supposedly of Moorish origin, played on horseback in the main squares of early modern Spain (literally, the 'reed game').</note> &amp;c. being ab<hi rend="superscript">t</hi> 6 stories high &amp;
+               all in galleries. <sic>Exept</sic> also the Custom house which is new. The Tocador de La Reyna<note type="translation">Queen's Boudoir</note>
+               is in a moorish tower though painted afresh by the King of Spains painters. <rs type="person" ref="#emperor_charles_v">KI
+               Carolus imperator<note type="translation">Emperor Charles</note></rs> is painted on many parts of the adjacent buildings.</note>
+
+         </div>
+         <div type="portugal">
+            <ab> </ab>
+         </div>
+         <div type="reading_notes">
+            <ab> </ab>
+         </div>
+      </body>
+
+      <back>
+         <div type="cover">
+            <note> </note>
+         </div>
+         <div type="index"> </div>
+      </back>
+   </text>
+
+</TEI>

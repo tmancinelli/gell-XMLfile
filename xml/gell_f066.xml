@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface xml:id="zone_Page_66">
+         <graphic url="https://iiif.bsr.ac.uk/iiif/2/GELL-VI%2Fwg_06_066.tif/full/full/0/default.jpg"/>
+         <zone points="190,76 190,843 3236,908 3269,70" xml:id="zone_Page_66_44b17531-1cb6-449b-80f7-6cff95072cb4"/><!-- santa cruz de mudela -->
+         <zone points="587,1305 576,1414 723,1419 750,1327" xml:id="zone_Page_66_b8234649-b1cc-4fa1-bce5-9014d5363806"/><!-- bridge -->
+         <zone points="946,2034 968,2127 1060,2116 1077,2029" xml:id="zone_Page_66_242a30c1-9654-4f94-b8da-6d397393b6fd"/><!-- bridge -->
+         <zone points="1980,2040 1985,2148 2088,2154 2121,2056" xml:id="zone_Page_66_4b85c006-c381-4e7c-871f-6f1ab6f79332"/><!-- bridge -->
+         <zone points="424,2165 413,2556 1784,2589 1860,2203" xml:id="zone_Page_66_592a0395-6fdd-4879-b894-7aa5ad99d8d7"/><!-- bridge -->
+         <zone points="1871,2426 1865,2524 1996,2535 2050,2426" xml:id="zone_Page_66_6c0749d1-5b44-480b-bf45-57e9d2f20291"/><!-- bridge -->
+         <zone points="516,3187 527,3296 641,3285 696,3187" xml:id="zone_Page_66_f6f4dbbc-7475-48ea-b44e-900c9034c01b"/><!-- bridge -->
+         <zone points="582,3503 582,3628 701,3633 745,3514" xml:id="zone_Page_66_085781e8-4e12-4d30-a2ed-1c12cd900f5c"/><!-- bridge -->
+         <zone points="2279,1838 2301,2747 3427,2758 3421,1838" xml:id="zone_Page_66_ae37270b-069a-4ef2-b2cd-6231de0e107f"/><!-- sketch priest -->
+         <zone points="2246,2866 2241,3182 3465,3280 3454,2834" xml:id="zone_Page_66_fc8236c1-78bc-49c8-abb9-25d18c3de2d3"/><!-- sketch road -->
+         <zone points="2273,3280 2257,3846 3454,3851 3470,3291" xml:id="zone_Page_66_1a2cac27-7738-41dc-9575-0306c9013333"/><!-- marginal note -->
+      </surface>
+   </facsimile>
+   <text>
+      <front>
+         <div type="cover">
+            <note> </note>
+         </div>
+         <div type="inlet">
+            <head> </head>
+         </div>
+      </front>
+
+      <body>
+         <div type="spain">
+            <pb facs="#zone_Page_66" n="066"/>
+            <fw>132</fw>
+            <figure facs="#zone_Page_66_44b17531-1cb6-449b-80f7-6cff95072cb4">
+               <note type="editorial_label">Pen and ink drawing: view of <rs type="place" ref="#santacruzdemudela"
+                     >Santa Cruz de Mudela</rs></note>
+               <label><rs type="place" ref="#santacruzdemudela">Santa Cruz de Mudela</rs></label>
+            </figure>
+
+            <ab><date when="1808-11-01">Nov<hi rend="superscript">r</hi> 1<hi rend="superscript"
+                     >st</hi></date> a cold rainy morning but not perpetual rain, quit <rs
+                        type="place" ref="#nuestra_sra_consolacion">Nuestra Señora de Consolacion<note type="editorial">i.e.
+                     Consolación</note></rs> at 20 to 9<note type="editorial">8.40</note>. the pass
+               at <rs type="place" ref="#nuestra_sra_consolacion">N.S.<note type="editorial">i.e. Consolación</note></rs>
+               4 miles wide. 25 p 10<note type="editorial">10.25</note> olives vines &amp; small
+               hills. 20 p 11 <rs type="place" ref="#valdepenas">Val de Peñas<note type="editorial"
+                     >Valdepeñas</note></rs> famous for wine large ranch <choice>
+                  <abbr>Vill</abbr>
+                  <expan>Village</expan>
+               </choice>. 5 to 1 <choice>
+                  <abbr>X</abbr>
+                  <expan>cross</expan>
+               </choice>
+               <figure type="in_text" facs="#zone_Page_66_b8234649-b1cc-4fa1-bce5-9014d5363806">
+                  <note type="editorial_label">[drawing: arch bridge]</note>
+               </figure>. 15 to 2 2 Villages <choice>
+                  <abbr>L dist.<hi rend="sueperscript">t</hi></abbr>
+                  <expan>left distant</expan>
+               </choice> 30 p 2 <rs type="place" ref="#santacruzdemudela">Santa Cruz de Mudela</rs> large Village.
+               church picturesque. 20 p 4 a <choice>
+                  <abbr>+</abbr>
+                  <expan>church</expan>
+               </choice> &amp; Venta<note type="#translation">country inn</note> dreary hills. 20 to
+               6 <rs type="place" ref="#viso_del_marques">Visillo<note type="editorial">Possibly Viso del
+                     Marqués</note></rs> village &amp; large inn. great stables. Bill about 5
+               Dollars. <rs type="place" ref="#visillo">Visillo</rs>
+               <choice>
+                  <abbr>N</abbr>
+                  <expan>north</expan>
+               </choice> side of the <rs type="place" ref="#sierra_morena">Sierra Morena</rs>
+               <date when="1808-11-02">Novem<hi rend="superscript">r</hi> 2</date> A rainy cold
+               morning quit at 5<hi rend="superscript">m</hi> to 9<note type="editorial"
+                  >8.55</note>. descend 20 to 10 X a <figure type="in_text" facs="#zone_Page_66_242a30c1-9654-4f94-b8da-6d397393b6fd">
+                  <note type="editorial_label">[drawing: arch bridge]</note>
+               </figure> stream runs <choice>
+                  <abbr>S</abbr>
+                  <expan>south</expan>
+               </choice>. 32 p 10 X <figure type="in_text" facs="#zone_Page_66_4b85c006-c381-4e7c-871f-6f1ab6f79332">
+                  <note type="editorial_label">[drawing: arch bridge]</note>
+               </figure> over the glen in which descend enter the Sierra. 30 p 11 Venta de Cardenia<note type="translation">Venta de Cárdenas [country inn there]</note>
+               single house said to be a good inn <figure type="in_text" facs="#zone_Page_66_592a0395-6fdd-4879-b894-7aa5ad99d8d7">
+                  <note type="editorial_label">[drawing: bridge]</note>
+               </figure> X the <figure type="in_text" facs="#zone_Page_66_6c0749d1-5b44-480b-bf45-57e9d2f20291">
+                  <note type="editorial_label">[drawing: arch bridge]</note>
+               </figure> soon after more houses or another inn. picturesque descent. Mountains seem
+               higher as road descends &amp; more abrupt. plenty of trees. 20 p 2 the pass
+               tremendous trees &amp; rocks. A place where the French lost many men. 15 to 1 more
+               open modern ruined aquaduct. Casa or Puerta del Rey<note type="translation">King's House or Gate</note>. 12 p 1 X <figure type="in_text" facs="#zone_Page_66_f6f4dbbc-7475-48ea-b44e-900c9034c01b">
+                  <note type="editorial_label">[drawing: arch bridge]</note>
+               </figure>
+               whence leaving the glen of the river ascend much till 15 p 2 <rs type="place" ref="#santa_elena">Village of <choice><abbr>S<hi rend="superscript">t</hi> Ellena</abbr><expan>Santa Elena</expan></choice></rs> on
+               a high top. Small Vill, soon after a <choice><abbr>+</abbr><expan>church</expan></choice> &amp; more houses L. fields &amp; scattered
+               <figure type="in_text" facs="#zone_Page_66_085781e8-4e12-4d30-a2ed-1c12cd900f5c">
+                  <note type="editorial_label">[drawing: tree]</note>
+               </figure>s on top. Arbutus. Andrachne &amp;c.<note type="editorial">flowering plants</note> 15 p 3 Venta Nueva whence a fine
+               view over the valleys at the foot of the <rs type="place" ref="#sierra_nevada">Sierra</rs> &amp; beyond the vale of the
+               <rs type="place" ref="#guadalquivir">Guadalquivir</rs> the high <rs type="place" ref="#sierra_nevada">Sierra Nevada of Granada</rs>. Hence descend. Wild pears or <hi rend="underline">Gall
+               trees</hi> people were said to make ink of the fruit. 4<hi rend="superscript">h</hi> a Village</ab>
+
+
+            <figure type="sketch" facs="#zone_Page_66_ae37270b-069a-4ef2-b2cd-6231de0e107f">
+               <note type="editorial_label">Pen and ink drawing with watercolour: man</note>
+               <label>Bearded Priest with a Moorish face at the ferry of the <rs type="place" ref="#guadalquivir">Guadalquivir</rs> <date
+                     when="1808-11-03">Nov 3d. 1808</date>.</label>
+            </figure>
+            <figure type="sketch" facs="#zone_Page_66_fc8236c1-78bc-49c8-abb9-25d18c3de2d3">
+               <label>section of road over the <rs type="place" ref="#sierra_morena">Sierra Morena</rs></label>
+               <note type="editorial_label">Pen and ink drawing: road</note>
+            </figure>
+            <note type="marginal" facs="#zone_Page_66_1a2cac27-7738-41dc-9575-0306c9013333">The common idea of the defence afforded by the <rs type="place" ref="#sierra_morena">Sierra
+               Morena</rs> to <rs type="place" ref="#andalusia">Andalusia</rs> by the road is very strong but the mountain is passable in almost
+               every part.</note>
+
+         </div>
+         <div type="portugal">
+            <ab> </ab>
+         </div>
+         <div type="reading_notes">
+            <ab> </ab>
+         </div>
+      </body>
+
+      <back>
+         <div type="cover">
+            <note> </note>
+         </div>
+         <div type="index"> </div>
+      </back>
+   </text>
+
+</TEI>

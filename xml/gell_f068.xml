@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Title</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Publication Information</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Information about the source</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surface xml:id="zone_Page_68">
+            <graphic url="https://iiif.bsr.ac.uk/iiif/2/GELL-VI%2Fwg_06_068.tif/full/full/0/default.jpg"/>
+            <zone points="184,81 168,728 3427,745 3432,70" xml:id="zone_Page_68_b62d1591-6713-47f9-8170-566c6d1ea8b1"/><!-- landscape 1 -->
+            <zone points="952,968 930,1093 1077,1104 1071,990" xml:id="zone_Page_68_db5978ec-c8ff-40f7-8a6f-743ccbc6e08d"/><!-- bridge 1 -->
+            <zone points="146,1202 141,2214 3171,2224 3198,1229" xml:id="zone_Page_68_2540afa1-98cb-446a-98f1-3c553bca8be2"/><!-- landscape 2 -->
+            <zone points="2486,2420 2486,2524 2632,2524 2638,2437" xml:id="zone_Page_68_862866c3-51be-4353-bff5-d63c17a31199"/><!-- bridge 2 -->
+            <zone points="184,2970 174,4243 3503,4259 3487,2986" xml:id="zone_Page_68_61d005cc-3304-4242-ae1d-9a635119bd67"/><!-- landscape 3 -->
+        </surface>
+    </facsimile>
+    <text>
+
+        <front>
+            <div type="cover">
+                <note/>
+            </div>
+            <div type="inlet">
+                <head/>
+            </div>
+        </front>
+
+        <body>
+            <div type="spain">
+                <pb facs="#zone_Page_68" n="68"/>
+                <fw>130</fw> 
+                
+                <figure facs="#zone_Page_68_b62d1591-6713-47f9-8170-566c6d1ea8b1">
+                    <note type="editorial_label">Pen and ink drawing: landscape</note>
+                    <label><rs type="place" ref="#venta_nueva">Venta Nueva</rs> on the top of the <rs
+                        type="place" ref="#sierra_morena">Sierra Morena</rs>.</label>
+                    <label><rs type="place" ref="#venta_nueva">Venta Nueva</rs>
+                        <rs type="place" ref="#santa_elena"><choice>
+                                <abbr>St</abbr>
+                                <expan>Santa</expan>
+                            </choice>Elena</rs></label>
+                </figure>
+
+                <ab>37 p 9<note type="editorial">9.37</note>
+                    <date when="1808-11-03">Nov 3<hi rend="superscript">d</hi></date> quit <rs
+                        type="place" ref="#guarroman">Guarroman</rs>, rainy day but not perpetual, nor cold.
+                    <rs type="place" ref="#guarroman">Guarroman</rs> a small place. <choice>
+                        <abbr>X</abbr>
+                        <expan>Cross</expan>
+                    </choice>
+                    <figure type="in_text" facs="#zone_Page_68_db5978ec-c8ff-40f7-8a6f-743ccbc6e08d">
+                        <note type="editorial_label">[drawing: arch bridge]</note>
+                    </figure> &amp; turn <choice>
+                        <abbr>L</abbr>
+                        <expan>left</expan>
+                    </choice> from main road beautiful woody country. Enter a very delightful glen
+                    full of trees &amp; Rocks. Evergreen oaks &amp; acorns good to eat 1 inch ½
+                    long.</ab>
+
+                <figure facs="#zone_Page_68_2540afa1-98cb-446a-98f1-3c553bca8be2">
+                    <note type="editorial_label">Pen and ink drawing: landscape</note>
+                    <label><rs type="place" ref="#baeza">Baeza</rs>.</label>
+                    <label>coming down <rs type="place" ref="#sierra_morena"><choice>
+                                <abbr>S.</abbr>
+                                <expan>south</expan>
+                            </choice>side of Sierra Morena</rs></label>
+                    <label><rs type="place" ref="#mt_jaen"><choice>
+                                <abbr>Mt</abbr>
+                                <expan>Mountain</expan>
+                            </choice> of Jaen</rs></label>
+                </figure>
+
+                <ab>20 p 10 recross river, mastic &amp; oleander bushes. Asphodels white 9 feet
+                    high. Geranion Lavender a greek thyme. holy holly – Pass through this lovely
+                    valley till 12<hi rend="superscript">h</hi> when a few huts. Battle of <rs
+                        type="place" ref="#baylen">Baylen</rs><note type="editorial">Battle of Bailén,
+                        16-19 July 1808</note>. 30 p 12 X <figure
+                            type="in_text" facs="#zone_Page_68_862866c3-51be-4353-bff5-d63c17a31199">
+                            <note type="editorial_label">[drawing: arch bridge]</note>
+                        </figure> de Linares <note type="editorial">i.e. the bridge of
+                            Linares</note>. in plain House <choice>
+                        <abbr>R</abbr>
+                        <expan>right</expan>
+                            </choice> Village <rs type="place" ref="#jabalquinto">JARALQUINTO<note type="editorial"
+                            >Jabalquinto</note></rs> a league L on a hill with a castle which the
+                    French before the battle of <rs type="place" ref="#baylen">Baylen</rs> had when driven
+                    from the ferry of <rs type="place" ref="#mengibar">Menjibar<note type="editorial"
+                            >Mengibar</note></rs> by the forces from <rs type="place" ref="#jaen"
+                        >Jaen</rs> 15 to 1<note type="editorial">12.45</note> X a road. to <rs
+                            type="place" ref="#jabalquinto">Jaralquinto</rs>. 10 to 2 inn &amp; well. name like
+                    Merigivo Bones of the french. Woods in the plain very large, a road comes in
+                    from R. 40 p 2 at top of a hill ruined castle R. <rs type="person" ref="#theodore_von_reding">Gen’
+                            Reding<note type="editorial">Theodore von Reding (1755-1809), Spanish
+                            general</note></rs>
+                </ab>
+
+                <figure facs="#zone_Page_68_61d005cc-3304-4242-ae1d-9a635119bd67">
+                    <note type="editorial_label">Pen and ink drawing: view of <rs type="place"
+                            ref="#mengibar">Mengíbar</rs></note>
+                    <label><rs type="place" ref="#guadalquivir">GUADALQUIVIR</rs> &amp; <rs type="place" ref="#mengibar"
+                            >MENGIBAR</rs> FROM <choice>
+                            <abbr>y<hi rend="superscript">e</hi></abbr>
+                            <expan>the</expan>
+                        </choice> FERRY.</label>
+                    <label>Here the french were beaten previous to the battle of <rs type="place"
+                            ref="#baylen">Baylen</rs></label>
+                </figure>
+
+            </div>
+            <div type="portugal">
+                <ab> </ab>
+            </div>
+            <div type="reading_notes">
+                <ab> </ab>
+            </div>
+        </body>
+
+        <back>
+            <div type="cover">
+                <note> </note>
+            </div>
+            <div type="index"> </div>
+        </back>
+
+    </text>
+</TEI>

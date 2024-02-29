@@ -43,7 +43,7 @@
     <persName xml:lang="en" sameAs="">Duchess of Osuna</persName><!-- wikidata not found -->
   </person>
   <person xml:id="pedro_de_alcantara">
-    <persName xml:lang="en" sameAs="">Pedro de Alcántara Téllez Girón (Prince of Anglona in Naples)</persName>
+    <persName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q7159980">Pedro de Alcántara Téllez Girón (Prince of Anglona in Naples)</persName>
   </person>
   <person xml:id="duke_of_hijar">
     <persName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q59294851">Duke of Híjar</persName>
@@ -202,4 +202,92 @@
   <person xml:id="billah">
     <persName xml:lang="en" sameAs="xx">Abu Abdallah Elgani Billah</persName>
   </person>
+  <person xml:id="charles_iii">
+    <persName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q36234?wprov=srpw1_0">Charles III</persName>
+  </person> 
+  <person xml:id="ferdinand_iv">
+    <persName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q316859">Ferdinand IV</persName>
+  </person>
+  <person xml:id="leon_person">
+    <persName xml:lang="en" sameAs="xx">Leon</persName>
+  </person> 
+  <person xml:id="pedro_machuca">
+    <persName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q1337287">Piedro Machucha</persName><!-- not sure -->
+    <persName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q1337287">Pedro Machuca</persName>
+  </person> 
+  <person xml:id="juan_i">
+    <persName xml:lang="en" sameAs="xx">Juana I</persName>
+    <persName xml:lang="en" sameAs="xx">la loca/the mad queen</persName>
+  </person> 
+  <person xml:id="don_jayme">
+    <persName xml:lang="en" sameAs="">El Rey</persName>
+    <persName xml:lang="en" sameAs="">Don Jayme</persName>
+  </person>  
+  <person xml:id="el_ray_chico">
+    <persName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q312763">Rey Chico. Muhammad XII of Granada, nicknamed Boabdil or 'El Rey Chico' (the Boy King) by the Christians.</persName>
+  </person>  
+  <person xml:id="pedro_berruguete">
+    <persName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q561783">Pedro Berruguete</persName>
+  </person> 
+  <person xml:id="antonio_vicarro">
+    <persName xml:lang="en" sameAs="xx">Antonio Vicarro Maestre de Canteras</persName>
+  </person> 
+  <person xml:id="aben_habuz">
+    <persName xml:lang="en" sameAs="xx">Aben Habuz</persName>
+  </person>  
+  <person xml:id="alonz_perez">
+    <persName xml:lang="en" sameAs="xx">Alonzo Perez</persName>
+  </person> 
+  <person xml:id="bartolome_de_rages">
+    <persName xml:lang="en" sameAs="xx">Bartolomé de Ragés</persName>
+  </person>  
+  <person xml:id="juan_de_la_fuente">
+    <persName xml:lang="en" sameAs="xx">Juan de la Fuente</persName>
+  </person> 
+  <person xml:id="philip_v">
+    <persName xml:lang="en" sameAs="xx">Philip V</persName>
+  </person>  
+  <person xml:id="dona_isabel">
+    <persName xml:lang="en" sameAs="xx">Dona Isabel</persName>
+  </person> 
+  <person xml:id="solano">
+    <persName xml:lang="en" sameAs="xx">Solano</persName>
+  </person> 
+  <person xml:id="theodore_von_reding">
+    <persName xml:lang="en" sameAs="xx">Theodore von Reding</persName>
+  </person>  
+  <person xml:id="francisco_javier_castanos">
+    <persName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q420319">Francisco Javier Castaños</persName>
+  </person>  
+  <person xml:id="dominique_vedel">
+    <persName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q3035222">Dominique Honoré Antoine Vedel</persName>
+  </person>  
+  <person xml:id="don_alfonso">
+    <persName xml:lang="en" sameAs="xx">Don Alfonso</persName>
+  </person> 
+  <person xml:id="abihamir">
+    <persName xml:lang="en" sameAs="xx">Abihamir</persName>
+  </person> 
+  <person xml:id="d_ferrando">
+    <persName xml:lang="en" sameAs="xx">Don Ferrando</persName>
+  </person> 
+  <person xml:id="alonso_de_ojeda">
+    <persName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q313369">Alonso de Ojeda</persName>
+  </person>  
+  <person xml:id="duke_of_montemar">
+    <persName xml:lang="en" sameAs="xx">Duke of Montemar</persName>
+    <persName xml:lang="spa" sameAs="xx">Duca de Montemar</persName>
+  </person>  
+  <person xml:id="halaf">
+    <persName xml:lang="en" sameAs="xx">Halaf</persName>
+  </person> 
+  <person xml:id="mahomed_alameri">
+    <persName xml:lang="en" sameAs="xx">Mahomed Alameri</persName>
+  </person> 
+  <person xml:id="queen_donna_beatriz_castilla">
+    <persName xml:lang="en" sameAs="xx">Queen Donna Beatriz of Castilla</persName>
+  </person>  
+  <person xml:id="abderahman">
+    <persName xml:lang="en" sameAs="xx">Abderahman</persName>
+  </person> 
 </listPerson>

@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <facsimile>
+      <surface xml:id="zone_Page_115">
+         <graphic url="https://iiif.bsr.ac.uk/iiif/2/GELL-VI%2Fwg_06_115.tif/full/full/0/default.jpg"/>
+         <zone points="10,70 16,2034 3405,2040 3410,81" xml:id="zone_Page_115_662537e2-8f1d-4795-b024-9b54d0250bf3"/>
+      </surface>
+   </facsimile>
+  <text>
+     
+     <front>
+        <div type="cover">
+           <note></note>
+        </div>
+        <div type="inlet">
+           <head></head>
+        </div>
+     </front>
+     
+      <body>
+         <div type="spain">
+            <pb facs="#zone_Page_115" n="115"/>
+ 
+            <figure facs="#zone_Page_115_662537e2-8f1d-4795-b024-9b54d0250bf3" type="sketch">
+               <note type="editorial_label">Pen and ink drawing: view of <rs type="place" ref="#gibraltar">Gibraltar</rs></note>
+               <label>Moorish walls</label>
+               <label><rs type="place" ref="gibraltar">GIBRALTAR</rs></label>
+            </figure>
+            
+            <ab>This view is taken from a spot near the Governors summer cottage E<note type="editorial">east</note> of the rock. 
+               L<note type="editorial">left</note> are seen some walls said to be moorish. High up toward the peak is seen the powder magazine</ab>
+            <note type="marginal"> <rs type="place" ref="#moclìn">Mochlin<note type="translation">Moclín</note></rs> the right eye &amp; <rs type="place" ref="#illora">Illora</rs>the shield of <rs type="place" ref="#granada alhama">Granada Alhama</rs><metamark/></note>
+            
+            <metamark/>
+            
+            <ab>
+               <bibl>From Casiri, Bibliotheca, vol. 1, p. 95. Casiri gives both Latin and Arabic, but WG probably translated the Arabic (given his pride and the very loose relationship of his translation to the Latin).</bibl>
+               In the <rs type="place" ref="#granda">Granada</rs> library are poems of <rs type="person" ref="#abubaker">Abu Baker Mohamad Ben Abrahim Almari Alcarschi</rs> who had This on his Tomb.
+               I translated this so
+               <lg>
+                  <l>As God ordains my death foredoom’d must be</l>
+                  <l>Kings, Prophet, Adam all preceeded me</l>
+                  <l>Go Thou prepare who glories in my death</l>
+                  <l>For soon shall Fate require thy latest breath.</l>
+                  <l>Born at <rs type="place" ref="#silves">Silves</rs> 28 miles from <rs type="place" ref="#s maria"></rs>S. Maria</l>
+               </lg>
+            </ab>
+            
+            <ab>
+               <bibl>From Casiri, Bibliotheca, vol. 1, p. 106, including Arabic and biographical detail.</bibl>
+               Valadata Dau’r<note type="translation">daughter</note> of King Mohamad Almostakphi Billah born at <rs type="place" ref="#cordoba">Cordoba</rs> wrote verses 
+               of which translation. “Aspectus noster vestra vulnerat corda: vester &amp; aspectus nostras ferit genas. 
+               Pro Vulnere vulnus: jam pares ergo sumus. Attamen genarum vulnus acerbius semper erit.<note type="translation">Our countenance wounds your hearts: and your gaze strikes our cheeks. Wound for wound: now, therefore, we are equal. The wound on the cheeks, however, will always be more severe.</note>
+               <note type="arabic">لحاظنا تجرحكم في الحشا ولحظكم يجرحنا في الخدود<note type="translation"><hi type="superscript"></hi>Our looks [women’s looks] hurt you [men] deeply and clearly show on you. However, your looks [men’s looks] barely hurt us [women] and only show on our cheeks.</note></note>
+               Abdusi a noble of <rs type="place" ref="#cordoba">Cordoba</rs> in love with her.
+            </ab>
+            
+            <ab>
+               <bibl>Casiri, Bibliotheca, vol. 1, p. 107.</bibl>
+               Some poems end in a letter as <note type="arabic">[Arabic]</note> whence called Siniat. one of Ebn Badis of Cordova commented by Ahmad 
+               Ben Alhagi of Granada. Hegirae <date>759<note type="editorial_note">AH 759 (Anno Hegirae, the Islamic calendar)</note></date>.
+            </ab>
+            
+            <ab>
+               <bibl>Casiri, Bibliotheca, vol. 1, p. 118.</bibl>
+               Mohamad Abi Baker Altalmasani of Granata
+            </ab>
+              
+         </div>
+         
+      </body>
+  </text>
+</TEI>

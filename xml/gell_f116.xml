@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <facsimile>
+      <surface xml:id="zone_Page_116">
+         <graphic url="https://iiif.bsr.ac.uk/iiif/2/GELL-VI%2Fwg_06_116.tif/full/full/0/default.jpg"/>
+      </surface>
+   </facsimile>
+  <text>
+     
+     <front>
+        <div type="cover">
+           <note></note>
+        </div>
+        <div type="inlet">
+           <head></head>
+        </div>
+     </front>
+     
+      <body>
+         <div type="spain">
+            
+            <pb facs="#zone_Page_116" n="116"/>
+            <fw>85</fw>
+            
+            <ab>
+               <bibl>Casiri, Bibliotheca, vol. 1, pp. 161-2.</bibl>
+               Ebn Alkhatib Mohd. Ebn Abdalla Chronographus to Kg of <rs type="place" ref="#granada">Granada</rs> 
+               wrote History of <rs type="place" ref="#granada">Granada</rs> &amp; Bibliotheca Arabico Hispanae. <note type="editorial">Ebn Alkhatib Mohamad Ebn Abdalla, Chronicler to King of Granada, wrote History of Granada and Arabic-Spanish Library.</note> &amp; of
+               <note type="arabic">Esteponaمربيله Marbella[Sahil]باليش Vélez-Málaga</note> Estepona Marbella Sahil Velez 
+               <note type="arabic">اسطبونهقمارش Comares[?]</note>Vera Schalubania Salobrena
+            </ab>
+            
+            
+            <metamark/> 
+            <ab>Al <rs type="place" ref="#algeciras">Algeciras</rs> is a better place than it appears from <rs type="place" ref="#gibraltar"></rs>Gibraltar, There are two squares or plazas – Behind the town is an aquaduct &amp; some gardens. On the whole however very miserable. A tolerable inn for <rs type="place" ref="#spain">Spain</rs>.</ab>
+            <metamark/>
+            
+            <ab>
+               <bibl>Casiri, Bibliotheca, vol. 1, p. 120.</bibl>
+               Mohamad Ben Alhassan ben Makhluph Alraschedi. Granatensis 
+               wrote Comt on “de arte metrica” of Kathiri ben Abdelrahman ben 
+               Alasuad Alkhazai of <rs type="place" ref="#cordoba">Corduba</rs>.
+               <note type="translation">Mohamad Ben Alhassan ben Makhluph Alraschedi of Granada wrote Commentary on "On the Metrical Art" of Kathiri ben Abdelrahman ben Alasuad Alkhazai of Cordoba.</note>     
+            </ab>
+            
+            <ab>
+               <bibl>Casiri, Bibliotheca, vol. 1, pp. 125-6.</bibl>
+               Salaheddin writes in Lacrymae queribundi &amp; impatientis Amantis 
+               Thus. Me rapit elegantia et pulchritudinis amor. neque mirum 
+               nam ille viros fortes. Rapit et molles. Jam me delicias 
+               inter atque lusus perditum cernis.
+               <note type="translation">Salaheddin writes in The Tears of the Complaining and Impatient Lover Thus. Love of elegance [Casiri has ‘elegantiæ’] and beauty seizes me; no wonder, for it seizes strong men and the weak [Casiri has no full stop between ‘fortes’ and ‘Rapit’]. Now you see me lost among pleasures and games.</note>
+            </ab>
+            
+            <ab>
+               <bibl>Casiri, Bibliotheca, vol. 1, p. 133.</bibl>
+               “Tot tibi sunt dotes virgo quot sydera coelo”.. Isa ben Mohamad ben Isa 
+               in Granada library.
+               <note type="translation">You have as many gifts, O Virgin, as there are stars in heaven.</note>
+            </ab>
+            
+            <ab>
+               <bibl>Casiri, Bibliotheca, vol. 1, p. 135.</bibl>
+               In Hegirae ao. 588 or 1192 Xt. Margaritarum series ac Apparatus Vestis 
+               elegantis &amp; laneae &amp; others collected by Mohamad Ben Abdelhac Algasanita 
+               Granatensis ao Heg 571. Laudativa amatoria et moralia.
+               <note type="transcription">In AH 588 or 1192AD. A series of pearls and an elegant woollen outfit and others collected by Mohamad Ben Abdelhac Algasanita of Granada, AH 571. Laudatory, amorous and moral.</note>
+            </ab>
+            
+            <ab>
+               <bibl>Casiri, Bibliotheca, vol. 1, p. 136.</bibl>
+               Dhilvazratin Abi Abdala Ben Alkatib of <rs type="place" ref="#granada">Granata</rs> wrote history of 
+               Spanish events &amp; his travels to <rs type="place" ref="#africa">Africa</rs> &amp; return to <rs type="place" ref="#spain">Spain</rs> &amp; congratulations 
+               on it. 3d day Saphari ao Heg <date>748<note type="editorial_note">AH 748</note></date>.
+            </ab>
+            
+            <ab>
+               <bibl>Casiri, Bibliotheca, vol. 1, p. 144 (though mentions 51 professions).</bibl>
+               Mohamad Ben Md.<note type="translation">Mohamad</note> Albalisi ben Ali of Velez wrote dialogues of 50 professions.
+            </ab>
+            
+            <ab>Authors of <rs type="place" ref="#cordoba">Cordoba</rs> numberless. Gardening &amp;c &amp; all the sciences.
+               
+               CAPITAL. COURT OF LIONS <!-- pencil -->
+            </ab>
+         </div>
+      </body>
+  </text>
+</TEI>

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface xml:id="zone_Page_109">
+         <graphic url="https://iiif.bsr.ac.uk/iiif/2/GELL-VI%2Fwg_06_109.tif/full/full/0/default.jpg"/>
+         <zone points="70,1452 59,4145 3378,4177 3389,1485" xml:id="zone_Page_109_a7b0c658-4441-4a0c-ae09-1fe0295cbe6f"/>
+      </surface>
+   </facsimile>
+   <text>
+      <front>
+         <div type="cover">
+            <note> </note>
+         </div>
+         <div type="inlet">
+            <head> </head>
+         </div>
+      </front>
+
+      <body>
+         <div type="spain">
+            <pb facs="#zone_Page_109" n="109"/>
+            <ab><rs type="person" ref="#don_jayme">El Rey<note type="translation">The King</note> Don Jayme</rs> went with a silver hammer &amp; mucha genta<note type="translation"></note> to knock down the
+               Mosque &amp; destroy all traces of the Moors at <rs type="place" ref="#valencia">Valencia</rs>. No ruins therefore left
+               there <metamark>–</metamark></ab>
+            <ab><rs type="place" ref="#alcazar">Alcazar<note type="translation">Fortress</note> of Granada</rs> in <rs type="place" ref="#alhambra">Alhambra</rs> built by <rs type="person" ref="#pedro_berruguete">Pedro Berruguete</rs> for <rs type="person" ref="#emperor_charles_v">Charles V</rs>. Colonnade of
+               Breccia. <date when="1537">1537</date>.</ab>
+            <ab>The bridge at Ronda 300 feet Chasm <metamark>–</metamark> 600 feet deep.</ab>
+            <ab><rs type="place" ref="#zahara">Zahara</rs> citadel with town at foot of rock <metamark>–</metamark> in Moorish history near the
+               <rs type="place" ref="#guadalete">Guadalete</rs>.</ab>
+            <ab><rs type="place" ref="#torrevieja">Torre Vieja<note type="editorial">Torrevieja
+            </note></rs> scene of Earthquakes in <date when="1829">1829</date>.</ab>
+            <ab><rs type="place" ref="#murcia">Murcia</rs>. pure Moors yet</ab>
+            <ab><rs type="place" ref="#purchena">Purchena</rs> seat of <rs type="person" ref="#el_ray_chico">Rey Chico<note type="editorial">Muhammad XII of Granada, nicknamed Boabdil or 'El Rey Chico' (the Boy King) by the Christians.</note></rs> at foot of <rs type="place" ref="#sierra_de_filabres">Sierra de Filabres</rs> eastern shoulder of <rs type="place" ref="#sierra_nevada">Sierra
+               Nevada</rs></ab>
+            <ab>perar<note type="translation">wait</note> <!-- [vertical] --></ab>
+            <ab>Ruined Castle. Had trees. had 7 000 houses now only 400.</ab>
+            <ab> <rs type="place" ref="#macael">Macael</rs> <metamark>–</metamark> <rs type="person" ref="#antonio_vicarro">Antonio Vicarro Maestre de Canteras<note type="translation">Master of Quarries</note></rs> or quarries.</ab>
+            <ab>Quarries a league above Village. Pines. 7 blocks ready cut for <rs type="place" ref="#london">London</rs> White marble
+               of <rs type="place" ref="#macael">Macael</rs></ab>
+
+            <figure facs="#zone_Page_109_a7b0c658-4441-4a0c-ae09-1fe0295cbe6f">
+               <note type="editorial_label">Pen and ink plan: <rs type="place" ref="#malaga">Málaga</rs></note>
+               <label><rs type="place" ref="#gilbralfaro">Gibralfaro</rs> the Arab Castle</label>
+               <label> <rs type="place" ref="#alcazaba">Alcazaba<note type="editorial">Citadel</note></rs> the palace</label>
+               <label>EYE PLAN OF <rs type="place" ref="#malaga">MALAGA</rs></label>
+            </figure>
+
+         </div>
+         <div type="portugal">
+            <ab> </ab>
+         </div>
+         <div type="reading_notes">
+            <ab> </ab>
+         </div>
+      </body>
+
+      <back>
+         <div type="cover">
+            <note> </note>
+         </div>
+         <div type="index"> </div>
+      </back>
+   </text>
+
+</TEI>

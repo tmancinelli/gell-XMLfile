@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Title</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Publication Information</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Information about the source</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surface xml:id="zone_Page_70">
+            <graphic url="https://iiif.bsr.ac.uk/iiif/2/GELL-VI%2Fwg_06_070.tif/full/full/0/default.jpg"/>
+            <zone points="136,125 136,1321 3454,1365 3487,114" xml:id="zone_Page_70_9866589c-be7b-44ae-9197-dbd36de92dc0"/>
+            <zone points="816,1457 816,1577 1060,1583 1066,1468" xml:id="zone_Page_70_40534273-0f35-4ac0-95ce-96659d228677"/>
+            <zone points="2322,1414 2322,1740 3410,1724 3438,1392" xml:id="zone_Page_70_d595342d-f838-469e-872a-46ef4dfcc3e6"/>
+            <zone points="2333,1724 2322,2964 3481,2970 3492,1697" xml:id="zone_Page_70_4741ebc7-f9c3-49e6-970e-9d4b475a6556"/>
+            <zone points="2502,3024 1768,4237 3503,4259 3497,3019" xml:id="zone_Page_70_98c943ab-095a-4a76-b517-175456d8534a"/>
+        </surface>
+    </facsimile>
+    
+    <text>
+        <front>
+            <div type="cover">
+                <note> </note>
+            </div>
+            <div type="inlet">
+                <head> </head>
+            </div>
+        </front>
+
+        <body>
+            <div type="spain">
+                <pb facs="#zone_Page_70" n="070"/>
+                <fw>128</fw>
+                <figure facs="#zone_Page_70_9866589c-be7b-44ae-9197-dbd36de92dc0">
+                    <note type="editorial_label">Pen and ink drawing: view of Mengíbar</note>
+                    <label><rs type="place" ref="#mt_jaen"><choice>
+                                <abbr>Mt</abbr>
+                                <expan>Mountain</expan>
+                            </choice> of Jaen.</rs></label>
+                    <label><rs type="place" ref="#mengibar">Mengibar</rs></label>
+                    <label>Ford of <rs type="place" ref="#">Guadalquivir</rs> or <rs type="place"
+                            ref="#betis">Betis</rs></label>
+                </figure>
+
+                <ab><date when="1808-11-04">Nov<hi rend="superscript">r</hi> 4</date> no rain, fine
+                    warm day. quit <rs type="place" ref="#mengibar">Mengibar</rs> at 30 p 8<note
+                        type="editorial">8.30</note>. 5 p 9 <choice>
+                        <abbr>X</abbr>
+                        <expan>cross</expan>
+                    </choice>
+                    <figure type="in_text" facs="#zone_Page_70_40534273-0f35-4ac0-95ce-96659d228677">
+                        <note type="editorial_label">[drawing: arch bridge]</note>
+                    </figure>. 3 to 10<note type="editorial">9.57</note>
+                    casa del Campo<note type="translation">country house</note> Infantas<note
+                        type="editorial">Las Infantas</note>. 4 miles <choice>
+                        <abbr>L</abbr>
+                        <expan>left</expan>
+                        </choice> X the river see <rs type="place" ref="#almenara">Almenhara<note type="editorial">Almenara</note>
+                            <choice>
+                                <abbr>Vill</abbr>
+                                <expan>Village</expan>
+                            </choice></rs>. 20 p 10 R close Mansana casa de
+                        campo<note type="translation">country house</note>. 30 p 10 Casa Blanca 3
+                    houses L by river. X a rivulet. 10 p 11 very fine view of <choice>
+                        <abbr>Mt</abbr>
+                        <expan>Mountain</expan>
+                    </choice> &amp; <rs type="place" ref="#castel_jaen">castle of Jaen</rs>, over another hill.
+                    <rs type="place" ref="#river_jaen">river of Jaen</rs> very pretty here a castle across
+                    it. 25 to 12 X rivulet convent L <rs type="place" ref="#granena">Grangeña<note
+                            type="editorial">Grañena</note></rs> near. stop to draw. X a very fine
+                    rivulet 2 miles from Jaen. X 2 more after. Olives &amp; 5 casa de campos<note
+                        type="translation">country houses</note> in them L. nearer very picturesque
+                    town &amp; castle. Trees &amp; woods of mulberries from the base of the town
+                    over which see the houses. Arrive at 10 p 2 4 leagues from <rs type="place" ref="#mengibar">Mengibar</rs> after
+                    stopping half an hour. Very singular town bishopric, old Houses with galleries
+                    in the Moorish taste at top. Priests much too kind. Officer took us to the <rs
+                        type="person" ref="#duke_of_montemar">Duca de Monte Mar<note type="translation">Duke of
+                            Montemar</note></rs> &amp; a Tertullia<note type="editorial">Tertulia, a
+                        social and/or literary gathering similar to a salon.</note>.</ab>
+                <ab>The whole town waited upon us so as to be very troublesome and we have great
+                    dificulty to prevent them from paying our bill at the worst Inn in the world.
+                    <rs type="place" ref="#jaen">Jaen</rs> 20,000 inhabitants, few or no Moorish remains but their style is visible in
+                    the buildings. Visited by 5 inundations of Priests, Officers, &amp; Peasants.
+                    The priests left the services in the cathedral to shew us the place. The
+                    cathedal fine in its way being</ab> <ab>over door of <rs type="place" ref="#mosque_cordova">mosque
+                        Cordova</rs> “o true believers come not to prayers when ye are drunk.”</ab>
+
+                <note type="marginal" facs="#zone_Page_70_d595342d-f838-469e-872a-46ef4dfcc3e6"> Andujar next stage. pretty place. cross river there
+                    fine meadows. Rich. <rs type="place" ref="#cordova﻿">Cordova</rs> = Colonia Patriciae. Seneca &amp; Lucan<note
+                        type="editorial_label">i.e. the Roman name for Cordoba, the birthplace of
+                        Seneca and Lucan.</note></note>
+                <note><figure type="sketch" facs="#zone_Page_70_4741ebc7-f9c3-49e6-970e-9d4b475a6556">
+                        <note type="editorial_label">Pen and ink drawing: gate</note>
+                        <label><hi rend="underline"><rs type="place" ref="#cordova_gate">Cordova gate</rs></hi></label>
+                    </figure></note>
+                <note type="marginal" facs="#zone_Page_70_98c943ab-095a-4a76-b517-175456d8534a"> The Campiña or plain <rs type="place" ref="#cordova">Cordova</rs> on <choice>
+                        <abbr>R</abbr>
+                        <expan>right</expan>
+                </choice> bank of Guadalquivir <rs type="person" ref="#abderahman">Abderahman</rs> last of
+                    Omeyan dynasty 755. His great garden of Azarak. moedinos shepherds unde<note
+                        type="translation">whence</note> merinos. Cordova then 600 mosques, 50
+                    hospitals 80 schools, 900 public baths. <rs type="place" ref="#servilla">Seville</rs>
+                    had 400 000 souls, <rs type="place" ref="#cordova">Cordova</rs> had they pretend a million. <rs type="place" ref="#granada"
+                        >Granada</rs> 400 000. now <rs type="place" ref="#cordova">Cordova</rs> 54000. Palmtrees. Mosque with Caaba &amp;
+                    the Alaska of Jerusalem famous. had 39 naves by 19. 1093 columns 19 gates.
+                    Central plate of gold rest bronze 4700 lamps. Now outside 620ft by 440, walls
+                    50ft high. 29 rows of <choice>
+                        <abbr>col’</abbr>
+                        <expan>columns</expan>
+                    </choice> remain above 400. serpentine porphyri jasper granite. The 2<hi rend="superscript">d</hi> row of
+                    arches modern a new gothic choir</note>
+
+            </div>
+            <div type="portugal">
+                <ab> </ab>
+            </div>
+            <div type="reading_notes">
+                <ab> </ab>
+            </div>
+        </body>
+
+        <back>
+            <div type="cover">
+                <note> </note>
+            </div>
+            <div type="index"> </div>
+        </back>
+    </text>
+
+</TEI>

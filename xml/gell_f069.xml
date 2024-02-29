@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Title</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Publication Information</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Information about the source</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surface xml:id="zone_Page_69">
+            <graphic url="https://iiif.bsr.ac.uk/iiif/2/GELL-VI%2Fwg_06_069.tif/full/full/0/default.jpg"/>
+            <zone points="767,125 783,1604 2088,1593 2121,136" xml:id="zone_Page_69_37570fcd-96e2-4712-989b-562fc386d1ee"/>
+            <zone points="1109,2176 516,4286 3421,4275 3416,2072" xml:id="zone_Page_69_a2dca632-f66a-4158-8c9f-397ea7ee558b"/>
+            <zone points="2605,250 2611,418 3400,386 3378,239" xml:id="zone_Page_69_0c6fbe10-9096-49fd-99b6-6d1e630e55ae"/><!-- arabic 1 -->
+            <zone points="2649,408 2643,582 3427,587 3416,375" xml:id="zone_Page_69_2f78c14e-6461-416e-a017-23a2d915c831"/><!-- marginal 1 -->
+            <zone points="2736,592 2736,761 3361,745 3356,587" xml:id="zone_Page_69_a850c117-08d0-447a-bd98-d7dcd46936e8"/><!-- arabic raven -->
+            <zone points="2056,772 2023,1338 3421,1343 3416,761" xml:id="zone_Page_69_5edc36b2-471d-4c4e-84ce-24ee48a2fc20"/><!-- marginal 2 -->
+ 
+        </surface>
+    </facsimile>
+    <text>
+
+        <front>
+            <div type="cover">
+                <note/>
+            </div>
+            <div type="inlet">
+                <head/>
+            </div>
+        </front>
+
+        <body>
+            <div type="spain">
+                <pb facs="#zone_Page_69" n="69"/>
+                <figure facs="#zone_Page_69_37570fcd-96e2-4712-989b-562fc386d1ee">
+                    <note type="editorial_label">Pen and ink map with watercolour: <rs type="place"
+                            ref="#mengibar">Mengíbar</rs></note>
+                </figure>
+                <figure facs="#zone_Page_69_a2dca632-f66a-4158-8c9f-397ea7ee558b">
+                    <note type="editorial_label">Pen and ink map with watercolour: <rs type="place"
+                            ref="#baylen">Bailén</rs></note>
+                </figure>
+
+                <ab>in fact conqueror of <rs type="place" ref="#baylen">Baylen<note type="editorial"
+                            >Battle of Bailén, 16-19 July 1808</note></rs>. <rs type="person"
+                                ref="#francisco_javier_castanos">Castaños<note type="editorial">Francisco Javier Castaños
+                            (1758-1852), Spanish general</note></rs>’s plan of attack was for the day
+                    after, when <rs type="person" ref="#dominique_vedel">Wedel<note type="editorial">Dominique
+                            Honoré Antoine Vedel (1771-1848), French general</note></rs> would have
+                    arrived. See <rs type="place" ref="#mengibar">Mengibar</rs> across <rs type="place"
+                        ref="#guadalquivir">Guadalquivir</rs> &amp; vale. descend to plain a river. bare corn
+                    fields. 10 p 3<note type="editortial">3.10</note> ferry boat. the Village about a mile off Capers &amp; the flowers
+                    of the Cephisus blue. Olives turning brown Nov<hi rend="superscript">r</hi> Aloes. 30 p 4 uphill to the
+                    Village. We were met by a kind of Don Quixote who
+                    was very (because we called him Don Quixote) civil &amp; shewed us two
+                    inscriptions. The town has an old tower, one church 300 houses &amp; sent 80 men
+                    to the army for the Kingdom of <rs type="place" ref="#jaen">Jaen</rs>. 4 leagues
+                    from <rs type="place" ref="#guarroman">Guarroman</rs>. Perhaps <rs type="place" ref="#mentesa"
+                        >Mentesa</rs> of the Romans.</ab>
+                <ab>Hence</ab>
+                <ab>Elmanzor, khasara Tablahu fi Calcanasser</ab>
+                <ab>?</ab>
+                <ab>Was it here that a Moor saw a Spectre on the banks of the <rs type="place"
+                    ref="#guadalquivir">Guadalquivir</rs> which said “<rs type="person" ref="#almanzor"
+                        >Almanzor</rs> has lost his drum at __? I forget the names? Where is this
+                    story.</ab>
+                <ab>Drum at Kalkanasor. Vid p 40.<note type="editorial">See WG's page 40 (pag
+                        165)</note></ab>
+                <bibl>543 Vol 1 Conde Kalat Anosor<note type="editorial">José Antonio Conde, Historia
+                        de la dominacion de los arabes en España, sacada de varios manuscritos y
+                        memorias arabigas, 3 vols (Madrid, 1820-1), vol. 1, p. 543: chapter 102, 'De
+                        la batalla de Calat Anosor y muerte de Almanzor' (On the battle of Calat
+                        Anosor and the death of Almanzor)</note></bibl>
+                <ab>Moorish Atalayas or watch Towers</ab>
+
+                <note type="arabic" facs="#zone_Page_69_0c6fbe10-9096-49fd-99b6-6d1e630e55ae">غزوة عقاب<note type="editorial">Battle of Al-Uqab or the
+                    battle of Las Navas [de Tolosa, 1212]</note></note>
+                <note type="marginal" facs="#zone_Page_69_2f78c14e-6461-416e-a017-23a2d915c831">Proelium Acab or la batalla de las Navas</note>
+                <note type="arabic">غداف <note type="translation">raven</note></note>
+                <figure type="sketch" facs="#zone_Page_69_a850c117-08d0-447a-bd98-d7dcd46936e8">
+                    <note type="editorial_label">[pencil drawing: raven]</note>
+                </figure>
+                <note type="marginal" facs="#zone_Page_69_5edc36b2-471d-4c4e-84ce-24ee48a2fc20"><rs type="place" ref="#bridge_alcantara">Bridge of Alcantara</rs> at <rs type="place" ref="#toledo">Toledo</rs> built by <rs type="person" ref="#halaf">Halaf</rs> son of <rs type="person" ref="#mahomed_alameri">Mahomed Alameri</rs> Alcaide<note type="editorial">Governor</note> of <rs type="place" ref="#toledo">Toledo</rs> by order of <rs type="person" ref="#almanzor">Almanzor Aboamir Mahomat</rs> son of <rs
+                    type="person" ref="#abihamir">Abihamir</rs> alguacil<note type="translation">sheriff</note> of Amir 
+                    Almomenin Hixem 387 years before it was repaired by <rs
+                        type="person" ref="#don_alfonso"><choice>
+                            <abbr>D.</abbr>
+                            <expan>Don</expan>
+                        </choice> Alfonso</rs> son of <rs type="person" ref="#d_ferrando">D Ferrando</rs> &amp; of <rs type="person" ref="#queen_donna_beatriz_castilla">Queen Donna Beatriz of Castilla</rs> <date when="1258">1258</date>.</note>                
+                <metamark/>
+                <ab>INSCRIPTION in latin on a house wall in Mengibar</ab>
+                <lg>
+                    <l>D.M.S.</l>
+                    <l>SEPTIMUS SEPTIMI</l>
+                    <l>…………………………….</l>
+                    <l><note type="editorial_label">[Symbols]</note> ET <note type="editorial_label">[symbol]</note> ADVENTA</l>
+                    <l>BENE MERENS SUIS</l>
+                </lg>
+                <note type="editorial">WG seems to have noted this inscription on the spot. His
+                    'SEPTIMUS' is a misreading of 'SEPTIMIA' and his '[symbols] ET [symbols]' a
+                    misreading of 'TAE FILIA'. He has missed out the 'A' in 'BENEMERENS A SUIS', as well
+                    as two lines of the inscription. See photograph and transcription in <bibl>Martín
+                        Jiménez Cobo, 'Las inscripciones romanas de Mengíbar', Boletín del Instituto de
+                        Estudios Giennenses, 193 (2006), pp. 17-42, at p. 32</bibl>: <lg>
+                            <l>D.M.S.</l>
+                            <l>SEPTIMIA SEPTIMI</l>
+                            <l>SABINIANI MILES COHOR.</l>
+                            <l>VIII PR. ET AEMILIAE IUS</l>
+                            <l>TAE FILIA ADVENTA</l>
+                            <l>BENEMERENS A SUIS</l>
+                        </lg> Dedicated to the Manes [spirits of the dead] Septimia Adventa, well-deserving
+                    daughter of Septimus Sabinianus, soldier of the eighth Praetorian cohort, and of
+                    Aemilia Justa, by their friends.</note>
+                <ab>Cork Hives here</ab>
+                
+            </div>
+            <div type="portugal">
+                <ab> </ab>
+            </div>
+            <div type="reading_notes">
+                <ab> </ab>
+            </div>
+        </body>
+
+        <back>
+            <div type="cover">
+                <note> </note>
+            </div>
+            <div type="index"> </div>
+        </back>
+
+    </text>
+</TEI>

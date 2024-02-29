@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface xml:id="zone_Page_106">
+         <graphic url="https://iiif.bsr.ac.uk/iiif/2/GELL-VI%2Fwg_06_106.tif/full/full/0/default.jpg"/>
+         <zone points="1028,435 854,3829 3525,3867 3525,467" xml:id="zone_Page_106_278f6a65-4f31-4cba-a20e-57f92b813045"/><!-- newspaper(half only) -->
+      </surface>
+   </facsimile>
+   
+   <text>
+      <front>
+         <div type="cover">
+            <note> </note>
+         </div>
+         <div type="inlet">
+            <head> </head>
+         </div>
+      </front>
+
+      <body>
+         <div type="spain">
+            <pb facs="#zone_Page_106" n="106"/>
+            <figure type="print" facs="#zone_Page_106_278f6a65-4f31-4cba-a20e-57f92b813045">
+               <!-- this is a print, an extract of a newspaper that Gell has included in his notebook -->
+               <label>NOTICE.</label>
+               <ab><sic>FRiday<note type="editorial">All apparent errors in this passage are in the original.</note></sic> 28<hi rend="superscript">th</hi> the December 1810 in the Royal Theatre of S.<hi rend="superscript">t</hi> Carlos a Benefit of
+                  Rosa Lourenzani, first Dancer of the Theatre, on to represent by the Society of
+                  the same to well accepted Borlet entitled</ab>
+               <label>THE HEAD RISCALDATE.</label>
+               <ab>Finisched that wether he will have one pompous &amp; new Dancing the composition
+                  the Petter Maria Petrelly, that have for the title</ab>
+               <ab>The Conquest of the Isle the Bourbon by to Arm Britich.</ab>
+               <ab>He shall be adorned the scene &amp; clothes proper to the character. He will have
+                  also one great accompanying the Troops.</ab>
+               <ab>This action &amp; translate the leafs the Courier the London narration steril
+                  that the leafs we to say this glorious event that done so many the honour for
+                  Nation Britich, it appear that no give pleace the to fill the time that owe, to
+                  last one action pantomime, reasoa for that the Compositor had that to be worth the
+                  speech of the, when no let him be true to serve for to enrich this action &amp; to
+                  shew sometime the no humanity the men, e the generosity she men other.</ab>
+               <ab>The divertisement to give end the Spectacle the third &amp; fourth act the
+                  agreable Borlet</ab>
+               <label>THE SEVILLA BARBER.</label>
+               <ab>This the Spectacle that for the Beneficed he has honour the to offer the
+                  respectable Publik, of whom to hope protection.</ab>
+               <ab>To begin at 7 óclock.</ab>
+
+
+               <label>NOTICIA.</label>
+               <ab><sic>SExta</sic> feira 28 de Dezembro de 1810 no Real Theatro de S. Carlos em Beneficio de
+                  Rosa Lourenzani, primeira Bailarina do dito Theatro, se ha de representar pela
+                  Sociedade do dito a bem acceita Butleta intitulada</ab>
+               <label>LA TESTA RISCALDATA.</label>
+               <ab>Finda que seja haverá huma pomposa, e nova Dança da composição de Pedro Maria
+                  Petrelli, cuja tem por titulo</ab>
+               <ab>A Conquista da Ilha de Bourbon pelas Armas Britanicas.</ab>
+               <ab>Será adornada de scenario, vestiario apropriado ao character, e terá tambem hum
+                  grande acompanhamento de Tropas.</ab>
+               <ab>Esta acção he extrahida do que nos referem as folhas do Correio de Londres. A
+                  narração esteril que as ditas folhas nos dão deste glorioso acontecimento, que faz
+                  tanta honra á Nação Britanica, parece que não dá lugar a prehencher o tempo que
+                  deve durar huma acção Pantomimica; razão porque o Compositor teve que valer-se de
+                  episodios, os quaes quando não sejão verdadeiros, serviráõ para realçar esta
+                  acção, e demonstrar ao mesmo tempo a inhumanidade de huns, e a generosidade dos
+                  outros.</ab>
+               <ab>Dará fim ao divertimento o III. e IV. Acto da agradavel Burleta</ab>
+               <label>O BARBEIRO DE SEVILHA.</label>
+               <ab>Este he o Espectaculo que a Beneficiada tem a honra de offerecer ao respeitavel
+                  Público de quem es[…] protecção.</ab>
+               <ab>Principiará ás 7 hor[…]</ab>
+               <ab>Na Officina de Simão Thaddeo Ferreira. Com Licença.</ab>
+            </figure>
+         </div>
+         <div type="portugal">
+            <ab> </ab>
+         </div>
+         <div type="reading_notes">
+            <ab> </ab>
+         </div>
+      </body>
+
+      <back>
+         <div type="cover">
+            <note> </note>
+         </div>
+         <div type="index"> </div>
+      </back>
+   </text>
+
+</TEI>

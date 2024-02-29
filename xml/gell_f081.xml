@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface xml:id="zone_Page_81">
+         <graphic url="https://iiif.bsr.ac.uk/iiif/2/GELL-VI%2Fwg_06_081.tif/full/full/0/default.jpg"/>
+         <zone points="16,233 16,1496 3405,1555 3400,223" xml:id="zone_Page_81_d3987a29-bb7c-4779-986c-f0ab4ff70533"/><!-- view of Pinos Puente -->
+         <zone points="21,1501 43,2921 3389,2943 3394,1555" xml:id="zone_Page_81_0c5a14e8-5f74-4024-b463-7b39a94c94b3"/><!-- view of Granada -->
+         <zone points="2007,2888 1996,3541 3378,3584 3378,2894" xml:id="zone_Page_81_b29ef9ed-a600-4767-a9c1-acf38fcf78b9"/><!-- marginal 1 -->
+         <zone points="2018,3541 2001,3889 3410,3927 3410,3541" xml:id="zone_Page_81_c917189e-0baa-4646-a1e7-75d248a90c91"/><!-- marginal 2 -->
+         <zone points="2018,3911 2023,4259 3410,4259 3410,3927" xml:id="zone_Page_81_f58c4c05-db4d-485a-af13-99c7f08d17a6"/><!-- marginal 3 -->
+      </surface>
+   </facsimile>
+   <text>
+      <front>
+         <div type="cover">
+            <note> </note>
+         </div>
+         <div type="inlet">
+            <head> </head>
+         </div>
+      </front>
+
+      <body>
+         <div type="spain">
+            <pb facs="#zone_Page_81" n="081"/>
+            <figure facs="#zone_Page_81_d3987a29-bb7c-4779-986c-f0ab4ff70533">
+               <note type="editorial_label">Pen and ink drawing: view of <rs type="place" ref="#pinos_puente">Pinos Puente</rs></note>
+               <label><rs type="place" ref="XXX">Sierra de <choice>
+                     <abbr>M<hi rend="superscript">t</hi></abbr>
+                     <expan>Mountain</expan>
+                  </choice> of Elvira</rs></label>
+               <label><rs type="place" ref="#pinos_puente">PUENTE DE PINOS<note type="editorial">Pinos Puente</note></rs></label>
+               <label><rs type="place" ref="#sierra_nevada">SIERRA NEVADA</rs></label>
+               <label>10956 feet high. point of Muley Hassan<note type="editorial"
+                  >Mulhacén</note></label>
+            </figure>
+
+            <figure facs="#zone_Page_81_0c5a14e8-5f74-4024-b463-7b39a94c94b3">
+               <note type="editorial_label">Pen and ink drawing: view of <rs type="place" ref="#granada">Granada</rs></note>
+               <label><rs type="place" ref="#granada">GRANADA</rs></label>
+               <label>Approach to</label>
+               <label><rs type="place" ref="#st_miguel">St. Miguel</rs></label>
+               <label><rs type="place" ref="#albaicin">Albaycin<note type="editorial">Albaicín (neighbourhood of Granada)</note></rs>
+                  <rs type="place" ref="#silla_del_moro">silla del Moro<note type="translation">Silla del Moro hill (Moor's Seat)</note></rs>
+                  Generalife</label>
+               <label><rs type="place" ref="#alhambra">Alhambra</rs> Muley Hassan<note type="editorial">Mulhacén</note> <rs type="place" ref="#genil">Xenil<note
+                     type="editorial">Genil</note></rs></label>
+            </figure>
+
+            <ab>Every street is also supplied with water as the <rs type="place" ref="#sierra_nevade">Sierra Nevada</rs> never fails in winter
+               or summer. Almost all houses are built round a court &amp; many have marble pillars
+               of Arabic workmanship. Oranges &amp; Lemons flourish here. An American fruit called
+               Chiremolias yas looking like an artichoke but with a continued skin &amp; containing
+               seeds &amp; a white pulp like good butter &amp; sugar grows at <rs type="place" ref="#granada">Granada</rs>. One of the
+               gates near the plaza de <rs type="place" ref="#plaza_de_bibarrambla">Bibarambla<note type="editorial">Plaza de Bib-Rambla or Bibarrambla</note></rs> is called the </ab>
+
+
+            <note type="marginal" facs="#zone_Page_81_b29ef9ed-a600-4767-a9c1-acf38fcf78b9">is wonderful. The arabesques consist in patterns of
+               flowers &amp; fancy meanders very sharply executed in very white &amp; hard plaster
+               on grounds of blue &amp; red &amp; sometimes gold.</note>
+            <note type="marginal" facs="#zone_Page_81_c917189e-0baa-4646-a1e7-75d248a90c91">An inscription seems very often repeated as are indeed
+               the flowers &amp;…</note>
+            <note type="marginal" facs="#zone_Page_81_f58c4c05-db4d-485a-af13-99c7f08d17a6">Court of the Lions pillars diminish little if at all.
+               About 8 feet high, white marble.</note>
+
+         </div>
+         <div type="portugal">
+            <ab> </ab>
+         </div>
+         <div type="reading_notes">
+            <ab> </ab>
+         </div>
+      </body>
+
+      <back>
+         <div type="cover">
+            <note> </note>
+         </div>
+         <div type="index"> </div>
+      </back>
+   </text>
+
+</TEI>

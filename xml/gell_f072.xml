@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Title</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Publication Information</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Information about the source</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surface xml:id="zone_Page_72">
+            <graphic url="https://iiif.bsr.ac.uk/iiif/2/GELL-VI%2Fwg_06_072.tif/full/full/0/default.jpg"/>
+            <zone points="87,163 87,1196 3481,1229 3492,157" xml:id="zone_Page_72_2f155955-b75e-475b-85c8-24f1d9cb4c52"/>
+            <zone points="2110,1332 2132,2747 3459,2736 3465,1338" xml:id="zone_Page_72_61f0f3d2-462a-460d-9200-7218780666a9"/>
+            <zone points="3182,1980 3171,2192 3410,2197 3416,1963" xml:id="zone_Page_72_c518c9fc-2698-4d66-a9cf-746fc989e38f"/>
+            <zone points="2366,2692 2366,3987 3231,3992 3253,2703" xml:id="zone_Page_72_4ab5e627-4f86-475f-8907-f4ed533b2817"/>
+        </surface>
+    </facsimile>
+    <text>
+        <front>
+            <div type="cover">
+                <note> </note>
+            </div>
+            <div type="inlet">
+                <head> </head>
+            </div>
+        </front>
+
+        <body>
+            <div type="spain">
+                <pb facs="#zone_Page_72" n="072"/>
+                <fw>126</fw>
+                <figure facs="#zone_Page_72_2f155955-b75e-475b-85c8-24f1d9cb4c52">
+                    <note type="editorial_label">Pen and ink drawing: landscape</note>
+                    <label><rs type="place" ref="#river_jarn">>River of Jaen</rs></label>
+                    <label><rs type="place" ref="#granena">Granēna<note type="editorial">Grañena</note>
+                            Monastery</rs></label>
+                    <label>Castle &amp; <rs type="place" ref="#sierra_jaen">Sierra of Jaen</rs></label>
+                    <label>KINGDOM OF <rs type="place" ref="#jaen">JAEN</rs></label>
+                </figure>
+
+                <ab>The Provisor offered us rooms as indeed did many of the other Priests. One sent
+                    us two couple of fowls per force &amp; would have sent wine. Our remonstrances
+                    against the paying of the bill succeeded, so we paid ab<hi rend="superscript">t</hi>. 8 dollars for a very
+                    bad dinner &amp; set out before breakfast, fearing more civilities. Indeed Don
+                    __ Aranda sent us the gazette of the battle of <rs type="place" ref="#baylen"
+                            >Baylen<note type="editorial">Battle of Bailén, 16-19 July
+                        1808</note></rs> just as we quitted the inn. The French took nothing from
+                    the cathedral. We saw a fine silver Gothic shrine for processions. But no riches
+                    like those of <rs type="place" ref="#toledo">Toledo</rs>. Above the town on a high Mountain is a ruined castle very
+                    like a Turkish fort. The place has an interesting appearance &amp; is not often
+                    visited by Travellers. <rs type="place" ref="#baeza">Baeza</rs> a capital city of this kingdom is now reduced to a
+                    small town <rs type="place" ref="#ubeda">Ubeda</rs> is another but [blank space] was long the capital of the
+                    Kingdom of <rs type="place" ref="#jaen">Jaen</rs>.</ab>
+                <ab>In the direct mountain road to <rs type="place" ref="#granada">Granada</rs> is the <rs
+                    type="place" ref="#campillo_de_arenas">Campillo de Arenas</rs>.</ab>
+                <ab>The people of <rs type="place" ref="#jaen">Jaen</rs> were so little accustomed to
+                    see strangers that the priests quitted the service in the Cathedral to escort
+                    us.</ab>
+
+                <note type="marginal" facs="#zone_Page_72_61f0f3d2-462a-460d-9200-7218780666a9"> at Seville the Giralda<note type="editorial">The
+                        bell tower of the cathedral</note> now only 100 000 souls. 2,500 silk looms
+                    The Alcazar<note type="editorial">Fortress</note> is Gothic Arab &amp; modern
+                    Cathedral 420f<hi rend="superscript">t</hi> by 260. high nave 82 altars 500 masses a day. Giralda built by
+                    Algeber 280 feet high on it a large iron globe guilt <figure type="in_text" facs="#zone_Page_72_c518c9fc-2698-4d66-a9cf-746fc989e38f"><note type="editorial_label">[drawing: globe]</note></figure> Spiral
+                    ascent no steps 2 horsemen abreast Spaniards added the small tower above now it
+                    is 364 feet high. on it a brass statue of faith. on the ball <rs type="person"
+                        ref="#alonso_de_ojeda">Alonzo de Ojeda<note type="editorial">Alonso de Ojeda (c. 1466-c.
+                            1515), conquistador</note></rs> stood on one leg to amuse the
+                    Queen</note>
+                <figure facs="#zone_Page_72_4ab5e627-4f86-475f-8907-f4ed533b2817" type="sketch">
+                    <note type="editorial_label">Pen and ink drawing: woman</note>
+                    <label>Woman of <rs type="place" ref="#alcaudete">Alcaudete</rs></label>
+                </figure>
+
+            </div>
+            <div type="portugal">
+                <ab> </ab>
+            </div>
+            <div type="reading_notes">
+                <ab> </ab>
+            </div>
+        </body>
+
+        <back>
+            <div type="cover">
+                <note> </note>
+            </div>
+            <div type="index"> </div>
+        </back>
+    </text>
+
+</TEI>

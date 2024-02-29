@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface xml:id="zone_Page_77">
+         <graphic url="https://iiif.bsr.ac.uk/iiif/2/GELL-VI%2Fwg_06_077.tif/full/full/0/default.jpg"/>
+         <zone points="32,81 32,1311 3405,1360 3427,87" xml:id="zone_Page_77_f60b6aaf-40d3-4a77-80f6-37e577f50a3e"/><!-- Alcaudete -->
+         <zone points="462,1816 456,1920 565,1925 598,1806" xml:id="zone_Page_77_b81ecaca-ced1-41e9-8698-b0cbc44c103e"/><!-- arch bridge 1 -->
+         <zone points="2301,2001 2312,2094 2480,2110 2480,1991" xml:id="zone_Page_77_737dbf71-05f4-42e7-9c3a-078556251438"/><!-- arch bridge 2 -->
+         <zone points="27,2143 16,3623 3421,3693 3405,2186" xml:id="zone_Page_77_b21f1664-c557-446a-9244-f384e957f12b"/><!-- view of Sierra -->
+         <zone points="228,3454 217,3590 348,3601 348,3454" xml:id="zone_Page_77_73e68349-c2d2-4742-9ca0-8438e48a8998"/><!-- peak -->
+      </surface>
+   </facsimile>
+   
+   <text>
+      <front>
+         <div type="cover">
+            <note> </note>
+         </div>
+         <div type="inlet">
+            <head> </head>
+         </div>
+      </front>
+
+      <body>
+         <div type="spain">
+            <pb facs="#zone_Page_77" n="077"/>
+            <figure facs="#zone_Page_77_f60b6aaf-40d3-4a77-80f6-37e577f50a3e">
+               <note type="editorial_label">Pen and ink drawing: view of Alcaudete</note>
+               <label><rs type="place" ref="#alcaudete">ALCUDETE<note type="editorial"
+                     >Alcaudete</note></rs> near</label>
+            </figure>
+
+            <ab>About 53 &lt;<note type="editorial">angle</note> from <rs type="place" ref="#alhambra">Alhambra</rs> or <rs type="place" ref="#santa_elena"><choice><abbr>S<hi
+               rend="superscript">t</hi></abbr><expan>Santa </expan></choice> Elena</rs> to a very steep &amp; rocky high peak <choice><abbr>L.</abbr><expan>left</expan></choice>
+               9<hi rend="superscript">h</hi> House <choice><abbr>R. Vill</abbr><expan>right. Village</expan></choice> <rs type="place" ref="#atarfe">Atarfe</rs> &amp; the pointed rocky peak in line L, in line,
+               Vill abt 400 yds dist L. Canes. 40 p 1<note type="editorial">1.40</note> a house L. one league stone. L from <rs type="place" ref="#santa_elena">St Elena</rs>
+               to peak R 70<hi rend="superscript">o</hi>30’. <rs type="place" ref="#santa_elena">S<hi rend="superscript">t</hi> Elena</rs> to peak L 44. At 2<hi rend="superscript">h</hi> enter
+               olives a house L &amp; a Kiosk. <choice><abbr>X</abbr><expan>Cross</expan></choice> a <figure type="in_text" facs="#zone_Page_77_b81ecaca-ced1-41e9-8698-b0cbc44c103e"><note type="editorial_label">[drawing: arch bridge]</note></figure>. 5 p 2 ½ league stone
+               &amp; house L. olives &amp; Kiosk, one on left quite pretty with an avenue of
+               Cypresses to a house. 20 to 3<note type="editorial">2.40</note> X <figure type="in_text" facs="#zone_Page_77_737dbf71-05f4-42e7-9c3a-078556251438"><note type="editorial_label">[drawing: arch bridge]</note></figure> over a dry bed &amp; enter
+               <rs type="place" ref="#granada">Granada</rs>. Palm trees. <rs type="place" ref="puerta_de_elvira">Gate of Elvira</rs> &amp; Calle<note type="translation">Street</note> leading up to Plaza Nueva &amp;
+               <rs type="place" ref="#alhambra_amphitheatre">Alhambra Amphitheatre</rs> or Corrida<note type="translation">Bull-ring</note>. Sole Posada<note type="translation">Inn</note> not very good.</ab>
+            <figure facs="#zone_Page_77_b21f1664-c557-446a-9244-f384e957f12b">
+               <label>Atalayas round the Vega<note type="translation">Watchtowers round the Fertile Plain</note></label>
+               <label><rs type="place" ref="#granada">Granada</rs></label>
+               <label>To <note type="editorial">[symbols]</note></label> <!-- illegible -->
+               <note type="editorial_label">Pen and ink drawing: landscape</note>
+               <label>Vide<note type="translation">See</note> <figure type="in_text" facs="#zone_Page_77_73e68349-c2d2-4742-9ca0-8438e48a8998"><note type="editorial_label">[drawing: peak]</note></figure> in former leaf</label>
+               <label>castle</label>
+               <label>VIEW IN THE SIERRA NEAR <rs type="place" ref="#puerto_lope">PUERTO LOPEZ<note type="editorial">Puerto Lope</note></rs></label>
+               <label>Vega<note type="translation">Fertile Plain</note> of <rs type="place" ref="#granada">Granada</rs> <rs type="place" ref="#sierra_nevada">Sierra Nevada</rs></label>
+               <note>Castle</note>
+               <label>Castle</label>
+               <note><hi rend="encircled">BEFORE but</hi></note>
+               <note><rs type="place" ref="#puerto_lope">Puerta Lopes</rs><!-- pencil --></note>
+               <note>Atalayas or Moorish Watch Towers</note>
+            </figure>
+            <ab>The women asked whether we liked our beds made on the floor or upon bed steads. The
+               town seems very flourishing. houses very neat. on the outside, several of the old
+               ones have galleries at top as at <rs type="place" ref="#jaen">JAEN</rs>.</ab>
+
+         </div>
+         <div type="portugal">
+            <ab> </ab>
+         </div>
+         <div type="reading_notes">
+            <ab> </ab>
+         </div>
+      </body>
+
+      <back>
+         <div type="cover">
+            <note> </note>
+         </div>
+         <div type="index"> </div>
+      </back>
+   </text>
+
+</TEI>

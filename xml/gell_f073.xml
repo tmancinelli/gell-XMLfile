@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface xml:id="zone_Page_73">
+         <graphic url="https://iiif.bsr.ac.uk/iiif/2/GELL-VI%2Fwg_06_073.tif/full/full/0/default.jpg"/>
+         <zone points="27,92 59,1006 3389,1066 3378,119" xml:id="zone_Page_73_916ec5d0-a4c7-4935-8ccd-208877f1923a"/><!-- castle martos -->
+         <zone points="549,3503 565,3628 669,3639 685,3503" xml:id="zone_Page_73_b495f722-ad5b-4707-b000-ea4261b3950f"/><!-- bridge -->
+         <zone points="1996,1338 2001,1577 3285,1534 3285,1289" xml:id="zone_Page_73_ece3491f-da68-4ddb-bce2-3c7c84081d8c"/><!-- marginal 1 -->
+         <zone points="2023,1572 2018,1632 2562,1615 2562,1550" xml:id="zone_Page_73_23ea7acd-feb6-4980-8824-7c8784f6406c"/><!-- marginal 2 -->
+         <zone points="1980,1637 1974,1822 3400,1816 3394,1610" xml:id="zone_Page_73_ea567f96-4f91-43c7-83f3-1c8f63233325"/><!-- marginal 3 -->
+         <zone points="1838,1816 1838,2176 3372,2186 3405,1849" xml:id="zone_Page_73_744eecc0-c5a5-41b7-8182-fc499a0de371"/><!-- marginal 4 -->
+         <zone points="1980,2192 1974,2404 3372,2437 3383,2197" xml:id="zone_Page_73_18990bd6-cae3-4182-bfaf-e38fd848465e"/><!-- marginal 5 -->
+         <zone points="1952,2409 1931,2681 3389,2687 3394,2426" xml:id="zone_Page_73_ef431ece-ca7d-478c-80b7-1443bb78bfbf"/><!-- marginal 6 -->
+         <zone points="1974,2834 1974,3818 3106,3840 3095,2845" xml:id="zone_Page_73_757f53b6-b817-470b-8e65-7865aef636f8"/><!-- man and pocho -->
+         <zone points="2012,3927 2012,4052 3128,4063 3144,3916" xml:id="zone_Page_73_9e2bfe68-1d80-4239-afc0-a0f3aaaac36b"/><!-- marginal 7 -->
+      </surface>
+   </facsimile>
+   <text>
+      <front>
+         <div type="cover">
+            <note> </note>
+         </div>
+         <div type="inlet">
+            <head> </head>
+         </div>
+      </front>
+
+      <body>
+         <div type="spain">
+            <pb facs="#zone_Page_73" n="073"/>
+            <figure facs="#zone_Page_73_916ec5d0-a4c7-4935-8ccd-208877f1923a">
+               <note type="editorial_label">Pen and ink drawing: landscape</note>
+               <label><rs type="place" ref="#castle_martos">CASTLE MARTOS</rs></label>
+               <label>KINGDOM OF <rs type="place" ref="#jaen">JAEN</rs>.</label>
+            </figure>
+
+            <ab><date when="1808-11-05">Novr 5</date> gloomy but not cold the middle of the day fine
+               &amp; warm. Quit <rs type="place" ref="#jaen">Jaen</rs> at 15 p 9<note type="editorial"
+                  >9.15</note> return on the road we came for ½ a mile then in a very bad road skirt
+               the foot of the mountain, there being no carriage road through it. About 10 p 11
+               tower &amp; olives <choice>
+                  <abbr>L on Mt</abbr>
+                  <expan>left on mountain</expan>
+               </choice> foot. 10 to 12<note type="editorial">11.50</note> house &amp; gardens, 20 p
+               12 large village &amp; on hill <rs type="place" ref="#torredelcampo">castle of Torre del
+                     Campo<note type="editorial">Torredelcampo</note></rs>, where a decent
+                  Posada<note type="translation">Inn</note> Stop to breakfast. Bill with our own tea
+               23 reals eggs &amp; bacon of the house. The country well spotted with wood. A fine
+               view tow<hi rend="superscript">d</hi> the <rs type="place" ref="#sierra_morena">Sierra
+                  Morena</rs>. No reason why the french should not have escaped on the left of the
+               high road unless the <rs type="place" ref="#mounts_of_guadalupe">Moun<hi rend="superscript">ts</hi> of
+                  Guadalupe</rs> could have intercepted them before the battle of <rs type="place"
+                  ref="#baylen">Baylen<note type="editorial">Battle of Bailén, 16-19 July
+                  1808</note></rs> go <choice>
+                  <abbr>abt SW</abbr>
+                  <expan>about south-west</expan>
+               </choice> on base of <rs type="place" ref="#sierra_de_jaen">Sierra de Jaen</rs>. Olives &amp;
+               fields. Ruined <rs type="place" ref="#castle_martos">castle of Martos</rs> on a Mt insulated,
+               high point. On R are the large Village of <rs type="place" ref="#torredonjimeno"
+                     >Torreximenes<note type="editorial">Probably Torredonjimeno</note></rs> 2 miles
+                  dist<hi rend="superscript">t</hi>. at 35 p 2. This village is on a post road. 15 p
+               3 <rs type="place" ref="#nuestra_sra_consolacion"><choice>
+                     <abbr>+</abbr>
+                     <expan>church</expan>
+                  </choice> L qu Nra Sra de la Consolacion<note type="editorial">WG wonders if it is
+                     Nuestra Señora de la Consolación [Our Lady of Consolation]</note></rs> &amp;
+               gardens &amp; a <figure type="in_text" facs="#zone_Page_73_b495f722-ad5b-4707-b000-ea4261b3950f">
+                  <note type="editorial_label">[drawing: arch bridge]</note>
+               </figure>. 20 to 4 <rs type="place" ref="#martos">Martos</rs> town &amp; castle the
+               entrance very romantic, the castle being very much elevated &amp; the town on the
+               side &amp; foot of the hill. The boys in the places on the road fond of slings. <rs
+                  type="place" ref="#martos">Martos</rs> has a manufacture of cloaks called Punches<note
+                  type="editorial">i.e. ponchos - see sketch below</note></ab>
+
+
+            <note type="marginal" facs="#zone_Page_73_ece3491f-da68-4ddb-bce2-3c7c84081d8c">Martos says Abul Casim<note type="editorial">i.e.
+                  <bibl>[Miguel de Luna], Historia Verdadera del Rey Don Rodrigo ... Compuesta por el
+                  Sabio Alcayde Abulcacim Tarif, de Nacion Arabe (first published in 1592).<note type="translation">True
+                  History of King Don Rodrigo... Composed by the Wise Governor Abulcacim Tarif, of
+                  the Arab Nation</note></bibl>. As WG notes on pag 168 (his page 37), the work had long been
+                  proved a forgery by the morisco author Miguel de Luna.</note> p 187 very strong
+               but small. of King of Granada. 8 miles from <rs type="place" ref="#mentesa">Mentesa</rs> or <rs type="place" ref="#jaen">Jaen</rs>. The <choice><abbr>Xtians</abbr><expan>Christians</expan></choice> call it
+               <rs type="place" ref="#mentesa">Mentesa</rs>.</note>
+            <note type="marginal" facs="#zone_Page_73_23ea7acd-feb6-4980-8824-7c8784f6406c"><rs type="place" ref="#castle_de_hicbin">Castillo de Hicbin<note type="translation">Castle of Hicbin</note></rs>.</note>
+            <note type="marginal" facs="#zone_Page_73_ea567f96-4f91-43c7-83f3-1c8f63233325">near <rs>Martos</rs> a <rs>castle Hizn Alhicbin</rs>. taken by King
+               Abencotba. <rs type="place" ref="#castillo_de_las_agilas">Castillo de las Agilas<note type="translation">Castle of the Eagles [Águilas]</note></rs> p 188 Abul Casim</note>
+            <note type="marginal" facs="#zone_Page_73_744eecc0-c5a5-41b7-8182-fc499a0de371">Betiz Abenhabuz K of Granada came out against him with
+               2000 foot &amp; 500 horse. Not succeeding he built near on mountain a <rs type="place" ref="#castle_heznalquilah">castle
+                  Heznalquilah</rs> or <rs type="place" ref="#castillo_de_las_pendencias">Castillo de las pendencias</rs> now <rs type="place" ref="#castillo_de_alcala">Castillo de Alcala<note type="translation">Castle of the Quarrels, now Castle of Alcalá</note></rs>.</note>
+            <note type="marginal" facs="#zone_Page_73_18990bd6-cae3-4182-bfaf-e38fd848465e"><rs type="place" ref="#castillo_de_dizensiones">Hozonal = Castillo de dizensiones<note type="translation">Castle of dissensions [disensiones]</note></rs> 4 castles against
+               <rs type="place" ref="#cordoba">Cordoba</rs> &amp; one called <rs type="place" ref="#castillo_de_duelo">Hezntar – del duelo<note type="translation">of mourning</note></rs> tow<hi rend="superscript">d</hi> the sea.</note>
+            <note type="marginal" facs="#zone_Page_73_ef431ece-ca7d-478c-80b7-1443bb78bfbf"><rs type="place" ref="#servilla﻿">Sevilla</rs> = Hispala = Medinat Himz. from an alcayde<note type="translation">governor (alcaide)</note>,
+               Roman ruins are found at <rs type="place" ref="#martos">Martos</rs>, &amp; <rs type="place" ref="#cordoba">Corduba</rs>. &amp; at <rs type="place" ref="#toledo">Toledo</rs>.</note>
+
+            <figure type="sketch" facs="#zone_Page_73_757f53b6-b817-470b-8e65-7865aef636f8">
+               <note type="editorial_label">Pen and ink drawing with watercolour: man</note>
+               <note type="editorial_label">Pen and ink drawing with watercolour: poncho</note>
+               <label>A man of <rs type="place" ref="#jaen">Jaen</rs>, in A Ponche<note type="editorial">i.e. poncho</note></label>
+            </figure>
+
+
+            <note type="marginal" facs="#zone_Page_73_9e2bfe68-1d80-4239-afc0-a0f3aaaac36b">Woman of <rs type="place" ref="#alcaudete">Alcaudete</rs> dressed like Turks</note>
+
+         </div>
+         <div type="portugal">
+            <ab> </ab>
+         </div>
+         <div type="reading_notes">
+            <ab> </ab>
+         </div>
+      </body>
+
+      <back>
+         <div type="cover">
+            <note> </note>
+         </div>
+         <div type="index"> </div>
+      </back>
+   </text>
+
+</TEI>

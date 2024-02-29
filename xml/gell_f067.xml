@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface xml:id="zone_Page_67">
+         <graphic url="https://iiif.bsr.ac.uk/iiif/2/GELL-VI%2Fwg_06_067.tif/full/full/0/default.jpg"/>
+         <zone points="32,59 32,1196 3367,1245 3389,97" xml:id="zone_Page_67_e0c91e2c-7a4b-456d-876f-0c9c51dfa2fd"/><!-- pass sierra morena -->
+         <zone points="32,1876 32,2578 3367,2632 3367,1947" xml:id="zone_Page_67_06b529ea-4849-4c0b-a669-4871d6c229b3"/><!-- castle -->
+         <zone points="1686,3345 1670,3530 2018,3546 2012,3351" xml:id="zone_Page_67_56696560-238e-40f1-8a42-3ed3127ba7ba"/><!-- plan -->
+      </surface>
+   </facsimile>
+   <text>
+      <front>
+         <div type="cover">
+            <note> </note>
+         </div>
+         <div type="inlet">
+            <head> </head>
+         </div>
+      </front>
+
+      <body>
+         <div type="spain">
+            <pb facs="#zone_Page_67" n="067"/>
+            <figure facs="#zone_Page_67_e0c91e2c-7a4b-456d-876f-0c9c51dfa2fd">
+               <note type="editorial_label">Pen and ink drawing: landscape</note>
+               <label>PASS OF <rs type="place" ref="#sierra_morena">SIERRA MORENA</rs></label>
+               <note><rs type="place" ref="#despenaperros">Dispeñaperros<note type="editorial">Despeñaperros</note></rs> – <rs type="place" ref="#pitch_of_dogs">Pitch of Dogs</rs> – made by <rs type="person" ref="#charles_iii">Charles III</rs> – Le Meur french
+                  engineer</note>
+            </figure>
+
+            <ab>Las Navas de Tolosa, with its ruined castle a mile <choice><abbr>R.</abbr><expan>right</expan></choice> Aloe hedges. In the village
+               this inscript<hi rend="superscript">n</hi> on a cross. EL TRIUNFO DE LA SANTA CRUZ EN MEMORIA DE LA BATALLA QUI
+               SE DIO EN ESTE SITO DE LAS NAVAS DE TOLOSA EL AÑO DE 1212.<note type="translation">The triumph of the Holy Cross in memory of the battle which took place on this site of Las Navas de Tolosa in the year <date when="1212">1212</date>.</note></ab>
+            <ab>Hence a plain cultivated country to La Carolina a German colony placed there</ab>
+
+            <figure facs="#zone_Page_67_06b529ea-4849-4c0b-a669-4871d6c229b3">
+               <note type="editorial_label">Pen and ink drawing: landscape</note>
+               <label><rs type="place" ref="#castle_of_tolosa">CASTLE OF TOLOSA</rs></label>
+               <label><rs type="place" ref="#sierra_morena">SIERRA MORENA</rs></label>
+               <note type="arabic">الكتاب</note><note type="arabic">الكاب</note><note type="translation">book</note>
+               <note>why called by Moors El Korb</note>
+            </figure>
+
+            <ab>by <rs type="person" ref="#charles_iii">Carlos III</rs><!-- charles III --> consisting of a long street in the centre of which is a Hexagon 40 p
+               4<note type="editorial">4.40</note>. The town full of troops &amp; the people really unconcerned as at a German Inn.
+               Pretty fount &amp; avenues of trees. Mulberries for Silk worms, &amp; olives close to
+               the town. Quit Carolina ½ p 5. many people of the <rs type="place" ref="#sierra_morena">Sierra</rs> speak German. Established 30
+               years as some of the people said. a country covered with vines &amp; olives with aloe
+               hedges pass a square village &amp; through two of this shape <figure type="in_text" facs="#zone_Page_67_56696560-238e-40f1-8a42-3ed3127ba7ba"><note type="editorial_label">[drawing: plan]</note></figure> &amp; at
+               25 p 8 reach <rs type="place" ref="#guarroman">Guaroman<note type="editorial">Guarromán</note></rs> 2 leagues from Carolina where a large inn. pretty good, people
+               civil. infinitely warmer than on the other side the <rs type="place" ref="#sierra_morena">sierra</rs> though it often rained, On
+               the whole the <rs type="place" ref="#sierra_morena">Sierra</rs> by no means a precipitous <choice><abbr>m<hi rend="superscript">t</hi></abbr><expan>mountain</expan></choice>. Might be passed by infantry
+               without touching the great road, where the pass is very dangerous.</ab>
+
+
+         </div>
+         <div type="portugal">
+            <ab> </ab>
+         </div>
+         <div type="reading_notes">
+            <ab> </ab>
+         </div>
+      </body>
+
+      <back>
+         <div type="cover">
+            <note> </note>
+         </div>
+         <div type="index"> </div>
+      </back>
+   </text>
+
+</TEI>

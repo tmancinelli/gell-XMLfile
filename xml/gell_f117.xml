@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <facsimile>
+      <surface xml:id="zone_Page_117">
+         <graphic url="https://iiif.bsr.ac.uk/iiif/2/GELL-VI%2Fwg_06_117.tif/full/full/0/default.jpg"/>
+         <zone points="0,97 0,957 3372,881 3394,119" xml:id="zone_Page_117_7cb11268-775a-4aa8-99c3-4d5439258836"/><!-- port cadiz -->
+         <zone points="1974,2322 1963,2556 2127,2573 2148,2312" xml:id="zone_Page_117_a1d856d8-00ea-42bb-9ded-3efdd129e9c0"/><!-- plan of theatre -->
+      </surface>
+   </facsimile>
+  <text>
+     
+     <front>
+        <div type="cover">
+           <note></note>
+        </div>
+        <div type="inlet">
+           <head></head>
+        </div>
+     </front>
+     
+      <body>
+         <div type="spain">
+            <pb facs="#zone_Page_117" n="117"/>
+            
+            <figure facs="#zone_Page_117_7cb11268-775a-4aa8-99c3-4d5439258836">
+               <note type="editorial_label">Pen and ink drawing: view of <rs  type="place" ref="#cadiz">Cádiz</rs></note>
+               <label>PORT	</label>
+               <label><rs type="place" ref="#cadiz">CADIZ</rs></label>
+               <label>LIGHTHOUSE</label>
+            </figure>
+            
+            <ab> <rs type="place" ref="#cadiz">Cadiz</rs> said to contain 60 000 inhabitants The houses are high, &amp; well built, but are disfigured by grates of iron at every window. <rs type="person" ref="#solano">Solano</rs>’s house not yet repaired <date when="1809-01-23">Jany 23d 1809</date>. The whole story of his Treachery said to be fabulous at <rs type="place" ref="#cadiz">Cadiz</rs>. The streets very narrow but almost all in right lines &amp; generally at right angles to each other. The Theatre fine but being too deep <figure facs="#zone_Page_117_a1d856d8-00ea-42bb-9ded-3efdd129e9c0" type="in_text"> <note type="editorial_label">[drawing: plan of theatre]</note></figure> very bad for hearing. The best places seem to be almost all taken by the year, so that a stranger is ill accomodated <note type="editoial">sic</note>. Saw an excellently acted comedy there El Si de las Niñas <note type="editorial">The Maidens' Consent, by Leandro Fernández de Moratín (1801; first performed 1806).</note> – The house full every night a thing very rare in <rs type="place" ref="#spain">Spain</rs>. The cathedral a fine building unfinished like all the great buildings of <rs type="place" ref="#spain">Spain</rs>, of white marble heavily ornamented in bad taste corinthian pillars in groupes of 10 &amp;c &amp;c..</ab>
+            <ab>
+               <note type="marginal">
+                  <note type="arabic">الحمد لله على نعمه</note>
+                  Laus Deo pro ipsius beneficiis
+                  Alhamed lellè halà Nahemhi
+                  <note type="translation">Praise God for his blessings</note>
+                  
+                  Bless God for what exists
+                  on capitals
+                  <note type="arabic">احمد الله على نعمه 
+                     <note type="editorial_label">[Arabic – kufic, pen over pencil]</note>
+                     <note type="translation">I praise God for his blessings</note>
+                  </note>
+                  Alhamdu – nahma
+                  Alhamdu –
+                  of <rs type="place" ref="#mecca">Mecca</rs> <note type="arabic">المكي<hi rend="superscript"></hi> <note type="translation">Of Makkah</note></note>
+                  of <rs type="place" ref="#egypt">Egypt</rs> <note type="arabic">المصري<note type="translation">of Egypt/the Egyptian</note></note>
+               </note>
+            </ab>
+         </div>
+        
+      </body>
+  </text>
+</TEI>

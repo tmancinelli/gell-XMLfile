@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface xml:id="zone_Page_76">
+         <graphic url="https://iiif.bsr.ac.uk/iiif/2/GELL-VI%2Fwg_06_076.tif/full/full/0/default.jpg"/>
+         <zone points="130,146 130,1338 3503,1365 3492,130" xml:id="zone_Page_76_35ea5c14-3b13-49a9-9173-e13487312070"/><!-- view of Alcaudate -->
+         <zone points="1131,2382 1158,2535 1468,2540 1457,2399" xml:id="zone_Page_76_a56654de-e6dc-446c-a53a-1e4406cf6d2a"/><!-- arch bridge 1-->
+         <zone points="1925,2790 1893,2964 2350,3008 2366,2807" xml:id="zone_Page_76_2bdff6e8-a4b1-4e42-94de-3c5cc70ed8b9"/><!-- arch bridge 2 -->
+         <zone points="1626,4025 1626,4232 1942,4264 1947,4036" xml:id="zone_Page_76_bc529754-94d2-4923-9fda-bf9134c67168"/><!-- hill -->
+         <zone points="2268,1430 2263,1604 3062,1604 3084,1441" xml:id="zone_Page_76_e62a1fac-25a9-4702-987f-0a97a201b319"/><!-- marginal 1 -->
+         <zone points="2230,1637 2252,2279 3448,2241 3459,1637" xml:id="zone_Page_76_f2255c6b-9091-4df7-b498-110204ec346e"/><!-- marginal 2 -->
+         <zone points="2295,2263 2301,2415 3421,2409 3427,2230" xml:id="zone_Page_76_457de2c6-4345-4823-b3dd-67c0f73745dc"/><!-- marginal 3 -->
+         <zone points="2317,2409 2312,2496 3187,2518 3171,2388" xml:id="zone_Page_76_7dd30e82-d5e3-4e10-a19e-75cc8fdc654f"/><!-- marginal 4 -->
+      </surface>
+   </facsimile>
+   <text>
+      <front>
+         <div type="cover">
+            <note> </note>
+         </div>
+         <div type="inlet">
+            <head> </head>
+         </div>
+      </front>
+
+      <body>
+         <div type="spain">
+            <pb facs="#zone_Page_76" n="076"/>
+            <fw>121</fw>
+            <figure facs="#zone_Page_76_35ea5c14-3b13-49a9-9173-e13487312070">
+               <note type="editorial_label">Pen and ink drawing: view of Alcaudete</note>
+               <label><rs>ALCAUDETE</rs> distant</label>
+               <label>fine M<hi rend="superscript">t</hi>.</label>
+            </figure>
+
+            <ab>15 to 9<note type="editorial">8.45</note>
+               <date when="1808-11-08">Nov 8</date> a gloomy day with some rain quit <rs type="place" ref="#puerto_lope">PUENTE DE
+                  LOPEZ<note type="editorial">Puerto Lope</note></rs>. Bill abt 5 dollars. ascend. steep.
+               pass between two towers abt 2 miles dist<hi rend="superscript">t</hi> &amp; at 20 to 10 see <rs type="place" ref="#illora">vill of YLORA<note type="editorial">village of Íllora</note></rs> &amp;
+               its ruined castle <choice><abbr>R.</abbr><expan>right</expan></choice> descend, uneven uncultivated ground. spotted Trees. 30 p 10<note type="editorial">10.30</note> see
+               the <rs type="place" ref="#sierra_nevada">Sierra Nevada</rs> &amp; the Vega<note type="translation">Fertile Plain</note> or vale of <rs type="place" ref="#granada">Granada</rs>. At 11<hi rend="superscript">h</hi>. a Tumulus artificial R.
+               10 p 11 <choice><abbr>X</abbr><expan>cross</expan></choice> <figure type="in_text" facs="#zone_Page_76_a56654de-e6dc-446c-a53a-1e4406cf6d2a"><note type="editorial_label">[drawing: arch bridge]</note></figure> over the muddy river of <rs type="place" ref="#velilla">Velilla</rs> <hi rend="superscript">qu</hi><note type="editorial">WG wonders if the river is called 'Velilla'. It is the Velillos.</note>. Houses <choice><abbr>L.</abbr><expan></expan></choice> 20 to
+               2, <rs type="place" ref="#pinos_puente">Pinos Puente</rs> a large mud village houses painted pink church d<hi rend="superscript">o</hi><note type="editorial">ditto (i.e. also painted pink)</note> with pilasters. 15
+               to 12 the <figure type="in_text" facs="#zone_Page_76_2bdff6e8-a4b1-4e42-94de-3c5cc70ed8b9"><note type="editorial_label">[drawing: arch bridge]</note></figure> high canes perhaps 15 f<hi rend="superscript">t</hi>. Juego de Cañas?<note type="editorial">A game, supposedly of Moorish origin, played on horseback in the main squares of early modern Spain (literally, the 'reed game').</note> Gardens.
+               20 p 12 ruined tower in wood R. Turn Angle of <rs type="place" ref="#m_elvira">M<hi rend="superscript">t</hi> Elvira</rs> close out. from which &lt;
+               between a low peak on the hills R of valley &amp; <rs type="place" ref="#santa_elena"><choice><abbr>S<hi rend="superscript">t</hi></abbr><expan>Santa</expan></choice> Elena</rs> above the <rs type="place" ref="#alhambra">Alhambra</rs> 51<hi rend="superscript">o</hi>.
+               30’. &lt;<note type="editorial">angle</note> between <rs type="place" ref="#santa_elena">S<hi rend="superscript">t</hi> Elena</rs> end of <rs type="place" ref="#sierra_nevada">Sierra Nevada</rs> about 41<hi rend="superscript">o</hi>. 20 to 1 stone 1 league ½
+               from <rs type="place" ref="#granada">Granada</rs>. &lt; 56<hi rend="superscript">o</hi>. 30’. from <rs type="place" ref="#alhambra">Alhambra</rs> to peak R. &lt; 93 from peak R to a peak
+               <figure type="in_text" facs="#zone_Page_76_bc529754-94d2-4923-9fda-bf9134c67168"><note type="editorial_label">[drawing: hill]</note></figure> L.</ab>
+
+
+            <note type="marginal" facs="#zone_Page_76_e62a1fac-25a9-4702-987f-0a97a201b319">in <rs type="place" ref="#puerto_lope">Puerto Lopez<note type="editorial">Puerto Lope</note></rs> pass</note> <!-- pencil -->
+
+            <note type="marginal" facs="#zone_Page_76_f2255c6b-9091-4df7-b498-110204ec346e"><choice><abbr>Temp. Imp</abbr><expan>In the time of the emperor</expan></choice> <rs type="person" ref="#carlos_v">Carlos V</rs>. he came to pass a summer at
+               <rs type="place" ref="#granada">Granada</rs>. was making a severe law against Moors but they sent him 80000 Ducats on
+               which he moderated his edict. gave them leave to wear los trages moriscos<note type="editorial">Moorish dress</note>. Of the
+               80000 ducats he gave 18000 to build his palace in the <rs type="place" ref="#alhambra">Alhambra</rs>. <rs type="place" ref="#covarrubios">Covarrubios</rs> was the
+               Architect?.</note>
+            <note type="marginal" facs="#zone_Page_76_457de2c6-4345-4823-b3dd-67c0f73745dc">Sr <rs type="person" ref="#pedro_machuca">Piedro Machucha</rs> maestro major de las obras de
+               <rs type="place" ref="#granada">Granada</rs><note type="translation">Mr Piedro Machucha [Pedro Machuca], chief master of works at Granada</note></note>
+            <note type="marginal" facs="#zone_Page_76_7dd30e82-d5e3-4e10-a19e-75cc8fdc654f">Built the new &amp; fine Palace</note>
+
+            <figure>
+               <label><rs type="place" ref="#pinos_puente">Puente de Pinas<note type="editorial">Pinos Puente</note></rs></label>
+               <note type="editorial_label">Pen and ink drawing: arch bridge</note>
+               <note>Not to be confounded with <rs type="place" ref="#fuente_del_pino">Fuente de Pinos<note type="editorial">Probably Fuente del Pino</note></rs> of the Duel</note>
+            </figure>
+
+         </div>
+         <div type="portugal">
+            <ab> </ab>
+         </div>
+         <div type="reading_notes">
+            <ab> </ab>
+         </div>
+      </body>
+
+      <back>
+         <div type="cover">
+            <note> </note>
+         </div>
+         <div type="index"> </div>
+      </back>
+   </text>
+
+</TEI>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface xml:id="zone_Page_104">
+         <graphic url="https://iiif.bsr.ac.uk/iiif/2/GELL-VI%2Fwg_06_104.tif/full/full/0/default.jpg"/>
+         <zone points="870,435 859,794 2279,826 2306,440" xml:id="zone_Page_104_7903d532-9f0f-4a49-8f89-cdc6126758ae"/><!-- landscape -->
+         <zone points="473,1213 446,1942 1963,1936 2029,1207" xml:id="zone_Page_104_98ef2bbe-d883-42c7-bb05-cc7659f4279f"/><!-- ships -->
+         <zone points="1115,2812 1104,3590 1795,3590 1838,2845" xml:id="zone_Page_104_9666d5e0-7a39-40f0-98e8-5dd4cf8e0b10"/><!-- cart -->
+      </surface>
+   </facsimile>
+   
+   <text>
+      <front>
+         <div type="cover">
+            <note> </note>
+         </div>
+         <div type="inlet">
+            <head> </head>
+         </div>
+      </front>
+
+      <body>
+         <div type="spain">
+            <pb facs="#zone_Page_104" n="104"/>
+            <fw>97</fw>
+            <figure type="sketch" facs="#zone_Page_104_7903d532-9f0f-4a49-8f89-cdc6126758ae" ><note type="editorial_label">Pencil drawing: landscape</note></figure>
+            <figure type="sketch" facs="#zone_Page_104_98ef2bbe-d883-42c7-bb05-cc7659f4279f" ><note type="editorial_label">Pencil drawing: ships</note></figure>
+            <figure type="sketch" facs="#zone_Page_104_9666d5e0-7a39-40f0-98e8-5dd4cf8e0b10" ><note type="editorial_label">Pencil drawing: cart</note></figure>
+
+            
+         </div>
+         <div type="portugal">
+            <ab> </ab>
+         </div>
+         <div type="reading_notes">
+            <ab> </ab>
+         </div>
+      </body>
+
+      <back>
+         <div type="cover">
+            <note> </note>
+         </div>
+         <div type="index"> </div>
+      </back>
+   </text>
+
+</TEI>

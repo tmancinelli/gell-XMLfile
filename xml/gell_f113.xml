@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface xml:id="zone_Page_113">
+         <graphic url="https://iiif.bsr.ac.uk/iiif/2/GELL-VI%2Fwg_06_113.tif/full/full/0/default.jpg"/>
+         <zone points="-6,97 5,1229 3410,1229 3416,114" xml:id="zone_Page_113_10a8ab55-2b00-420d-bc55-6070d46a3da6"/><!-- view of Gibraltar -->
+         <zone points="2328,1191 2295,1289 3416,1338 3400,1229" xml:id="zone_Page_113_3db2e8ee-5f8a-4ccf-a98b-c95aa000c000"/><!-- marginal 1 -->
+         <zone points="2159,1289 2132,3835 3427,3862 3421,1311" xml:id="zone_Page_113_85c115e0-97bf-4197-a89a-9c3ef108d6ed"/><!-- marginal 2 -->
+      </surface>
+   </facsimile>
+   <text>
+      <front>
+         <div type="cover">
+            <note> </note>
+         </div>
+         <div type="inlet">
+            <head> </head>
+         </div>
+      </front>
+
+      <body>
+         <div type="spain">
+            <pb facs="#zone_Page_113" n="113"/>
+            <figure facs="#zone_Page_113_10a8ab55-2b00-420d-bc55-6070d46a3da6">
+               <note type="editorial_label">Pen and ink drawing: view of <rs type="place" ref="#gibraltar">Gibraltar</rs></note>
+               <label><rs type="place" ref="#gibraltar">GIBRALTAR</rs></label>
+               <label><!-- in pencil --><rs type="place" ref="#europa_point﻿"><choice><abbr>Europe P<hi rend="superscript">t</hi></abbr><expan>Europa Point</expan></choice>. Europa p</rs></label>
+            </figure>
+
+            <ab>Roads on the West side of the hill of <rs type="place" ref="#gibraltar">Gibraltar</rs> to a great height. On the top of the
+               rock magnificent views on all sides, &amp; the precipices of the rock itself
+               uncommonly steep and bold. Pretty cottage of the Governor on East side. Near <rs type="place" ref="#europa_point﻿">Europa
+               point</rs> a flat place entirely covered with stone &amp; uncultivable. Some pretty
+               situations for houses. The Commissioners is a beautiful place &amp; beside a large
+               garden has green fields within an enclosure, &amp; well wooded.</ab>
+            <ab>The English took possession of a small rocky island called <rs type="place" ref="#parsley">Parsley</rs> isl<hi
+                  rend="superscript">d</hi> near Apes hill which they have now quitted.</ab>
+
+
+            <note type="marginal" facs="#zone_Page_113_3db2e8ee-5f8a-4ccf-a98b-c95aa000c000">MIRADOR OR TOCADOR<note type="translation"
+               >Balcony/oriel or boudoir</note>, <rs type="place" ref="#alhambra">ALHAMBRA</rs></note>
+            <note type="marginal" facs="#zone_Page_113_85c115e0-97bf-4197-a89a-9c3ef108d6ed">In it views of ports very bad but the Arabesques of
+               <rs type="person" ref="#bartolome_de_rages">Bartolomé de Ragés</rs> &amp; <rs type="person" ref="#alonz_perez">Alonzo Perez</rs> &amp; <rs type="person" ref="#juan_de_la_fuente">Juan de la Fuente</rs> in <date when="1624">1624</date> are good, some
+               call the place the PEINADOR<note type="translation">Dressing room</note>. it was
+               repaired &amp; adorned for <rs type="person" ref="#philip_v">Philip V</rs> &amp; <rs type="person" ref="#dona_isabel">Dona Isabel</rs>. In the <date notBefore="1501" notAfter="1600">16 century</date> there was
+               here an inscrip Arabic. “In the name of God gracious &amp; merciful. God be with our
+               Lord &amp; Prophet Mahomet. &amp; to his people &amp; friends health, &amp; salvation
+               infinitas veces. God is the light of heaven &amp; earth &amp; his light is like
+               himself. It is like luminar which having many says is himself alone &amp; is lampara
+               de lamparas, as if it were a shining constellation, &amp; burned with holy oil
+               neither Western nor Eastern, &amp; which burning shines (alumbra) &amp; without being
+               touched (sin tocarlo) Es luz sobre luz. And God guide with his light Him that seeks
+               it. God gives Proverbs to the nations &amp; God is omniscient in every thing <note
+                  type="editorial">WG's partial translation, apparently from Spanish in <bibl>Juan de
+                  Echeverría, Paseos por Granada y sus contornos..., 2 vols (2nd edn, Granada,
+                  1814), vol. 1, p. 144.</bibl> WG may equally have been using <bibl>Echeverría's 1764 original</bibl>.
+                  WG obviously found this passage difficult. Echeverría's text is: 'En el nombre de
+                  Dios, que es misericordioso, y tiene misericordia. Sea Dios con Ntro. Sr. y
+                  Profeta Mahoma; y á los suyos, y sus amigos salud, y salvacion infinitas veces.
+                  Dios es la lumbre del Cielo, y de la tierra, y la lumbre suya es como él; es como
+                  luminar, que siendo muchas las lumbres suyas, es uno él: y es lámpara de lámparas,
+                  como si fuese constelacion luciente, y que arde con óleo santo, no Occidental, ni
+                  Oriental, y que encendiéndolo alumbra y sin tocarlo es Luz sobre luz. Y Dios guia
+                  con su lumbre á quien él quiere. Y Dios es dador de los proverbios á las Gentes. Y
+                  Dios es sábio en todas las cosas.' A full version, incorporating WG's translations
+                  where possible but correcting errors or omissions, would be: <note type="translation">In the name of God,
+                  gracious and merciful. God be with our Lord and Prophet Muhammad. And to his
+                  people and friends health, and salvation infinite times. God is the light of
+                  heaven and earth, and his light is like him; it is like a star, which having many
+                  lights, is yet one: it is a lamp of lamps, as if it were a shining constellation,
+                  and burned with holy oil neither Western nor Eastern, and shone once lit without
+                  being touched[.] It is light on light. And God guide with his light him that seeks
+                  it. God gives proverbs to the nations and God is wise in all things.</note></note>
+               <metamark>–</metamark> Supposed to have been a MIRAB<note type="editorial">i.e. mihrab, a niche indicating the direction of Mecca.</note> in the time of the Moors, or a
+               kind of ORIEL. The hall of Fruits &amp;cc on old foundations says <bibl>Paseos<note type="editorial">Echeverría, Paseos por Granada</note></bibl>: The prison
+               of the Sultana <sic>a</sic> Inner bay, it might be of the <rs type="person" ref="#juan_i">mad queen<note type="editorial">Juana I ('la loca': the mad) of Castile, 1479-1555, wife of Filipe I of Castile.</note></rs>, but the grating made <choice><abbr>a<hi rend="superscript">o</hi></abbr><expan>in the year (anno)</expan></choice>
+               <date when="1639">1639</date> as appears from a paper in the <rs type="place" ref="#palacio_de_la_contaduria">Contaduria<note type="editorial">Palacio de la Contaduría (the Accountant's Palace, within the Alhambra complex).</note></rs>.</note>
+         </div>
+         <div type="portugal">
+            <ab> </ab>
+         </div>
+         <div type="reading_notes">
+            <ab> </ab>
+         </div>
+      </body>
+
+      <back>
+         <div type="cover">
+            <note> </note>
+         </div>
+         <div type="index"> </div>
+      </back>
+   </text>
+
+</TEI>

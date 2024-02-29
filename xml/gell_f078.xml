@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface xml:id="zone_Page_78">
+         <graphic url="https://iiif.bsr.ac.uk/iiif/2/GELL-VI%2Fwg_06_078.tif/full/full/0/default.jpg"/>
+         <zone points="163,1098 108,3905 3465,3867 3427,1169" xml:id="zone_Page_78_36799e63-43db-4138-82d8-1c8aad4a3502"/><!-- map -->
+      </surface>
+   </facsimile>
+   <text>
+      <front>
+         <div type="cover">
+            <note> </note>
+         </div>
+         <div type="inlet">
+            <head> </head>
+         </div>
+      </front>
+
+      <body>
+         <div type="spain">
+            <pb facs="#zone_Page_78" n="078"/>
+            <fw>119</fw>
+            <ab>The town of <rs type="place" ref="#t_elvira">Elvira</rs> no longer exists, but the <rs type="place" ref="#pinos_puente">Sierra at Puente<note
+               type="editorial">Pinos Puente</note></rs> del pino retains the names. <rs type="place" ref="#caparacena">Caparsena<note
+                  type="editorial">Caparacena</note></rs> a village belonging to the duke of Gor has many
+               moorish antiquities such as sepulchres found there. The pass tow<hi rend="superscript">d</hi> <rs type="place" ref="#moclìn">Mochlin<note type="editorial">Moclín</note></rs>, the E
+               <choice><abbr>point of Mt</abbr><expan>east point of Mount</expan></choice> <rs type="place" ref="#m_alvira">Elvira</rs> &amp; <rs>Alhambra</rs> in a line. The <rs type="place" ref="#fuente_del_pino">Fuente<note type="editorial">sic, not Puente as above. i.e. Pinos Puente</note> del Pino</rs> probably one
+               mentioned to us as two leagues on the road pas’t the <rs type="place" ref="#cartuja">Cartuxa<note type="editorial">Cartuja</note></rs> Monastery tow<hi rend="sueprscript">d</hi>
+               <rs type="place" ref="#albolote">Albolote</rs>.</ab>
+
+            <!-- upside down -->
+            <figure type="map" facs="#zone_Page_78_36799e63-43db-4138-82d8-1c8aad4a3502">
+               <label><rs type="place" ref="#alcala">Pass of Alcala</rs> &amp; <rs type="place" ref="#puerto_lope">Puerta Lopez</rs><note type="editorial">Alcalá la Real and Puerto Lope</note></label>
+               <note type="editorial_label">Pen and ink map with watercolour: Pass of <rs type="place" ref="#alcala">Alcalá la Real</rs>
+                  and <rs type="place" ref="#puerto_lope">Puerto Lope</rs></note>
+            </figure>
+
+         </div>
+         <div type="portugal">
+            <ab> </ab>
+         </div>
+         <div type="reading_notes">
+            <ab> </ab>
+         </div>
+      </body>
+
+      <back>
+         <div type="cover">
+            <note> </note>
+         </div>
+         <div type="index"> </div>
+      </back>
+   </text>
+
+</TEI>

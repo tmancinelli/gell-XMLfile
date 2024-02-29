@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <facsimile>
+      <surface xml:id="zone_Page_114">
+         <graphic url="https://iiif.bsr.ac.uk/iiif/2/GELL-VI%2Fwg_06_114.tif/full/full/0/default.jpg"/>
+         <zone points="130,119 130,1191 3487,1218 3514,92" xml:id="zone_Page_114_fb6bc8ad-c66d-48ab-871c-1da7b3d515bb"/><!-- townscape -->
+         <zone points="739,1120 701,2758 2801,2720 2415,1104" xml:id="zone_Page_114_3da38e6b-e50f-48ef-87d5-557da18e729b"/><!-- bay -->
+         <zone points="2529,1729 2453,2426 3394,2458 3340,1757" xml:id="zone_Page_114_52cab7c8-c342-49db-966d-d6143c25dc46"/><!-- wall -->
+      </surface>
+   </facsimile>
+   
+      <text>
+         <front>
+            <div type="cover">
+               <note></note>
+            </div>
+            <div type="inlet">
+               <head></head>
+            </div>
+         </front>
+         
+         <body>
+            <div type="spain">
+               
+               <pb facs="#zone_Page_114" n="114"/>
+               <fw>87</fw>
+               <figure facs="#zone_Page_114_fb6bc8ad-c66d-48ab-871c-1da7b3d515bb" type="sketch">
+                  <note type="editorial_label">Pen and ink drawing: townscape</note>
+                  <label>Torres Bermejas <note type="translation">Vermillion Towers</note></label>
+                  <label>Pinos Puente</label>
+                  <label>T. della Vela <note type="editorial">Torre de la Vela</note>
+                     <note type="translation">Watch Tower</note></label>
+                  <label>Sierra d Elvira</label>
+                  <label>Torre de los siete Suelos<note type="translation">Tower of the Seven Floors</note></label>
+               </figure>
+               
+               <figure facs="#zone_Page_114_3da38e6b-e50f-48ef-87d5-557da18e729b" type="sketch">
+                  <note type="editorial_label">Pen and ink plan: Bay of <rs type="place" ref="#gibraltar">Gibraltar</rs></note>
+                  <note type="editorial_label">Pen and ink drawing: wall 	Plan	+ a greek tower</note>
+                  <label>BAY OF <rs type="place" ref="#gibraltar">GIBRALTAR</rs></label>
+               </figure>
+               
+               <ab>At <rs type="place" ref="#carteia">Cartieia<note type="editorial">Carteia, a Phoenician and Roman town in the Bay of Gibraltar.</note></rs> the building on the highest point is Moorish. 
+                  There is one tower of the Greek wall + <figure facs="#zone_Page_114_52cab7c8-c342-49db-966d-d6143c25dc46"><note type="editorial_note">[indicating drawing above]</note></figure>
+                  remaining but not perpendicular, at an angle which was the upper point of the city – The style of this is similar to that of <rs type="place" ref="#mantinea">Mantinea</rs> &amp; 
+                  Ithome, without mortar, but the blocks are not large – The Theatre may be on Greek foundations, but the superstructure is evidently Roman. 
+                  The mouth of the river is now very shallow, &amp; even small boats can scarcely pass the bar at low water. The site is covered with 
+                  unhewn stones &amp; broken tiles </ab>
+               <metamark/>
+            </div>
+         </body>
+         </text>
+               
+</TEI>

@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface xml:id="zone_Page_103">
+         <graphic url="https://iiif.bsr.ac.uk/iiif/2/GELL-VI%2Fwg_06_103.tif/full/full/0/default.jpg"/>
+         <zone points="0,97 -6,293 859,299 908,103" xml:id="zone_Page_103_a5c38379-bce2-4db3-a9cc-df18d697b16d"/><!-- arabic 1 -->
+         <zone points="16,451 16,641 669,641 707,429" xml:id="zone_Page_103_ff7162cf-c1c8-4bca-b518-e5030896eb84"/><!-- arabic 2 -->
+         <zone points="1039,76 1028,495 3389,489 3383,87" xml:id="zone_Page_103_1e523535-a74a-4855-9a66-d3c2b8e6bf23"/><!-- arabic 3 -->
+         <zone points="2377,516 2502,1642 3410,1637 3394,495" xml:id="zone_Page_103_7647b1b7-ceb1-47b8-8f9e-86f8da72fcc8"/><!-- arabic 4 -->
+         <zone points="3106,3176 3106,3285 3329,3285 3334,3155" xml:id="zone_Page_103_6516f14c-7810-4b8b-a733-1a4491213577"/><!-- arabic 5 -->
+         <zone points="2671,3954 2660,4172 3378,4167 3378,3954" xml:id="zone_Page_103_8960d740-5170-4d5f-8854-6d979fbcc896"/><!-- arabic 6 -->
+      </surface>
+   </facsimile>
+   
+   <text>
+      <front>
+         <div type="cover">
+            <note> </note>
+         </div>
+         <div type="inlet">
+            <head> </head>
+         </div>
+      </front>
+
+      <body>
+         <div type="spain">
+            <pb facs="#zone_Page_103" n="103"/>
+            <note type="arabic" facs="#zone_Page_103_a5c38379-bce2-4db3-a9cc-df18d697b16d">علي الله المويد بنصر<note type="editorial">Compound name of a person, Ali Allah</note></note>
+            <ab>Yedibensor alm</ab>
+            
+            <note type="arabic" facs="#zone_Page_103_ff7162cf-c1c8-4bca-b518-e5030896eb84">بن المعتمد <note type="editorial">Name of a person, probably Abu Nasr al-hath ibn al-Mu’tamid (also known as al-Ma’mun), Emir of Cordoba, died AH484/1091AD.</note></note>
+            <ab>Ben Almahkmud</ab>
+            
+            <note type="arabic" facs="#zone_Page_103_1e523535-a74a-4855-9a66-d3c2b8e6bf23">بسم الله الرحمن الرحيم وصلى الله على محمد خاتم البشر<note type="editorial">The two lines of text are the same, with the first in Kufic script.</note><note type="translation">By the name of Allah, the most gracious, the most merciful and O God peace and blessings upon Mohamad the seal of human beings.<note type="editorial">A well-known opening to every speech by a Sheikh or Imam during lecturing, but ‘the seal of human beings’ should be ‘the seal of the prophets’.</note></note></note>
+            <ab>y a los suyos con perfecta Felicidad &amp;c<note type="translation">and to your people with perfect Happiness &amp;c</note></ab>
+            <ab>benediga<note type="translation">bless</note></ab>
+            
+            <note type="arabic" facs="#zone_Page_103_7647b1b7-ceb1-47b8-8f9e-86f8da72fcc8">على محمد <note type="translation">Upon Mohamad</note>محمد<note type="translation">Mohamad</note>بسم الله <note type="translation">By the name of God</note>عند الله، عند الرحمن <note type="translation">With/belongs to God and with/belongs to the mercifu</note><note type="editorial"></note>Here, Gell is practising writing elements of the longer phrase above.</note>
+            <ab>Madixa Selim Celi</ab>
+            
+            <figure type="full_page" facs="#zone_Page_103"><note type="editorial_label">Pen and ink drawing: boats</note>
+               <note>Criador sumo<note type="translation">Supreme creator</note></note>
+               <note>Alhaliq Alhadim.</note>
+               <note>council = Alcazd</note>
+               <note>Paz <note type="translation">Peace</note>= Alhoma</note>
+               <note>Tristeza <note type="translation">Sorrow</note>= tahra.</note>
+               <note>Sangre real<note type="translation">Royal blood</note>	Fadhal caltana</note>
+               <note> Fe <note type="translation">Faith</note>= hiemah</note>
+               <note type="arabic" facs="#zone_Page_103_6516f14c-7810-4b8b-a733-1a4491213577">بالله<note type="translation">swear</note></note>
+               <note>Billah</note>
+               <note>malhoma = pugna<note type="translation">Battle</note></note>
+               <note>hazaña<note type="translation">Deed</note> = Taurih</note>
+               <note>hope = diz.</note>
+               <note>sangriente<note type="translation">Bloody</note> = mudmia</note>
+               <note>Almacadi = unfortunate</note>
+               <note>Criador Sumo <note type="translation">Supreme creator</note>= alhaliq alhadim</note>
+               <note>Paz<note type="translation">Peace</note> = Alhona</note>
+               <note>volunta de dios<note type="translation">Will of God [voluntad]</note> = cidn</note>
+            
+            
+            <label>MEDITERRANEAN BOATS</label>
+               <label><note type="arabic" facs="#zone_Page_103_8960d740-5170-4d5f-8854-6d979fbcc896">الرشيد <note type="translation">the wise</note>سلام<note type="translation">peace</note></note></label></figure>
+            
+         </div>
+         <div type="portugal">
+            <ab> </ab>
+         </div>
+         <div type="reading_notes">
+            <ab> </ab>
+         </div>
+      </body>
+
+      <back>
+         <div type="cover">
+            <note> </note>
+         </div>
+         <div type="index"> </div>
+      </back>
+   </text>
+
+</TEI>

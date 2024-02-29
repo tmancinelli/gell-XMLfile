@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Title</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Publication Information</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Information about the source</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surface xml:id="zone_Page_71">
+            <graphic url="https://iiif.bsr.ac.uk/iiif/2/GELL-VI%2Fwg_06_071.tif/full/full/0/default.jpg"/>
+            <zone points="10,87 5,946 3416,946 3389,87" xml:id="zone_Page_71_f3ba509d-ebbc-4bd8-a3ef-48091bf250ff"/>
+            <zone points="21,1942 0,3503 3443,3557 3438,1991" xml:id="zone_Page_71_13d398a1-a3c4-4bc6-8e93-1e48a153e3a3"/>
+        </surface>
+    </facsimile>
+    <text>
+        <front>
+            <div type="cover">
+                <note> </note>
+            </div>
+            <div type="inlet">
+                <head> </head>
+            </div>
+        </front>
+
+        <body>
+            <div type="spain">
+                <pb facs="#zone_Page_71" n="071"/>
+                <figure facs="#zone_Page_71_f3ba509d-ebbc-4bd8-a3ef-48091bf250ff">
+                    <figure facs="#zone_Page_71_f3ba509d-ebbc-4bd8-a3ef-48091bf250ff">
+                        <note type="editorial_label">Pen and ink drawing: landscape</note>
+                        <label>casa blanca<note type="translation">white house</note></label>
+                        <label>Road from <rs type="place" ref="#mengibar">Mengibar</rs>.</label>
+                        <label><rs type="place" ref="#sierra_de_jaen">Sierra de Jaen</rs></label>
+                        <label><rs type="place" ref="#masana">Masana</rs>.</label>
+                        <label>Kingdom of <rs type="place" ref="#jaen">Jaen</rs>.</label>
+                        <label>casa blanca</label>
+                        <label><rs type="place" ref="#sierra_nevada">Sierra Nevada</rs></label>
+                        <label><rs type="place" ref="#river_jaen"> Jaen river</rs></label>
+                        <label><rs type="place" ref="#river_jaen">Jaen river</rs></label>
+                    </figure>
+                </figure>
+
+                <ab>a species of <rs type="person" ref="#inigojones">Inigo Jones</rs> Greek or Roman. One of
+                    the holy faces. Santo Rostro of X<hi rend="superscript">t</hi><note
+                        type="translation">Holy Countenance of Christ <note type="editorial">[the
+                            cathedral of Jaén has a copy of the Veil of Veronica, said to bear an
+                            image of Jesus's face]</note></note> preserved here &amp; cannot be seen
+                    without many of the priests being present. fine organ. Sacristy. New &amp;
+                    elegant Capilla del Sagrario<note type="translation">Chapel of the
+                        Sanctuary</note>. Visit the President of the Junta<note type="editorial"
+                            >Provincial government</note>, a little man <rs type="person" ref="#duke_of_montemar">Duca
+                        de Montemar<note type="translation">Duke of Montemar</note></rs> but
+                    descended from <rs type="person" ref="#don_manuel_ponce_de_leon">Don Manuel Ponce de Leon</rs>. <rs
+                        type="place" ref="#mengibar">Mengibar</rs> &amp; the <rs type="place" ref="#campillo_de_arenas"
+                        >Campillo de Arenes<note type="editorial">Campillo de Arenas</note></rs>
+                    where the Bishop defeated the Moors who were to attack <rs type="place" ref="#jaen"
+                        >Jaen</rs> under Reduan belong to him. A very well bred Señor named Aranda
+                    visited us &amp; carried us in his coach to his Brothers, &amp; very good house,
+                    &amp;</ab>
+                <figure facs="#zone_Page_71_13d398a1-a3c4-4bc6-8e93-1e48a153e3a3">
+                    <note type="editorial_label">Pen and ink drawing: view of square</note>
+                    <label>Specimin of building in towns. PLAZA <rs type="place" ref="#jaen">Jaen</rs>.
+                        once possessed by the Moors</label>
+                </figure>
+                <ab>to the Dukes. The people played a game called viŝ a viŝ. The Duchess said she
+                    was descended from the house of Lancaster. The battle of <rs type="place"
+                        ref="#baylen">Baylen<note type="editorial">Battle of Bailén, 16-19 July
+                            1808</note></rs> being fought so near makes this people particularly
+                    sanguinary. One youth of 16 with a mild &amp; very good countenance had killed
+                    11 frenchmen with a knife which he shewed us. The great houses have a court or
+                    pillars as in Moorish times. <rs type="place" ref="#jaen">Jaen</rs> 400 years under
+                    the Moors.</ab>
+
+            </div>
+            <div type="portugal">
+                <ab> </ab>
+            </div>
+            <div type="reading_notes">
+                <ab> </ab>
+            </div>
+        </body>
+
+        <back>
+            <div type="cover">
+                <note> </note>
+            </div>
+            <div type="index"> </div>
+        </back>
+    </text>
+
+</TEI>
