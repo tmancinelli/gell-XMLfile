@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface xml:id="zone_Page_90">
+         <graphic url="https://iiif.bsr.ac.uk/iiif/2/GELL-VI%2Fwg_06_090.tif/full/full/0/default.jpg"/>
+         <zone points="108,87 3443,97 3438,1289 108,1316" xml:id="zone_Page_90_01a3b2f7-92ad-45ec-a497-c9d57a3c47fa"/>
+      </surface>
+   </facsimile>
+   <text>
+      <front>
+         <div type="cover">
+            <note> </note>
+         </div>
+         <div type="inlet">
+            <head> </head>
+         </div>
+      </front>
+
+      <body>
+         <div type="spain">
+            <pb facs="#zone_Page_90" n="090"/>
+            <fw>107</fw>
+            <figure facs="#zone_Page_90_01a3b2f7-92ad-45ec-a497-c9d57a3c47fa">
+               <note>Pen and ink drawing: landscape</note>
+               <label><rs type="place" ref="#pena_enamorados">Peña de los Enamorados<note type="translation">Lovers'
+                  Rock</note></rs> near.</label>
+               <!-- in pencil -->
+               <label>The Moor had a Castle on the top. <rs type="place" ref="#pena_enamorados">Peña de los Enamorados <note
+                     type="translation">Lovers' Rock</note></rs> near.</label>
+               <label>Story of the Moor against whose <sic>caslte</sic> the Queen came by a
+                  miraculous road. He leaped down.</label>
+            </figure>
+
+            <ab>The Venta de Archidone<note type="translation">Country inn at Archidona</note>
+               rather a good house. bill 5 dollars all but 2 shillings – quit it at 12<hi
+                  rend="superscript">h</hi>. <choice>
+                  <abbr>L</abbr>
+                  <expan>Left</expan>
+                  </choice> a large town called <rs type="place" ref="#archidona">Archidone<note type="editorial">Archidona</note></rs> with a
+               ruined castle. The plain Arcadian that is the <choice>
+                  <abbr>m<hi rend="superscript">ts</hi></abbr>
+                  <expan>mountains</expan>
+               </choice> rise at once from the flat. Robbers said to be deserters in the country one
+               taken up at the corner of our venta<note type="translation">country inn</note> this
+               morning. In about an hour, at the end of the plain ascend from it leaving the <rs type="place" ref="#pena_enamorados">Peña de
+               los Enamorados<note type="translation">Lovers' Rock</note></rs> L &amp; the river of the
+               valley left again of it. Story of an inhab<hi rend="superscript">t</hi> of <rs type="place" ref="#antequera">Antequera</rs>
+               running away with his mistress faster than the Justice could pursue on horseback.
+               They threw themselves at length from the top. the rock really overhangs. A fine view
+               at the top of the vale of <rs type="place" ref="#antequera">Antequera</rs> very large, &amp; the town of <rs type="place" ref="#antequera">Antequera</rs>. the
+                  Vega<note type="translation">Fertile Plain</note> very flat several trees. rich in
+               corn. <choice>
+                  <abbr>Ab<hi rend="superscript">t</hi> 2<hi rend="superscript">h</hi> X</abbr>
+                  <expan>About 2pm cross</expan>
+               </choice> the river from <rs type="place" ref="#archidona">Archidone</rs>. at 3<hi rend="superscript">h</hi> 40<hi
+                  rend="superscript">m</hi><note type="editorial">3.40pm</note> <rs type="place" ref="#antequera">Antequera</rs>. in the
+               way stones ancient Roman mark the road in the plain. Antiquera Anticaria large.</ab>
+
+
+            <note type="marginal" facs="xxx">+ quan admirablemente ha dispensado su rigor y
+               clemencia con los que debe; entendiendo que en dispensar sus tesoros en esto era la
+               posesion que de ellos hascia. Perpetuamente quede sublimado en alteza; a la qual
+               todos los Reyes se humillen e teman el furor de la execution de su
+               shoulder<!-- shoulder in pencil --> espadla espalda ansi los naturales Moros, como
+               los de otra qualquiera nacion.” <note type="editorial">From <bibl>Antigüedades
+                     árabes, vol. 2, pp. 13-14.</bibl>
+                  <note type="translation">[It is he who provokes admiration among Kings for the
+                     purity of his birth, and he whom the great imitate, seeing...] how admirably he
+                     has granted his rigour and his clemency to those to whom he owes it
+                     [hascia=hacía]; understanding that the possession of his treasures lay in
+                     granting them. He remains perpetually sublimated in highness; before which all
+                     Kings humble themselves and fear the use [AA has 'execucion'] of his sword,
+                     native Moors like those of any other nation. <note type="editorial">AA has
+                        'espada' (sword), but WG has confused this with 'espalda' (back or sometimes
+                        shoulder), which he has itself corrected from
+                  'espadla'.</note></note></note>Another</note>
+            <note type="marginal" facs="xxx">“Soy estrado carpet<!-- carpet in pencil --> de esposo
+               de linda hermosura y cumplimiento. Y si quieres ver la razon de lo que digo mirad la
+               hermosura desde mi caliz e avertid en mi corona y tiara; y vereis como es semejante a
+               la de la luna. Y Aben Nasëre es el Sol de mi orbe, de rutilante hermosura e ser
+               resplandor, luce en alteza de estado, seguro de toda ausencia y apartamiento” <note
+                  type="editorial">From <bibl>Antigüedades árabes, vol. 2, p. 14.</bibl>
+                  <note type="translation">I am a husband's carpeted room of beautiful loveliness
+                     and accomplishment. And if you want to see the truth of what I say, look at the
+                     beauty of this [AA has 'deste'] my chalice, and notice [AA has 'advertid'] [the
+                     beauty] of my crown and tiara, and you will see how alike it is to that of the
+                     moon. And Aben Nasere is the sun of my world, of glittering beauty and radiance
+                     [AA has no 'ser']: he shines in highness of status, safe from all want and
+                     isolation.</note></note> Another</note>
+            <note type="marginal" facs="xxx">ornament<!-- ornament in pencil --> Soy
+               decoration<!-- decoration in pencil --> aseo de magnificencia señal y hechura que
+               sobrepuja surpasses<!-- surpasses in pencil --> a la felicidad: entendereis ser en
+               este mi atavio ornament<!-- ornament in pencil -->, este precioso caliz, alguno que
+               esta en pie cumpliendo su oracion. Y todo lo que de el se vacia conviene que luego se
+               le reitere; e con mi Señor Aben Nasere ennoblecio dios sus criaturas que procede del
+               senor Alhazragi Zahade Aben Obeda.<note type="editorial">From <bibl>Antigüedades
+                     árabes, vol. 2, p. 14.</bibl> <note type="translation">I am a washroom of magnificence, a sign and a
+                  work that surpasses happiness: you will understand that in this my attire, this
+                  precious chalice, is one who is on his feet fulfilling his prayer. And all that is
+                  drained from it should later be replaced; and with my Lord Aben Nasere, God
+                  ennobled his creatures, who [Aben Nasere] proceeds from Lord Alhazragi Zahde
+                  [according to AA] Aben Obeda. <note type="editorial">WG has corrected an apparent printing error in
+                  Antigüedades árabes, which gives 'rodo lo que...' rather than
+               'todo'.</note></note></note></note>
+            <metamark/>
+         </div>
+         <div type="portugal">
+            <ab> </ab>
+         </div>
+         <div type="reading_notes">
+            <ab> </ab>
+         </div>
+      </body>
+
+      <back>
+         <div type="cover">
+            <note> </note>
+         </div>
+         <div type="index"> </div>
+      </back>
+   </text>
+
+</TEI>

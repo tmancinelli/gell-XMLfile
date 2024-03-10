@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface xml:id="zone_Page_93">
+         <graphic url="https://iiif.bsr.ac.uk/iiif/2/GELL-VI%2Fwg_06_093.tif/full/full/0/default.jpg"/>
+         <zone points="0,65 2790,70 2796,571 2344,582 2377,1871 2252,1898 2246,3291 5,3269" xml:id="zone_Page_93_b447b0dd-7a15-41a7-95f2-a22197f0033f"/>
+      </surface>
+   </facsimile>
+   <text>
+      <front>
+         <div type="cover">
+            <note> </note>
+         </div>
+         <div type="inlet">
+            <head> </head>
+         </div>
+      </front>
+
+      <body>
+         <div type="spain">
+            <pb facs="#zone_Page_93" n="093"/>
+            <figure facs="#zone_Page_93_b447b0dd-7a15-41a7-95f2-a22197f0033f">
+               <note type="editorial_label">Pen and ink drawing with watercolour: gate</note>
+               <label><rs type="place" ref="#gate_atarazanas">Gate of the Atarrazanas<note type="editorial">Atarazanas</note></rs> or Naval
+                  storehouses on the Alameda at <rs type="place" ref="#malaga">Malaga</rs></label>
+               <label>MOORISH</label>
+               <label>The two castles are called <rs type="place" ref="#alcazaba">Alcazaba<note type="editorial">Citadel</note></rs> &amp;
+                  <rs type="place" ref="#gibralfaro">Gibralfaro</rs> at <rs type="place" ref="#malaga">Malaga</rs>.</label>
+               <label><rs type="place" ref="#gate_malaga">Marble Gate at Malaga</rs>. <choice>
+                     <abbr>C.</abbr>
+                     <expan>Camera </expan>
+                  </choice> Lucida</label>
+            </figure>
+
+            <ab>of inhabitants notwithstanding the yellow fever said to be 70,000 <rs type="place" ref="#granada">Granada</rs> 80,000 but
+               the people of <rs type="place" ref="#granada">Granada</rs> say <rs type="place" ref="#malaga">Malaga</rs> has only 30,000 inhabitants. The rage against the
+               french here, much less violent than at <rs type="place" ref="#madrid">Madrid</rs>. About the <date when="1808-12-12"
+                     >12<hi rend="superscript">th</hi> of Dec<hi rend="superscript">r</hi></date>
+               the <rs type="place" ref="#madrid">Madrid</rs> post</ab>
+
+
+            <note type="marginal" facs="xxx">On the shields of the vestibule of the Lions court
+               “&amp; the beauty of which you possess emanates from God – the court 126f<hi
+                  rend="superscript">t</hi> long 73 wide with cloister. 22½ high, corridor 7½ wide
+               128 columns 10 f<hi rend="superscript">t</hi> high 8 in ½ <choice>
+                  <abbr>diam<hi rend="superscript">r</hi></abbr>
+                  <expan>diameter</expan>
+               </choice>. dos cenadores<note type="translation">two alcoves or arbours (garden
+                  alcoves)</note> of 15 feet square 25 high</note>
+            <note type="marginal" facs="xxx">The Taza<note type="translation">Basin</note> of the
+               great fount 10½ feet in diam. the lions 2f<hi rend="superscript">t</hi>½ high &amp;
+               all the font 8<hi rend="superscript">o</hi>. 6”. the whole 12 agon<note
+                  type="editorial">i.e. 12-sided</note>.</note>
+            <!--[Numbered 1-8 alongside paragraph below] -->
+            <note type="marginal" facs="xxx">Verses on font “Bendito sea el que dió al Principe
+               Mahomad una habitacion, que con su hermosura sirve de adorno a todas las
+               habitaciones. . <list rend="inline numbered">
+                  <item n="2">2<hi rend="superscript">o</hi> Y si no ahi está ese vergel en que hay
+                     maravillas, que no ha permitido Dios haya otras que les igualen, ni aun en los
+                     dos santuarios.”</item>
+                  <item n="3">3<hi rend="superscript">o</hi> Y un heap <!-- heap in pencil --><hi
+                        rend="underline">monton</hi> de transparentes perlas, cuyo brillo
+                     resplandece con los saltos del aljofar, continuamente agitada.”</item>
+                  <item n="4">4<hi rend="superscript">o</hi> Y no sabemos qual de los dos es el que
+                     mengua imperfect. </item>
+                  <metamark>–</metamark>
+                  <item n="5">5<hi rend="superscript">o</hi> No ves con qué confusion corre el agua
+                     y sin embargo caen de nuevo sobre ella otras corrientes?</item>
+                  <item n="6">6<hi rend="superscript">o</hi> a manera de un amante que se deshace en
+                     lagrimas, y que las reprime por miedo de que haya quien las haga
+                     manifiestas.</item>
+                  <item n="7">7 imperfect</item>
+                  <metamark>–</metamark>
+                  <item n="8">8<hi rend="superscript">o</hi> Y quizá no es en realidad mas que una
+                     blanca nube, que se desprende sobre los leones.</item>
+               </list><note type="editorial"><bibl>From Antigüedades árabes, vol. 2, pp.
+                     7-8.</bibl><note type="translation">Blessed be he who gave Prince Mahomad a
+                     room, which with its beauty serves as an adornment to all rooms.<list
+                        rend="numbered inline">
+                        <item n="2">2nd And if there is not that orchard in which there are wonders,
+                           to which God has not permitted there to be equals, not even in the two
+                           sanctuaries.</item>
+                        <item n="3">3rd And a heap of transparent pearls, whose brightness shines
+                           with the leaps of the [aljófar = seed pearl, aljofaina = washbasin],
+                           continually agitated.</item>
+                        <item n="4">4th And we do not know which of the two is the one that
+                           wanes.</item>
+                        <item n="5">5th Do you not see the confusion with which the water runs and
+                           yet other currents fall on it again?</item>
+                        <item n="6">6th in the manner of a lover who breaks down in tears, and who
+                           fights them back for fear that there may be someone who makes them
+                           obvious.</item>
+                        <item n="7">7 imperfect</item>
+                        <item n="8">8th And perhaps it is in reality no more than a white cloud,
+                           which is shed over the lions.</item>
+                     </list></note></note></note>
+
+         </div>
+         <div type="portugal">
+            <ab> </ab>
+         </div>
+         <div type="reading_notes">
+            <ab> </ab>
+         </div>
+      </body>
+
+      <back>
+         <div type="cover">
+            <note> </note>
+         </div>
+         <div type="index"> </div>
+      </back>
+   </text>
+
+</TEI>

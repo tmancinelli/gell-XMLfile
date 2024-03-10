@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <div type="cover">
+            <note> </note>
+         </div>
+         <div type="inlet">
+            <head> </head>
+         </div>
+      </front>
+
+      <body>
+         <div type="spain">
+            <pb facs="#f-086" n="086"/>
+
+            <fw>111</fw>
+            <label><rs type="place" ref="#granada">Granada</rs> to <rs type="place" ref="#malaga">Malaga</rs> <date when="1808-11-28">Nov<hi rend="sueprscript">r</hi> 28. 1808</date></label>
+            <ab><date when="1808-11-28">28 Nov<hi rend="sueprscript">r</hi></date>.</ab>
+            <ab>At 30 p 12<note type="editorial">12.30</note> quit the <rs type="place" ref="#puerta_de_elvira">Puerta de Elvira<note type="editorial">The Elvira Gate</note></rs> in two Caleshes. price 30 dollars. misty
+               morning, clear in the middle of the day &amp; a cold wind afterwards. 30 p 1 <choice><abbr>X</abbr><expan>cross</expan></choice> the
+               <rs type="place" ref="#genil">river Xenil<note type="edtirial">Genil</note></rs> over a wooden bridge. little water, being all consumed in irrigations. In
+               <choice><abbr>1<hi rend="sueprscript">h</hi> &amp; 50<hi rend="sueprscript">m</hi></abbr><expan>1 hour and 50 minutes</expan></choice> reach 2 leagues? <rs type="place" ref="#santafe">Santa Fe</rs>, the camp &amp; town of <rs type="person" ref="#ferdinand_aragona">Ferdinand</rs> &amp;
+               <rs type="person" ref="#isabella_castile">Isabella</rs>. still a square in form. 2 churches. flat. The Soto de Roma of Kings of
+               <rs type="place" ref="#granada">Granada</rs>, now of the <rs type="person" ref="#duke_wellington">Duke of Wellington</rs><note type="editorial">This is a later addition, as Wellington was made a duke in 1814.</note> belonged to <rs type="person" ref="#godoy">Godoy<note type="editorial">Manuel Godoy (1767-1851), Spanish minister</note></rs> who<hi rend="sueprscript">+</hi> had a district entirely
+               independent of the Chancilleria<note type="translation">Chancellery [cancillería]</note> of <rs type="place" ref="#granada">Granada</rs>, with a house &amp; an officer of his own.
+               In 2<hi rend="sueprscript">h</hi> &amp; 40<hi rend="sueprscript">m</hi> from <rs type="place" ref="#granada">Granada</rs> pass <choice><abbr>R</abbr><expan>right</expan></choice> <rs type="place" ref="#chauchina">Tchaouchina Vill<note type="editorial">Chauchina Village</note></rs>. a castle or house 2 miles <choice><abbr>L</abbr><expan>left</expan></choice> on
+               hills. <rs type="place" ref="#pinos_puente">Pinos Puente</rs> which we had passed through is on the R abt 3 miles. Its river
+               comes from a gap in the <choice><abbr>M<hi rend="sueprscript">ts</hi></abbr><expan>Mountains</expan></choice> 3<hi rend="sueprscript">h</hi>, 30<hi rend="sueprscript">m</hi> from G a vill R &amp; old tower. hills on L
+               approach. 3<hi rend="sueprscript">h</hi> 40<hi rend="sueprscript">m</hi> from <rs type="place" ref="#granada"><choice><abbr>G</abbr><expan>Granada</expan></choice></rs>, <rs type="place" ref="#lachar">Village of Laca<note type="editorial">Láchar</note></rs> <rs type="place" ref="#genil">Xenil</rs> R near. 15<note type="editorial">This [15] may be smudged out</note> The plain ends. 15 p 7
+               Venta de Casina <rs type="place" ref="#cacin">Cacin</rs><note type="translation">Country inn at Cacín</note> a good river of same name.</ab>
+
+
+            <note type="marginal" facs="xxx">white marble columns of Machel<note type="editorial">Macael</note>.</note>
+            <note type="marginal" facs="xxx"><rs type="place" ref="#granada">Granada </rs>1173 Varas of <rs type="place" ref="#castille">Castille</rs> high above sea</note>
+            <note type="marginal" facs="xxx"><rs type="place" ref="#sierra_nevada">Sierra Nevada</rs> top 4254 Varas 3 inches &amp; 5 lines
+               high</note>
+            <note type="marginal" facs="xxx"><rs type="place" ref="#mulhacen">Muley Hassan<note type="editorial">Mulhacén</note></rs> seems the highest top from the Vega<note type="translation">Fertile Plain</note></note>
+            <note type="marginal" facs="xxx">there are two tops</note>
+            <note type="marginal" facs="xxx">A vara 3 feet each foot 10 in 7/8</note>
+            <metamark/>
+            <note type="marginal" facs="xxx">Veleta other top of Sierra</note>
+            <note type="marginal" facs="xxx"><rs type="place" ref="#alhambra">Alhambra</rs> 150 Varas above the <rs type="place" ref="#darro">Darro</rs>.</note>
+            <note type="marginal" facs="xxx"><rs type="place" ref="#genil">Xenil</rs> in latin Sirgilis</note>
+            <note type="marginal" facs="xxx">it has more water in summer than winter &amp; in the
+               evening more than in the morning from the Sun of the day.</note>
+            <note type="marginal" facs="xxx">Comares sometimes Comaresch</note>
+            <note type="marginal" facs="xxx">Anciently there were fine courts -+ qu Paseos<note type="editorial">WG wonders if this is in <bibl>Juan de Echeverría, Paseos por Granada y sus contornos..., 2 vols (2nd edn, Granada, 1814), or Echeverría's 1764 original</bibl>.</note> .</note>
+            <note type="marginal" facs="xxx">Moorish Kings property</note>
+            <metamark/>
+            <note type="marginal" facs="xxx">Public audience in the great Hall called Mexuar. the
+               King <sic>sate</sic> on a carpet Alcatif the council round him. The guard were african
+               Moors.</note>
+            <metamark/>
+            <note type="marginal" facs="xxx">X a river from L.</note>
+            <metamark/>
+            <note type="marginal" facs="xxx">Allah acbar. great almighty G<hi rend="sueprscript">d</hi> the war cry.</note>
+            <note type="marginal" facs="xxx">Their telegraphic towers.</note>
+            <note type="marginal" facs="xxx"><rs type="person" ref="#pulgar">Hernando dal Pulgar</rs><note type="editorial"><bibl>Hernando del Pulgar (1436-c.1492), Crónica de los Reyes Católicos (1545, and many later editions).</bibl></note> says in temp<note type="editorial">in the time of</note> <rs type="person" ref="#abulhagiagi">Juseph Abulhagiageh</rs> in
+               <date notBefore="1301" notAfter="1400">14<hi rend="sueprscript">th</hi> century</date> <rs type="place" ref="#granada">Granada</rs> had 70 000 houses. In <date when="1311">1311</date> there were 200 000 inhab<hi rend="sueprscript">ts</hi> about 500
+               were <sic>real full</sic> Moors &amp;c… 50,000 rengadoe 30000 captives in the Kingdom</note>
+            <note type="marginal" facs="xxx">at most 350 000 souls</note> <!-- in pencil -->
+            <metamark/>
+            <note type="marginal" facs="xxx">A road turns L to <rs type="place" ref="#granada alhama">Alhama</rs> not far off</note>
+            <metamark/>
+            <note type="marginal" facs="xxx">a<hi rend="sueprscript">o</hi> 1476 <rs type="person" ref="#marmol">marmol</rs><note type="editorial"><bibl>Luis del Mármol Carvajal (1520-1600), Historia de la rebelión y castigo de los moriscos del reino de Granada (Málaga, 1600; Madrid, 1797)</bibl></note> says there were 30,000 vecinos<note type="translation">inhabitants</note>. 8000
+               Knights 25000 slinges. &amp; in 3 days 50,000.</note>
+         </div>
+         <div type="portugal">
+            <ab> </ab>
+         </div>
+         <div type="reading_notes">
+            <ab> </ab>
+         </div>
+      </body>
+
+      <back>
+         <div type="cover">
+            <note> </note>
+         </div>
+         <div type="index"> </div>
+      </back>
+   </text>
+
+</TEI>

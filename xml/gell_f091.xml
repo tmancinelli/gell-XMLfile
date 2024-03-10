@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface xml:id="zone_Page_91">
+         <graphic url="https://iiif.bsr.ac.uk/iiif/2/GELL-VI%2Fwg_06_091.tif/full/full/0/default.jpg"/>
+         <zone points="2426,1153 2785,1142 3307,2252 2083,2268" xml:id="zone_Page_91_764d3975-98b3-479b-b959-7edfc6a92100"/>
+      </surface>
+   </facsimile>
+   <text>
+      <front>
+         <div type="cover">
+            <note> </note>
+         </div>
+         <div type="inlet">
+            <head> </head>
+         </div>
+      </front>
+
+      <body>
+         <div type="spain">
+            <pb facs="#zone_Page_91" n="091"/>
+            <ab>Antequera taken 1410 from Moors. <rs type="person" ref="#king_juseph">Juseph K<hi rend="sueprscript">g</hi> of Granada</rs>
+               <sic>succeded</sic> <rs type="person" ref="#mahomet">Mahomet</rs> who died of a poisoned shirt. Ali sent by <rs type="person" ref="#king_juseph">Juseph</rs> to
+               <rs type="place" ref="#valladolid"> Valladolid</rs> to K<hi rend="sueprscript">g</hi><rs type="person" ref="#king_donjuan"> Don Juan</rs>, brought horses, velvet,
+               raisins, figs almonds but the Queen prevented more truce, for he would not say <rs type="person" ref="xxx">Joseph</rs>
+               was vassal of <rs type="place" ref="#spain">Spain</rs> in <date when="1409">1409</date>.</ab>
+            <ab><rs type="person" ref="#fernando_aragon">Infante<note type="editorial">A son of the king. In this case, the future Fernando I
+               of Aragon, younger son of <rs type="person" ref="#king_donjuan">Juan I of Castile</rs>.</note></rs> came to <rs type="place" ref="#cordoba">Cordova</rs> in feb<hi
+                  rend="sueprscript">y</hi>. &amp; besieged Antequera with 10 000 foot &amp; 2500
+               horse. <rs type="person" ref="#sancho_rojas">Sancho de Rojas Bishop of Palencia</rs> &amp; <choice>
+                  <abbr>C<hi rend="superscript">t</hi></abbr>
+                  <expan>Count</expan>
+               </choice> <rs type="person" ref="#velasquez">Martin Velasquez</rs>. Kg of Granada sent 5000 horse &amp; 80 000 foot &amp; his
+               2 Brothers Cidi Ali &amp; Sidi Hamat but they were beat off, but <rs type="person" ref="#avedano">Martyn Ruys de
+               Avedaño</rs> killed by poisoned arrow.</ab>
+            <ab>A Real at <rs type="place" ref="#antequera">Antequera</rs>.</ab>
+            <metamark/>
+
+            <ab>ill placed old moorish looking town with a ruined castle. Some remains of moorish
+               walls. Town composed of high tumbling houses ready for the first earthquake. Gardens
+               before it well watered – There had been a Castle &amp; a Royal Palace. It is a
+               venerable old ruinous place. Stop about 2 hours for 3 guards there being thieves in
+               the way. The people quite ignorant, took us for french which they knew was
+               impossible. Hence a very uneven road with some picturesque mills &amp; then a very
+               steep ascent with a poor venta<note type="translation">country inn</note>, arrive at
+               the top in a cold misty rocky place 1 league &amp; ½ see the sea &amp; descending a
+               little a venta<note type="translation">country inn</note>, Venta Nueva a poor place
+               the poorest we had seen where sleep. Quit Venta Nueva <date when="1808-12-01">Dec<hi rend="sueprscript"
+                  >r</hi> 1<hi rend="sueprscript">st</hi></date> early cold strong wind &amp; mist. Hence 7
+               leagues &amp; ¼ to Malaga of which 6 are a steep &amp; winding descent. In the course
+               of the first hour the climate changed. A bridge &amp; custom house in about a league
+               it became warm, dwarf palms thyme in flower &amp; all the shrubs of the Mediterranean
+               coasts. In a short</ab>
+
+
+            <note type="marginal" facs="xxx">In hall of comares 6<hi rend="sueprscript">th</hi>
+               “Sutilizaronse las manos del artifice di me tez e lustre, despues de ser adornadas
+               las perlas de mi corona e tiara; e parecen en semejanza de aseo decoration<!-- decoration in pencil --> e tribunal
+               de esposo, al qual y demas en mi, hay ventaja. porque en mi esta segura la felicidad
+               de mi esposo – El, que a mi se allegare con demanda de quitar la sed, en mi hallara
+               hartar con licor claro e puro, sin macula ni comistion alguna, E ansi soy semejante
+               al arco de la oscuridad que aparece; y el sol de ella es mi Señor Abulhagex: siempre
+               luce su palacio seguro como el palacio divino durara abrigo e amparo de los
+                  bienaventurados.”<note type="editorial">From <bibl>Antigüedades árabes, vol. 2, p.
+                     14.</bibl><note type="translation">The hands of the architect of my [AA: 'de
+                     mi'] colour and lustre were made subtle [AA: 'Subtilizáronse'], after the
+                     pearls of my crown and tiara were adorned, and they seemed in likeness to the
+                     washroom and the husband's court, to which and so forth there is an advantage
+                     in me, because in me the happiness of my husband is assured. He who approaches
+                     me with a desire to quench his thirst, will find in me plenty [AA: 'hartura']
+                     of clear and pure liquor, without any taint or mixture. And so I am like the
+                     arc of darkness that appears; and its [the darkness's] sun is my Lord Abulhagex
+                     [AA: 'la obscuridad que aparece, y el sol della es mi Señor Abulhachex']: his
+                     safe palace always shines as the divine palace will last, shelter and
+                     protection of the blessed. </note></note> There was perhaps a fount in this
+               hall <metamark>–</metamark> Paseos<note type="editorial"><bibl>Juan de Echeverría,
+                     Paseos por Granada y sus contornos..., 2 vols (2nd edn, Granada, 1814).</bibl>
+                  WG may equally have been using <bibl>Echeverría's 1764
+               original.</bibl></note>.</note>
+            <figure type="sketch" facs="#zone_Page_91_764d3975-98b3-479b-b959-7edfc6a92100">
+               <note type="editorial_label">Pencil drawing with watercolour: man</note>
+               <label>Jew</label>
+            </figure>
+            <label>Hall of Comares.</label>
+            <note type="marginal" facs="xxx">“llevo ventaja à los hermosos con mi amicto y tiara; e
+               ansi se declinan a mi los rutilantes luceros del cielo en los signos. Parece en mi el
+               agua en manera de religioso, que puesto al medio dia del lugar de su oracion se pone
+               a orar: seguras estan por la sucession del tiempo, mis ventajas: mi deseo es hartar
+               al que esta sediento, en manera que parece haber yo demostrado esta obra liberal de
+               la mano de mi senor Abialhagex. Siempre dure en mi orbe lucero espléndido ansi como
+               los luceros del cielo fueron ilustrando la oscura tiniebla.<note type="editorial"
+                  >From <bibl>Antigüedades árabes, vol. 2, p. 14.</bibl><note type="translation">I
+                     outmatch the beautiful with my amice [vestment worn around neck and shoulders]
+                     and tiara; and so the glittering stars in the sky decline to me in the signs.
+                     Water seems a kind of devotee to me, which, put at midday in the spot of its
+                     prayer, begins to pray: my benefits are safe against the passage of time [AA:
+                     'la sucesion de los tiempos']: my desire is to satiate those who thirst, in
+                     such a way that I seem to have demonstrated this liberal work by the hand of my
+                     lord Abialhagex. May a splendid star always last in my world, like the stars in
+                     the sky light up [AA: 'fueren ilustrando'] the gloomy
+               darkness.</note></note></note>
+            <metamark/>
+
+
+         </div>
+         <div type="portugal">
+            <ab> </ab>
+         </div>
+         <div type="reading_notes">
+            <ab> </ab>
+         </div>
+      </body>
+
+      <back>
+         <div type="cover">
+            <note> </note>
+         </div>
+         <div type="index"> </div>
+      </back>
+   </text>
+
+</TEI>

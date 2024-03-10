@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface xml:id="zone_Page_92">
+         <graphic url="https://iiif.bsr.ac.uk/iiif/2/GELL-VI%2Fwg_06_092.tif/full/full/0/default.jpg"/>
+         <zone points="103,87 3525,81 3525,821 108,854" xml:id="zone_Page_92_c9d4dacc-4126-4963-b4f7-457f54c2065f"/> <!-- view of malaga -->
+         <zone points="2241,2594 3351,2562 3100,2110 2817,1751 2535,1746" xml:id="zone_Page_92_30578ed6-826f-45ed-aef4-76150d8b72dc"/> <!-- first head -->
+         <zone points="2584,2790 3187,2676 3378,3584 2317,3584" xml:id="zone_Page_92_20c10940-8f56-4adf-9271-e5053dd6378d"/> <!-- second head -->
+         <zone points="2535,3590 2904,3584 3247,3840 3242,4210 2529,4210" xml:id="zone_Page_92_b0db96d6-c40a-4324-9a0a-f20b98c421c2"/> <!-- third head -->
+      </surface>
+   </facsimile>
+   <text>
+      <front>
+         <div type="cover">
+            <note> </note>
+         </div>
+         <div type="inlet">
+            <head> </head>
+         </div>
+      </front>
+
+      <body>
+         <div type="spain">
+            <pb facs="#zone_Page_92" n="092"/>
+            <fw>105</fw>
+            <figure facs="#zone_Page_92_c9d4dacc-4126-4963-b4f7-457f54c2065f">
+               <note type="editorial_label">Pen and ink drawing: view of <rs type="place" ref="#malaga">Málaga</rs></note>
+               <label>AT. <rs type="place" ref="#malaga">MALAGA</rs> <choice>
+                     <abbr>C:</abbr>
+                     <expan>Camera</expan>
+                  </choice> Lucida</label>
+            </figure>
+
+            <ab>time we came to olives &amp; a burning red soil the mountains very steep sometimes
+               covered with vines in terraces, sometimes with broom. A clear River ran on the right
+               the road made with care &amp; very good, sometimes conducted zigzag up a rocky point
+               to avoid the circuit of a very long peninsular <choice>
+                  <abbr>M<hi rend="superscript">t</hi></abbr>
+                  <expan>Mountains</expan>
+               </choice>. Stop to water our horses at a Venta<note type="translation">Country
+                  inn</note> where is an oil mill. Prickly fig hedges &amp; aloes. A monastery with
+               cypresses and oranges. At length in a broiling day <date when="--12-01">Dec 1</date> come in sight of the plain
+               of <rs type="place" ref="#malaga">Malaga</rs>, bare but cultivated, with farm houses but no trees Better about the town,
+               the descent becomes less rapid half a league from the city. Pass a Monastery with a
+               fine walled grove of oranges &amp; lemons <choice>
+                  <abbr>R.</abbr>
+                  <expan>right</expan>
+               </choice> See a fine Casa de Campo<note type="translation">country house</note> &amp;
+               oranges <choice>
+                  <abbr>L</abbr>
+                  <expan>left</expan>
+               </choice> once belonging to the Jesuits. At <rs type="place" ref="#malaga">Malaga</rs> the climate <date notBefore="--12-01" notAfter="--12-03">Dec 1. 2. 3.</date> &amp; 4
+               quite delightful, much too hot in the sun &amp; the nights not cold. In the sun the
+               Thermometer rose immediately to 95 &amp; in the coldest situations was about 65 <date when="--12-04">Dec
+               4</date>. Green Pease cauliflowers &amp;.. plentiful. Almost all the walls built by the
+               moors. but not now walled round. A good moorish gate near the Alameyda or parade.
+               Fine cathedral &amp; organ. the port made by a natural projection &amp; a pier. The
+               sea &amp; sky equally serene. The Thermometer from 70 to 76 &amp; 78 <date notBefore="--12-01" notAfter="--12-20">from Dec<hi
+                  rend="superscript">r</hi> 1 to 20</date> &amp; only one cold wind during that time from <choice>
+                  <abbr>N.W.</abbr>
+                  <expan>north-west</expan>
+               </choice> The number</ab>
+
+
+            <note type="marginal" facs="xxx">The venta de <rs type="place" ref="#galvez">Galves</rs><note type="translation">Gálvez
+                  country inn</note> a large inn on the road close on R</note>
+            <!-- the two inscriptions are starting here and finishing where is the editorial note -->
+            <note type="marginal" facs="xxx">In <date>1364</date> when K<hi rend="superscript">g</hi> Don Pedro
+               held his court at Sevilla “mandò facer estas alcaçares e estos palacios e estas
+               portadas que fue hecho en la era de mil e quatrocientos e dos” <note
+                  type="translation">He ordered these fortresses and these palaces and these façades
+                  to be made, which were finished around [in the era of] 1402 <note type="editorial"
+                     >WG seems to have corrected Llaguno y Amírola's 'fecho' to
+                  'hecho'.</note></note>Inscription on frize. This by Arab architects</note>
+            <note type="marginal" facs="xxx">The sala llamada de Embajadores del mismo alcazar<note type="translation">The hall known as that of the Ambassadors in the same fortress.</note>. But
+               Jalubi of Toledo first built the palace as says inscripn in Arabic. “Jalubi fue el
+               arquitecto di mi obra y maestro mayor. Fue venido de Toledo con los demas maestros
+               Toledanos a mi palacio y maestranza de Sevilla. Yo el Rey Nazar por la gracia de
+               Dios.<note type="translation">Jalubi was the architect of my work and chief master. He had come from Toledo with the other Toledan masters to my palace and armoury of Seville. I, King Nazar, by the grace of God.</note></note>
+            <note type="editorial">Two inscriptions possibly taken from <bibl>Eugenio Llaguno y Amírola,
+               Noticias de los arquitectos y arquitectura de España..., 4 vols (Madrid: Imprenta
+               Real, 1829), vol. 1, pp. 66, 238.</bibl> Idiosyncratic spellings (e.g. 'e' rather than 'y'
+               where not necessary) match. Would also fit with WG's more cramped hand, which he
+               tends to use in notes datable to 1820s-30s, and fact that text is squashed around
+               existing sketches. Clear elsewhere that WG used <bibl>Llaguno y Amírola</bibl>.</note>
+            <note type="marginal" facs="xxx">Sidi Achmet Elegacel Ambassador from Morocco to Carlos
+               III translated Arabic inscriptions in Spain<note type="editorial"><bibl>Llaguno y Amírola, Noticias, p. 238, n. 1.</bibl></note></note>
+            <figure type="sketch" facs="#zone_Page_92_30578ed6-826f-45ed-aef4-76150d8b72dc">
+               <note type="editorial_label">Pen and ink drawing: head</note>
+               <label>An Andaluzian head</label>
+            </figure>
+            <note type="marginal" facs="xxx"><rs type="person" ref="#gors_coachman_duchess">Duquesa de<note type="translation">Duchess of</note> Gor’s Coachman</rs> who drove us up to the
+               <rs type="place" ref="#alhambra">Alhambra</rs> with 4 horses, only two of which had reins She called him Mi hijo<note type="translation">my son</note>.</note>
+            <figure type="sketch" facs="#zone_Page_92_20c10940-8f56-4adf-9271-e5053dd6378d">
+               <note type="editorial_label">Pen and ink drawing: head</note>
+               <label>an Andalucian as a dancer of Volleras. Bolero’s</label>
+            </figure>
+            <note type="marginal" facs="xxx">Churriana the Frascati of the Malaguenians<note type="editorial">The people of Málaga</note></note>
+            <figure type="sketch" facs="#zone_Page_92_b0db96d6-c40a-4324-9a0a-f20b98c421c2">
+               <note type="editorial_label">Pencil drawing: head</note>
+            </figure>
+
+         </div>
+         <div type="portugal">
+            <ab> </ab>
+         </div>
+         <div type="reading_notes">
+            <ab> </ab>
+         </div>
+      </body>
+
+      <back>
+         <div type="cover">
+            <note> </note>
+         </div>
+         <div type="index"> </div>
+      </back>
+   </text>
+
+</TEI>

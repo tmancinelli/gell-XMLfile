@@ -165,6 +165,7 @@
   </person>
   <person xml:id="pulgar">
     <persName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q1406896">Pulgar</persName>
+    <persName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q1406896">Hernando dal Pulgar</persName>
   </person>
   <person xml:id="giafor">
     <persName xml:lang="en" sameAs="xx">Ramaleddin Giafor</persName>
@@ -290,4 +291,60 @@
   <person xml:id="abderahman">
     <persName xml:lang="en" sameAs="xx">Abderahman</persName>
   </person> 
+  
+  <person xml:id="king_juseph">
+    <persName xml:lang="en" sameAs="xx">Juseph K<hi rend="sueprscript">g</hi> of Granada</persName>
+    <persName xml:lang="en" sameAs="xx">Juseph</persName>
+  </person>
+  <person xml:id="mahomet">
+    <persName xml:lang="en" sameAs="xx">Mahomet</persName>
+  </person>
+  <person xml:id="king_donjuan">
+    <persName xml:lang="en" sameAs="xx">K<hi rend="sueprscript">g</hi>Don Juan</persName>
+  </person>
+  <person xml:id="fernando_aragon">
+    <persName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q47412">Infante</persName>
+  </person>
+  <person xml:id="sancho_rojas">
+    <persName xml:lang="en" sameAs="xx">Sancho de Rojas Bishop of Palencia</persName>
+  </person>
+  <person xml:id="velasquez">
+    <persName xml:lang="en" sameAs="xx">Martin Velasquez</persName>
+  </person>
+  <person xml:id="avedano">
+    <persName xml:lang="en" sameAs="xx">Martyn Ruys de Avedaño</persName>
+  </person>
+  <person xml:id="gors_coachman_duchess">
+    <persName xml:lang="en" sameAs="xx">Duquesa de<note type="translation">Duchess of</note> Gor’s Coachman</persName>
+  </person>
+  <person xml:id="general_dejuan">
+    <persName xml:lang="en" sameAs="xx"><choice><abbr>Gen<hi rend="superscript">l</hi></abbr>
+      <expan>General</expan></choice> De Juan</persName>
+  </person>
+  <person xml:id="abul_hagig">
+    <persName xml:lang="en" sameAs="xx">Abul Hagig</persName>
+    <persName xml:lang="en" sameAs="xx">Abul Hagig King</persName>
+  </person>
+  <person xml:id="yusef">
+    <persName xml:lang="en" sameAs="xx">Yusef</persName>
+  </person>
+  <person xml:id="alonzo_xi">
+    <persName xml:lang="en" sameAs="xx">Alonzo XI <choice><abbr>K<hi rend="superscript">g</hi> Castilla</abbr><expan>King of Castile</expan></choice></persName>
+  </person>
+  <person xml:id="duke_wellington">
+    <persName xml:lang="en" sameAs="xx">Duke of Wellington</persName>
+  </person>
+  <person xml:id="godoy">
+    <persName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q316110">Godoy</persName>
+  </person>
+  <person xml:id="marmol">
+    <persName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q3074895">marmol</persName>
+  </person>
+  <person xml:id="fleming">
+    <persName xml:lang="en" sameAs="xx">Captain Fleming</persName>
+  </person>
+  <person xml:id="muley_hacen">
+    <persName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q335624">Abu'l-Hasan Ali ibn Sa'd</persName>
+  </person>
+  
 </listPerson>

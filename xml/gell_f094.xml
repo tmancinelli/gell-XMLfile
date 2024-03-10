@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface xml:id="zone_Page_94">
+         <graphic url="https://iiif.bsr.ac.uk/iiif/2/GELL-VI%2Fwg_06_094.tif/full/full/0/default.jpg"/>
+         <zone points="244,108 1414,97 1414,500 1088,500 1082,946 272,968" xml:id="zone_Page_94_afa3c1a3-c5a3-4aea-add7-768b1d19073c"/> <!-- first shield -->
+         <zone points="1414,114 2219,114 2208,957 1392,984" xml:id="zone_Page_94_575e5dd2-e3af-4262-8370-574ea52f635b"/> <!-- second shield -->
+         <zone points="2502,76 3356,70 3361,924 2507,973" xml:id="zone_Page_94_9d0f5db3-8f53-438b-95a4-0bf885d6918a"/> <!-- third shield -->
+      </surface>
+   </facsimile>
+   
+   <text>
+      <front>
+         <div type="cover">
+            <note> </note>
+         </div>
+         <div type="inlet">
+            <head> </head>
+         </div>
+      </front>
+
+      <body>
+         <div type="spain">
+            <pb facs="#zone_Page_94" n="094"/>
+            <fw>103</fw>
+            <figure facs="#zone_Page_94_afa3c1a3-c5a3-4aea-add7-768b1d19073c">
+               <note type="editorial_label">[Pen and ink drawing with watercolour: shield]</note>
+               <label> Colour of Shields &amp; Bands often Changed.</label>
+            </figure>
+            <figure facs="#zone_Page_94_575e5dd2-e3af-4262-8370-574ea52f635b">
+               <note type="editorial_label">[Pen and ink drawing with watercolour: shield]</note>
+            </figure>
+            <figure facs="#zone_Page_94_9d0f5db3-8f53-438b-95a4-0bf885d6918a">
+               <note type="editorial_label">[Pen and ink drawing: shield]</note>
+               <label>Andalucian Arabs</label>
+            </figure>
+
+            <ab>ceased. The next account was that the French with 40,000 men were there, but no
+               official news had arrived on the 20<hi rend="superscript">th</hi>. Report says the
+               french had lost at least 10,000 men, had not succeeded in entering <rs type="place" ref="#madrid">Madrid</rs> and had
+               encamped at the <rs type="place" ref="#pardo">Pardo</rs> where they were surrounded, why then no post. The order for
+               enlisting all persons between 16 &amp; 40 years of age only begun to be put in force
+               in <rs type="place" ref="#malaga">Malaga</rs> <date when="--12-18">Dec 18</date>. No kind of communication either to <rs type="place" ref="#malaga">Malaga</rs> or <rs type="place" ref="#granada">Granada</rs> when the
+               central junta fled from <rs type="place" ref="#aranjuez">Aranjuez</rs> to <rs type="place" ref="#badajoz">Badajos<note type="editorial">Badajoz</note></rs>. nor
+               indeed had there been any regular communication between the army at the frontier
+               &amp; the junta at any time. The junta<note type="editorial">Supreme Central Junta
+                  (central authority during the Napoleonic occupation).</note> are said to have
+               examined all the letters in the post office at <rs type="place" ref="#madrid">Madrid</rs> to find out Traitors, &amp; the
+               <rs type="place" ref="#marquis_perales">Marquis de los Perrales<note type="editorial">Perales</note></rs> was in consequence torn
+               in pieces by the mob. <rs type="person" ref="#general_dejuan"><choice>
+                  <abbr>Gen<hi rend="superscript">l</hi></abbr>
+                  <expan>General</expan>
+               </choice> De Juan</rs> also by his own soldiers whom he had ordered to retire from
+               <rs type="place" ref="#somosierra">Somosierra</rs>, on the approach of the french.</ab>
+
+
+            <note type="marginal" facs="xxx">inscript<hi rend="superscript">n</hi> on
+               fountain</note>
+            <note type="marginal" facs="xxx">9<hi rend="superscript">o</hi> De tal modo se extiende
+               la mano liberal del Califa, que quando franquea sus beneficios, alcanzan a los
+               furiosos leones de la milicia. <list rend="inline numbered">
+                  <item n="10">10 o tu que miras esos leones, a quienes la falta de vida impide
+                     exercer su furia.</item>
+                  <item n="11">11<hi rend="superscript">o</hi> o heredero de la Sangre de los
+                     Naseritas! no hay gloria que se iguale con la de haber heredado ‘èl poder y
+                     grandeza que tu hará despreciar à los mas encumbrados magnates. </item>
+                  <item n="12">12<hi rend="superscript">o</hi> La paz de dios sea contigo
+                     perpetuamente, teniendo en sujecion a tus subitos y domando a tus
+                     enemigos.</item>
+               </list><note type="editorial">From <bibl>Antigüedades árabes, vol. 2, p.
+                     8.</bibl><note type="translation"><list>
+                        <item n="9">9th In such a way is extended the liberal hand of the Caliph,
+                           that when he opens up his benefits, they overtake the furious lions of
+                           the art of war.</item>
+                        <item n="10">10 oh you who look at these lions, whose lack of life prevents
+                           them from exerting their fury.</item>
+                        <item n="11">11th oh heir of the Blood of the Nasrids! There is no glory
+                           that equals that of having inherited power and greatness that will make
+                           you despise the most exalted magnates.</item>
+                        <item n="12">12th The peace of God be with you perpetually, keeping your
+                           subjects [AA: 'subditos'] in subjection and taming your enemies.</item>
+                     </list></note></note></note>
+            <metamark/>
+            <note type="marginal" facs="xxx">a great repair of the <rs type="place" ref="#alhambra">alhambra</rs> in the <date notBefore="1601" notAfter="1700">17<hi
+                  rend="superscript">th</hi> century</date> the canals either made or repaired then but the
+               court once paved with blue &amp; white Paseos<note type="editorial">Echeverría,
+                  Paseos por Granada</note>. Green not blue. In <date when="1575">1575</date> the <rs type="place" ref="#alhambra">Alhambra</rs> was
+               repaired.</note>
+            <note type="marginal" facs="xxx">Private mosque, is under Governors house. now a chapel,
+               Moorish columns gilt capitals shields of Moors &amp; Spanish Kings. latticed gallery
+               for Harem. <rs type="person" ref="#abul_hagig">Abul Hagig</rs> the K<hi rend="superscript">g</hi> who finished the <rs type="place" ref="#alhambra">Alhambra</rs>
+               died there. <rs type="person" ref="#abul_hagig">Abul Hagig King</rs> in <date when="1333">1333</date>. He had a very long beard died Black. defeated at
+               battle of Salado with the K<hi rend="superscript">g</hi> of Morocco by Kings of
+               Portugal &amp; Castille. built schools. All villages of 12 houses had a
+               mosque.</note>
+            <note type="marginal" facs="xxx"><rs type="place" ref="#gate_justice">Gate of Justice</rs> built by <rs type="person" ref="#yusef">Yusef</rs>, in <date when="1348">1348</date>. Built the
+               Alcazar<note type="translation">Fortress</note> of <rs type="place" ref="#malaga">Malaga</rs>. now crumbled. very
+               great decoration. Houses had fountains &amp; Towers. The arabian poets called <rs type="place" ref="#granada">Granada</rs>
+               a silver Vase filled with emeralds &amp; hyacinths<note type="editorial">i.e.
+                  jacinths</note>. <rs type="person" ref="#alonzo_xi">Alonzo XI <choice>
+                  <abbr>K<hi rend="superscript">g</hi> Castilla</abbr>
+                  <expan>King of Castile</expan>
+               </choice></rs>.</note>
+            <!-- continues on pag. 96 -->
+         </div>
+         <div type="portugal">
+            <ab> </ab>
+         </div>
+         <div type="reading_notes">
+            <ab> </ab>
+         </div>
+      </body>
+
+      <back>
+         <div type="cover">
+            <note> </note>
+         </div>
+         <div type="index"> </div>
+      </back>
+   </text>
+
+</TEI>

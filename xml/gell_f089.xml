@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface xml:id="zone_Page_89">
+         <graphic url="https://iiif.bsr.ac.uk/iiif/2/GELL-VI%2Fwg_06_089.tif/full/full/0/default.jpg"/>
+         <zone points="27,65 3334,76 3340,957 0,935" xml:id="zone_Page_89_31f6384f-ffff-456a-964d-a5ad09dc3b5c"/> <!-- horses and carriages -->
+         <zone points="3051,2502 3051,2605 3280,2605 3280,2496" xml:id="zone_Page_89_f0319239-59ba-42ca-9e7c-d4bdf8c03b50"/> <!-- arch -->
+      </surface>
+   </facsimile>
+   <text>
+      <front>
+         <div type="cover">
+            <note> </note>
+         </div>
+         <div type="inlet">
+            <head> </head>
+         </div>
+      </front>
+
+      <body>
+         <div type="spain">
+            <pb facs="#zone_Page_89" n="089"/>
+            <figure facs="#zone_Page_89_31f6384f-ffff-456a-964d-a5ad09dc3b5c">
+               <label>The gigs from <rs type="place" ref="#granada">Granada</rs> to <rs type="place" ref="#malaga">Malaga</rs></label>
+               <note type="editorial_label">Pen and ink drawing: horses and carriages</note>
+            </figure>
+
+            <ab>In verse in the hall of <rs type="place" ref="#comares">Comares</rs></ab>
+            <ab>From the rising to the setting of the sun all Arabia the happy salutes thee, &amp;
+               all the universe. This is the high conclave &amp; we are its daughters. truly I have
+               preference &amp; the Glory in my race or species &amp; I am the members of the heart
+               without any division among them, for in the heart the force of the body &amp; soul
+               (spirit) originates.<note type="editorial">This seems to be WG's attempt at the
+                  Spanish given in the <bibl>Real Academia de Bellas Artes de San Fernando’s
+                     Antigüedades árabes de España. Parte segunda (Madrid, 1804), [hereafter,
+                     Antigüedades árabes, vol. 2,] p. 12</bibl>: 'Desde que amenece hasta que
+                  anochece te saluda toda la Arabia feliz y todo el universo. Este es el alto
+                  cónclave, y nosotras sus hijas; bien que yo tengo la preferencia y la gloria en mi
+                  género, y soy los miembros del corazon, sin que haya entre ellos division ninguna,
+                  como que en el corazon tiene su orígen la fuerza del alma y del
+               espíritu.'</note></ab>
+            <ab>another. “Y aunque sean mi adorno los signos de su cielo, con todo se echa en mi de
+               menos el resplandor del sol que hace entre ellos. Cubrióme mi glorioso senor Juseph
+               con vestida de alegria y primor sin necesitar de otro vestido; y me hizo trono regio,
+               cuya altura iguala con verdad a la luz al talamo y al trono celestial.”<note
+                  type="editorial">From <bibl>Antigüedades árabes, vol. 2, p. 12.</bibl><note
+                     type="translation">And although the signs of his sky are my ornament, yet I
+                     miss the radiance of the sun that shines [AA: 'luce', not 'hace'] between them.
+                     My glorious Lord Jusef covered me in clothes of joy and beauty without needing
+                     other clothing; and made me a royal throne, whose height truly equals the
+                     light, the marriage bed and the celestial throne.</note></note> the iron
+               balconies placed in 1632. Inscription mentioning the beauty of this hall of the
+                  Embaxadores<note type="translation">Ambassadors</note>. <bibl>Antiqüedades arabes.
+                  1604.</bibl> O hijo de Rey e descendiente de Reyes y à quien las estrellas en
+               alteza no igualan, si a te se comparan! Si edificaste e ilustraste este tan rico
+               alcazar, que es singular y de aventajada hermosura; palacio donde se demuestran las
+               singulares excelencias de esta gobernacion, que en las escrituras se aclaran. Con el
+               la ley de la salvacion ensalzaste en tanto grado que no se puede significcar,
+               ilustrandola y a sus sequaces con extrema ventaja de seguridad y honor; por lo qual
+               te son a cargo; pues con todos sus vasallos demostras amparo miserecordia justicia
+               liberalidad soalzacion clemencia e ninguna crueldad e injusticia” <note
+                  type="editorial">From <bibl>Antigüedades árabes, vol. 2, p. 13</bibl><note
+                     type="translation">Oh son of a King and descendant of Kings, and whom the stars
+                     do not equal in highness, if they are compared to you! If you built and
+                     illustrated [or improved?] so rich a fortress as this, which is singular and of
+                     outstanding beauty; a palace where the singular excellencies of this government
+                     are shown, which become clear in the scriptures. With it you extolled the law
+                     of salvation to such a degree that [to say] illustrating [or improving?] it and
+                     its minions with the extreme benefit of safety and honour, cannot capture it,
+                     for which reason they are in your charge, since with all your [AA has 'tus']
+                     vassals you show [AA: 'demostrais'] protection, mercy [AA: 'misericordia'],
+                     justice, liberality, solace, clemency, and no cruelty or [AA: 'ni']
+                        injustice.<note type="editorial">Translation of 'soalzacion' as 'solace'
+                        based on<bibl> Juan de Echeverría, Paseos por Granada y sus contornos..., 2
+                           vols (2nd edn, Granada, 1814), vol. 1, p. 121</bibl>, which suggests
+                        'consuelo', 'alegria' or 'alabanza' as synonyms for what Echeverría
+                        recognises as a rare word</note></note></note><metamark>–</metamark></ab>
+            <ab>On another. “Es el Rey Nasere el mayor de los Reyes; de cuya corte salen las
+               grandezas de los triunfos, es el adestrador leader<!-- leader in pencil --> con
+               poderio y valor, que a todos las naciones pone espanto. Es el que, si en el
+               hemisferio se presentase, serian excusados en el los luceros. Es el que a los Reyes
+               admira la limpieza de su nacimiento, e a quien los grandes imitan, viendo <hi
+                  rend="superscript">x</hi><note type="editorial">From <bibl>Antigüedades árabes,
+                     vol. 2, p. 13.</bibl></note><note type="translation">The Nasrid King is the
+                  greatest of Kings; from whose court come the grandeurs of triumphs; he is the
+                  skilled one with might and courage, who terrifies all nations. It is he who, if he
+                  appeared in the hemisphere, the stars would be dismissed by him. It is he who
+                  provokes admiration among Kings for the purity of his birth, and he whom the great
+                  imitate, seeing... [how admirably he has dispensed his rigour and his clemency
+                  with those to whom he owes it]<note type="editorial">WG has corrected to
+                     'adestrador', which he translates as 'leader', but <bibl>Antigüedades árabes,
+                        vol. 2, p. 13</bibl> does have 'el adestrado' (skilled
+               one).</note></note></ab>
+
+
+            <note type="marginal" facs="xxx"><rs type="place" ref="#court_myrtles">Patio de los Arrayones<note type="translation">Court
+                  of the Myrtles</note></rs></note>
+            <note type="marginal" facs="xxx">Inscriptions of the first court God alone is the
+               conqueror. other inscrip in same court. The omnipotence of God Give glory to our lord
+               &amp; <rs type="person" ref="#abulhagiagi">King Abulhagiagi</rs> whom god preserve. In the upper gallery an arch of 3
+                  varas<note type="editorial">Unit of measurement, explained on pag 190.</note> ½
+               lead to a chamber over the vestibule before the palace of <rs type="person" ref="#carlos_v">Carlos 5</rs> was built</note>
+            <note type="marginal" facs="xxx">The walls of cistern court 24 feet high Castilian. The
+               cistern 124 feet high 27 wide 5 deep. the doors of this court are 4 feet ½ broad 8
+               high. above the 2 windows God alone is the conqueror.</note>
+            <note type="marginal" facs="xxx">Aben Hut Almayars arms says Bermudes de Pedraza. Argt
+               on a band Sa There is no conqueror but God. sometimes a red hand.<note
+                  type="editorial"><bibl>Antigüedades árabes, vol. 2, p. 6</bibl>: 'Aben Hut
+                  Alnayar'. Antigüedades Arabes here cites <bibl>Francisco Bermudez de Pedraza, Historia
+                  de la antigüedad y excelencias de Granada (Madrid: Luis Sanchez, 1608).</bibl> Aben Hut
+                  Alnayar's arms were a black band on a silver field, with letters saying 'There is
+                  no conqueror but God'.</note> The antechamber roofed <figure type="in_text"
+                     facs="#zone_Page_89_f0319239-59ba-42ca-9e7c-d4bdf8c03b50">
+                  <note type="editorial_label">[drawing: arch]</note>
+               </figure></note>
+            <metamark/>
+            <note type="marginal" facs="xxx"><rs type="place" ref="#hall_comares">Hall of Comaresch</rs><note type="editorial"
+               >Comares</note></note>
+            <note type="marginal" facs="xxx">the kind of work called Comarragia, Niches alternate
+               gold blue white &amp; red.</note>
+            <note type="marginal" facs="xxx">on targets Dese alabanza a solo Dios y. de consiguiente
+               dense gracias al mismo Dios<note type="editorial">From <bibl>Antigüedades árabes,
+                     vol. 2, p. 10</bibl>.<note type="translation">Give praise to God alone, and
+                     therefore give thanks to the same God [or God himself].</note></note>. The hall
+               40 feet square by 68. iii. The tiles 1 vara ½ high above this in ovals “o god to thee
+               be given honour for ever. &amp; o lord to thee incessant thanks. Give honor &amp;
+               glory to the King our Lord <rs type="person" ref="#billah">Abu Abdallah Elgani Billah</rs></note>
+
+
+         </div>
+         <div type="portugal">
+            <ab> </ab>
+         </div>
+         <div type="reading_notes">
+            <ab> </ab>
+         </div>
+      </body>
+
+      <back>
+         <div type="cover">
+            <note> </note>
+         </div>
+         <div type="index"> </div>
+      </back>
+   </text>
+
+</TEI>

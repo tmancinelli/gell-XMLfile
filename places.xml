@@ -652,6 +652,7 @@
    </place>
    <place xml:id="genil">
       <placeName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q17760">Xenil</placeName>
+      <placeName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q17760">river Xenil</placeName>
       <settlement type="country">Spain</settlement>
    </place>
 
@@ -1043,7 +1044,7 @@
    </place> 
    <place xml:id="gibraltar">
       <placeName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q1410">Gibraltar</placeName>
-      <settlement type="country">Spain</settlement>
+      <settlement type="country">United Kingdom</settlement>
    </place>  
    <place xml:id="smaria">
       <placeName xml:lang="en" sameAs="">S. Maria</placeName>
@@ -1133,6 +1134,83 @@
    <place xml:id="ubeda">
       <placeName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q329984">Ubeda</placeName>
       <settlement type="country">Spain</settlement>
-   </place>  
+   </place>
+   
+   <place xml:id="valladolid">
+      <placeName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q8356">Valladolid</placeName>
+      <settlement type="country">Spain</settlement>
+   </place>
+   <place xml:id="malaga">
+      <placeName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q8851">Málaga</placeName>
+      <settlement type="country">Spain</settlement>
+   </place>
+   <place xml:id="galvez">
+      <placeName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q1757664">Galves</placeName>
+      <settlement type="country">Spain</settlement>
+   </place>
+   <place xml:id="gate_atarazanas">
+      <placeName xml:lang="en" sameAs="xx">Gate of the Atarrazanas</placeName>
+      <settlement type="country">Spain</settlement>
+   </place>
+   <place xml:id="gate_malaga">
+      <placeName xml:lang="en" sameAs="xx">Marble Gate at Malaga</placeName>
+      <settlement type="country">Spain</settlement>
+   </place>
+   <place xml:id="pardo">
+      <placeName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q115507379">Pardo</placeName>
+      <settlement type="country">Spain</settlement>
+   </place>
+   <place xml:id="badajoz">
+      <placeName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q15679">Badajos</placeName>
+      <settlement type="country">Spain</settlement>
+   </place>
+   <place xml:id="marquis_perales">
+      <placeName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q2314270">Marquis de los Perrales</placeName>
+      <settlement type="country">Spain</settlement>
+   </place>
+   <place xml:id="somosierra">
+      <placeName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q1016225">Somosierra</placeName>
+      <settlement type="country">Spain</settlement>
+   </place>
+   <place xml:id="gate_justice">
+      <placeName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q65023228">Gate of Justice</placeName>
+      <settlement type="country">Spain</settlement>
+   </place>
+   <place xml:id="velez_malaga">
+      <placeName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q492741">Velez Malaga</placeName>
+      <settlement type="country">Spain</settlement>
+   </place>
+   <place xml:id="velez">
+      <placeName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q1525651">Velez</placeName>
+      <settlement type="country">Spain</settlement>
+   </place>
+   <place xml:id="santafe">
+      <placeName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q615722">Santa Fe</placeName>
+      <settlement type="country">Spain</settlement>
+   </place>
+   <place xml:id="chauchina">
+      <placeName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q555943">Tchaouchina Vill</placeName>
+      <settlement type="country">Spain</settlement>
+   </place>
+   <place xml:id="lachar">
+      <placeName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q484981">Village of Laca</placeName>
+      <settlement type="country">Spain</settlement>
+   </place>
+   <place xml:id="cacin">
+      <placeName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q6114923">Cacin</placeName>
+      <settlement type="country">Spain</settlement>
+   </place>
+   <place xml:id="sierra_nevada">
+      <placeName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q26955">Sierra Nevada</placeName>
+      <settlement type="country">Spain</settlement>
+   </place>
+   <place xml:id="mulhacen">
+      <placeName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q209528">Muley Hassan</placeName>
+      <settlement type="country">Spain</settlement>
+   </place>
+   <place xml:id="darro">
+      <placeName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q1166701">Darro</placeName>
+      <settlement type="country">Spain</settlement>
+   </place>
 
 </listPlace>

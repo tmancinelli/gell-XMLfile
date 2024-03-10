@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <div type="cover">
+            <note> </note>
+         </div>
+         <div type="inlet">
+            <head> </head>
+         </div>
+      </front>
+
+      <body>
+         <div type="spain">
+            <pb facs="#f-100" n="0100"/>
+            <figure type="print" facs="xxx">
+               <!-- this is a print, an extract of a newspaper that Gell has included in his notebook -->
+               <label>NOTICE.</label>
+               <ab><sic>WEdnesday<note type="editorial">All apparent errors in this passage are in the original.</note></sic> the 30<hi rend="superscript">th</hi> January 1811 at the Royal Theatre of S.<hi rend="superscript">t</hi> Carlos the following
+                  entertainment will be exhibitat for the benefit of John Baptista Gianini chief
+                  composer of ballets of said Theatre to commence with a grand Symphony, which will
+                  be followd by a ballet in three Acts entitled</ab>
+               <label>The whimsical party, or the end of importunity.</label>
+               <ab>After which one of the mast pleasant farces hether to laid before the Publich
+                  will be performd, the whole to terminate by a grand serwies Dance entitled</ab>
+               <label>The Templ of Death.</label>
+               <ab>Inwich Laurence Lacombe is to dance a grand Solo. His composition is the
+                  production of said Giannini who will consider himself truly happy should this
+                  small specimen meet the same encouragement which he has so repeatedly experienced
+                  from an enlightend audience, for the space of fine years, during which he has had
+                  the honour of submitting his compositions before a Nation which a mongst other
+                  distinguishd qualities, is admired for its indulgence &amp; for encouraging the
+                  feeble effort of those who submit them solves to hs criticism.</ab>
+               <ab>The Theatre will be brilliantty lit. &amp; the performance will commence at 6’ o
+                  clock.</ab>
+
+   
+               <label>NOTICIA</label>
+               <ab><sic>QUarta</sic> feira 30 do corrente mez de Janeiro de 1811 a Sociedade do Real Theatro de
+                  S. Carlos representará a Beneficio de João Baptista Giannini, legitimo Compositor
+                  do dito Theatro, hum agradavel divertimento : abrirá a Scena com huma grande
+                  Synfonia, finda esta se exporá huma Dança de meio Caracter dividida em tres Actos,
+                  que tem por titulo</ab>
+               <label>La conversazione ridicola o sia La fine degl impertinente.</label>
+               <ab>Depois se seguirá huma das melhores Farças que estão em Scena, e terminará todo o
+                  Espectaculo com huma grande Dança fabulosa, que se denomina <note>nova<!-- this has been added by Gell --></note></ab>
+               <label>Il Tempio della Morte,</label>
+               <ab>Na qual Lourenço Lacomba dançará hum grande Solo A referida Dança he composta
+                  pelo mesmo Beneficiado : elle se reputará assaz feliz se esta sua fraca producçao
+                  não desvanecer o conceito que este illustrado Público lhe tem patenteado pelo
+                  espaço de sinco annos, em que elle tem tido a honra de compôr para huma Nação, que
+                  tem por base animar aos que se expõe sobre a Scena.</ab>
+               <ab>O Theatro estará todo illuminado, e principiará ás 6 horas e meia.</ab>
+               <ab>Na Officina de Simão Thaddeo Ferreira. Com Licença.</ab>
+            </figure>
+         </div>
+         <div type="portugal">
+            <ab> </ab>
+         </div>
+         <div type="reading_notes">
+            <ab> </ab>
+         </div>
+      </body>
+
+      <back>
+         <div type="cover">
+            <note> </note>
+         </div>
+         <div type="index"> </div>
+      </back>
+   </text>
+
+</TEI>

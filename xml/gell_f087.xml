@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface xml:id="zone_Page_87">
+         <graphic url="https://iiif.bsr.ac.uk/iiif/2/GELL-VI%2Fwg_06_087.tif/full/full/0/default.jpg"/>
+         <zone points="2660,1414 2910,1153 3236,1735 3258,2649 2453,2681 2371,1267" xml:id="zone_Page_87_3d115e9a-3c95-4772-9f26-1eb483dc731c"/>
+      </surface>
+   </facsimile>
+   <text>
+      <front>
+         <div type="cover">
+            <note> </note>
+         </div>
+         <div type="inlet">
+            <head> </head>
+         </div>
+      </front>
+
+      <body>
+         <div type="spain">
+            <pb facs="#zone_Page_87" n="087"/>
+
+            <ab><rs type="place" ref="#genil">Xenil<note type="editorial_label">Genil</note></rs> runs
+               near the road <choice>
+                  <abbr>R.</abbr>
+                  <expan>right</expan>
+               </choice> At 15 p 9<note type="editorial">9.15</note> Venta de Pulgar<note
+                  type="editorial">Venta Del Pulgar [i.e. the country inn there]</note>, a decent
+               place – People very civil bill 46 reals or abt 11 shillings.</ab>
+            <ab><date when="1808-11-29">29 of Nov<hi rend="superscript">r</hi></date> a grey day
+               threatened but did not rain, in the evening ab<hi rend="superscript">t</hi>. sunset
+               the thermometer about temperate 55<hi rend="superscript">o</hi>. The <rs type="place" ref="#genil">Xenil</rs>
+               runs in a valley with rocky hills on sides &amp; a cultivated valley with olives.
+               something like entry of <rs type="place" ref="#llangollen">Llangollen</rs> but not so rich.</ab>
+            <ab><rs type="place" ref="#granada alhama">Alhama</rs> Saltworks.</ab>
+            <ab>The sierra de <rs type="place" ref="#granada alhama">Alhama</rs>
+               <choice>
+                  <abbr>L. In 1<hi rend="superscript">h</hi> 25<hi rend="superscript">m</hi></abbr>
+                  <expan>left in 1 hour 25 minutes</expan>
+               </choice> reach <rs type="place" ref="#loja">Loja</rs> having <choice>
+                  <abbr>x<hi rend="superscript">d</hi></abbr>
+                  <expan>crossed</expan>
+               </choice> a stream. a gate &amp; fount. Very turkish appearance, &amp; cypresses.
+               More of the town R of the river <rs type="place" ref="#genil">Xenil</rs>. Narrow streets still galleries on tops of
+               houses.</ab>
+            <ab>About a mile beyond <rs type="place" ref="#loja">Loja</rs> or <rs type="place" ref="#loja">Loxa</rs> the <rs type="place" ref="#genil">Xenil</rs> turns off R tow<hi rend="superscript"
+               >d</hi> <rs type="place" ref="#guadalquivir">Guadalquivir</rs> by a rocky pass with caves called <rs type="place" ref="#infiernos_loja">“Los infiernos de
+                  Loja”<note type="translation">The hells of Loja</note></rs>. Ascend then down to a
+               river running to <rs type="place" ref="#genil">Xenil</rs> in 2<hi rend="superscript">h</hi>. 20<hi rend="superscript"
+                  >m</hi>. Ascend steep hills. Greek thyme Geranion lavender squills &amp; cistus.
+                  5<hi rend="superscript">h</hi> 15<hi rend="superscript">m</hi> on a top prickly
+               oaks Belotes<note type="translation">bellotas: acorns</note>, the acorns very good
+               for men &amp; pigs men <sic>whith</sic> long poles to beat them down.</ab>
+
+
+            <note type="marginal" facs="xxx">BELOTES</note>
+            <note type="marginal" facs="xxx">In the <!-- illegible word because torn --> 130
+               water-mills. &amp; 300 pleasure houses. <rs type="person" ref="#masdeu">Masdew <note type="editorial">Juan Francisco
+                  Masdeu (1744-1817), <bibl>Storia critica di Spagne e della cultura spagnuola in
+                     ogni genere (1781-4)</bibl>; <bibl>Historia crítica de España y de la cultura
+                     española (1783–1805)</bibl>.</note></rs>.</note>
+            <note type="marginal" facs="xxx">Devastation of the country <rs type="person" ref="#pulgar">Pulgar</rs> says in <rs type="place" ref="#mala">Mala</rs> alone
+               the Spaniard destroyed &amp; burnt 300 towers &amp; houses &amp; in <rs type="place" ref="#alhendin">Alhendin</rs> a league
+               of olive gardens Panes &amp; vines. In <date when="1491">1491</date> near <rs type="place" ref="#padul">Padul</rs> 15 places &amp; 9 hamlets were
+                  burn’t.<note type="editorial">From <bibl>Hernando del Pulgar (1436-c.1492),
+                     Crónica de los Reyes Católicos (1545, and many later
+               editions)</bibl>.</note></note>
+            <note type="marginal" facs="xxx">Commerce between Moors &amp; China cause of the fine
+               vases &amp; tiles. Silk cotton wood leather. Velvet. silk worth its weight in gold,
+               cloth, glass. mining. Arabs traded to Qüantory &amp; had a factory &amp; Cadi<note
+                  type="editorial">i.e. qadi, a judge of Islamic law.</note>. Mines of gold &amp;
+               silver or rather washing sand, but copper lead iron marcasite &amp; zafilica<note
+                  type="editorial">'zafiro' would be sapphire</note>.</note>
+            <note type="marginal" facs="xxx">Musical instruments 31 in number but a doctor in a<hi
+                  rend="superscript">o</hi> <date when="1221">618<note type="editorial">AH 618</note></date> of Hejira called
+               <rs type="person" ref="#giafor">Ramaleddin Giafor</rs> proved from the Koran that music &amp; shews were improper among
+               the names of four who wrote treatises of music Avicena in the <rs type="place" ref="#library_escorial">library of
+               Escorial</rs></note>
+            <figure type="sketch" facs="#zone_Page_87_3d115e9a-3c95-4772-9f26-1eb483dc731c">
+               <note type="editorial_label">Pencil drawing with watercolour: man</note>
+               <label><rs type="person" ref="#aben_amar">Aben Amar</rs></label>
+            </figure>
+            <note type="marginal" facs="xxx">The fatimite Library contained <hi rend="underline">1000</hi> suppose 100000
+               M.S.S. in <rs type="place" ref="#cairo">Cairo</rs>. but the Omniades of <rs type="place" ref="#spain">Spain</rs> had 600,000 with a catalogue of 40 Vols.
+               The Arabs had 70 libraries in cities of <rs type="place" ref="#spain">Spain</rs> <rs type="person" ref="#ali_beker_mohamad">Ali Beker Mohamad</rs> says this
+                  <metamark>–</metamark>. A Female poet at <rs type="place" ref="#granada">Granada</rs> Naschina in the <date notBefore="0401" notAfter="0500">5<hi
+                  rend="superscript">th</hi></date> Hegira and Mosada in the <date notBefore="0501" notAfter="0600">6<hi rend="superscript"
+                  >th</hi> century</date> Moghia &amp; Leila 2 others. Some greek works only preserved by
+               their translations.<note type="editorial">This is similar to <rs type="person" ref="#brewster">David Brewster</rs> <bibl>(ed.),
+                  The Edinburgh Encyclopaedia, 18 vols (Edinburgh, 1830), vol. 18, p. 445,</bibl> and his
+                  main source, William Jacob, Travels in the South of Spain, in Letters Written A.D.
+                  1809 and 1810 (London, 1811), including the spelling of 'Omniades' (i.e. Ommiades,
+                  the Umayyads), but WG also has some extra detail so must be drawing on another
+                  text.</note></note>
+            <note type="marginal" facs="xxx"><rs type="person" ref="#azimuth">Zenith Nadir Azimuth</rs> &amp;c. arabic names.</note>
+
+
+
+         </div>
+         <div type="portugal">
+            <ab> </ab>
+         </div>
+         <div type="reading_notes">
+            <ab> </ab>
+         </div>
+      </body>
+
+      <back>
+         <div type="cover">
+            <note> </note>
+         </div>
+         <div type="index"> </div>
+      </back>
+   </text>
+
+</TEI>

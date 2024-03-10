@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface xml:id="zone_Page_96">
+         <graphic url="https://iiif.bsr.ac.uk/iiif/2/GELL-VI%2Fwg_06_096.tif/full/full/0/default.jpg"/>
+         <zone points="1039,1436 1719,1425 1784,2823 1055,2823" xml:id="zone_Page_96_bc140214-6ab0-48a5-b6a2-57a1b1fd4948"/> <!-- first man -->
+         <zone points="2350,1164 3030,1175 3002,2986 2263,3019" xml:id="zone_Page_96_23933da2-5572-41e5-b6f7-804f3ffc6e25"/> <!-- second man -->
+         <zone points="1844,3138 2578,3138 2556,4052 1610,4052" xml:id="zone_Page_96_6946dd00-1a81-44ac-966b-f10766e4a04b"/> <!-- woman -->
+      </surface>
+   </facsimile>
+   <text>
+      <front>
+         <div type="cover">
+            <note> </note>
+         </div>
+         <div type="inlet">
+            <head> </head>
+         </div>
+      </front>
+
+      <body>
+         <div type="spain">
+            <pb facs="#zone_Page_96" n="096"/>
+            <fw>101</fw>
+            <ab>besieged Gibraltar but died of the plague. Yusef made a lament<hi rend="superscript"
+                  >n</hi> for his enemy. Moors put on mourning. Moors besieged at Gibraltar attended
+               enemy’s funeral in respect. This all the way to Seville. Yusef in 1354 in mosque of
+               Alhambra a maniac from behind ran a dagger into side. The murderer cut in pieces
+               &amp; burnt to satisfy populace. Buried in a Tomb of white marble “Here lies a King
+               &amp; Martyr of an illustrious line gentle learned virtuous, renowned for the graces
+               of his person &amp; his manners, whose clemency piety &amp; benevolence were extolled
+               throughout the kingdom of Granada. He was a great prince, an illustrious Captain a
+               sharp sword of the moslems, a valiant standard bearer among the most potent monarchs
+               &amp;c &amp;c &amp;c. – Tomb no longer exists – This in Marmol.<note type="editorial"
+                  >This appears to be a summary of <bibl>Geoffrey Crayon [Washington Irving], The
+                  Alhambra, 2 vols (London, 1832), vol. 2, pp. 296-9 </bibl>- WG follows Irving's topics
+                  and word-choice closely and the quotation exactly, save for punctuation, but
+                  Irving does not cite Mármol. It might be possible that WG and Irving are both
+                  reading Mármol, but elsewhere WG certainly draws on Irving and the similarities
+                  are extremely close here.</note></ab>
+            <figure type="sketch" facs="#zone_Page_96_bc140214-6ab0-48a5-b6a2-57a1b1fd4948">
+               <note type="editorial_label">Pen and ink drawing with watercolour: man</note>
+            </figure>
+            <figure type="sketch" facs="#zone_Page_96_23933da2-5572-41e5-b6f7-804f3ffc6e25">
+               <note type="editorial_label">Pen and ink drawing with watercolour: man</note>
+               <label> o Joachim</label>
+            </figure>
+            <label>To <rs type="place" ref="#granada">Granada</rs> by <rs type="place" ref="#granada alhama">Alhama</rs>.</label>
+            <ab><rs type="place" ref="#malaga">Malaga</rs> to <rs type="place" ref="#velez_malaga">Velez Malaga</rs> on horseback 4 Hours. Turn Left into Mountains. <rs type="place" ref="#velez">Velez</rs> to
+               <rs type="place" ref="#granada alhama">Alhama</rs> 7 Hours. <rs type="place" ref="#granada alhama">Alhama</rs> to <rs type="place" ref="#granada">Granada</rs> 7H seeing in way the baths.</ab>
+            <ab><rs type="place" ref="#granada">Granada</rs> to <rs type="place" ref="#jaen">Jaen</rs> by the direct road thro a pass. Quit <rs type="place" ref="#granada">Granada</rs> at 5H. leaving the Vega<note type="translation">Fertile Plain</note>
+               a Village at 9 where stop 45 minutes. At 4 p M<note type="editorial">4pm</note> a Village in <choice><abbr>M<hi rend="superscript">ts</hi></abbr><expan>Mountains</expan></choice>. Next day set out at
+               5 <rs type="place" ref="#jaen">Jaen</rs> at 1.</ab>
+            <figure type="sketch" facs="#zone_Page_96_6946dd00-1a81-44ac-966b-f10766e4a04b">
+               <note type="editorial_label">Pen and ink drawing: woman</note>
+               <label>An old woman of <rs type="place" ref="#malaga">Malaga</rs></label>
+            </figure>
+
+         </div>
+         <div type="portugal">
+            <ab> </ab>
+         </div>
+         <div type="reading_notes">
+            <ab> </ab>
+         </div>
+      </body>
+
+      <back>
+         <div type="cover">
+            <note> </note>
+         </div>
+         <div type="index"> </div>
+      </back>
+   </text>
+
+</TEI>

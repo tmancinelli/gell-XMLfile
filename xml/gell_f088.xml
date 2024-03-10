@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface xml:id="zone_Page_88">
+         <graphic url="https://iiif.bsr.ac.uk/iiif/2/GELL-VI%2Fwg_06_088.tif/full/full/0/default.jpg"/>
+         <zone points="92,97 3476,108 3427,968 108,984" xml:id="zone_Page_88_5bbc6e22-ca02-4e44-82de-dc97bbe31ced"/> <!-- ploughing -->
+         <zone points="1555,1555 1544,1686 1822,1697 1816,1534" xml:id="zone_Page_88_426fe9ee-2706-4fd4-afd3-dfc526f3df05"/> <!-- hill -->
+         <zone points="179,3242 2214,3340 2486,3759 2692,4080 163,4052" xml:id="zone_Page_88_5b607831-d8aa-4c21-8db9-44706da46a3c"/> <!-- townscape -->
+         <zone points="2257,3253 2730,3242 2730,3416 2252,3421" xml:id="zone_Page_88_40c448eb-5226-4550-9e1e-47ceca304b73"/> <!-- arch? -->
+      </surface>
+   </facsimile>
+   <text>
+      <front>
+         <div type="cover">
+            <note> </note>
+         </div>
+         <div type="inlet">
+            <head> </head>
+         </div>
+      </front>
+
+      <body>
+         <div type="spain">
+            <pb facs="#zone_Page_88" n="088"/>
+            <fw>109</fw>
+            <figure facs="#zone_Page_88_5bbc6e22-ca02-4e44-82de-dc97bbe31ced">
+               <note type="editorial_label">Pen and ink drawing: ploughing</note>
+               <label>9 Peasants Ploughing each taking a different furrow</label>
+            </figure>
+
+            <ab>a great deal of ploughed country. 9 couple of oxen &amp; 9 men with ploughs in one
+               field. People all travel armed in this country. the top of the Sierra at <choice>
+                  <abbr>30 p 6 or 6<hi rend="sueprscript">h</hi> &amp; 30<hi rend="sueprscript"
+                        >min</hi></abbr>
+                  <expan>6.30</expan>
+               </choice> see the <figure type="in_text" facs="#zone_Page_88_426fe9ee-2706-4fd4-afd3-dfc526f3df05">
+                  <note type="editorial_label">[drawing: hill]</note>
+               </figure> hill near <rs type="place" ref="#loja">Loja</rs> but <choice>
+                  <abbr>R</abbr>
+                  <expan>right</expan>
+               </choice> of the <rs type="place" ref="#genil">Xenil<note type="editorial">Genil</note></rs> remarkable from <rs type="place" ref="#granada">Granada</rs>
+               backwards &amp; a very fine Rock near Antequera more remarkable than the
+               Acrocinuttros forward <rs type="place" ref="#pena_enamorados">peña de los enamorados<note type="translation">Lovers'
+                  Rock</note></rs>. descend steep hill always trees, whole country prettily spotted with
+               prickly oak. <choice>
+                  <abbr>7<hi rend="superscript">h</hi> all but 15<hi rend="sueprscript"
+                     >m</hi></abbr>
+                  <expan>7 hours all but 15 minutes</expan>
+               </choice> a venta<note type="translation">country inn</note>. Aloe hedges. In 7<hi
+                  rend="superscript">h</hi> reach the Venta de Archidone<note type="translation"
+                  >Country inn at Archidona</note> a clean place. Vide<note type="translation"
+                  >See</note> View 2 leaves back. No Spaniard knows anything about the small inns on
+               the road.</ab>
+            <!-- last sentence in pencil -->
+            <figure facs="#zone_Page_88_5b607831-d8aa-4c21-8db9-44706da46a3c">
+               <note type="editorial_label">Pen and ink drawing: townscape</note>
+            </figure>
+
+
+            <note type="marginal" facs="xxx">The royal fortress of <rs type="place" ref="#alhambra">Alhambra</rs> 2690 castille feet long
+               630 wide the wall 2 varas thick about 10 &amp; ½ high. 2 great gates &amp; one less
+               &amp; communicatd with <rs type="place" ref="#generalife">Generaliph<note type="editorial">Generalife</note></rs>. Tapiale of
+                  chinarro<note type="translation">Mud wall of large pebbles</note> &amp; Earth of
+               the place &amp; a very little lime. different durability.</note>
+            <note type="marginal" facs="xxx">The <rs type="place" ref="#alhambra">Alhambra</rs> begun by <rs type="person" ref="#mahmet_naserita">Mahmet abu Abdallah Benjusuph Ben
+               Ahmed <hi rend="underline">Naserita</hi></rs> (a family name) or Elgaleb Billah or
+               Vencedor por dios<note type="translation">Victor through God</note>. died <date when="1273">1273</date>.
+               <rs type="person" ref="#medinat_alhamra">Medinat Alhamra</rs> or the red city – the 3<hi rend="superscript">d</hi> king of the
+               <rs type="person" ref="#nasrids">Naseritas<note type="editorial">Nasrids</note> Muhamed Abu Abdallah</rs> built a mosque
+               all painted with mosaic with columns with bases &amp; capitals of silver.</note>
+            <metamark/>
+            <note type="marginal" facs="xxx">The gate of judgem<hi rend="superscript">t</hi> between
+               2 towns 24 varas high &amp; ½ each 6 varas broad altogether 18 varas. the arch 11
+               varas &amp; ½ high from ground on the key stone the arm &amp; hand.. the <figure
+                  type="in_text" facs="#zone_Page_88_40c448eb-5226-4550-9e1e-47ceca304b73">
+                  <note type="editorial_label">[drawing: arch?]</note>
+                  <note type="editorial">Drawing shows arch is 6 varas high</note>
+               </figure> arch is 3 varas ½ broad. marble of Machael<note type="editorial"
+                  >Macael</note>. Praised be god there is no God but god &amp; Mahmet his prophet
+               &amp; there is no strength but gods. an inscript Arabic says <sic>Abud</sic> <rs type="person" ref="#hagex_yusuph">Hagex
+                  Yusuph</rs> son of King <rs type="person" ref="#abulgualid_nacer">Abulgualid aben Nacer</rs> <date when="1349-04">April 1349</date>.</note>
+            <note type="marginal" facs="xxx">Vide Vara measure in page of the Scold<note
+                  type="editorail">i.e. See measurement of Spanish vara, perhaps on a page that
+                  includes a drawing of a woman. WG's measurement is on pag 190 (his p. 13), which
+                  is otherwise blank.</note></note>
+
+
+
+         </div>
+         <div type="portugal">
+            <ab> </ab>
+         </div>
+         <div type="reading_notes">
+            <ab> </ab>
+         </div>
+      </body>
+
+      <back>
+         <div type="cover">
+            <note> </note>
+         </div>
+         <div type="index"> </div>
+      </back>
+   </text>
+
+</TEI>
