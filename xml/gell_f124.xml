@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   
+   <facsimile>
+      <surface xml:id="zone_Page_124">
+         <graphic url="https://iiif.bsr.ac.uk/iiif/2/GELL-VI%2Fwg_06_124.tif/full/full/0/default.jpg"/>
+         <zone points="114,3100 1066,3089 1452,2888 2078,3079 2475,3351 2551,4270 125,4248" xml:id="zone_Page_124_f047220a-0373-46c8-860c-6db18ddc445d"/> <!-- view of Algiers -->
+         <zone points="2224,680 2817,353 3530,658 3530,1425 2121,1447 2050,1011" xml:id="zone_Page_124_729650f1-7387-4d0d-8b3a-9d834d8756c3"/> <!-- view of Tunis -->
+      </surface>
+   </facsimile>
+   
+  <text>
+     <front>
+        <div type="cover">
+           <note></note>
+        </div>
+        <div type="inlet">
+           <head></head>
+        </div>
+     </front>
+     
+     <body>
+        <div type="spain">
+           <pb facs="#zone_Page_124" n="124"/>
+           <fw>87</fw>
+           
+           <ab><rs type="place" ref="#alhambra">ALHAMBRA</rs> <rs type="place" ref="#granada">GRANADA</rs>
+              The House of the Alcayde<note type="translation">Governor (alcaide)</note> spoiled by repairs. 
+              in it the royal chapel was the royal mosque 
+              There is a mirador<note type="translation">balcony/oriel</note> overlooking the carrera de <rs type="place" ref="#darro">Darro</rs><note type="translation">course of the <rs type="place" ref="#darro">Darro</rs></note>. 
+              Mahomet 3d called also Abu Abdalla built the mosque 
+              the chapel 21 &amp; ½ varas 9 &amp; ½ wide in the mosque a 
+              few plaisters or stucco of Solo Dios es vencedor<note type="translation">Only God is the victor</note> remain, 
+              The columns are all arabic. The niche for the Coran 
+              remains
+              A building alaparte oriental del Real Alcazar 
+              called Palacio del principe<note type="translation">on the eastern part of the Royal Fortress called prince's Palace</note> destined by <rs type="person" ref="#mahomed_ben_juseph">Mahomed ben Juseph</rs> 
+               to <rs type="person" ref="#ismael">Ismael</rs> his brother or because the 
+              prince of Asturias lodged in it when the <choice><abbr>R</abbr><expan>royal</expan></choice> family 
+              came last to <rs type="place" ref="#granada">Granada</rs>. There is a hall 21 varas 
+              broad &amp; 20 long. &amp; in it inscrip Solo dios es vencedor<note type="translation">Only God is the victor</note>. 
+              cupolas &amp; hanging niches very rich in roof. In the 
+              next room an inscrip “Al mismo Dios.”<note type="translation">To God himself / To the same God</note> This hall 
+              5 varas square 10 &amp; ½ Varas high. 15 windows in it 
+              on <choice><abbr>E</abbr><expan>east</expan></choice> <choice><abbr>W</abbr><expan>west</expan></choice> &amp; North. &amp; “And the beauty thou hast emanates 
+              from God.” There is a mirador<note type="translation">balcony/oriel</note> in this edifice which 
+              is very highly ornamented &amp; supposed a Mirab<note type="editorial_note">mihrab, a niche indicating the direction of Mecca.</note>. 
+              At the <choice><abbr>E</abbr><expan>east</expan></choice> of this Palacio del principe<note type="translation">prince's Palace</note> a mosque 
+              5 varas long 5 &amp; ½ wide. 7 &amp; ¼ high. “Solo dios”<note type="translation">Only God</note> in it 
+              now a Cinta (belt) makers houses “God is our help 
+              in all affliction.” – “Give Glory to God &amp; consequently 
+              give thanks to God himself (or the same).
+              On the Right of the calle Real<note type="editorial_note">Royal street (at the Alhambra)</note> says Padre Echeverria<note type="editoral_note">Echeverría, Paseos por Granada</note> 
+              is the Cadis<note type="editorial_note">the house of the qadi, the judge of Islamic law</note> house.</ab>
+              
+           <figure facs="#zone_Page_124_f047220a-0373-46c8-860c-6db18ddc445d">
+                 <note type="editorial_lavel">Pen and ink drawing: view of <rs type="place" ref="#algiers">Algiers</rs></note>
+                 <label><rs type="place" ref="#algiers">Algiers</rs></label>
+              </figure>
+           
+           <note type="marginal">
+              <figure facs="#zone_Page_124_729650f1-7387-4d0d-8b3a-9d834d8756c3" type="sketch">
+                 <note type="editorial_note">Pen and ink drawing: view of <rs type="place" ref="#tunis">Tunis</rs></note>
+                 <label>at <rs type="place" ref="#tunis">Tunis</rs></label>
+              </figure>
+              
+              <bibl>Variously copied or closely paraphrased from review of Francisco de Porras Huidobro, Disertacion historica sobre los Archivos de Espana y su antiguedad, con algunas reglas para su coordinacion (Madrid, 1830), including translations from Ibn Hayan, in Westminster Review, XLII (Oct 1834), pp. 196-7. It is always possible WG was using a copy of the review from a different journal.
+                 
+                 '170 years after Hegira': AH 170, by the Islamic calendar
+                 'Ommiades': Umayyads
+                 'Abbassides': Abbasids
+                 'Berebers': Berbers</bibl>
+              
+              170 years after Hegira was Abd ar 
+              Rahman ben Moaire, ben Hashim Al 
+              Adaghel or the intruder, last of the Ommiades 
+              – He escaped from the Abbassides &amp; 
+              with some Berebers seized <rs type="place" ref="#spain">Spain</rs>. 
+              Hashim 1 was his Son – Next Al Hakem 1 
+              Abd ar Rahman 2, Mohammed 1, 
+              Al Mondher, Abd Ali, Abd ar Rahman 3. 
+              These reigned 279 years Ommiades. 
+              Hashim &amp; his Hajib or Minister Al 
+              Mansour, rivals of Haroum ar Rashid 
+              &amp; his Vizir Khaled ben Barmek.
+              
+              il’ Allah <note type="arabic">لا إله<note type="translation">No God</note></note> <note type="editorial_note">Pertaining to 'Solo dios' in left-hand text [not from Westminster Review]. Part of ا إله إلا الله No God but Allah</note>
+            
+              
+              Fatima – Lubna – Ayesha. 
+              Mariam learned Moorish Ladies 
+              Ayesha was beautiful like the 
+              rising moon – fine &amp; slender like a 
+              young aloe bending its head to the 
+              southern breeze. if she ran she 
+              looked like an antelope disappointing 
+              the sportsman by her rapid 
+              flight, &amp; if occupied by study or 
+              meditation her eyes resembled the 
+              soft &amp; melting eyes of the Gazelle 
+              looking from the top of a rock on 
+              the burning sands of the desert.
+              Ibn Hayan.
+           </note>
+
+        </div>
+     </body>
+
+  </text>
+</TEI>

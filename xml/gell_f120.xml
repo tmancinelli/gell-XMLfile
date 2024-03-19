@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   
+   <facsimile>
+      <surface xml:id="zone_Page_120">
+         <graphic url="https://iiif.bsr.ac.uk/iiif/2/GELL-VI%2Fwg_06_120.tif/full/full/0/default.jpg"/>
+         <zone points="1207,179 3519,168 3525,1185 2110,1191 2050,941 293,973" xml:id="zone_Page_120_186e6958-6191-4bcd-af35-7a99a2b2c8af"/>
+      </surface>
+   </facsimile>
+   
+  <text>
+     <front>
+        <div type="cover">
+           <note></note>
+        </div>
+        <div type="inlet">
+           <head></head>
+        </div>
+     </front>
+     
+     <body>
+        <div type="spain">
+           <pb facs="#zone_Page_120" n="120"/>
+           <fw>81</fw>
+           
+           <ab>T. della Vela <note type="editorial_note">Torre de la Vela (Watch Tower)</note></ab>
+           <figure facs="#zone_Page_120_186e6958-6191-4bcd-af35-7a99a2b2c8af">
+              <note type="editorial_note">Pen and ink drawing: townscape</note>
+              <label>Torre de los siete suelos<note type="translation">Tower of the Seven Floors</note> gate here</label>
+           </figure>
+           
+           <ab> <!-- pencil -->
+              <rs type="place" ref="#tangiers">Tangiers</rs> is said to have 2,000 inhabitants 
+              about 50 christians 500 jews the rest 
+              Moors – The streets dirty &amp; full of 
+              stones. The shops little square places 
+              a cube of 6 feet flat at top as are 
+              the houses. The jews industrious &amp; 
+              make slippers, sell morocco leather 
+              chiefly red &amp; yellow &amp; very fine. 
+              The sheep very fine cost from 
+              about 2 to 4 dollars. Oxen about 
+              25 <choice><abbr>do</abbr><expan>dollars</expan></choice>. Provision cheap. About 80 
+              french in the town with a consul 
+              only 50 french allowed to reside there 
+              More horses seen in <rs type="place" ref="#tangiers">Tangiers</rs> in two 
+              hours than we had seen in all <rs type="place" ref="#spain">Spain</rs> 
+              together. A tolerable one costs about 
+              20 dollars – The people generally wear 
+              a white mantle of woollen or cotton 
+              few have the turkish coloured dresses 
+              &amp; those use them for foreign countries.
+           </ab>
+           
+           <note type="marginal">
+              <bibl><rs type="person" ref="#amirola">Llaguno y Amírola</rs>, Noticias, vol. 1, pp. xxvi-xxviii, translating or paraphrasing in exact order.</bibl>
+              
+              <rs type="person" ref="#adelazri">Heschamo Ben Adelazri</rs> restored the walls of 
+              <rs type="place" ref="#ubeda">Ubeda</rs> in <date>886</date>. &amp; Lebi Ben Obaidallah built 
+              several public works in the <rs type="place" ref="#cazlona">Montes de Cazlona<note type="translation">Mountains of Cazlona</note></rs>.
+              <note type="editorial_note"><rs type="person" ref="#amirola">Llaguno y Amírola</rs> actually says he restored Ubeda and surrounded it with strong walls.</note>
+              In <date>1238</date> <rs type="place" ref="#valencia">Valencia</rs> conquered &amp; Mosque destroyed.
+              A Miramolin Son of Mahomad built walls &amp; castle 
+              of <rs type="place" ref="#talavera_reina">Talavera de la Reina</rs>.
+              Bridge of <rs type="place" ref="#toledo">Toledo</rs> Mahomad Elimen called 
+              of Alcantara. Kg Alonzo el Sabio<note type="translation">the Wise</note> restored 
+              it &amp; Phuto Ben Abraham built 2 mosques.
+              Jucef Abu Jacub built in <date>1171</date> the great 
+              mezquita<note type="translation">mosque</note> at <rs type="place" ref="#servilla">Sevilla</rs>. walls on <choice><abbr>N</abbr><expan>Nord</expan></choice> en el patio 
+              de los Naranjos<note type="translation">north in the court of the Orange Trees</note> are his. Aqueduct from 
+              Alcalá de Guadaira to <rs type="place" ref="#servilla">Seville</rs>. made 
+              bridge of Boats over <rs type="place" ref="#guadalquivir">Guadalquivir</rs>.
+              His successor Almanzor jacob finished the Alhama &amp; the Tower Giralda, begun 
+              in <date>1000</date>. Then Architect Gever or Hever 
+              A Sicilian Abu Alayth placed on it 
+              unas manzanas<note type="translation">some apples</note> of gilt bronze 
+              of great diameter, value 100 mil doblas 
+              de oro<note type="translation">100,000 gold coins</note>.
+              He built Hasnal Faragh on river 
+              now <rs type="place" ref="#alfarache">S. Juan de Alfarache<note type="translation">San Juan de Aznalfarache</note></rs> with towers 
+              &amp; walls.
+              Many other things at <rs type="place" ref="#servilla">Seville</rs> the Torre 
+              de Oro<note type="translation">Golden Tower</note> on river. el alcazar<note type="translation">the fortess</note> which 
+              Don Pedro afterwards rebuilt by 
+              Arab architects. Also various 
+              houses for his heroes some of which 
+              have left no traces.
+              At <rs type="place" ref="#zaragosa">Zaragosa</rs> a mosque burnt in <date>1050</date>.
+              Palace of Salobreña with hanging gardens.
+              Walls of Jaen, Baza &amp; Guadix restored by 
+              Suario Ben Hauduin in <date>898</date>.
+              Vide page following on back<note type="translation">See WG's page 89; taccuino 6 pag 122.</note>
+           </note>
+           
+        </div>
+     </body>
+
+  </text>
+</TEI>

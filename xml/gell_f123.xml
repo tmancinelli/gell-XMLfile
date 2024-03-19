@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   
+   <facsimile>
+      <surface xml:id="zone_Page_123">
+         <graphic url="https://iiif.bsr.ac.uk/iiif/2/GELL-VI%2Fwg_06_123.tif/full/full/0/default.jpg"/>
+         <zone points="43,2611 2747,2627 2747,1202 1224,1191 875,1729 76,2203" xml:id="zone_Page_123_03cfec92-e386-4cbc-bad3-63941b4bfb3b"/>
+      </surface>
+   </facsimile>
+   
+  <text>
+     <front>
+        <div type="cover">
+           <note></note>
+        </div>
+        <div type="inlet">
+           <head></head>
+        </div>
+     </front>
+     
+     <body>
+        <div type="spain">
+           <pb facs="#zone_Page_123" n="123"/>
+           
+           <ab>Ao Dom<note type="translation">AD</note> <date>1809</date>
+              bad repair. Hence nine hours 
+              in good weather to <rs type="place" ref="#tetuan">Tetuan</rs> – <!-- pencil -->
+              Aman of Xeriff who talked Spanish had 
+              an astonishing number of children – <!-- pen -->
+           </ab>
+           
+           <cb/> 
+           <ab>El sobriño<note type="translation">The nephew</note> <rs type="person" ref="#abu_abdallah">Abu Abdallah</rs> or Abu Abdihelsi was 
+              of same name as his Uncle. Therefore the Uncle 
+              was called El Zagal or Valiant &amp; the Nephew 
+              El Zogoybi or unfortunate</ab>
+           
+           <figure facs="#zone_Page_123_03cfec92-e386-4cbc-bad3-63941b4bfb3b">
+              <note type="editorial_note">Pen and ink drawing: gate</note>
+              <label>Puerta de Elvira<note type="translation">Elvira Gate</note> <rs type="place" ref="#granada">Granada</rs>.</label>
+              <label>END OF TOUR IN <rs type="place" ref="#spain">SPAIN</rs> <date>1809</date></label>
+           </figure>
+           
+           <ab>
+              A Spanish romance begins thus
+              “En tiempo que el Rey Theseo
+              “Residia en Badajoz
+              Y quando Maricastaña
+              Allà en Castilla reynò.
+              Quando hablavan las bestiasiii. &amp;c &amp;c.
+              <note type="translation">In the time when King Theseus resided in Badajoz and when Maricastaña reigned there in Castile. When beasts spoke [hablaban]. &amp;c &amp;c.
+                 ['In the times of Maricastaña' being a Spanish phrase for long ago.]</note>
+              <bibl>Spanish version appears exactly the same, other than punctuation, in Georges-Bernard Depping, Sammlung der besten alten Spanischen Historischen, Ritter- und Maurischen Romanzen (Altenburg and Leipzig, 1817), p. 437: 'Jupiters und Danae's Liebschaft'. This may be a coincidence, but WG certainly read German.</bibl>
+           </ab>
+           
+           <cb/>
+           <ab>
+              Against the inner arch of this 
+              gate the Moor broke his lance on 
+              going out with the King. 
+              A fatal omen.. At the last siege 
+              Muza walled up this &amp; other 
+              Gates.
+              The ballad says the Gates were of 
+              Brass
+           </ab>
+
+        </div>
+     </body>
+
+  </text>
+</TEI>

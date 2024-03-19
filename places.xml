@@ -828,6 +828,7 @@
    </place>
    <place xml:id="servilla﻿">
       <placeName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q8717">Sevilla</placeName>
+      <placeName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q8717">Seville</placeName>
       <settlement type="country">Spain</settlement>
    </place>
    <place xml:id="alcaudete">
@@ -1072,6 +1073,7 @@
    </place>  
    <place xml:id="cadiz">
       <placeName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q15682">Cádiz</placeName>
+      <placeName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q15682">Cadiz</placeName>
       <settlement type="country">Spain</settlement>
    </place> 
 
@@ -1211,6 +1213,130 @@
    <place xml:id="darro">
       <placeName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q1166701">Darro</placeName>
       <settlement type="country">Spain</settlement>
+   </place>
+   <place xml:id="st_catalina">
+      <placeName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q9073995">St Catalina</placeName>
+      <settlement type="country">Spain</settlement>
+   </place>
+   <place xml:id="castel_gordo">
+      <placeName xml:lang="en" sameAs="xx">Castel Gordo</placeName>
+      <settlement type="country">Spain</settlement>
+   </place>
+   <place xml:id="cerro_san_cristobal">
+      <placeName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q97604864">CERRO DE ST CHRISTOVALLE</placeName>
+      <settlement type="country">Spain</settlement>
+   </place>
+   <place xml:id="puerto_santa_maria">
+      <placeName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q203040">Puerta Sta Maria</placeName>
+      <settlement type="country">Spain</settlement>
+   </place>
+   <place xml:id="cazlona">
+      <placeName xml:lang="en" sameAs="xx">Montes de Cazlona</placeName>
+      <settlement type="country">Spain</settlement>
+   </place>
+   <place xml:id="talavera_reina">
+      <placeName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q181359">Talavera de la Reina</placeName>
+      <settlement type="country">Spain</settlement>
+   </place>
+   <place xml:id="alfarache">
+      <placeName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q1611693">S. Juan de Alfarache</placeName>
+      <settlement type="country">Spain</settlement>
+   </place>
+   <place xml:id="zaragosa">
+      <placeName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q31926034">Zaragosa</placeName>
+      <settlement type="country">Spain</settlement>
+   </place>
+   <place xml:id="tangiers">
+      <placeName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q126148">Tangiers</placeName>
+      <settlement type="country">Spain</settlement>
+   </place>
+   <place xml:id="portugal">
+      <placeName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q45">Portugal</placeName>
+      <settlement type="country">Portugal</settlement>
+   </place>
+   <place xml:id="america">
+      <placeName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q828">America</placeName>
+      <settlement type="country">United States of America</settlement>
+   </place>
+   <place xml:id="tetuan">
+      <placeName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q1773540">Tetuan</placeName>
+      <settlement type="country">Spain</settlement>
+   </place>
+   <place xml:id="algiers">
+      <placeName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q3561">Algiers</placeName>
+      <settlement type="country">Algeria</settlement>
+   </place>
+   <place xml:id="tunis">
+      <placeName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q3572">Tunis</placeName>
+      <settlement type="country">Tunisia</settlement>
+   </place>
+   <place xml:id="ecija">
+      <placeName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q273413">Ecija</placeName>
+      <settlement type="country">Spain</settlement>
+   </place>
+   <place xml:id="la_zubia">
+      <placeName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q619692">Azubïa</placeName>
+      <settlement type="country">Spain</settlement>
+   </place>
+   <place xml:id="lisbon">
+      <placeName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q597">LISBON</placeName>
+      <placeName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q597">Lisbon</placeName> 
+      <settlement type="country">Portugal</settlement>
+   </place>
+   <place xml:id="cawsand_bay">
+      <placeName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q5055228">Causand</placeName>
+      <settlement type="country">United Kingdom</settlement>
+   </place>
+   <place xml:id="ushant">
+      <placeName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q202378">Ushant</placeName>
+      <settlement type="country">France</settlement>
+   </place>
+   <place xml:id="cape_finisterre">
+      <placeName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q1136198">Cape Finisterre</placeName>
+      <settlement type="country">Spain</settlement>
+   </place>
+   <place xml:id="mondego">
+      <placeName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q15656">Mondego</placeName>
+      <settlement type="country">Portugal</settlement>
+   </place>
+   <place xml:id="berlengas">
+      <placeName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q821015">Berlengas</placeName>
+      <settlement type="country">Portugal</settlement>
+   </place>
+   <place xml:id="mafra">
+      <placeName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q986419">Mafra</placeName>
+      <settlement type="country">Portugal</settlement>
+   </place>
+   <place xml:id="cascais">
+      <placeName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q273059">Cascayes</placeName>
+      <settlement type="country">Portugal</settlement>
+   </place>
+   <place xml:id="trafaria">
+      <placeName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q1767492">Tariffa</placeName>
+      <settlement type="country">Portugal</settlement>
+   </place>
+   <place xml:id="castle_st_julians">
+      <placeName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q10284030">Castle of St Julians</placeName>
+      <placeName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q10284030">Fort of São Julião da Barra</placeName>
+      <placeName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q10284030">ST JULIANS</placeName>
+      <settlement type="country">Portugal</settlement>
+   </place>
+   <place xml:id="belem">
+      <placeName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q18500330">Belém</placeName>
+      <placeName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q18500330">BELEM</placeName>
+      <settlement type="country">Portugal</settlement>
+   </place>
+   <place xml:id="almada">
+      <placeName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q328015">almāda</placeName>
+      <settlement type="country">Portugal</settlement>
+   </place>
+   <place xml:id="buenos_ayres">
+      <placeName xml:lang="en" sameAs="xx">Buenos ayres</placeName>
+      <settlement type="country">Portugal</settlement>
+   </place>
+   <place xml:id="atlantic">
+      <placeName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q97">Atlantic</placeName>
+      <settlement type="ocean">Atlantic</settlement>
    </place>
 
 </listPlace>

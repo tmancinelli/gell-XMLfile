@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   
+   <facsimile>
+      <surface xml:id="zone_Page_128">
+         <graphic url="https://iiif.bsr.ac.uk/iiif/2/GELL-VI%2Fwg_06_128.tif/full/full/0/default.jpg"/>
+         <zone points="380,1381 538,1376 544,1474 380,1485" xml:id="zone_Page_128_c733a039-44b5-4881-b660-58e722a18493"/> <!-- lines -->
+         <zone points="843,2915 3122,2904 3117,2627 2415,2388 2377,1659 1795,1153 1289,1501" xml:id="zone_Page_128_0e59e247-55c2-470f-87ad-9d2001c1b599"/> <!-- temple -->
+      </surface>
+   </facsimile>
+   
+   
+  <text>
+     <front>
+        <div type="cover">
+           <note></note>
+        </div>
+        <div type="inlet">
+           <head></head>
+        </div>
+     </front>
+        
+        <body>
+           <div type="spain">
+              <pb facs="#zone_Page_128" n="128"/>
+              <fw>77</fw>
+              
+              <ab><rs type="place" ref="#ecija">Ecija</rs> on <rs type="place" ref="#genil">Xenil<note type="translation">Genil</note></rs> above confluence with <rs type="place" ref="#guadalquivir">Guadalquivir</rs>. Hottest place in <rs type="place" ref="#spain">Spain</rs>. Moorish blood. Azulejos, 
+                 Cortijos = farm houses. Jose Maria famous Robber who always hand picked horses – captures.</ab>
+              
+              <ab>Cosario the Carrier of <rs type="place" ref="#antequera">Antequera</rs>. Galeras covered waggons. The majo or fancy national costume. 
+                 Western side of <rs type="place" ref="#granada">Granada</rs> is Xenil. The Monachil Monachil joins it. Above Monachil nearest road to 
+                 <rs type="place" ref="#sierra_nevada">Sierra Nevada</rs>. After quitting gorge Monachil sweeps through a flat in front of Village <rs type="place" ref="#la_zubia">Azubïa<note type="translation">La Zubia</note></rs> the 
+                 sort of Frascati of Granadines<note type="translation">people from Granada</note>. The place beseiged from <rs type="place" ref="#la_zubia">Azubia</rs>, West of which all is a dreary waste – 
+                 On East near gate of Elvira is the circus &amp; the paradise of Cartuxa<note type="translation">Cartuja, a Carthusian monastery</note>. It gives 2000£ per annum. 
+                 Above Cartuxa reach Viznar country seat of Archbishop. Viznar several hamlets well seated. 
+                 The Vega<note type="translation">Fertile Plain</note> a poor soil except from irrigation. sandy loam running into clay. Macael for white marble. 
+                 Fine people, upright but not stiff. arms set back &amp; very graceful. Eyes sunk in large sockets. 
+                 Aquiline nose regularly curved. fine teeth. Greatest part of City Carrera del Darro Zacatin &amp; Puerta de 
+                 Elvira<note type="translation">Carrera del Darro [walk along the Darro], Zacatín and Elvira Gate</note>. Xenil always large. Darro much covered. Theatre near Carrero del torro<note type="translation">carrera del toro (the bull run)</note></ab>
+              
+              <ab>Zacatin <figure facs="#zone_Page_128_c733a039-44b5-4881-b660-58e722a18493" type="sketch"><note type="editorial_note">[drawing: lines]</note></figure> with Darro a bazaar from the Bivarrambla<note type="translation">Plaza de Bib-Rambla or Bibarrambla</note> to the Plaza Nueva. 
+                 Whence to <choice><abbr>R</abbr><expan>right</expan></choice> is the Calle de los Gomeles towd <rs type="place" ref="#alhambra">Alhambra</rs> &amp; to left the 
+                 Calle de Elvira. The Cathedral on site of mosque &amp; in it many pictures. 
+                 Tomb of an Archbishop of marble of Macael same as las dos Hermanas<note type="translation">la Sala de las Dos Hermanas (the Hall of the Two Sisters) in the Alhambra</note> marble 
+                 In the quarry are now blocks 12 ft Square At + of Geronymites<note type="translation">church of Hieronymites: the Real Monasterio de San Jerónimo (Royal Monastery of St Jerome).</note> is buried the 
+                 great Gonzaloo de Cordova.</ab>
+              
+              <ab>Most of the Flecks in walls are by lightening French spoilt pavement of Macael marble 
+                 in first court, &amp; blew up <rs type="person" ref="#muhammad_xii_of_granada">Re Chicos<note type="editorial_note">Muhammad XII of Granada, nicknamed Boabdil or 'El Rey Chico' (the Boy King) by the Christians.</note></rs> tower.</ab>
+              
+              <ab>Above Alhama Sierra de Tejada, ĪLLŎRĂ, ALŌRA<note type="translation">Íllora, Álora</note>. Alhendin.</ab>
+              
+              <ab>Cadiar Along.</ab>
+              
+              <figure facs="#zone_Page_128_0e59e247-55c2-470f-87ad-9d2001c1b599"> <!-- the image is also in the middle of the text -->
+                 <note type="editorial_note">Pen and ink drawing: temple</note>
+                 <label>TEMPLE AT MT EDGECUMBE</label>
+              </figure>
+              
+              <ab>Larch? none now in <rs type="place" ref="#spain">Spain</rs></ab>
+              <ab>What is the wood called Alerce<note type="translation">larch</note> by old writers? A Moor of <rs type="place" ref="#servilla">Sevilla</rs> in 12 century says 
+                 enough to shew that the Moors knew all sorts of tricks with trees. He does not mention the Alerce. 
+                 The Mosque at <rs type="place" ref="#cordova">Cordova</rs> roofed with it &amp; some yet remains, Gutters of cast lead for Moors knew not rolling. 
+                 Thuya articulata<note type="translation">Tetraclinis or Thuja articulata, of the cypress family</note> is the alerce &amp; it grows in Barbary.
+              </ab>
+              
+           </div>
+        </body>
+  </text>
+</TEI>

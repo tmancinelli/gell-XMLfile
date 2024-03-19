@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   
+   <facsimile>
+      <surface xml:id="zone_Page_118">
+         <graphic url="https://iiif.bsr.ac.uk/iiif/2/GELL-VI%2Fwg_06_118.tif/full/full/0/default.jpg"/>
+         <zone points="631,179 2981,206 2981,837 625,843" xml:id="zone_Page_118_699a77e1-88cb-43fa-b207-f767e6479f70"/>
+      </surface>
+   </facsimile>
+   
+  <text>
+     <front>
+        <div type="cover">
+           <note></note>
+        </div>
+        <div type="inlet">
+           <head></head>
+        </div>
+     </front>
+     
+      <body>
+         <div type="spain">
+            <pb facs="#zone_Page_118" n="118"/>
+            <fw>83</fw>
+            
+            <figure facs="#zone_Page_118_699a77e1-88cb-43fa-b207-f767e6479f70">
+               <note type="editorial_label">Pen and ink drawing: tile</note>
+               <label><rs type="place" ref="#alhambra">Alhambra</rs> Azulejos</label> 
+            </figure>
+            
+            <ab>The sea rages so violently against the walls 
+               as to have destroyed a sentry box at the 
+               angle of a bastion. The houses very damp 
+               the air being filled with the spray even 
+               when there is not any wind. The fortification 
+               toward the isthmus strong &amp; not wide. 
+               The isthmus occupied by a road on each side 
+               of which seats of marble &amp; beyond these 
+               gardens. The road is perfectly straight for 
+               some miles. A new cut is now making 
+               about a cannonshot from the city from 
+               the sea to the port, by way of defences 
+               the whole island being only separated from 
+               the terra firma <note type="translation">dry land</note> by a narrow channel 
+               in some places not deep at low water 
+               though dangerously muddy. There is a 
+               bridge over it. It is said 25 000 men would 
+               be necessary to defend the whole. The two 
+               points of <rs type="place" ref="#st_catalina">St Catalina</rs> &amp; <rs type="place" ref="#castel_gordo">Castel Gordo</rs> on the main 
+               land are within the reach of shells.
+            </ab>
+            
+            <note type="marginal">
+               because You would live in The
+               Because you would
+               English part of the town. <rs type="person" ref="#charles_elphinstone_fleeming">Adm Flemings<note type="editorial_note">Probably Charles Elphinstone Fleeming (1774-1840), though only rear-admiral from 1814, when appointed commander-in-chief at Gibraltar.</note></rs>
+               live in the English part
+               note
+               of the Town
+               
+               500 yards wide
+               500 yds wide
+               
+               was only a flat sand till <rs type="person" ref="#alejandro_o'reilly">Count o Reilly<note type="editorial_note">Alejandro O'Reilly, 1st Count of O'Reilly (1723-94), Spanish soldier and administrator.</note></rs> executd it   
+            </note>
+         </div>
+      </body>
+  </text>
+</TEI>

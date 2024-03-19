@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   
+   <facsimile>
+      <surface xml:id="zone_Page_131">
+         <graphic url="https://iiif.bsr.ac.uk/iiif/2/GELL-VI%2Fwg_06_131.tif/full/full/0/default.jpg"/>
+         <zone points="16,92 3421,92 3421,1398 5,1360" xml:id="zone_Page_131_9e2104d5-b36a-4259-be61-aa73f05ea46c"/> <!-- view of Fort of São Julião da Barra -->
+         <zone points="0,1544 3427,1593 3421,2839 5,2807" xml:id="zone_Page_131_d6180c49-a91b-4dca-9bfd-41111149f0a1"/> <!-- view of Belem -->
+         <zone points="2426,3040 3062,3030 3318,3508 2312,3519" xml:id="zone_Page_131_f26e41a4-fcdd-4d9b-bb41-f55e1a01ac2c"/> <!-- crenellations -->
+         <zone points="2132,3552 3389,3552 3394,4085 2121,4090" xml:id="zone_Page_131_6dd82e1a-e658-447c-b014-2eb13efc3994"/> <!-- crenellations -->
+      </surface>
+   </facsimile>
+   
+  <text>
+     <front>
+        <div type="cover">
+           <note></note>
+        </div>
+        <div type="inlet">
+           <head></head>
+        </div>
+     </front>
+     
+     <body>
+        <div type="spain">
+           <pb facs="#zone_Page_131" n="131"/>
+           
+           <figure facs="#zone_Page_131_9e2104d5-b36a-4259-be61-aa73f05ea46c">
+              <note type="editorial_note">Pen and ink drawing: view of <rs type="place" ref="#castle_st_julians">Fort of São Julião da Barra</rs></note>
+              <label>Bay of <rs type="place" ref="#cascais">Cascayes<note type="translation">Cascais</note></rs></label>
+              <label><rs type="place" ref="#castle_st_julians">ST JULIANS<note type="translation">Fort of São Julião da Barra</note></rs></label>
+              <label><date>Octob 28 1810</date></label>
+           </figure>
+           
+           <figure facs="#zone_Page_131_d6180c49-a91b-4dca-9bfd-41111149f0a1">
+              <note type="editorial_note">Pen and ink drawing: view of <rs type="place" ref="#belem">Belém</rs></note>
+              <label><rs type="place" ref="#belem">BELEM</rs></label>
+           </figure>
+           
+           <ab><rs type="place" ref="#belem">Belem</rs> is an old town built for the purpose of commanding 
+              the river <rs type="place" ref="#tagus">Tagus</rs>. The usual 
+              residence of the English is 
+              West of <rs type="place" ref="#lisbon">Lisbon</rs> at a place 
+              called <rs type="place" ref="#buenos_ayres">Buenos ayres</rs>, which is 
+              much colder than the town 
+              and damper being a hill 
+              between the town &amp; the 
+              <rs type="place" ref="#atlantic">Atlantic</rs>. The opposite bank of</ab>
+           
+           <note type="marginal">
+              <figure facs="#zone_Page_131_f26e41a4-fcdd-4d9b-bb41-f55e1a01ac2c" type="sketch">
+                 <note type="editoriali_note">[drawing: crenellations]</note>
+                 <label>Battlements of <rs type="place" ref="#belem">Belem</rs> Tower</label>
+              </figure>
+              
+              <figure facs="#zone_Page_131_6dd82e1a-e658-447c-b014-2eb13efc3994" type="sketch">
+                 <note type="editorial_note">[drawing: crenellations]</note>
+                 <label>Sentry boxes &amp; all the rest corded</label>
+              </figure>
+           </note>
+           
+        </div>
+     </body>
+
+  </text>
+</TEI>

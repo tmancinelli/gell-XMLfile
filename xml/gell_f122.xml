@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   
+   <facsimile>
+      <surface xml:id="zone_Page_122">
+         <graphic url="https://iiif.bsr.ac.uk/iiif/2/GELL-VI%2Fwg_06_122.tif/full/full/0/default.jpg"/>
+         <zone points="119,92 3525,70 3530,1039 114,1104" xml:id="zone_Page_122_93f55ad7-5f93-4b67-9579-9fe435b78705"/> <!-- view of Alhambra -->
+         <zone points="669,1060 957,1055 973,1218 674,1218" xml:id="zone_Page_122_c92f86e4-ee02-42b3-bea2-8b3b7dd4a120"/> <!-- arch -->
+         <zone points="1757,1332 1909,1327 1925,1523 1768,1534" xml:id="zone_Page_122_5a7fd49a-b6fc-4e46-b624-ba9fe30648d8"/> <!-- arch -->
+         <zone points="2660,3448 2763,3438 2758,3546 2665,3557" xml:id="zone_Page_122_413d6b6a-6a81-45f4-a1ed-93aa13cde344"/> <!-- arch -->
+         <zone points="3051,3438 3166,3427 3166,3519 3057,3525" xml:id="zone_Page_122_e1282850-0a3b-4ef9-a2c0-ed1a9e9374e1"/> <!-- arch -->
+      </surface>
+   </facsimile>
+   
+  <text>
+     <front>
+        <div type="cover">
+           <note></note>
+        </div>
+        <div type="inlet">
+           <head></head>
+        </div>
+     </front>
+     
+     <body>
+        <div type="spain">
+           <pb facs="#zone_Page_122" n="122"/>
+           <fw>89</fw>
+           
+           <figure facs="#zone_Page_122_93f55ad7-5f93-4b67-9579-9fe435b78705">
+              <note type="editorial_note">Pen and ink drawing: view of <rs type="place" ref="#alhambra">Alhambra</rs></note>
+              <label><rs type="place" ref="#albaicin">Albaycin</rs><note type="editorial_note">Albaicín (neighbourhood of Granada)</note></label>
+              <label>Silla<note type="editorial_note">i.e. Silla del Moro hill [Moor's Seat]</note></label>
+              <label><rs type="place" ref="#generalife">Generaliph</rs><note type="translation">Generalife</note></label>
+              <label><rs type="place" ref="#alhambra">Alhambra</rs></label>
+              <label>Alcasaba<note type="editorial_note">i.e. Alcazaba: citadel</note></label>
+              
+              <ab> <!-- the majority of the text is in pencil -->
+                 doors all <figure facs="#zone_Page_122_c92f86e4-ee02-42b3-bea2-8b3b7dd4a120" type="in_text"><note type="editorial_note">[drawing: arch]</note></figure>like the <rs type="place" ref="#alhambra">Alhambra</rs>. <!--"door... like" is in pen -->
+                 A mosque (see view)<!-- "see view" in pen --> consisting of a gate 
+                 into a square court of 3 arches <figure facs="#zone_Page_122_5a7fd49a-b6fc-4e46-b624-ba9fe30648d8" type="in_text"><note type="editorial_note">[drawing: arch]</note></figure> covered 
+                 with green glazed tiles made at <rs type="place" ref="#tetuan">Tetuan</rs>. 
+                 The interior consists of 6 parallel roofs 
+                 supported by arches, altogether very low. 
+                 At an angle is a square tower on which 
+                 is hung out a white flag at the hours 
+                 of prayer. several of the Moors speak a 
+                 little English. One of the best houses had 
+                 a small court paved with brick, from which 
+                 a very clean whitewashed staircase 
+                 ascended to a little gallery which had a large door 
+                 into a very clean long narrow room covered 
+                 with a mat. at each end was a bed. &amp; 
+                 the whole was very comfortable. The door 
+                 shut like the doors of the <rs type="place" ref="#alhambra">Alhambra</rs> &amp; the 
+                 fashion little changed. Many guns on the batteries 
+                 at the landing place. The walls towd the land in
+              </ab>
+              
+              <note type="marginal"> <!-- all pen -->
+                 <bibl>Llaguno y Amírola, Noticias, vol. 1, pp. xxviii-xxix.</bibl>
+                 <rs type="place" ref="#granada">Granada</rs>. <rs type="place" ref="#alhambra">Alhambra</rs> cuyas zanjas para 
+                 los cimientos mandò abrir el Rey Mahomed. 
+                 or Elgaleb Billah natural de Arjona despues 
+                 del año <date>1231</date>.<note type="translation">Alhambra, whose foundation ditches King Mahomed ordered to be opened, or Elgaleb Billah [Victor through God], native of Arjona, after the year 1231.</note>
+                 Juzeph o Bulhagix at length finished it 
+                 in <date>1346</date>. Walls of Albaizin also &amp; 
+                 the <rs type="place" ref="#generalife">Generalife</rs> arches bridges &amp;c.
+                 50 mosques &amp; colleges built by Mahomed ben 
+                 Abdelrahman <date>1200</date>. Also a Basilica 
+                 for judges. a great mosque in <rs type="place" ref="#alhambra">Alhambra</rs> 
+                 with baths, at expense of jews &amp; Xtians<note type="translation">Christians</note>.
+                 La Casa Marmorea<note type="translation">The Marble House</note> near mosque built by 
+                 Mahomad Ben Said of Alcala la Real 
+                 monastery of Supleitas, moros austeros 
+                 contemplativos y grandes escritores.<note type="translation">austere, contemplative Moors and great writers.</note>
+                 Termas de Abdelrahman Ben Mahomed<note type="translation">Baths of Abdelrahman Ben Mahomed</note>
+                 &amp; secretary of Kg Ali in <date>518</date> of hegira<note type="editorial_note">Islamic calendar</note>. –
+                 Colegio maximo<note type="editorial_note">Spanish term for religious educational institution</note> by Kg Juzeph in which 
+                 Aba Adala taught natural sciences history 
+                 Rhetoric &amp; poesy.
+                 College of Moors in Malaga in which 
+                 studied the great jurisconsult Ebu Haphud 
+                 Alamin in <date>1353</date>.
+                 Another in Murcia in <date>1163</date>.
+                 At <rs type="place" ref="#servilla">Sevilla</rs> with academia biblioteca y 
+                 monasterio<note type="translation">academy, library and monastery</note> produced several great writers.
+                 Mozarabes Xtian architects<note type="editorial_note">Mozarabs [Iberian Christians under Muslim rule] Christian architects</note> succeeded.
+                 these left off <figure facs="#zone_Page_122_413d6b6a-6a81-45f4-a1ed-93aa13cde344" type="in_text"><note type="editorial_note">[drawing: arch]</note></figure> but made <figure facs="#zone_Page_122_e1282850-0a3b-4ef9-a2c0-ed1a9e9374e1" type="in_text"><note type="editorial_note">[drawing: arch]</note></figure>  more 
+                 columns.<note type="editorial_note">Pictoral representation of Llaguno y Amírola's text.</note>
+              </note>
+              
+           </figure>
+        </div>
+     </body>
+
+
+  </text>
+</TEI>

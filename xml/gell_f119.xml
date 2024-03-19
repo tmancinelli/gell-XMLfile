@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   
+   <facsimile>
+      <surface xml:id="zone_Page_119">
+         <graphic url="https://iiif.bsr.ac.uk/iiif/2/GELL-VI%2Fwg_06_119.tif/full/full/0/default.jpg"/>
+         <zone points="5,81 3394,92 3400,892 -6,930" xml:id="zone_Page_119_9d495cc1-8674-47fd-879d-8b3f67dc9db9"/> <!-- view of cadiz -->
+         <zone points="1789,1229 3400,1207 3405,2366 1827,2371" xml:id="zone_Page_119_7f962c37-3509-48f6-b32f-d412ed63c3db"/> <!-- tile -->
+         <zone points="1876,2584 3378,2573 3378,4009 1849,4031" xml:id="zone_Page_119_542c4bda-b9fd-4243-a648-149be8fa22c8"/> <!-- columns -->
+      </surface>
+   </facsimile>
+   
+  <text>
+     
+     <front>
+        <div type="cover">
+           <note></note>
+        </div>
+        <div type="inlet">
+           <head></head>
+        </div>
+     </front>
+     
+     <body>
+        <div>
+           <pb facs="#zone_Page_119" n="119"/>
+           
+           <figure facs="#zone_Page_119_9d495cc1-8674-47fd-879d-8b3f67dc9db9">
+              <note type="editorial_note">Pen and ink drawing: view of <rs type="place" ref="#cadiz">Cádiz</rs></note>
+              <label>Cerro de St Christovalle</label> <!-- pencil -->
+              <label><rs type="place" ref="#cerro_san_cristobal">CERRO DE ST CHRISTOVALLE <note type="editorial_note">Cerro de San Cristóbal (Saint Christopher's Hill)</note></rs>PORT</label> <!-- pen -->
+              <label>CADIZ</label> <!-- pen over pencil -->
+              <label>Cadiz</label> <!-- pencil under pen -->
+              <label>ISTHMUS</label>
+           </figure>
+           
+           <ab>The Port dificult to enter on account of 
+              rocks some of which are visible &amp; 
+              others not. The river from <rs type="place" ref="#puerto_santa_maria">Puerta 
+                 Sta Maria <note type="editorial_note">El Puerto de Santa María (The Port of Saint Mary)</note></rs> brings much sand into 
+              the port. The country is remarkably 
+              flat near <rs type="place" ref="#cadiz">Cadiz</rs>. The <rs type="place" ref="#cerro_san_cristobal">Cerro de St 
+                 Christovalle</rs> &amp; that of Ronda however 
+              produce cold when they are covered 
+              with snow. The climate however 
+              delightfully warm in January, but 
+              wet &amp; misty. No communication with 
+              the central Junta at Seville <note type="editorial_notes">Supreme Central Junta (central authority during the Napoleonic occupation).</note>. <rs type="person" ref="#john_hookham_frere">Mr Frere<note type="editorial_note">John Hookham Frere (1769-1846), British minister-plentipotentiary to Spanish Central Junta, October 1808 to April 1809. Previous posting to Madrid, 1802-4. Known for his translations of Aristophanes.</note></rs> said to 
+              be translating old Spanish odes, and <rs type="person" ref="xxx">Buonaparte</rs> at <rs type="place" ref="#astorga">Astorga</rs>, but no real 
+              intelligence</ab>
+           
+           <note type="marginal">
+              <figure facs="#zone_Page_119_7f962c37-3509-48f6-b32f-d412ed63c3db" type="sketch"> <!--pen over pencil -->
+                 <note type="editorial_label">Pen and ink drawing: tile </note>
+                 <label><rs type="place" ref="#alhambra">Alhambra</rs> Azulejos</label>
+              </figure>
+              
+              <figure facs="#zone_Page_119_542c4bda-b9fd-4243-a648-149be8fa22c8" type="sketch">
+                 <note type="editorial_note">Pen and ink drawing: columns</note>
+                 <label>Balustrade of Windows in the Tower of Comares</label>
+                 <label>Spanish Authors say <rs type="person" ref="#muhammad_xiii">El Zagal<note type="editorial_note">Muhammad XIII (c. 1444-c. 1494)</note></rs> killed his brother 
+                    <rs type="person" ref="#muley_hacen">muley Hassan<note type="editorial_note">Abu'l-Hasan Ali ibn Sa'd (d. 1485), Sultan of Granada, known in Spanish as Muley Hacén.</note></rs>. <rs type="person" ref="#muhammad_xiii">Zagal</rs> took his treasures &amp; Sultana 
+                    &amp; shut her up in <choice><abbr>T</abbr><expan>Tower</expan></choice> of Comares where <rs type="person" ref="#aixa">Aixa<note type="editorial_note">Wife of Muhammad XI and then Abu'l-Hasan Ali ibn Sa'd; mother of Muhammad XII by latter.</note></rs> &amp; 
+                    her Son <rs type="person" ref="#muhammad_xii">Abu Abdellah<note type="editorial_note">Muhammad XII (c. 1460-1533), nicknamed Boabdil or 'El Rey Chico' (The Boy King) by the Christians.</note></rs> had been confined.</label>
+              </figure>
+           </note>
+           
+        </div>
+     </body>
+
+  </text>
+</TEI>

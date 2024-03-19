@@ -92,6 +92,7 @@
   </person>
   <person xml:id="amirola">
     <persName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q5408346">Eugenio Llaguno y Amírola</persName>
+    <persName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q5408346">Llaguno y Amírola</persName>
   </person>
   <person xml:id="kingcarlos_iv">
     <persName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q183226">King Carlos IV</persName>
@@ -345,6 +346,47 @@
   </person>
   <person xml:id="muley_hacen">
     <persName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q335624">Abu'l-Hasan Ali ibn Sa'd</persName>
+    <persName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q335624">muley Hassan</persName>
+  </person>
+  <person xml:id="charles_elphinstone_fleeming">
+    <persName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q5077380">Adm Flemings</persName>
+  </person>
+  <person xml:id="alejandro_o'reilly">
+    <persName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q103873623">Count o Reilly</persName>
+  </person>
+  <person xml:id="john_hookham_frere">
+    <persName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q6239771">Mr Frere</persName>
+  </person>
+  <person xml:id="muhammad_xiii">
+    <persName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q1377360">El Zagal</persName>
+    <persName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q1377360">Zagal</persName>
+  </person>
+  <person xml:id="aixa">
+    <persName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q2741906">Aixa</persName>
+  </person>
+  <person xml:id="muhammad_xii">
+    <persName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q312763">Abu Abdellah</persName>
+  </person>
+  <person xml:id="adelazri">
+    <persName xml:lang="en" sameAs="xx">Heschamo Ben Adelazri</persName>
+  </person>
+  <person xml:id="abu_abdallah">
+    <persName xml:lang="en" sameAs="xx">Abu Abdallah</persName>
+  </person>
+  <person xml:id="mahomed_ben_juseph">
+    <persName xml:lang="en" sameAs="xx">Mahomed ben Juseph</persName>
+  </person>
+  <person xml:id="muhammad_xii_of_granada">
+    <persName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q312763">Re Chicos</persName>
+  </person>
+  <person xml:id="john_beresford">
+    <persName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q6661642">Cap Beresford</persName>
+  </person>
+  <person xml:id="ld_wellington">
+    <persName xml:lang="en" sameAs="xx">Ld Wellington</persName>
+  </person>
+  <person xml:id="henriquez_tuera">
+    <persName xml:lang="en" sameAs="xx">Count Henriquez Tuera</persName>
   </person>
   
 </listPerson>

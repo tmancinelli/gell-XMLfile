@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   
+   <facsimile>
+      <surface xml:id="zone_Page_130">
+         <graphic url="https://iiif.bsr.ac.uk/iiif/2/GELL-VI%2Fwg_06_130.tif/full/full/0/default.jpg"/>
+         <zone points="1822,984 2088,984 2078,1126 1800,1131" xml:id="zone_Page_130_47cb3ec1-756b-4918-93eb-33fc7199968d"/> <!-- boat -->
+         <zone points="130,1360 3122,1370 3155,2094 119,2116" xml:id="zone_Page_130_6ec8b1ff-b5e6-4cef-9933-172799bc989c"/> <!-- palace of Mafra -->
+         <zone points="1218,2083 1653,2083 2050,2611 1115,2622" xml:id="zone_Page_130_19b10fdd-4b0b-4647-8361-c186dfc1854d"/> <!-- windmill -->
+         <zone points="125,3187 3519,3176 3519,4281 119,4259" xml:id="zone_Page_130_5200462d-1e52-46c1-a8d2-d5905fce4b80"/> <!-- landscape -->
+      </surface>
+   </facsimile>
+   
+  <text>
+     <front>
+        <div type="cover">
+           <note></note>
+        </div>
+        <div type="inlet">
+           <head></head>
+        </div>
+     </front>
+     
+     <body>
+        <div type="spain">
+           <pb facs="#zone_Page_130" n="130"/>
+           <fw>75</fw>
+           
+           <ab><date>1810</date> VOYAGE TO <rs type="place" ref="#lisbon">LISBON</rs></ab>
+           <ab>4 Days all but 3 or 4 hours Thermometer below 60</ab>
+           <ab><date>October Tuesday 23. 1810</date> Plymouth Cremill<note type="editorial_note">i.e. Cremyll Ferry, across the Tamar between Plymouth and Mount Edgcumbe</note> passage.</ab>
+           <ab>Go on board the Poictiers 74 <rs type="person" ref="#john_beresford">Cap Beresford<note type="editorial_note">Probably John Beresford (1766-1844), later 1st Baronet, brother of Sir William, the future 1st Viscount Beresford. John was certainly in the navy at the time, and this Captain Beresford is Sir William's brother.</note></rs> about 4. Sail about 6 from <rs type="place" ref="#cawsand_bay">Causand<note type="translation">Cawsand</note> bay </rs>
+              <date>Wednesday24</date> at 12 off <rs type="place" ref="#ushant">Ushant</rs>. cold. high sea Wind fair. <date>Thursday 25 Oct</date> latitude 
+              4o6:5’0. <date>Friday 26</date> of <rs type="place" ref="#cape_finisterre">Cape Finisterre</rs> having a run of 240 miles in 24 hours 
+              <date>Saturday 27th</date> <rs type="place" ref="#mondego">Mondego</rs> off <rs type="place" ref="#berlengas">Berlengas</rs> at 12. See the palace of <rs type="place" ref="#mafra">Mafra</rs>. About 2 a pilot 
+              came on board in an old boat with 2 other men. The oars made of 2 poles 
+              on which a deal board was tied. the sail <figure facs="#zone_Page_130_47cb3ec1-756b-4918-93eb-33fc7199968d" type="in_text"><note type="editorial_note">[drawing: boat]</note></figure>. A decayed walnut shell mended 
+              with a wafer box, a most dangerous tattered vehicle. The man began by sayin <choice><abbr>d-</abbr><expan>damn</expan></choice> my eyes. 
+              and assured us the French had sent flags of truce requesting a cessation of hostilities which <rs type="person" ref="#ld_wellington">Ld Wellington</rs> would not 
+              grant.</ab>
+           <ab>Anchor in the bay of <rs type="place" ref="#cascais">Cascayes<note type="translation">Cascais</note></rs></ab>
+           
+           <figure facs="#zone_Page_130_6ec8b1ff-b5e6-4cef-9933-172799bc989c">
+              <note type="editorial_note">Pen and ink drawing: Palace of <rs type="place" ref="#mafra">Mafra</rs></note>
+              <label>PALACE OF <rs type="place" ref="#mafra">MAFRA</rs> <date>27 Octob 1810</date></label>
+           </figure>
+           
+           <ab>Entering the <rs type="place" ref="#tagus">Tagus</rs> the country 
+              on the north bank is very ugly &amp; 
+              barren. without trees.</ab>
+           
+           <ab>On the south where the high land joins the sand is the Village of <rs type="place" ref="#trafaria">Tariffa<note type="translation">Trafaria</note></rs></ab>
+           <figure facs="#zone_Page_130_19b10fdd-4b0b-4647-8361-c186dfc1854d" type="in_text">
+              <note type="editorial_note">Pen and ink drawing: windmill</note>
+              <label>Portuguese Windmill</label>
+           </figure>
+           
+           <ab><date>October 28</date> pass up the <rs type="place" ref="#tagus">Tagus</rs> by the <rs type="place" ref="#castle_st_julians">Castle of St Julians</rs> <choice><abbr>L</abbr><expan>left</expan></choice>, the fort 
+              Bugia <choice><abbr>R</abbr><expan>right</expan></choice>.<note type="translation">the Fort of São Julião da Barra left, the Fort of São Lourenço do Bugio right</note> A long line of Sand stretches from the Southern shore towd the fort. 
+              <choice><abbr>L</abbr><expan>left</expan></choice> a mirador<note type="translation">viewpoint</note> of the King, having passed in a valley a palace of <rs type="person" ref="#henriquez_tuera">Count 
+                 Henriquez Tuera</rs> with gardens &amp; Trees.</ab>
+           
+           <figure facs="#zone_Page_130_5200462d-1e52-46c1-a8d2-d5905fce4b80">
+              <note type="editorial_note">Pen and ink drawing: view of <rs type="place" ref="#belem"></rs>Belém</note>
+              <label><rs type="place" ref="#lisbon">Lisbon</rs></label>	
+              <label><rs type="place" ref="#almada">almāda</rs></label>
+              <label><rs type="place" ref="#belem">BELEM</rs></label>
+              <label><rs type="place" ref="#tagus">TAGUS</rs></label>
+           </figure>
+           
+        </div>
+     </body>
+
+  </text>
+</TEI>

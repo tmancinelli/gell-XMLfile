@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   
+   <facsimile>
+      <surface xml:id="zone_Page_129">
+         <graphic url="https://iiif.bsr.ac.uk/iiif/2/GELL-VI%2Fwg_06_129.tif/full/full/0/default.jpg"/>
+         <zone points="0,43 3400,65 3410,1354 -6,1408" xml:id="zone_Page_129_b798d0fe-4aeb-4d19-b6d2-4a10fe89eac4"/>
+         <zone points="0,1512 3405,1566 3405,4270 -6,4286" xml:id="zone_Page_129_f75323e3-c203-49a4-968a-d617febb0fdb"/>
+      </surface>
+   </facsimile>
+   
+  <text>
+     <front>
+        <div type="cover">
+           <note></note>
+        </div>
+        <div>
+           <head></head>
+        </div>
+     </front>
+     
+     <body>
+        <div type="spain">
+           <pb facs="#zone_Page_129" n="129"/>
+           
+           <figure facs="#zone_Page_129_b798d0fe-4aeb-4d19-b6d2-4a10fe89eac4">
+              <note type="editorial_note">Pen and ink drawing: landscape</note>
+              <label>CREMILL<note type="editorial_note">i.e. Cremyll Ferry, across the Tamar between Plymouth and Mount Edgcumbe</note> PASSAGE</label>
+              <label>Dock</label>
+           </figure>
+           
+           <figure facs="#zone_Page_129_f75323e3-c203-49a4-968a-d617febb0fdb">
+              <note type="editorial_note">Pen and ink drawing: garden</note>
+              <label>MOUNT. FLOWER GARDEN. EDGCUMBE</label>
+           </figure>
+           
+        </div>
+     </body>
+
+  </text>
+</TEI>

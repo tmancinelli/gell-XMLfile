@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   
+   <facsimile>
+      <surface xml:id="zone_Page_127">
+         <graphic url="https://iiif.bsr.ac.uk/iiif/2/GELL-VI%2Fwg_06_127.tif/full/full/0/default.jpg"/>
+         <zone points="-6,1670 0,59 3400,81 3410,1697" xml:id="zone_Page_127_2c76541d-a890-45f0-b69d-48d0a6f7ef53"/>
+         <zone points="0,1855 3405,1827 3421,4281 -6,4286" xml:id="zone_Page_127_431762be-3a3a-4a1e-933c-471b0dc925b1"/>
+      </surface>
+   </facsimile>
+   
+  <text>
+        <front>
+           <div type="cover">
+              <note></note>
+           </div>
+           <div type="inlet">
+              <head></head>
+           </div>
+        </front>
+        
+        <body>
+           <div type="spain">
+              <pb facs="#zone_Page_127" n="127"/>
+              
+              <figure facs="#zone_Page_127_2c76541d-a890-45f0-b69d-48d0a6f7ef53">
+                 <note type="editorial_note">Pencil, pen and ink drawing: landscape</note>
+                 <label>AT MT EDGCUMBE
+                    TOUR IN AO<note type="translation">year</note> <date>1810</date></label>
+              </figure>
+              
+              <figure facs="#zone_Page_127_431762be-3a3a-4a1e-933c-471b0dc925b1">
+                 <note type="editorial_note">Pencil, pen and ink drawing: landscape</note>
+                 <label>Devils point</label>
+                 <label>St Nicolas</label>
+                 <label>View	From the window	Cremill ferry</label>
+              </figure>
+              
+           </div>
+        </body>
+
+  </text>
+</TEI>
