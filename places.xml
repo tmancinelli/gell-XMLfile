@@ -78,7 +78,7 @@
       <placeName xml:lang="spa" sameAs="https://www.wikidata.org/wiki/Q113122030">Conco qu? Donco</placeName>
       <settlement type="country">Spain</settlement>
    </place>
-   <place xml:id="villafranca">
+   <place xml:id="villa">
       <placeName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q1912688">Villa Franca</placeName>
       <settlement type="country">Spain</settlement>
    </place>
@@ -92,6 +92,7 @@
    </place>
    <place xml:id="spain">
       <placeName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q29">Spain</placeName>
+      <placeName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q29">España</placeName>
       <settlement type="country">Spain</settlement>
    </place>
    <place xml:id="galicia">
@@ -100,10 +101,11 @@
    </place>
    <place xml:id="cordoba">
       <placeName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q5818">Cordova</placeName>
+      <placeName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q5818">Cordoba</placeName>
       <settlement type="country">Spain</settlement>
    </place>
-   <place xml:id="rasiro">
-      <placeName xml:lang="en" sameAs="xx">Rasiro</placeName>
+   <place xml:id="rastro">
+      <placeName xml:lang="en" sameAs="xx">Rastro</placeName>
       <settlement type="country">Spain</settlement>
    </place>
    <place xml:id="hierreria">
@@ -156,7 +158,7 @@
       <settlement type="country">Spain</settlement>
    </place>   
    <place xml:id="villagecongoste">
-      <placeName xml:lang="en" sameAs="xx">Village Congoste</placeName>
+      <placeName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q44901">Village Congoste</placeName>
       <settlement type="country">Spain</settlement>
    </place>   
    <place xml:id="conventodelapena">
@@ -185,8 +187,8 @@
       <settlement type="country">Spain</settlement>
    </place>   
    <place xml:id="villofManzanales">
-      <placeName xml:lang="en" sameAs="xx">Village of Manzanal del Puerto</placeName>
-      <placeName xml:lang="en" sameAs="xx">Vill of Manzanales</placeName>
+      <placeName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q5994985">Village of Manzanal del Puerto</placeName>
+      <placeName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q5994985">Vill of Manzanales</placeName>
       <settlement type="country">Spain</settlement>
    </place>   
    <place xml:id="combarros">
@@ -200,7 +202,7 @@
       <settlement type="country">Spain</settlement>
    </place>   
    <place xml:id="villlabaneza">
-      <placeName xml:lang="en" sameAs="xx">Vill La Bañeza</placeName>
+      <placeName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q1442670">Vill La Bañeza</placeName>
       <settlement type="country">Spain</settlement>
    </place>
    <place xml:id="juandetorres">
@@ -235,11 +237,11 @@
       <settlement type="country">Spain</settlement>
    </place>   
    <place xml:id="avisana">
-      <placeName xml:lang="en" sameAs="xx">Avisana</placeName>
+      <placeName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q5965542">Avisana</placeName>
       <settlement type="country">Spain</settlement>
    </place>   
    <place xml:id="cerecinosorden">
-      <placeName xml:lang="en" sameAs="xx">Cerecinos de la Orden</placeName>
+      <placeName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q1769002">Cerecinos de la Orden</placeName>
       <settlement type="country">Spain</settlement>
    </place>
    <place xml:id="villalpando">
@@ -277,7 +279,7 @@
       <settlement type="country">Spain</settlement>
    </place>   
    <place xml:id="castillian">
-      <placeName xml:lang="en" sameAs="xx">Castillian Mountains</placeName>
+      <placeName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q53711">Castillian Mountains</placeName>
       <settlement type="country">Spain</settlement>
    </place>
    <place xml:id="medinacampo">
@@ -361,7 +363,7 @@
       <settlement type="country">Spain</settlement>
    </place>   
    <place xml:id="realfabrica">
-      <placeName xml:lang="en" sameAs="xx">The Real Fábrica del Buen Retiro</placeName>
+      <placeName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q7300920">The Real Fábrica del Buen Retiro</placeName>
       <settlement type="country">Spain</settlement>
    </place>   
    <place xml:id="santamariadelosangeles">
@@ -392,7 +394,7 @@
       <settlement type="country">Spain</settlement>
    </place>
    <place xml:id="royal_demesne">
-      <placeName xml:lang="en" sameAs="xx">Royal Demesne</placeName>
+      <placeName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q530129">Royal Demesne</placeName>
       <settlement type="country">Spain</settlement>
    </place>
    <place xml:id="aranjuez">
@@ -423,7 +425,7 @@
       <settlement type="country">Spain</settlement>
    </place>
    <place xml:id="casa_labrador">
-      <placeName xml:lang="en" sameAs="xx">The Casa de Labrador</placeName>
+      <placeName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q5755509">The Casa de Labrador</placeName>
       <settlement type="country">Spain</settlement>
    </place>
    <place xml:id="valencia">
@@ -431,11 +433,11 @@
       <settlement type="country">Spain</settlement>
    </place>
    <place xml:id="casa_marineros">
-      <placeName xml:lang="en" sameAs="xx">Casa de los Marineros</placeName>
+      <placeName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q107123488">Casa de los Marineros</placeName>
       <settlement type="country">Spain</settlement>
    </place>
    <place xml:id="granja_ildefonso">
-      <placeName xml:lang="en" sameAs="xx">La Granja S<hi rend="superscript">t</hi> Ildefonso</placeName>
+      <placeName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q1540732">La Granja S<hi rend="superscript">t</hi> Ildefonso</placeName>
       <settlement type="country">Spain</settlement>
    </place>
    <place xml:id="escurial">
@@ -471,7 +473,7 @@
       <settlement type="country">Spain</settlement>
    </place>
    <place xml:id="temple_solomon">
-      <placeName xml:lang="en" sameAs="xx">Temple of Solomon</placeName>
+      <placeName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q223644">Temple of Solomon</placeName>
       <settlement type="country">Spain</settlement>
    </place>
    <place xml:id="granada">
@@ -483,10 +485,6 @@
       <placeName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q57525180"><choice><abbr>S<hi rend="superscript">n</hi> Francis</abbr><expan>i.e. the church of St Francis</expan></choice></placeName>
       <settlement type="country">Spain</settlement>
    </place>
-   <place xml:id="palace_rodrigo">
-      <placeName xml:lang="en" sameAs="xx">The palace of Rodrigo</placeName>
-      <settlement type="country">Spain</settlement>
-   </place>
    <place xml:id="castillo_cervantes">
       <placeName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q2993456">Castillo de Cervantes</placeName>
       <placeName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q2993456">Castle of San Cervantes</placeName>
@@ -494,7 +492,7 @@
       <settlement type="country">Spain</settlement>
    </place>
    <place xml:id="tomb_santa_leocadia">
-      <placeName xml:lang="en" sameAs="xx">tomb of Santa Leocadia</placeName>
+      <placeName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q1100859">tomb of Santa Leocadia</placeName>
       <settlement type="country">Spain</settlement>
    </place>
    <place xml:id="england">
@@ -510,7 +508,7 @@
       <settlement type="country">Spain</settlement>
    </place>
    <place xml:id="sierra_morena">
-      <placeName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q5807403">Sierra Morena</placeName>
+      <placeName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q686362">Sierra Morena</placeName>
       <settlement type="country">Spain</settlement>
    </place>
    <place xml:id="church_san_juan_reyes">
@@ -580,7 +578,7 @@
       <settlement type="country">Spain</settlement>
    </place>
    <place xml:id="los_reyes_nuevos">
-      <placeName xml:lang="en" sameAs="xx">church of los Reyes Nuevos</placeName>
+      <placeName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q8262617">church of los Reyes Nuevos</placeName>
       <settlement type="country">Spain</settlement>
    </place>
    <place xml:id="constantine">
@@ -588,7 +586,7 @@
       <settlement type="country">United Kingdom</settlement>
    </place>
    <place xml:id="lapiche">
-      <placeName xml:lang="en" sameAs="xx">Lapiche</placeName>
+      <placeName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q1630316">Lapiche</placeName>
       <settlement type="country">Spain</settlement>
    </place>
    <place xml:id="puerta_lapiche">
@@ -605,7 +603,7 @@
       <settlement type="country">Spain</settlement>
    </place>
    <place xml:id="nuestra_sra_consolacion">
-      <placeName xml:lang="en" sameAs="xx"><choice><abbr>N<hi rend="superscript">ra</hi> S<hi rend="superscript">ra</hi> de Consolacion</abbr>
+      <placeName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q5784254"><choice><abbr>N<hi rend="superscript">ra</hi> S<hi rend="superscript">ra</hi> de Consolacion</abbr>
          <expan>Nuestra Señora de Consolación</expan></choice></placeName>
       <settlement type="country">Spain</settlement>
    </place>
@@ -622,8 +620,10 @@
       <placeName xml:lang="en" sameAs="xx">Averturas</placeName>
       <settlement type="country">Spain</settlement>
    </place>
-   <place xml:id="vill_escurial">
-      <placeName xml:lang="en" sameAs="xx">Vill of Baxo Escurial</placeName>
+   <place xml:id="el_escorial">
+      <placeName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q985269">Vill of Baxo Escurial</placeName>
+      <placeName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q985269">El Escorial</placeName>
+      <placeName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q985269">The Escorial</placeName>
       <settlement type="country">Spain</settlement>
    </place>
    <place xml:id="galapagar">
@@ -1164,6 +1164,8 @@
    </place>
    <place xml:id="badajoz">
       <placeName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q15679">Badajos</placeName>
+      <placeName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q15679">Badajoz</placeName>
+      <placeName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q15679">Baduzo</placeName>
       <settlement type="country">Spain</settlement>
    </place>
    <place xml:id="marquis_perales">
@@ -1337,6 +1339,40 @@
    <place xml:id="atlantic">
       <placeName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q97">Atlantic</placeName>
       <settlement type="ocean">Atlantic</settlement>
+   </place>
+   
+   <place xml:id="sagrajas">
+      <placeName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q1486015">Sacralias</placeName>
+      <placeName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q1486015">Sagrajas</placeName>
+      <settlement type="country">Spain</settlement>
+   </place>
+   <place xml:id="zagalla">
+      <placeName xml:lang="en" sameAs="xx">Zagalla</placeName>
+      <settlement type="country">Spain</settlement>
+   </place>
+   <place xml:id="alcala_henares">
+      <placeName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q46940">Alcalá de Henares</placeName>
+      <settlement type="country">Spain</settlement>
+   </place>
+   <place xml:id="kaaba">
+      <placeName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q29466">the Kaaba or square house [at Mecca]</placeName>
+      <settlement type="country">Saudi Arabia</settlement>
+   </place>
+   <place xml:id="eresma">
+      <placeName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q2579197">Eresema</placeName>
+      <settlement type="country">Spain</settlement>
+   </place>
+   <place xml:id="tower_seven_floors">
+      <placeName xml:lang="en" sameAs="xx">Torre de siete suelos</placeName>
+      <settlement type="country">Spain</settlement>
+   </place>
+   <place xml:id="cathedral_santiago_de_compostela">
+      <placeName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q205136">Cathedral</placeName>
+      <settlement type="country">Spain</settlement>
+   </place>
+   <place xml:id="pisuerga">
+      <placeName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q14757">Pisuerga</placeName>
+      <settlement type="country">Spain</settlement>
    </place>
 
 </listPlace>
