@@ -109,10 +109,10 @@
 
             <note type="marginal" facs="xxx">As much as I could sketch before the Archbishop
                entered</note>
-            <note type="marginal" facs="xxx">Specimen of Spanish wit instead of <choice>
+            <note type="marginal" facs="xxx">Specimen of Spanish wit instead of <rs type="person" ref="#william_pitt"><choice>
                   <abbr>D-n</abbr>
                   <expan>Damn</expan>
-               </choice> Pitt. <rs type="person" ref="#wilkins"><choice>
+            </choice> Pitt.</rs> <rs type="person" ref="#wilkins"><choice>
                      <abbr>Wm</abbr>
                      <expan>William</expan>
                   </choice> Wilkins</rs> is a fool &amp;c <metamark>–</metamark></note>

@@ -41,21 +41,21 @@
          <div type="spain">
             <pb facs="#zone_Page_26" n="026"/>
             <fw>186</fw>
-            <ab>towers of the <rs type="place" ref="XXX">Cathedral</rs> was striking. We visited the Plaza Mayor on the <choice>
+            <ab>towers of the <rs type="place" ref="#cathedral_santiago_de_compostela">Cathedral</rs> was striking. We visited the Plaza Mayor on the <choice>
                   <abbr>N</abbr>
                   <expan>north</expan>
-            </choice> side of the <rs type="place" ref="XXX">cathedral</rs>. A very small part of the ancient building remains of
+            </choice> side of the <rs type="place" ref="#cathedral_santiago_de_compostela">cathedral</rs>. A very small part of the ancient building remains of
                the <choice>
                   <abbr>W</abbr>
                   <expan>west</expan>
-               </choice> end of the <rs type="place" ref="XXX">Cathedral</rs>, more Saxon than Gothic. <figure type="in_text"
+               </choice> end of the <rs type="place" ref="#cathedral_santiago_de_compostela">Cathedral</rs>, more Saxon than Gothic. <figure type="in_text"
                   facs="#zone_Page_26_735b111a-19ee-47d6-a87f-ad4a80e58119">
                   <note type="editorial_label">[drawing: building]</note>
                </figure> but within at this end is a very fine screen with <figure type="in_text"
                   facs="#zone_Page_26_6423b57e-ff1b-4f02-9c8f-410d4712e179">
                   <note type="editorial_label">[drawing: arch]</note>
                </figure> arches round which the heavenly choir are carved, with harps &amp;c. The
-               <rs type="place" ref="XXX">Cathedral</rs> is not more than two centuries old &amp; besides being very large is the
+               <rs type="place" ref="#cathedral_santiago_de_compostela">Cathedral</rs> is not more than two centuries old &amp; besides being very large is the
                finest pile of building in the style of <rs type="person" ref="#inigojones">Inigo Jones I</rs> ever saw. The roof is entirely
                of fine white uncoloured stone with <figure type="in_text" facs="#zone_Page_26_10391a80-d5be-4832-8951-0d2cfc8726df">
                   <note type="editorial_label">[drawing: arch]</note>
@@ -70,7 +70,7 @@
             </figure>
             <figure type="sketch" facs="#zone_Page_26_940faa72-8f75-4900-b40a-1e6454978030">
                <note type="editorial_label">Pen and ink drawing: tower</note>
-               <label>A tower of the <rs type="place" ref="XXX">cathedral</rs> hangs on in this manner</label>
+               <label>A tower of the <rs type="place" ref="#cathedral_santiago_de_compostela">cathedral</rs> hangs on in this manner</label>
             </figure>
             <note type="marginal" facs="#zone_Page_26_3a3733d6-6c14-4469-9f26-be879e3d6f85">Encima la sacristia de la catedral de Santiago y sobre un arco toral de la obra
                vieja. Para gloria de Dios acabó esta obra Miguel de Bozllar natural de S. Miguel de
