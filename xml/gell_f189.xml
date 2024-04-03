@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface xml:id="zone_Page_189">
+         <graphic url="https://iiif.bsr.ac.uk/iiif/2/GELL-VI%2Fwg_06_189.tif/full/full/0/default.jpg"/>
+         <zone points="549,2241 859,2246 848,2366 544,2366" xml:id="zone_Page_189_c26eaadd-0555-405c-8f98-d68243361cf0"/> <!-- window -->
+         <zone points="723,3840 843,3829 848,3916 728,3916" xml:id="zone_Page_189_4011bdf8-4173-42ff-8336-76b380da856e"/> <!-- circle -->
+         <zone points="2121,772 2268,772 2257,875 2110,881" xml:id="zone_Page_189_10a496d4-d15b-46c3-a981-06797b67c718"/> <!-- circle -->
+      </surface>
+   </facsimile>
+   <text>
+      <front>
+         <div type="cover">
+            <note> </note>
+         </div>
+         <div type="inlet">
+            <head> </head>
+         </div>
+      </front>
+
+      <body>
+         <div type="spain"> </div>
+         <div type="portugal">
+            <ab> </ab>
+         </div>
+         <div type="reading_notes">
+            <pb facs="#zone_Page_189" n="189"/>
+            <fw>14</fw>
+            <!-- citation starts here and ends at bottom -->
+            <ab> MOORISH TERMS IN SPAIN. Por D. Eugenio Llaguno y Amirola y D. Juan Cean
+               Bermudez.</ab>
+            <list>
+               <item>Alhambra = dar alamra = casa real. Rey Alhamar<note type="editorial"
+                        ><bibl>Llaguno y Amírola (Noticias, vol. 1, pp. 246-7)</bibl> is more
+                     tentative than it would appear here on etymology, with some saying the name
+                     comes from Rey [King] Alhamar, who ordered it built, and others that it is from
+                     'dar-alamra', meaning 'casa real' [royal house].</note></item>
+               <item>Almacen = magazine</item>
+               <item>Almaceria = maceria<note type="editorial"><bibl>Llaguno y Amírola</bibl> has
+                     'huerta cercada para siembra': <note type="translation">fenced garden for planting</note>. This is not far from
+                     the Italian 'maceria', a dry stone wall, which must be what WG is
+                  using.</note></item>
+               <item>Almadena a pickaxe</item>
+               <item>Almagre red chalk</item>
+               <item>Almena = battlements</item>
+               <item>Almorabe: ornam<hi rend="superscript">ts</hi></item>
+               <item>Almocavar cementerio<note type="translation">cemetery</note></item>
+               <item>Almodovar: circular place</item>
+               <item>Almorefa pavement</item>
+               <item>Almunia = watered garden</item>
+               <item>Anaquel = shelves?<note type="editorial">WG is correct. <bibl>Llaguno y
+                        Amírola</bibl> has 'division en los armarios ó estantes para poner libros,
+                     platos ú otras cosas. Tambien significa el armario ó estante.' <note type="translation">Division in
+                     cabinets or bookcases on which to put books, plates or other things. It also
+                     means the cabinet or bookcase.</note></note></item>
+               <item>Anoria = water wheel</item>
+               <item>Arrecife paved road</item>
+               <item>Atarazana = dock</item>
+               <item>Atahona = flour mill</item>
+               <item>Atalaya <metamark>–</metamark> Tower or Castle</item>
+               <item>Ataurique plaster orn<hi rend="superscript">ts</hi></item>
+               <item>Axaraca eastern ornam<hi rend="superscript">ts</hi>. lazos.<note
+                     type="translation">eastern ornaments. bows or loops.</note></item>
+               <item>Axarafe = mirador<note type="translation">balcony/oriel or viewpoint</note>
+                  &amp;c</item>
+               <item>Aximenez sunny gallery</item>
+               <item>Aximez <figure type="in_text" facs="#zone_Page_189_c26eaadd-0555-405c-8f98-d68243361cf0">
+                     <note type="editorial_label">[drawing: window]</note>
+                  </figure> window<note type="editorial">WG's drawing represents <bibl>Llaguno y
+                        Amírola</bibl>'s greater detail: 'ventana de dos ó tres arcos con tres ó
+                     cinco columnitas, como las que hay en los edificios árabes y góticos.' <note type="translation">Window
+                     with two or tree arches, with three or five little columns, like those found in
+                     Arab and Gothic buildings.</note></note></item>
+               <item>Azogue place of market at Segovia</item>
+               <item>Azores = muros<note type="translation">walls</note></item>
+               <item>Azothea = terraced roof</item>
+               <item>Azulejos<note type="editorial">WG clearly does not need <bibl>Llaguno y
+                        Amírola</bibl>'s lengthy definition of these tiles.</note></item>
+               <item>Barro = puddle</item>
+               <item>Borje torre metido en un Castillo<note type="editorial"><bibl>Llaguno y Amírola</bibl> has
+                     'metida': <note type="translation">tower placed within a Castle</note></note></item>
+               <item>Cala = Castillo<note type="translation">Castle</note></item>
+               <item>Calabozo = prison</item>
+               <item>Calahorra <metamark>–</metamark> strong place</item>
+               <item>Caz canal Naguela = straw hut</item>
+               <item>Cenefa a border. Rambla = arenal<note type="translation">sandy
+                  terrain</note></item>
+               <item>Chafariz = fountain</item>
+               <item>Dar azultam = Kings house</item>
+               <item>Faxa = cinta<note type="translation">ribbon or band</note></item>
+               <item>Loxa = Piedra = muela<note type="translation">Stone = grindstone</note>.</item>
+               <item>Maxaraque: solana<note type="translation">terrace or gallery facing the
+                     sun</note> to East</item>
+               <item>Mazmorra = calabozo<note type="translation">prison</note></item>
+               <item>Traza Architects place</item>
+               <item>Xarahiz = <figure type="in_text" facs="#zone_Page_189_4011bdf8-4173-42ff-8336-76b380da856e">
+                     <note type="editorial_label">[drawing: circle]</note>
+                  </figure> wall<note type="editorial">WG's drawing represents <bibl>Llaguno y
+                        Amírola</bibl>'s greater detail: 'pared de piedra en obra circular.' <note type="translation">Stone
+                     wall in circular form.</note> </note></item>
+               <item>Zaguan atrio<note type="translation">atrium</note> great portal</item>
+               <item>Zocodover zoco-dober plaza detras<note type="editorial"><bibl>Llaguno y Amírola</bibl> has 'Zocodober':
+                     <note type="translation">square behind</note></note> as at Toledo behind Alcazar<note type="translation"
+                     >Fortress</note></item>
+               <item>Zubia = place of many waters.</item>
+
+               <cb/>
+               <item>Aceña = water mill</item>
+               <item>Acequia a canal</item>
+               <item>Acitara = wall of brick &amp; mortar</item>
+               <item>Adarve = walk on battlements</item>
+               <item>Adobe = sunburnt bricks</item>
+               <item>Aduana = casa de colecion<note type="translation">collections [i.e. customs]
+                     house</note></item>
+               <item>Aduar a <figure type="in_text" facs="#zone_Page_189_10a496d4-d15b-46c3-a981-06797b67c718">
+                     <note type="editorial_label">[drawing: circle]</note>
+                  </figure>r population<note type="editorial">WG's drawing represents <bibl>Llaguno
+                        y Amírola</bibl>'s greater detail: 'poblacion movible de los árabes. Casas,
+                     plural de dar, que significa casa, é indica que eran de forma orbicular,
+                     redondas dentro y fuera.' <note type="translation">Movable town of the Arabs. Houses, plural of dar,
+                     which means house, and indicates that they were ring-shaped, round inside and
+                     outside.</note></note></item>
+               <item>Alhacena: a cupboard</item>
+               <item>Alambor scarp in fortification</item>
+               <item>Alamin = architect</item>
+               <item>Alamud cerrojo o pasador en ventanas palo principal del pabellon.<note type="translation">bolt or latch on windows, main pole of a pavilion</note></item>
+               <item>Alarife. Sage mechanist. Gene el Arif = garden del maestro Jucef Nazar.<note type="translation">of the master [architect] Jucef Nazar [i.e. the origin of the name of the Generalife, Granada]</note></item>
+               <item>Alazana. mill of oil.</item>
+               <item>Albacara a salient tower</item>
+               <item>Albardilla. coping tiles</item>
+               <item>Albanar<note type="editorial"><bibl>Llaguno y Amírola</bibl>: 'Albañal' or 'Albañar'</note> = conduits Almohadas. piedras de silleria resaltadas en los
+                  edificios.<note type="translation">ashlar stones, sticking out of buildings</note></item>
+               <item>Albarrana = atalaya<note type="translation">watchtower</note></item>
+               <item>Alberga = estanque. Dovetower<note type="editorial"><bibl>Llaguno y Amírola</bibl> has 'Alberca': pond (estanque). 'Dovetower' is WG's translation of Llaguno y Amírola's definition of the next word in his list, 'Albergue'.</note></item>
+               <item>Albuhaire laguna also arches with azulejos<note type="editorial"><bibl>Llaguno y Amírola</bibl>: or 'Alboaire': lagoon. 'arches with azulejos' is WG's translation of Llaguno y Amírola's definition of the next word in his list, 'Albohaire'.</note></item>
+               <item>Alcala: castillo<note type="translation">castle</note></item>
+               <item>Alcantara = Puente<note type="translation">Bridge</note></item>
+               <item>Alcatifa centre of pavement</item>
+               <item>Alcaycaria<note type="editorial"><bibl>Llaguno y Amírola</bibl> has 'Alcayceria'</note> bazaar</item>
+               <item>Alcoba alcove</item>
+               <item>Alcolba<note type="editorial"><bibl>Llaguno y Amírola</bibl> has 'Alcolea'</note> little castle</item>
+               <item>Aldaba = ironbolt</item>
+               <item>Alfagia = atrio<note type="translation">atrium</note></item>
+               <item>Alfarda = geometric ceiling</item>
+               <item>Alfarge artesonado de los Techos. El pie de Piedra o ladrillo sobre que se
+                  coloca una cama &amp;c y la misma cama <note type="translation">coffered ceiling. The stone or brick base on which a bed etc is placed and the bed itself.</note>Vide Queens bath Alhambra<note type="editorial">See Queen's bath, Alhambra. This is WG's addition.</note></item>
+               <item>Algar = cavern</item>
+               <item>Algez = gypsum</item>
+               <item>Alhanat = tent</item>
+               <item>Alhania, alcove</item>
+               <item> Alhanga = arch</item>
+               <item>Alicatado = obra de azulejos<note type="translation">azulejo [tile] work</note></item>
+               <item>Alizar ornam<hi rend="superscript">ts</hi> of tiles</item>
+               <item>Aljube Algibe<note type="translation">Cistern</note></item>
+               <item>Algoaza = place to wash</item>
+            </list>
+            <note type="editorial">Selected from longer list in <bibl>Eugenio Llaguno y Amírola,
+                  Noticias de los arquitectos y arquitectura de España..., 4 vols (Madrid: Imprenta
+                  Real, 1829), vol. 1, pp. 243-51.</bibl> Some of WG's definitions are in Llaguno y
+               Amírola's Spanish, others are translated into English or Italian and many are WG's
+               own summaries of Llaguno y Amírola's longer definitions.</note>
+
+         </div>
+      </body>
+
+      <back>
+         <div type="cover">
+            <note> </note>
+         </div>
+         <div type="index"> </div>
+      </back>
+   </text>
+
+</TEI>

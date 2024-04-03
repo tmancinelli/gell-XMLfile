@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <div type="cover">
+            <note> </note>
+         </div>
+         <div type="inlet">
+            <head> </head>
+         </div>
+      </front>
+
+      <body>
+         <div type="spain"> </div>
+         <div type="portugal">
+            <ab> </ab>
+         </div>
+         <div type="reading_notes">
+            <pb facs="#f-182" n="182"/>
+            <fw>21</fw>
+            <label><hi rend="underline">Arabian Spanish names &amp;c</hi></label>
+            <!-- citation starts here -->
+            <note type="arabic" facs="xxx">[Arabic]</note>
+            <!-- deleted:  Gell’s erased first attempt at Maslama al-Majriti’s name -->
+            <note type="arabic" facs="xxx">مسلمه بن أبو القاسم المجريطي<note type="translation">Abu
+                  al-Qasim Maslama ibn Ahmad al-Majriti <note type="editorial">c. 950-1007, scholar
+                     in the Caliphate of Córdoba, from Madrid</note></note></note>
+            <ab>Moslema Ben Ahmad Abul cassem of Madrid</ab>
+            <note type="arabic" facs="xxx">[Arabic]</note>
+            <ab>Madrid or Magrit a little place near Alcala a<hi rend="superscript">o</hi> x<hi
+                  rend="superscript">t</hi> 1087: a<hi rend="superscript">o</hi> Hegira 398<note
+                  type="editorial">1087AD (Casiri has 1007AD), AH 398</note>. Almagrid.</ab>
+            <ab>Leo Afric?<note type="editorial">Leo Africanus, born al-Hasan ibn Muhammad al-Wazzan
+                  al-Fasi (c. 1494 – c. 1554), diplomat and author of Descrittione dell’Africa
+                  (1550). [Description of Africa]</note></ab>
+            <ab><note type="arabic" facs="xxx">بربر <note type="translation">Berber
+                  [Amazigh]</note></note>Barbar: peregrini Pliny. Sabarbares.<note
+                  type="translation">Barbar: strangers[.] Pliny. Sabarbares [an African tribe
+                  mentioned by Pliny]</note></ab>
+            <ab><note type="arabic" facs="xxx">القرطبي</note> Alcorduba Cordova<note
+                  type="translation">Al-Qurtubi <note type="editorial">(1214-1273), renowned scholar
+                     from Córdoba.</note></note></ab>
+            <ab>Ebn Albanna Granatensis in Scientiam Logisticam.</ab>
+            <ab>Abu Isaac Abrahami vulgo Alphardi nobilis Granats. Poema de Haereditate.</ab>
+            <ab>Carmen de Temporum cognitione Ben Schariph Alzabdi Heg. a<hi rend="superscript"
+                  >o</hi>. 601 of Ronda</ab>
+            <note type="translation">Ebn Albanna of Granada, On the Science of Logistics. Abu Isaac
+               Abrahami, commonly called Alphardi, nobleman of Granada, Poem on Inheritance. Poem on
+               examination of the Times, Ben Schariph Alzabdi, AH 601 of Ronda</note>
+            <ab>Vizir Abu Mohamad Ben Omad writes dedicatory oration to Abu Nassar Ismail K<hi
+                  rend="superscript">g</hi>. Granada Heg. a<hi rend="superscript">o</hi>. 761<note
+                  type="editorial">AH 761</note> to The work in artem Numericam of Ben Albanna by
+               Abdelazizi Ali Ben Daud <hi rend="underline">Alhauari</hi><note type="translation">On
+                  the Numerical Art of Ben Albanna (Casiri: i.e. Alhauari's commentary on Ben
+                  Albanna)</note>.</ab>
+            <ab>Apollonius. Eutocii in Archimedis Librum de Sphaera &amp; Cylindro
+                  <metamark>–</metamark><note type="translation">Apollonius. Eutocius on
+                  Archimedes’s Book on the Sphere and the Cylinder</note></ab>
+            <ab>Dioclis de speculis ustoriis<note type="translation">Diocles on burning
+                  mirrors.</note>. Astronomy of Cadi<note type="editorial">Casiri has 'Cadhi'</note>
+               Zadeh commented by Senan Pascha.</ab>
+            <ab>Ammon Geometra<note type="translation">Ammon Geometry</note>. Theodosius Ariston,
+               Aristarchus. Aimonius. Philemon. Plato. <hi rend="underline">Erhotus</hi> or
+               Aratus</ab>
+            <ab> Eutocius or Eutharchius. Mathem. Alexandrinus. written<note type="translation"
+                  >Eutocius of Alexandria, Mathematics. written</note>
+               <note type="arabic" facs="xxx">اطزيقوس<note type="editorial">i.e. his name in
+                     Arabic</note></note>.</ab>
+            <note type="editorial">From <bibl>Casiri, Bibliotheca, vol. 1, pp. 378-83.</bibl></note>
+            <!-- citation starts here -->
+            <ab>Lexicons numberless. Ebn Seira XXIV books words senses origins. Proverbs. Fables
+               Locman. Philosophy mathematics. medicine. <choice>
+                  <abbr>Nat’</abbr>
+                  <expan>Natural</expan>
+               </choice> History Harun Almansor &amp; Almaimon faventes<note type="translation"
+                  >favoured <note type="editorial">Casiri explains that Harun, Almansor and Almaimon
+                     enjoyed the favour of leaders.</note></note>.</ab>
+            <ab>Only in Arabic Apollonii Pergaei Conicorum libri quinque<note type="translation"
+                  >Five books by Apollonius of Perga on Cones.</note>.</ab>
+            <ab>Galeni 2<hi rend="superscript">d</hi> Commentaries 2 3 4 &amp; 6 on Hippocrates
+               Epidemiorum librum secundum.<note type="translation">Galen's 2nd Commentaries 2, 3, 4
+                  and 6 on Hippocrates's second book on Epidemics.</note> &amp; other books only in
+               Escurial.</ab>
+            <ab>Astronomy Abi Schaker Granatensis<note type="translation">of Granada</note></ab>
+            <ab>Mathem’ Ebn Albanna Granatensis</ab>
+            <note type="translation">Mathematics, Ebn Albanna of Granada</note>
+            <note type="editorial"><bibl>From Casiri, Bibliotheca, vol. 1, pp. x-xiii.</bibl></note>
+            <!-- citation starts here -->
+            <ab>Khogenda a great city 7 days from Samarcand on river Sihun. gardens &amp;
+               fruits.</ab>
+            <ab><choice>
+                  <abbr>Moh’</abbr>
+                  <expan>Mohamad</expan>
+               </choice> Ben Schariph Alhasbati Logic Granada.</ab>
+            <ab>Hortus or Ortus disputationum Fakhreddin Razaeus<note type="translation">The Origin
+                  of Debates, Fakhreddin Razaeus [Casiri has 'vulgo Rasis': commonly called
+                  Rasis]</note> who wrote against a heretic who gave God eyes &amp; body. Ahmad Ben
+               Hayet a Motazelite said <choice>
+                  <abbr>X<hi rend="superscript">t</hi></abbr>
+                  <expan>Christ</expan>
+               </choice> had really come in body &amp;was the Verbum aeternum &amp; incarnatum.</ab>
+            <note type="editorial">From <bibl>Casiri, Bibliotheca, vol. 1, pp. 197-8.</bibl></note>
+
+            <cb/>
+            <!-- citation starts here -->
+            <ab>Jahia &amp; Moysem Maimonidem genere Judaeum<note type="translation">Moses
+                  Maimonides of the Jewish race</note> whose advice caused Ferdinand IV <choice>
+                  <abbr>K.S.</abbr>
+                  <expan>King of Spain</expan>
+               </choice> to drink plentifully of cold iced water in a fever. Works in Escurial
+               preserved by Moors.</ab>
+            <ab>Abu Mohamad Abdalla of Corduba Equestris Theatri spectacula.<note type="translation"
+                  >Equestrian Theatre.</note></ab>
+            <ab>Isa Ben Ali Hassan of Granada. Hawking &amp; hunting.</ab>
+            <ab>Geography &amp; Travels of all sorts. Chronology.</ab>
+            <ab>Abu Abdallah alkatib Granatensis<note type="translation">of Granada</note> hist of
+                  K<hi rend="superscript">g</hi>s of Spain or Caliphs of Spain &amp; Africa.</ab>
+            <ab>Lives of famous men &amp; horses even &amp; <choice>
+                  <abbr>K<hi rend="superscript">ts</hi></abbr>
+                  <expan>Knights'</expan>
+               </choice>. arms habits &amp; customs by Abu Abdallah Mohamad Ben Zaiad of
+               Corduba.</ab>
+            <ab>Dict hist Scientiam Moh Abu Abd<hi rend="superscript">ah</hi> Granatensis</ab>
+            <note type="translation">Historical Dictionary of Knowledge [Casiri has 'Historica
+               Scientiarum Dictionaria'] by Mohamad Abu Abdallah [Casiri has 'Abdalla'] of
+               Granada</note>
+            <note type="editorial">From <bibl>Casiri, Bibliotheca, vol. 1, pp.
+               xii-xvi.</bibl></note>
+            <!-- citation starts here -->
+            <ab>De Vini laudibus<note type="translation">In Praise of Wine</note> Abu Isaac Abrahim
+               with 355 Epigrams in praise of Wine <metamark>–</metamark> Drinking jokes
+               &amp;c.</ab>
+            <ab>Liber Vitae perennis a<hi rend="superscript">o</hi> 432 Heg died at Albusia inter
+               Bokhora &amp; Samarkand.<note type="editorial">Book of Everlasting Life, AH 432, died
+                  at Albusia [Casiri has 'Aldabusia'] between Bukhara and Samarkand.</note></ab>
+            <ab>Also a very free Amantis confabulationem<note type="translation">Lover’s
+                  conversation</note> very witty &amp;c</ab>
+            <ab>Anatomy of Women &amp;c</ab>
+            <ab>Liber elegantiarum Delectus.<note type="translation"/></ab>
+            <note type="editorial">From <bibl>Casiri, Bibliotheca, vol. 1, pp. 163-5.</bibl></note>
+            <!-- citation starts here -->
+            <ab>Dictionary by Moh’ Ben Abdelmalek of Xeres.</ab>
+            <ab>Codex Arabic Hebrew latin by Johannes Leo Granaten’ once Alhassam Ben Mohamad
+               Alvazan Fessanus. Heg 930. 15243 Xti Leo Africanus, he was of the noble family of
+                  Zaidi<metamark>–</metamark>tarum Granatae.</ab>
+            <ab>Elmansor of Rasis ob 320 Heg. Medicina Mansoriana.</ab>
+            <note type="translation">Dictionary by Mohamed Ben Abdelmalek of Jerez de la Frontera.
+               Codex Arabic Hebrew Latin by Joannes Leo of Granada, once al-Hassan ibn Muhammad
+               al-Wazzan al-Fasi, AH 930, 1523/4AD, Leo Africanus, he was of the noble family of
+               Zaidi of Granada. Elmansor of Rasis died AH 320, Mansorian Medicine.</note>
+            <note type="editorial">From <bibl>Casiri, Bibliotheca, vol. 1, pp. 169,
+               172-3.</bibl></note>
+            <ab>Dict Graeco Arabicum<note type="translation">Greek-Arabic Dictionary</note></ab>
+            <!-- citation starts here -->
+            <ab>Analysis <metamark>–</metamark> Argumentation. Conditiones certae fidei.</ab>
+            <ab>Doct Razaeus Sapientiae Arcana. Logic. Definitions Syllogisms. Tractatus
+               Solaris.</ab>
+            <ab>Mysteriorum Thesaurus.</ab>
+            <note type="translation">Analysis - Argumentation. Certain [i.e. sure] conditions of
+               faith. The learned Razaeus, Secrets of Wisdom. Logic. Definitions Syllogisms.
+               Treatise on the Sun. Dictionary of Mysteries.</note>
+            <note type="editorial">From <bibl>Casiri, Bibliotheca, vol. 1, pp. 178-81.</bibl></note>
+
+            <metamark/>
+            <note type="arabic" facs="xxx"><note type="translation">The great Quran interpretation
+                  book</note>كتاب تفسير القران الكبي</note>
+            <metamark/>
+
+            <!-- citation starts here -->
+            <ab>Fax Luminum – Porphyrius Syrus Tyri. Ammonius</ab>
+            <ab>From Sevilla many. Abulsat Omiah Ben Abdelaziz Botany.</ab>
+            <ab>Veritatis instructio Moh’ Ebn Almoaidi of Cordova wrote it at Granada Heg 798 X<hi rend="superscript">t</hi>
+               1395.</ab>
+            <ab>Ali Alkateb logic Granada 1395 or 798.</ab>
+            <ab>Aristotelis Organum Syriac.</ab>
+            <note type="translation">Torch of Lights – Porphyry the Syrian of Tyre. Ammonius From
+               Sevilla many. Abulsat Omiah Ben Abdelaziz Botany. Lesson of Truth, Mohamad Ebn
+               Almoaidi [Casiri has 'Alomaidi'] of Cordoba wrote it at Granada in AH 798, 1395AD.
+               Ali Alkateb logic Granada 1395 or 798. Aristotle, Organon Syriac [Casiri lists a
+               Syriac codex containing Aristotle’s Organon]</note>
+            <note type="editorial">From <bibl>Casiri, Bibliotheca, vol. 1, pp. 184-5, 189,
+                  193-5.</bibl></note>
+
+         </div>
+      </body>
+
+      <back>
+         <div type="cover">
+            <note> </note>
+         </div>
+         <div type="index"> </div>
+      </back>
+   </text>
+
+</TEI>

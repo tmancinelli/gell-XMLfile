@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <div type="cover">
+            <note> </note>
+         </div>
+         <div type="inlet">
+            <head> </head>
+         </div>
+      </front>
+
+      <body>
+         <div type="spain">
+         </div>
+         <div type="portugal">
+            <ab> </ab>
+         </div>
+         <div type="reading_notes">
+            <pb facs="#f-186" n="186"/>
+            <fw>17</fw>
+            <ab>vid p38 history early<note type="editorial">WG's page 38 of this notebook (pag 167): brief history of the Goths in Spain.</note></ab>
+            
+            <!-- citation starts here and ends at bottom--><label><hi rend="underline">Leon &amp; Asturias</hi></label>
+            <list><item>718 Pelagius</item>
+               <item>737 Favila</item>
+               <item>739 Alfonso S. Catholic</item>
+               <item>757 Froila</item>
+               <item>768 Aurelio</item>
+               <item>774 Silo</item>
+               <item>783 Mauregat Usurp</item>
+               <item>788 Bermudas 1<hi rend="superscript">st</hi>.</item>
+               <item>791 Alfonso I<note type="editorial">Actually Alfonso II</note> Chaste</item>
+               <item>842 Ramirus I</item>
+               <item>850 Ordogno I</item>
+               <item>886 Alfonso the Great</item>
+               <item>911 Garcias</item>
+               <item>914 Ordogno II</item>
+               <item>923 Froila II</item>
+               <item>924 Alfonso IV</item>
+               <item>927 Ramirus II</item>
+               <item>950 Ordogno III</item>
+               <item>955 Ordonio usurp</item>
+               <item>955 Sancho the Big</item>
+               <item>967 Ramirus III</item>
+               <item>982 Bermudus II</item>
+               <item>999 Alfonso V</item>
+               <item>1027 Bermudus III</item></list>
+            
+            <label>Counts of Barcellona</label>
+            <list><item>801 Bera</item>
+               <item>820 Bernard</item>
+               <item>844 Alderan</item>
+               <item>858 Wifred</item>
+               <item>872 Salaman</item>
+               <item>880 Wifred 2</item>
+               <item>911 Miran</item>
+               <item>928 Seniofred</item>
+               <item>967 Borellus</item>
+               <item>993 Raymond I</item>
+               <item>1017 Berenger I</item>
+               <item>1035 Raymond 2</item>
+               <item>1067 Raymond 3</item>
+               <item>1081 Raymond 4 Berenger</item>
+               <item>1131 Raymond Beren<note type="editorial">Berenger</note> V. <choice><abbr>ob</abbr><expan>obiit (died)</expan></choice> 1162 when county fell to Arragon</item></list>
+            
+            <ab>moors had almost all Spain in 712 but lost Asturias in 716</ab>
+            <list><item>Salvarba in 750</item>
+               <item>Catalonia in 820</item>
+               <item>Leon in 923</item>
+               <item>Castile in 1073</item>
+               <item>Aragon in 1118</item>
+               <item>Cordova &amp; Jaen 1236</item>
+               <item>Seville 1248</item>
+               <item>Valencia 1264</item>
+               <item>Murcia 1265</item>
+               <item>Granada 1492.</item>
+               <item>Moors invented paper.</item></list>
+            
+            <label>Castile</label>
+            <list><item>1035 Ferdinand I</item>
+               <item>1037 Kings of Leon Asturias</item>
+               <item>1065 Alfonso VI &amp; I</item>
+               <item>1070 Sancho II</item>
+               <item>1072 Alfonso 7</item>
+               <item>1109 Uraca &amp; Alfonso 8</item>
+               <item>1157 Sancho III</item>
+               <item>1158 Ferdinand 2</item>
+               <item>1188 Alfonso 9</item>
+               <item>1214 Henry I</item>
+               <item>1217 Ferdinand 3</item>
+               <item>1252 Alfonso X wise</item>
+               <item>1284 Sancho 4</item>
+               <item>1295 Ferdinand 4</item>
+               <item>1312 Alfonso 11</item>
+               <item>1350 Peter Cruel</item>
+               <item>1369 <choice><abbr>Hen.</abbr><expan>Henry</expan></choice> 2</item>
+               <item>1379 John I</item>
+               <item>1390 <metamark>–</metamark> Hen. 3</item>
+               <item>1406 John 2</item>
+               <item>1454 Hen IV</item>
+               <item>1474 <choice><abbr>Ferdin</abbr><expan>Ferdinand</expan></choice> V &amp; Isabella</item>
+               <item> 1504 Joanna &amp; Philip.</item></list>
+            
+            <label>Aragon</label>
+            <list><item>1035 Ramirus I</item>
+               <item>1070 Sancho I</item>
+               <item>1094 Peter I</item>
+               <item>1104 Alfonso I</item>
+               <item>1134 Ramirus 2</item>
+               <item>1137 Pelonille &amp; Raymond Berenger</item>
+               <item>1162 Raymond Alfonso 2</item>
+               <item>1196 Peter 2</item>
+               <item>1213 James Victorius</item>
+               <item>1276 Peter 3</item>
+               <item>1285 Alfonso 3</item>
+               <item>1291 James 2</item>
+               <item>1327 Alfonso 4</item>
+               <item>1336 Peter 4</item>
+               <item>1387 John I</item>
+               <item>1395 Martin</item>
+               <item>1412 Ferdinand</item>
+               <item>1416 Alfonso V</item>
+               <item>1458 John 2</item>
+               <item> 1479 Ferdin 2 nupt Isabel of Castilla<note type="editorial">Ferdinand II married Isabel of Castile</note></item>
+            <item>1516 Charles Ist King of Spain.</item></list>
+            
+            <label>Navarre</label>
+            <list><item>831 Aznar Count</item>
+               <item>836 Sancho</item>
+               <item>853 Garcia<note type="editorial"><bibl>Brewster</bibl> has 'Garcias'</note></item>
+               <item>857 Garcias Ximenes</item>
+               <item> 880 Fortunio Ist King</item>
+               <item>905 Sancho I</item>
+               <item>926 Garcias I</item>
+               <item>978 Sancho II</item>
+               <item>994 Garcias 2</item>
+               <item>1000 Sancho Great 3</item>
+               <item>in 1512 subject to Castille.</item><note type="editorial"><bibl>Brewster</bibl> has monarchs for intervening years, omitted by WG.</note></list>
+            <note type="editorial">From <bibl>Brewster (ed.), Edinburgh Encyclopaedia, vol. 18, pp. 280-1.</bibl>
+               
+               WG has replaced 'ph' with 'f' in the Spanish names.</note>
+            
+         </div>
+      </body>
+
+      <back>
+         <div type="cover">
+            <note> </note>
+         </div>
+         <div type="index"> </div>
+      </back>
+   </text>
+
+</TEI>

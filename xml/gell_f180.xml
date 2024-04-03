@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <div type="cover">
+            <note> </note>
+         </div>
+         <div type="inlet">
+            <head> </head>
+         </div>
+      </front>
+
+      <body>
+         <div type="spain"> </div>
+         <div type="portugal">
+            <ab> </ab>
+         </div>
+         <div type="reading_notes">
+            <pb facs="#f-180" n="180"/>
+            <fw>23</fw>
+            <label>NAMES OF MOORISH TOWNS K<hi rend="superscript">g</hi>dom of GRANADA</label>
+            <!-- citation starts here -->
+            <ab><note type="arabic" facs="xxx">القبذاق</note> Alcabzac = Alcaudete</ab>
+            <ab><note type="arabic" facs="xxx">شلوينيه</note> Schalubaniat = Salobreña</ab>
+            <ab><note type="arabic" facs="xxx">المنكب</note> Almankab = Almuñecar</ab>
+            <ab><note type="arabic" facs="xxx">قيشاطة أو قيجاطة</note> Kigiatha = Quesada</ab>
+            <ab><note type="arabic" facs="xxx">البش</note> Albasch = Helvas</ab>
+            <ab><note type="arabic" facs="xxx">حصن الزهر</note> Hosnalzahr = Peñaflor</ab>
+            <ab><note type="arabic" facs="xxx">قلعه حماد</note> Kalathamad = Alamedilla</ab>
+            <ab><note type="arabic" facs="xxx">فحص البلوط</note> Fahsalballuth<note type="editorial"
+                  >Casiri has ‘Tahsalballuth’</note> = Llano de las Bellotas.</ab>
+            <ab><note type="arabic" facs="xxx">غزوة عقاب</note> Prelium Acab<note type="editorial"
+                  >Casiri has ‘Praelium’</note>. La batalla de las Navas<note type="translation">The
+                  Battle of Al-Uqab, or of Las Navas de Tolosa, 1212</note></ab>
+            <note type="editorial">From Casiri, Bibliotheca, vol. 1, p. vii.</note>
+
+            <!-- citation starts here -->
+            <ab><note type="arabic" facs="xxx">طبرناش</note> = Tabernas<note type="editorial">in
+                  Almería province</note> from Ebn Alkhatib Mohamad</ab>
+            <ab>Ebn Abdalla of Corduba</ab>
+            <ab>Cronographer to King of Granada &amp;c</ab>
+            <ab><note type="arabic" facs="xxx">زلاية</note> Zali<note type="editorial">Zalia’s
+                  Castle in Alcaucín, Málaga province</note>a</ab>
+            <ab><note type="arabic" facs="xxx">برجة</note> Berja<note type="editorial">in
+                  Almería</note></ab>
+            <ab><note type="arabic" facs="xxx">فيرة</note> Vera<note type="editorial">in
+                  Almería</note></ab>
+            <ab><note type="arabic" facs="xxx">[Arabic]</note> Moxacra a new town or <note
+                  type="arabic" facs="xxx">جديد<note type="editorial">i.e. 'jadid' (new), which is
+                     in the original Arabic but not differentiated in Casiri's Latin translation (so
+                     more evidence that WG is reading Arabic by this point).</note></note>
+               gedit</ab>
+            <ab><note type="arabic" facs="xxx">أوريا</note> Cotoria</ab>
+            <ab><note type="arabic" facs="xxx">[Arabic]</note> Purchena</ab>
+            <ab><note type="arabic" facs="xxx">أوريا</note> Oria<note type="editorial">in
+                  Almería</note></ab>
+            <ab><note type="arabic" facs="xxx">[Arabic]</note> Baza</ab>
+            <ab><note type="arabic" facs="xxx">[Arabic]</note> Huescar</ab>
+            <ab><note type="arabic" facs="xxx">[Arabic]</note> Andarax. serico et auro<note
+                  type="translation">silk and gold</note></ab>
+            <ab><note type="arabic" facs="xxx">[Arabic]</note> Schealesch vulgo Sal</ab>
+            <ab><note type="arabic" facs="xxx">[Arabic]</note> Finana</ab>
+            <ab><note type="arabic" facs="xxx">[Arabic]</note> Alhama [Arabic: same]</ab>
+            <ab><note type="arabic" facs="xxx">[Arabic]</note> Salaha</ab>
+            <ab><note type="arabic" facs="xxx">[Arabic]</note> Albera Olbera</ab>
+            <ab><note type="arabic" facs="xxx">[Arabic]</note> Montefrio</ab>
+            <ab><note type="arabic" facs="xxx">[Arabic]</note> Loxa</ab>
+            <ab><note type="arabic" facs="xxx">[Arabic]</note> Archidona</ab>
+            <ab><note type="arabic" facs="xxx">[Arabic]</note> Schardar</ab>
+            <ab><note type="arabic" facs="xxx">[Arabic]</note> Antiquera</ab>
+            <ab><note type="arabic" facs="xxx">[Arabic]</note> Requena</ab>
+            <ab><note type="arabic" facs="xxx">[Arabic]</note> Carthama</ab>
+            <ab><note type="arabic" facs="xxx">[Arabic]</note> Ronda</ab>
+            <note type="editorial">From <bibl>Casiri, Bibliotheca, vol. 1, pp. 161-2.</bibl> The
+               whole list of places is in a quotation from Ebn Alkhathib Mohamad Ebn Abdalla, given
+               in Latin translation and a footnote for the Arabic original.(The towns are listed in
+               a longer passage in Arabic, undifferentiated from surrounding text, so WG can
+               obviously read the language somewhat by this point)</note>
+
+
+            <ab>Al Balisi an author of Velez<note type="editorial">[Vélez-Málaga]</note>
+               <note type="arabic" facs="xxx">باليس</note><note type="editorial"><bibl>Casiri,
+                     Bibliotheca, vol. 1, p. 144.</bibl></note></ab>
+
+            <ab>Orihuela Arbela <note type="arabic" facs="xxx">[Arabic]</note><note type="editorial"
+                     ><bibl>Casiri, Bibliotheca, vol. 1, p. 315.</bibl></note></ab>
+
+            <ab><note type="arabic" facs="xxx">القرطبي</note> Alcorduba<note type="editorial"
+                  >Casiri, Bibliotheca, passim. Al-Qurtubi (1214-1273), renowned scholar from
+                  Córdoba.</note></ab>
+
+            <cb/>
+            <!-- citation1 starts here -->
+            <ab>Vadi Alhagera = Guadalaxara.</ab>
+            <ab>a book there. 1425 nativitatis<note type="translation">Christmas 1425.</note>.</ab>
+            <ab><!-- citation2 starts here -->[Arabic] 1 - [Arabic] 2 - [Arabic] 3 - [Arabic] 4 -
+               [Arabic] 5 - [Arabic] 6 - [Arabic] 7 - [Arabic] 8 - [Arabic] 9 - [Arabic] 10 -
+               [Arabic] 20 - [Arabic] 30 - [Arabic] 40 - [Arabic] 50 - [Arabic] 60 - [Arabic] 70 -
+               [Arabic] 80 - [Arabic] 90 - [Arabic] 100 - [Arabic] 200 - [Arabic] 300 - [Arabic] 400
+               - [Arabic] 500 - [Arabic] 600 - [Arabic] 700 - [Arabic] 800 - [Arabic] 900 - [Arabic]
+               1000 - [Arabic] 1000. A work of Avicenna written at Vadi Alhagera (copied).<note
+                  type="editorial"><!-- this is citation2 --><bibl>Casiri, Bibliotheca, vol. 1, pp.
+                     295</bibl>:‘Arabes itaque, præter numeros Indicos, quos Europæi Arabicos
+                  vocitant, literas pro numeris adhibent ut ceteri Orientales’. <note
+                     type="translation">The Arabs therefore, besides Indian numerals, which the
+                     Europeans call Arabic, use letters for numerals like the rest of the
+                     Orientals.</note> Casiri is referring to Abjad numerals or hisab al-jummal
+                  (sentence arithmetic).</note></ab>
+            <note type="editorial"><!-- this is citation1 --><bibl>From Casiri, Bibliotheca, vol. 1,
+                  pp. 295-6.</bibl></note>
+            <ab><!-- citation starts here -->A Galen also written in Murcia<note type="editorial"
+                     ><bibl>Casiri, Bibliotheca, vol. 1, p. 240.</bibl></note></ab>
+            <ab>Arab &amp; Turkish nomenclature.</ab>
+
+            <lg>
+               <l><!-- citation starts here -->Avicenna Testamentum ad Medicos begins</l>
+               <l>احفظ بني وبنتي</l>
+               <l>Observa fili mi praecepta mea</l>
+            </lg>
+            <note type="editorial"><bibl>Casiri, Bibliotheca, vol. 1, pp. 312-13.</bibl>
+               <note type="translation"><lg>
+                     <l>Avicenna's Testament to Physicians begins</l>
+                     <l>[In arabic]: ‘my son and my daughter’</l>
+                     <l>Keep my commandments, my son</l>
+                  </lg></note>
+            </note>
+
+            <ab><!-- citation starts here --> Book at Toledo 26 april ao X<hi rend="superscript"
+                  >t</hi> 1295<note type="editorial">1295AD</note> a Jew Doctor called to K<hi
+                  rend="superscript">g</hi> Ferdinand son of Sanctii Regis<note type="translation"
+                  >King Ferdinand, son of the Holy King</note> at midnight found him in violent
+               fever gave a quantity of cold water. next day well after sleep.<note type="editorial"
+                  >Abridged translation from Latin of <bibl>Casiri, Bibliotheca, vol. 1, p.
+                     315.</bibl></note></ab>
+
+            <!-- citation starts here -->
+            <ab><note type="arabic" facs="xxx">جاموس </note> Bubalus<note type="translation"
+                  >buffalo</note></ab>
+            <ab><note type="arabic" facs="xxx">بقر </note> Bos<note type="translation">cow [Arabic
+                  is ‘cattle’]</note></ab>
+            <ab><note type="arabic" facs="xxx">تور </note> Taurus<note type="translation">bull
+                  [actually ثور]</note></ab>
+
+            <ab><note type="arabic" facs="xxx">خيل</note> equus<note type="translation"
+               >horse</note></ab>
+            <ab><note type="arabic" facs="xxx">فيل</note> elephas<note type="translation"
+                  >elephant</note></ab>
+            <ab><note type="arabic" facs="xxx">جمل</note> camelus<note type="translation"
+                  >camel</note></ab>
+
+            <ab><note type="arabic" facs="xxx">خنزير</note> porcus<note type="translation"
+                  >pig</note></ab>
+            <ab><note type="arabic" facs="xxx">حمار</note> asinus<note type="translation"
+                  >donkey</note></ab>
+            <note type="editorial">Casiri, Bibliotheca, vol. 1, p. 318.</note>
+
+            <!-- citation starts here -->
+            <ab>Taki: fearing God</ab>
+            <ab>Zaki: pure: innocent</ab>
+            <ab>Mogaieth Eddin = propagator of the Faith</ab>
+            <ab>Emir al moumenin</ab>
+            <note type="editorial">From <bibl>Barthélemy d'Herbelot, Bibliothèque orientale...
+               (Maastricht, 1776), pp. 607, 609, passim</bibl>. WG may be using another of many editions
+               since 1697. WG uses same spellings and translations (translated in turn from French
+               by WG).</note>
+
+
+         </div>
+      </body>
+
+      <back>
+         <div type="cover">
+            <note> </note>
+         </div>
+         <div type="index"> </div>
+      </back>
+   </text>
+
+</TEI>

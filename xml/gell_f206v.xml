@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <div type="cover">
+            <note> </note>
+         </div>
+         <div type="inlet">
+            <head> </head>
+         </div>
+      </front>
+
+      <body>
+         <div type="spain"> </div>
+         <div type="portugal">
+            <ab> </ab>
+         </div>
+         <div type="reading_notes">
+            <pb facs="#f-206v" n="206v"/>
+            <figure facs="xxx">
+               <note type="editorial_label">Pencil drawing: gate<note type="editorial">WG has here
+                     copied part of David Roberts's illustration in <bibl>Thomas Roscoe, The Tourist
+                        in Spain. Granada (London, 1835), pp. 172-3: 'Tower of the Seven
+                        Vaults'.</bibl></note></note>
+               <label>Puerta de siete Suelos<!-- in pencil --><note type="editorial">Gate of the
+                     Seven Floors (or Vaults, in Roberts's caption), Alhambra, Granada. Blown up by
+                     the French in 1812, soon after WG's visit, and rebuilt in the twentieth century
+                     from illlustrations.</note></label>
+            </figure>
+            <ab>By this gate King went to deliver keys to K<hi rend="superscript">g</hi> of Spain.
+               went over hill of Los Martires and garden of present Convent. Then into ravine by
+               Xenil to mosk now Hermitage of St Sebastian. Here is the record in the wall. Then
+               went to his family across the Vega by hill of Tears so to that called the Moors last
+                  sigh.<note type="editorial">Very similar to <bibl>[Irving], Alhambra, vol. 1, pp. 170-2.</bibl>
+                  Although WG may have taken the same route as Irving, who traces that of Boabdil
+                  [Muhammad XII of Granada], WG's observations here match Irving's exactly, with a
+                  couple of variations in spelling: WG changes 'Los Martyros' to 'Los Martires' and
+                  'mosque' to 'mosk'. WG is probably drawing on a close paraphrasing of Irving's
+                  passage, with the same spelling of <bibl>'Los Martires', in Roscoe, Tourist in Spain.
+                  Granada, pp. 173-5.</bibl></note></ab>
+
+
+         </div>
+      </body>
+
+      <back>
+         <div type="cover">
+            <note> </note>
+         </div>
+         <div type="index"> </div>
+      </back>
+   </text>
+
+</TEI>

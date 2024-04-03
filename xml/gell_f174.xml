@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface xml:id="zone_Page_174">
+         <graphic url="https://iiif.bsr.ac.uk/iiif/2/GELL-VI%2Fwg_06_174.tif/full/full/0/default.jpg"/>
+         <zone points="212,2692 348,2692 359,2774 206,2774" xml:id="zone_Page_174_353a7a5c-3fb5-4141-ac7d-c8efb23bc865"/> <!-- symbol: triangle -->
+         <zone points="1370,4156 1544,4150 1550,4264 1370,4270" xml:id="zone_Page_174_8407c676-4ef6-4c43-a05c-a5e53e5fae25"/> <!-- symbol: asterisk -->
+         <zone points="2453,4041 2594,4031 2632,4156 2442,4156" xml:id="zone_Page_174_18d2761b-04a1-4499-9a6d-1c7261d56854"/> <!-- symbol: triangle -->
+      </surface>
+   </facsimile>
+   <text>
+      <front>
+         <div type="cover">
+            <note> </note>
+         </div>
+         <div type="inlet">
+            <head> </head>
+         </div>
+      </front>
+
+      <body>
+         <div type="spain"> </div>
+         <div type="portugal">
+            <ab> </ab>
+         </div>
+         <div type="reading_notes">
+            <pb facs="#zone_Page_174" n="174"/>
+            <fw>31</fw>
+            <!-- possible anchor here (marks the point where starts the translation) -->
+            <ab>Vetica, ossonoba, Egitania, Colimbiria, Beseo, Lamico, Caliabria, Salamantica,
+               Abela, Elbora, Iabora, Cauria y otros.</ab>
+            <ab>4<hi rend="superscript">ta</hi> Provincia de Saracosta antes Celtiberia, montes de
+               Ercabica y donde nace el rio Tajo, ambos lados del Ebro hasta dentro los montes de
+               Albortat y Albaskenzes. sus ciudades Saracusta, Tarracona, Gerunda, Barciliona,
+               Egara, Empuria. Ausona, Urgelo. Lerida. Tortusa. Wesca. Tutila. Auca. Calahorra.
+               Bambolona. Tarazona. Barbastar. Acoscante, Amaya. Jacca, Segia y otras.</ab>
+            <ab>5<hi rend="sueprscript">ta</hi> Narbona que esta en tierras de Afranc. desde la
+               falda oriental de los montes de Albortat, como descienden las vertencias hacia el mar
+               de Damasco, entre los montes y la costa del mar hasta el rio de la ciudad Nemauso que
+               entra en el rio Rodano. sus ciudades Narbona, Nemauso. Macalona. Lotuba. Elena y
+               otras.</ab>
+            <note type="translation">[... from previous page ...] Vetica, Ossonoba, Egitania,
+               Colimbiria [Coimbra], Beseo, Lamico, Caliabria, Salamantica [Salamanca], Abela,
+               Elbora, Iabora, Cauria, and others [Conde: 'otras']. 4th Province of Saracosta
+               [Zaragoza], formerly Celtiberia, [from the] mountains of Ercabica and [i.e. to] the
+               source of the river Tagus, on both sides of the [river] Ebro up to the Albortat
+               [Pyrenees] and Albaskenzes [Basque] mountains. Its cities Saracusta [Zaragoza],
+               Tarracona [Tarragona], Gerunda, Barciliona [Barcelona], Egara, Empuria, Ausona,
+               Urgelo, Lérida, Tortusa, Wesca, Tutila, Auca, Calahorra, Bambolona, Tarazona,
+               Barbastar, Acoscante, Amaya, Jacca, Segia and others. 5th [province] Narbona
+               [Narbonne], which is in the lands of France. From the eastern side of the Albortat
+               mountains [the Pyrenees], as they descend the slopes [Conde: 'vertientes'] towards
+               the sea of Damascus [the Mediterranean], between the mountains and the sea coast to
+               the river of the city of Nemauso [Nîmes], which enters the river Rhone. Its cities
+               Narbona [Narbonne], Nemauso [Nîmes], Macalona, Lotuba, Elena and others. [Conde gives
+               more cities here]</note>
+            <ab>Jusuf sent his son Abderrahman called Abulaswad. with an army of horse &amp; foot to
+               the Afranc frontiers under Ocaili cousin of Samail general of Syria &amp; Suleiman
+               ben Xibeb with Egyptian Troops to keep down the rebels who presumed on the internal
+               feuds of the Moors in Spain.</ab>
+            <metamark/>
+            <ab>O <figure facs="#zone_Page_174_353a7a5c-3fb5-4141-ac7d-c8efb23bc865" type="in_text"><note type="editorial_label">[symbol: triangle]</note></figure> Soliman son of Hixem &amp; Abderahman remaind in the Court of
+               the new Calif Asefa who was very kind to them till Sodaif came to Court &amp; said
+               this</ab>
+            <lg>
+               <l>A tus ojos nunca creas</l>
+               <l>que la apariencia es falaz</l>
+               <l>y tal vez bajo del brazo</l>
+               <l>puede ocultarse gran mal</l>
+               <l>con la espada se repara</l>
+               <l>Que por eso al lado esta</l>
+            </lg>
+            <metamark/>
+            <lg>
+               <l>Y da de mano al azote</l>
+               <l>Porque no suele bastar,</l>
+               <l>Hasta que de todo el orbe</l>
+               <l>en el ambito capaz</l>
+               <l>De gentes de Beni Omeya</l>
+               <l>No quede rastro u señal.</l>
+            </lg>
+            <note type="translation">
+               <lg><l>Never believe your eyes</l>
+                  <l>For appearances are false</l>
+                  <l>And perhaps under the arm</l>
+                  <l>Great evil can be hidden</l>
+                  <l>It can be fixed with the sword</l>
+                  <l>Which is why it is by your side</l></lg>
+               
+               <lg><l>And it gives a hand to the scourge</l>
+                  <l>Because it usually does not suffice</l>
+                  <l>Until of all the world</l>
+                  <l>In the capacious scope</l>
+                  <l>Of the people of Beni Omeya [the Umayyads]</l>
+                  <l>There will remain no trace or sign.</l></lg></note>
+            <ab>When the Calif heard this he ordered them both to be slain. 90 Knights of the Omeya <note type="translation">Umayyad</note>
+               family had fled to the court of Abdala ben Aly – Asefah’s uncle, They were going to
+               dinner with him when a liberto <note type="translastion">freedman</note>of the Beni Haxiam came into the hall with other
+               verses <note type="editorial">Conde reproduces these verses as well</note>, so that Abdala had them all killed on the spot. Tables were placed over them
+               &amp; the company eat over them still groaning: very pleasantly <note type="editorial">WG's comment - not in Conde</note>. then dug up the dead
+               Califs at Damascus &amp; found Hixem intire whom he first impaled &amp; then burned.
+               Soliman ben Aly the other uncle <note type="editorial">of the caliph, Asefah</note> did the same to the Omeyas<note type="translation">Umayyads</note> &amp; gave them to the
+               dogs till none remained. The verses mentioned Abdelxiamsi the original stock of
+               Omeyas also Alhusein ancestor of Asefah, killed by Jezid &amp; his body dragged &amp;
+               trampled by horses in streets. also Zaydi whose body Hixem impaled. also Ibrahim
+               brother of Asefah who died in prison Vide verses some of them - <figure type="in_text" facs="#zone_Page_174_8407c676-4ef6-4c43-a05c-a5e53e5fae25"><note type="editorial_label">[symbol:
+               asterisk]</note></figure><note type="editorial">See verses some of them - Linking to asterisk on pag 176, below (WG's page 27).</note></ab>
+
+            <cb/>
+            <metamark/>
+            <ab>The Calif Meruan the last of the Omeyas<note type="translation">Umayyads</note></ab>
+            <ab>The Caudillo<note type="translation">Leader, Commander</note> Nasir ben Seyar sent him advice of a rebellion thus a<hi rend="superscript">o</hi> 748.
+               Excelentes <note type="editorial">the year (anno) 748. Excellent [verses - Conde's verdict]</note></ab>
+            <lg>
+               <l>Entre la ceniza fria</l>
+               <l>Vi lucir leves centellas</l>
+               <l>Yo temo que han de llegar</l>
+               <l>a ser llamas descubiertas:</l>
+               <l>Si acaso no las apaga</l>
+               <l>con tiempo mano discreta</l>
+               <l>Lo que estas llamas abrasen</l>
+               <l>No sera monte ni selva</l>
+               <l> Sino gente que la vida</l>
+               <l>entre sus incendios pierda</l>
+            </lg>
+            <lg>
+               <l>Dije viendo tal vision</l>
+               <l>con admiracion de verla</l>
+               <l>Oh – quien a menos distancia</l>
+               <l>ahora saber pudiera</l>
+               <l>Si la sucesion de Omeya</l>
+               <l>duerme a sueño suelto ū vela.</l>
+            </lg>
+            <note type="translation">
+               <lg><l>Amid the cold ash</l>
+                  <l>I saw slight sparks shining</l>
+                  <l>I fear that they have to come</l>
+                  <l>To be naked flames:</l>
+                  <l>If perhaps a discreet hand</l>
+                  <l>Does not extinguish them in time</l>
+                  <l>What these flames burn</l>
+                  <l>Will be neither mountain nor forest</l>
+                  <l>But people, who lose their lives</l>
+                  <l>Amid its fires</l></lg>
+               <lg>
+                  <l>I said, watching such a vision</l>
+                  <l>With admiration at seeing it,</l>
+                  <l>Oh - who at a lesser distance</l>
+                  <l>Could now know</l>
+                  <l> Whether the Umayyad succesion</l>
+                  <l>Sleeps soundly or keeps vigil.</l></lg></note>
+            <ab>1<hi rend="superscript">o</hi> Verses</ab>
+            <metamark/>
+            <ab>Merwan lost 30,000 men in battle &amp; the rest were drowned in the Forat
+               (Euphrates), Meruan fled &amp; again fled thro Egipt Saleh took him &amp; sent his
+               head to the new Calif Asefah who occupied the palace of the Califs in Cufa.</ab>
+            <!-- possible anchor here --><ab>arrancado su lengua para embalsamarla una fuina la arrebató castigo divino por las
+               impiedades que Meruan solia decir.</ab>
+            <ab>Asi Saleh referia en su carta y versos que escribio a su primo el nuevo Califa</ab>
+            <lg>
+               <l>Dios te dio triunfo y victoria</l>
+               <l> En las batallas de Egipto</l>
+               <l>Y la muerte a Meruan</l>
+               <l>por temerario e impio.</l>
+               <l>Mira cual su lengua paga</l>
+               <l>cuantos blasfemias ha dicho</l>
+               <l>Pues la arrastra y la devora</l>
+               <l>Vil fuina di cortijo –</l>
+            </lg>
+            <lg>
+               <l>Aqui vimos a las claras</l>
+               <l>Como el Señor del destino</l>
+               <l>A los impios tirános</l>
+               <l>les da su justo castigo</l>
+            </lg>
+            <note type="translation"><ab>Thus Saleh recounted in his letter and verses that he wrote to his cousin, the new Caliph</ab>
+               
+               <lg><l>God gave you triumph and victory</l>
+                  <l>In the battles of Egypt</l>
+                  <l> And death to Meruan</l>
+                  <l>For recklessness and impiety.</l>
+                  <l>See how his tongue pays</l>
+                  <l>For the many blasphemies he has said</l>
+                  <l>Well a vile farm marten</l>
+                  <l>Drags it off and devours it -</l></lg>
+               
+               <lg><l>Here we see clearly</l>
+                  <l>How the Lord of destiny</l>
+                  <l>Gives just punishment</l>
+                  <l>To ungodly tyrants</l></lg></note>
+            <ab>2<hi rend="superscript">d</hi> verses.</ab>
+            <ab>A<hi rend="superscript">o</hi> 749 X<hi rend="superscript">t</hi></ab>
+            <metamark/>
+
+            <ab>Omeyan <note type="translation">Umayyad</note> Califs 14</ab>
+            <ab>Moavia ben Abi Sofian 19 years 3<hi rend="superscript">m</hi> 26<hi rend="superscript">days</hi></ab>
+            <ab>Jezid 3 years 6m. 3<hi rend="superscript">d</hi> Moavia ben Jezid 3 months, 4 Meruan ben Hakem. 9m 10 days. 5
+               Abdelmelic ben Meruan. 13y 4m. 6 el Walid son of Abdelmelic ben Meruan ben Alhakem
+               conquered Spain built fine things in Damascus. reigned 9y.7m. 7<hi rend="superscript">th</hi> Suleiman ben
+               Abdelmelic 4y 8m. 8<hi rend="superscript">th</hi> Omar ben Abdelaziz 2y 5m. 9<hi rend="superscript">th</hi> Jezid ben Abdelmelic 4y 1m. 10
+               Hixem ben Abdelmelic 19y 9m. his sons went to Spain persecuted by the Califas de Beni
+               Alabas &amp; reigned there. 11<hi rend="superscript">th</hi> El Walid ben Jezid ben Abdelmelic ben Meruan reigned
+               1 year 3m. 12 Jezid son of Walid, called el Nakis – 5m 12d. 13<hi rend="superscript">th</hi> Ibrahim ben Walid 4m
+               &amp; was deposed &amp; died in rio Azabo when Calif Meruan lost the battle. 14
+               Meruan son of Muhamad ben Meruan ben Alhakem called el Giadi (Sciite)? 5y 10m 15d,
+               killed in Egypt, Vide <figure type="in_text" facs="#zone_Page_174_18d2761b-04a1-4499-9a6d-1c7261d56854"><note type="editorial_label">[symbol: triangle]</note></figure><note type="translation">See symbol above on same page</note></ab>
+
+         </div>
+      </body>
+
+      <back>
+         <div type="cover">
+            <note> </note>
+         </div>
+         <div type="index"> </div>
+      </back>
+   </text>
+
+</TEI>

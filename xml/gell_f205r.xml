@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <div type="cover">
+            <note> </note>
+         </div>
+         <div type="inlet">
+            <head> </head>
+         </div>
+      </front>
+
+      <body>
+         <div type="spain">
+         </div>
+         <div type="portugal">
+            <ab> </ab>
+         </div>
+         <div type="reading_notes">
+            <pb facs="#f-205r" n="205r"/>
+            <!-- citation starts here -->
+            <ab><choice><abbr>K</abbr><expan>King</expan></choice> Muhamed el Hayzari</ab>
+            <ab>K Aben Ozmin</ab>
+            <ab>K Ismail</ab>
+            
+            <ab>Zelim de Almeria</ab>
+            <ab>King Muley Hacen el Xeque<note type="translation">the Sheikh</note> in Alhambra = Zoraya Walida Sultana</ab>
+            <ab>Abdalla el Zagal Wali of Malaga K<hi rend="superscript">g</hi> of <sic>Granad</sic> went to Africa 1491</ab>
+            <ab>Cid Yahye</ab>
+            <ab>Cid Alnayar</ab>
+            <ab>Muhamad abu abdallah el Zaquir <choice><abbr>KG</abbr><expan>King of Granada</expan></choice></ab>
+            <ab>Albaycin<note type="editorial">Albaicín (neighbourhood of Granada)</note></ab>
+            <ab>El Chico<note type="editorial">This seems to be WG's addition to Conde: i.e. Muhammad XII of Granada, nicknamed Boabdil or 'El Rey Chico' (the Boy King) by the Christians.</note> 1492 ended K<hi rend="superscript">g</hi> of Gran<note type="editorial">King of Granada [he was the last]</note></ab>
+            <note type="editorial">Notes on <bibl>Conde, Historia de la dominacion, vol. 3, especially pp. 215, 226-7, 232, 248.</bibl></note>
+            
+            <!-- from here to bottom in pencil -->
+            <!-- citation starts here -->
+            <ab>Nasar el Ansari</ab>
+            <ab>Juzef</ab>
+            <ab>born 1195 ob 1273 or 591 &amp; 671<note type="editorial">born 1195AD and died (obiit) 1273AD or born AH 591 and died AH 671</note></ab>
+            <ab>abu Abdala Muhamad I <choice><abbr>KG</abbr><expan>King of Granada</expan></choice></ab>
+            <ab>Seville &amp; Cordova taken</ab>
+            <ab>Muhamad 2<hi rend="superscript">d</hi> <choice><abbr>K.G.</abbr><expan>King of Granada</expan></choice> 1273</ab>
+            <note type="editorial">Notes on <bibl>Conde, Historia de la dominacion, vol. 3, pp. 55-8.</bibl></note>
+         </div>
+      </body>
+
+      <back>
+         <div type="cover">
+            <note> </note>
+         </div>
+         <div type="index"> </div>
+      </back>
+   </text>
+
+</TEI>

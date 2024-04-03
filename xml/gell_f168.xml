@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <div type="cover">
+            <note> </note>
+         </div>
+         <div type="inlet">
+            <head> </head>
+         </div>
+      </front>
+
+      <body>
+         <div type="spain">
+            <ab> </ab>
+         </div>
+         <div type="portugal">
+            <ab> </ab>
+         </div>
+         <div type="reading_notes">
+            <pb facs="#f-168" n="168"/>
+            <fw>37</fw>
+            <note type="editorial"><bibl>Conde, Historia de la dominacion, vol. 1, pp. iv-xx. These
+                  are extracts, which Gell sometimes adapts with his own Spanish.</bibl></note>
+            <ab>Conde Dominaci&#243;n de Los Arabes en <rs type="place" ref="#spain"
+               >Espa&#241;a</rs></ab>
+            <ab> El <rs type="person" ref="#king_alfonso_x">Rey Don Alfonso el Sabio</rs> ordeno en el a&#241;o
+                  <date when="1254">1254</date> en <rs type="place" ref="#servilla">Sevilla</rs> estudios
+               de Latin y. Arabigo. En tiempo de <rs type="person" ref="#felipe_iii">Felipe III</rs> fu
+               presa una nave en que iba la libereria de <rs type="person" ref="#muley_zidan">Muley Zidan
+                  Principe de Marruecos</rs>. ma. en <date when="1671">1671</date> un incendio
+               consumia en <rs type="place" ref="#el_escorial">El Escorial</rs> mas de ocho mil volumenes, la
+               mayor parte arabigos. </ab>
+
+            <ab> Arabs at conquest of <rs type="place" ref="#spain">Spain</rs> gave el libre egercicio
+               de su religion la conservacion de sus templos y la seguridad de sus personas, bienes
+               y posesiones. Y la fidelidad de estos en guardar sus pactos y mantener justicia igual
+               con todos las clases sin distincion alguna ganaba la confianza de los pueblos &amp;..
+               Y en estas prendas generoso animo y hospitalidad eran estremados los Arabes de
+               aquellos tiempos. </ab>
+
+            <ab>
+               <rs type="person" ref="#isidoro_beja">Isidoro de Beja</rs> (el Cronicon de) es el unico
+               contemporaneo a la venida de los Arabigos. Hasta el a&#241;o 7<hi rend="superscript"
+                  >mo</hi> de <rs type="person" ref="#jucef_fehri">Jucef el Fehri</rs>
+               <date when="0745">745 J.C.</date>
+            </ab>
+
+            <ab>
+               <rs type="person" ref="#sebastian_of_salamanca">Sebastiano Salmanticense</rs> Cronica <date when="0886"
+                  >886 J.C.</date>
+            </ab>
+
+            <ab>Cronicon <rs type="person" ref="XXX">Abeldense</rs> que a&#241;adi&#242; <rs
+                  type="person" ref="#monk_vigila">el monge Vigila</rs>
+               <date when="0973">973</date>.</ab>
+
+            <ab>Cronicon de <rs type="person" ref="#sampiro_asturiense">Sampiro Asturiense</rs>
+               <date when="0982">982</date></ab>
+
+            <ab>
+               <rs type="person" ref="#pelagio_ovetense">Pelagio Ovetense</rs>
+               <date when="1109">1109</date>.</ab>
+
+            <ab>Anales Complutenses <date when="1119">1119</date>
+               <note facs="#f-xxx" type="marginal"><metamark>–</metamark> In Era <date when="1119"
+                     >MCXXIV</date> die 6. X Kal Novembris die SS. Servandi et Germani, fuit illa
+                  arrancada in <rs type="place" ref="#badajoz">Baduzo</rs>. id est <rs type="place" ref="#sagrajas">Sacralias</rs> et
+                  fuit ruptus <rs type="person" ref="XXX">Rex domnus Adefonsus</rs>.</note></ab>
+
+            <ab>los Compostelanos <date when="1248">1248</date>
+               <note facs="#f-xxx" type="marginal"><metamark>–</metamark> says. Era <date
+                     when="1124">MCXXIV</date> fuit illa die <rs type="place" ref="#badajoz"
+                  >Badajoz</rs></note></ab>
+
+            <ab> Toledanos <date when="1290">1290</date>
+               <note facs="#f-xxx" type="marginal">– Era <date when="1124">1124</date> arrancaron
+                  Moros al <rs type="person" ref="XXX">Rey don Alonzo</rs> en <rs type="place"
+                     ref="#zagalla">Zagalla</rs></note>.</ab>
+
+            <ab>De estos Cronicones y algunos escritos Arabigos form&#242; <rs type="person"
+                  ref="#don_rui_ximenez">Don Rui Ximenez</rs> Arzobispo de <rs type="place" ref="#toledo">Toledo</rs>
+               su historia de los Arabes: He spoke the Muzarabes tongue well. Ao <date when="0539"
+                  calendar="islamic">539</date> de los Arabes <date when="1140">1140 de
+               J.C.</date></ab>
+
+            <ab>La historia que se dice del Moro Rasis, de los Cronicones antiguos con algunas
+               noticias de malos libros arabigos: toda llena de errores y fabulas absurdas. But its
+               geography good. </ab>
+
+            <note type="translation">Conde Domination of the Arabs in <rs type="place" ref="#spain"
+                  >Spain</rs>
+               <rs type="person" ref="#king_alfonso_x">King Don Alfonso the Wise</rs> ordered the study of Latin
+               and Arabic in the year <date when="1254">1254</date> in <rs type="place" ref="#servilla"
+                  >Seville</rs>. In the time of <rs type="person" ref="#felipe_iii">Philip III</rs>, a ship
+               was seized with the library of <rs type="person" ref="#muley_zidan">Muley Zidan, Prince of
+                  Morocco</rs>. <note type="editorial">'ma': not in Conde; WG may be using Italian
+                  for 'but'.</note> in <date when="1671">1671</date> a fire in <rs type="place"
+                  ref="#el_escorial">the Escorial</rs> consumed more than eight thousand volumes, most of
+               them Arabic. Arabs at conquest of <rs type="place" ref="#spain">Spain</rs> gave
+               [Christians] the free exercise of their religion, the preservation of their temples
+               and the security of their people, property and possessions. And their [the Arabs']
+               fidelity in keeping their pacts and maintaining equal justice among all classes
+               without any distinction won the confidence of the peoples &amp;c. And in these
+               garments, generosity of spirit and hospitality, the Arabs of those times were
+               distinguished. <rs type="person" ref="#isidoro_beja">Isidoro of Beja</rs> (the Chronicle of) is
+               the only contemporary to the arrival of the Arabs <note type="editorial">Conde has
+                  'Arabes'</note>. Until the 7th year of <rs type="person" ref="#jucef_fehri">Jucef el
+                  Fehri</rs>
+               <date when="0745">745AD</date>. Chronicle by <rs type="person" ref="#sebastian_of_salamanca">Sebastian of Salamanca</rs>
+               <date when="0886">886AD</date>. <rs type="person" ref="XXX">Albeldensian</rs>
+               Chronicle, compiled by the <rs type="person" ref="#monk_vigila">monk Vigila</rs>
+               <date when="0973">973</date>. Chronicle of <rs type="person" ref="#sampiro_asturiense">Sampiro of
+                  Asturias</rs>
+               <date when="0982">982</date>. <note type="editorial">Chronicle</note> by <rs
+                  type="person" ref="#pelagio_ovetense">Pelagius of Oviedo</rs>
+               <date when="1109">1109</date>. Annals of <rs type="place" ref="#alcala_henares">Alcalá de
+                  Henares</rs>
+               <date when="1119">1119</date> - In the year <date when="1124">1124, on Friday, the
+                  10th day before the calends of November</date>, the day of Saints Servando and
+               Germán was torn down in <rs type="place" ref="#badajoz">Badajoz</rs>, that is <rs
+                  type="place" ref="#sagrajas">Sagrajas</rs>: and the <rs type="person" ref="XXX">lord
+                  King Alfonso</rs> was broken. <note type="editorial">The Battle of Sagrajaz, near
+                     <rs type="place" ref="#badajoz">Badajoz</rs>, was an Almoravid victory against <rs
+                     type="person" ref="XXX">Alfonso VI</rs>, though actually on <date
+                     when="1086-10-23">Friday 23 October 1086</date>. ‘arrancada’ (torn down) is
+                  Spanish rather than Latin.</note>
+               <note type="editorial">Annals of <rs type="place" ref="#santiagodecompostela">Santiago de Compostela</rs></note>
+               <date when="1248">1248</date> - says. In the year <date when="1124">1124</date> it
+               was on that day <note type="editorial">in</note> Badajoz <note type="editorial">Conde
+                  is compiling slightly differing sources here</note>
+               <note type="editorial">Annals of</note>
+               <rs type="place" ref="#toledo">Toledo</rs>
+               <date when="1290">1290</date> - <note>in</note>
+               <date when="1124">1124</date> the Moors threw <rs type="person" ref="XXX">King don
+                  Alonzo</rs> out of <rs type="place" ref="#zagalla">Zagalla</rs>. <rs type="person"
+                  ref="#don_rui_ximenez">Don Rui Ximenez</rs>, Archbishop of <rs type="place" ref="#toledo"
+                  >Toledo</rs>, formed his history of the Arabs from these Chronicles and some
+               Arabic writings: He spoke the Mozarabic tongue well. <date when="0539"
+                  calendar="islamic">Year 539</date> of the Arabs, <date when="1140">1140AD</date>.
+               The story that is told of the Moor Rasis, <note type="editorial">is a compilation
+                     (<rs type="person" ref="#conde">Conde</rs>)</note> of the old Chronicles with some
+               information from bad Arabic books: all full of errors and absurd fables. But its
+               geography good.</note>
+
+            <cb/>
+
+            <ab><rs type="person" ref="#iza_ben_ahmed_razif">Iza ben Ahmed Razif</rs> a real Author.</ab>
+
+            <ab> really wrote a history on which many fables engrafted.</ab>
+
+            <ab>Cronica general de <rs type="person" ref="#king_alfonso_x">El Rey Don Alfonso el
+                  Sabio</rs>.<note type="translation">General Chronicle of <rs type="person"
+                     ref="#king_alfonso_x">King Don Alfonso the Wise</rs>.</note></ab>
+
+            <ab>very good for that time. yet many fables </ab>
+
+
+            <ab>Cronicas particulares de <rs type="person" ref="#don_alonso_xi">Don Alonso el onceno</rs>. </ab>
+
+            <ab>History de Tarif Aben Taric por el Morisco <rs type="person" ref="#miguel_de_luna">Miguel de
+                  Luna</rs> impudente osadia literaria. <note type="editorial">WG is citing
+                     <bibl>[Miguel de Luna], Historia Verdadera del Rey Don Rodrigo ... Compuesta
+                     por el Sabio Alcayde Abulcacim Tarif, de Nacion Arabe (first published in
+                        1592).<note type="translation">[True History of King Don Rodrigo... Composed
+                        by the Wise Governor Abulcacim Tarif, of the Arab
+                  Nation]</note></bibl></note>
+            </ab>
+            <ab> Varios autores de Hadices = tradicionales. </ab>
+            <ab><rs type="person" ref="#hadgi_chalfa">Hadgi Chalfa</rs> 1200 historiadores. </ab>
+
+            <note type="translation">Particular Chronicles of Don Alonso the eleventh. History of
+               Tarif Aben Taric by the Morisco Miguel de Luna, impudent, daring, literary. Various
+               authors of Hadiths = traditional. Hadgi Chalfa 1200 historians.</note>
+
+
+            <ab><rs type="person" ref="#aben_ishak_tabari">Aben Ishak Tabari</rs></ab>
+            <ab><rs type="person" ref="#aben_omar_el_wakedi">Aben Omar el Wakedi</rs></ab>
+            <ab><rs type="person" ref="#el_mesaudi">el Mesaudi</rs></ab>
+            <ab><rs type="person" ref="#seif_alezdi">Seif Alezdi</rs></ab>
+            <ab><rs type="person" ref="#aben_kelbi">Aben Kelbi</rs></ab>
+            <ab><rs type="person" ref="#novairi">Novairi.</rs></ab>
+            <ab><rs type="person" ref="#aben_regig_rechic">Aben Regig o Rechic</rs> hist<hi rend="superscript"
+                  >a</hi> de Africa. </ab>
+            <ab><rs type="person" ref="#aben_hayan">Aben Hayan</rs> de Espana el mej&#243;r, a los reynados
+               de los Omeyas en <rs type="place" ref="#cordoba">Cordoba</rs>. <note type="translation"
+                     ><rs type="person" ref="#aben_regig_rechic">Aben Regig or Rechic</rs> history of Africa. <rs
+                     type="person" ref="#aben_hayan">Aben Hayan</rs> the best on Spain, to the reigns of the
+                  Umayyads in <rs type="place" ref="#cordoba">Cordoba</rs>.</note></ab>
+
+            <ab>Arabs generally shortened history &amp; geography &amp; left only the skeleton.</ab>
+
+            <metamark/>
+
+            <ab>Fez not founded till a<hi rend="superscript">o</hi>
+               <date when="0192" calendar="islamic">192 Heg</date>.</ab>
+
+            <ab>Arabic governors </ab>
+            <ab> Amires. Walies. Wacires. Cadies. Alcaydes. Xeques. Hagibes. Almucademes. Arrayaces.
+                  <note type="translation">Emirs (princes), Walis (leaders or prefects), Wazirs
+                  (ministers), Qadis (judges of islamic law), Governors, Sheikhs, Hajibs (court
+                  officials), Muqaddams (officials; WG translates later as captains or chiefs), Captains</note>
+            </ab>
+            <ab>Hours = hora de Azohbi = Alba – de Adoha = dia claro – de Adohar = mediodia. de
+               alazar = media tarde. almagrib sunset, puesta del Sol <note type="translation">Hours
+                  = hour of Azohbi = Alba - de Adoha = a clear day - de Adohar = midday. de alazar =
+                  mid-afternoon. almagrib sunset, sunset </note>
+            </ab>
+            <ab> alatema o alaxa = al anochecer.<note type="translation">i.e. el anochecer = sunset
+               </note> horas de sus oraciones o azalaes. <note type="translation">hours of their
+                  prayers or azalaes.</note></ab>
+
+            <metamark/>
+
+            <ab>months Muharram Safer Rabie 1<hi rend="superscript">ma</hi> Rabie 2<hi
+                  rend="superscript">o</hi></ab>
+            <ab>Giumada 1<hi rend="superscript">a</hi>. d<hi rend="superscript">o</hi> 2<hi
+                  rend="superscript">a</hi>. Regeb. Xaban</ab>
+            <ab>Ramazan. Xawal. Dylcada. Dilhagia <note type="translation">Months of the Islamic
+                  calendar Muharram, Safar, Rabi al-Awwal, Rabi al-Thani, Jumada al-Awwal, Jumada
+                  al-Thani, Rajab, Shaban, Ramadan, Shawwal, Dhul Qadah, Dhul Hijjah do = ditto (the
+                  same), i.e. 'Giumada'</note></ab>
+            <ab>never exceed 30 or less than 29 alternately.</ab>
+            <ab>epochs from foundation de la Caaba o casa cuadrada. <note type="editorial">of <rs
+                     type="place" ref="#kaaba">the Kaaba or square house [at Mecca]</rs></note></ab>
+            <ab>El Hegira principio <date when="0622-06-16">16 junio 622 de J.X<hi
+                     rend="superscript">tus</hi></date>. <note type="translation">The Hegira
+                  [Islamic calendar] began on <date when="0622-06-16">16 June 622AD</date>.</note>
+            </ab>
+
+            <metamark/>
+
+            <note type="editorial"><bibl>Conde,Historia de la dominacion, vol. 2, passim: i.e. the
+                  Emperor of the Christians, Alfonso.</bibl>
+            </note>
+            <ab>The <rs type="person" ref="#king_alfonso_x">Rey Alfonso</rs> called El Embalatur de los Xtianos
+               Aladfuns &amp; Adfuns. </ab>
+         </div>
+      </body>
+
+      <back>
+         <div type="cover">
+            <note> </note>
+         </div>
+         <div type="index"> </div>
+      </back>
+   </text>
+
+</TEI>

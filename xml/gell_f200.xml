@@ -1,0 +1,309 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <div type="cover">
+            <note> </note>
+         </div>
+         <div type="inlet">
+            <head> </head>
+         </div>
+      </front>
+
+      <body>
+         <div type="spain"> </div>
+         <div type="portugal">
+            <ab> </ab>
+         </div>
+         <div type="reading_notes">
+            <pb facs="#f-200" n="200"/>
+            <fw>3</fw>
+            <!-- citation starts here -->
+            <ab>Kenz al mactoum = hidden Treasure.</ab>
+            <ab>Esm al aadem = the great name = <note type="arabic" facs="xxx">الله<note
+                     type="translation">Allah (God)</note><note type="editorial">Herbelot does not
+                     include Arabic, which must be WG's addition.</note></note></ab>
+            <ab>Motassem 8<hi rend="superscript">th</hi> Abasside Kalif first used Allah<note
+                  type="editorial">i.e. Motassem, the eighth Abbasid caliph, was the first to add
+                  the name of God to his own.</note> Billah = of God. Alallah by God, Lellah,
+               Bemrillah &amp;c by order of God, as Europans<note type="editorial">WG's meaning here
+                  is unclear and is not apparent from Herbelot.</note>.</ab>
+            <ab>99 true names with Allah 100.</ab>
+            <ab>401 Paradise open to those who call often one of the 100 true names. whence 100
+               beads in Chaplets.</ab>
+            <ab>399 fatal year 613 Heg<note type="editorial">AH 613</note> to Moslems. Franks Took
+               Damietta, Moguls &amp; Genghizkhan<note type="editorial">i.e. Mongols and Genghis
+                  Khan</note> Persia <choice>
+                  <abbr>a<hi rend="superscript">o</hi></abbr>
+                  <expan>in the year[s] (anno)</expan>
+               </choice> 1216 &amp; 17.</ab>
+            <ab>Moslems think Issa<note type="translation">i.e. Jesus</note> on 2<hi
+                  rend="superscript">d</hi> advent will make whole world Moslem ie unite <choice>
+                  <abbr>X<hi rend="superscript">tians</hi></abbr>
+                  <expan>Christians</expan>
+               </choice></ab>
+            <ab>All held Moslem who ante<note type="translation">before</note> Mahomet held the
+               unity of God.</ab>
+            <note type="editorial">Extracted from <bibl>Barthélemy d'Herbelot, Bibliothèque
+                  orientale... (Maastricht, 1776), pp. 303-4.</bibl> WG may be using another of many
+               editions since 1697. 399 and 401 are probably page references, so would identify the
+               precise edition used by WG.</note>
+            <metamark/>
+
+            <!-- citation starts here -->
+            <ab>Tetekellem bel lisan el araby</ab>
+            <note type="arabic" facs="xxx">تتكلم بالسان العربي</note>
+            <note type="ediotiral">From <bibl>Claude Etienne Savary, Grammaire de la langue arabe
+                  vulgaire et littérale (Paris, 1813), pp. 210-11</bibl>, which has French, Latin
+               and Arabic. Savary renders the phrase, alongside the same Arabic text, as 'tetekellem
+               bêl-liçân êl-a’raby': 'Parlez-vous arabe?' [Do you speak Arabic?]</note>
+            <ab><note type="arabic" facs="xxx">بي</note> the dot for Bs often under <note
+                  type="arabic" facs="xxx">بي</note></ab>
+
+            <metamark/>
+
+            <!-- citation starts here -->
+            <ab><note type="arabic" facs="xxx">[Arabic]</note> deus liberalis <note type="arabic"
+                  facs="xxx">[Arabic]</note> alla akram</ab>
+            <ab>than is <note type="arabic" facs="xxx">[Arabic]</note> men as <note type="arabic"
+                  facs="xxx">[Arabic]</note> The elephant greater than lion?</ab>
+            <ab>elfil acbar men alsabah the lion.</ab>
+            <ab><note type="arabic" facs="xxx">[Arabic]</note> magnus <note type="arabic" facs="xxx"
+                  >[Arabic]</note> major <note type="arabic" facs="xxx">[Arabic]</note>
+               excellens</ab>
+            <ab><note type="arabic" facs="xxx">[Arabic]</note> -tior. <note type="arabic" facs="xxx"
+                  >[Arabic]</note></ab>
+            <note type="editorial">From <bibl>Savary, Grammaire de la langue arabe, pp. 253-4</bibl>
+               n. Savary gives the passage in both French and Latin, with WG choosing to use the
+               latter. Savary renders the phrases, alongside the same Arabic text, as:الله كريم
+               'Allah kerim, Deus est liberalis' [God is generous]الله اكرم 'Allah acram, Deus est
+               liberalior' [God is more generous]الفيل اكبر من السبع 'elfil acbar men elsabah,
+               elephas est major leone' [the elephant is greater than the lion - WG is correct]كبير
+               'kebir, magnus' [great]اكبر 'akbar, major' [greater]فاضل 'fadel, excellens'
+               [excellent]افضل 'afdal, excellentior' [more excellent]كثير 'ketir, multum' [many]اكثر
+               'actar, plus' [more]</note>
+
+            <metamark/>
+            <!-- citation starts here -->
+
+            <list> <item>wahat</item>
+               <item>etnin</item>
+               <item>talate</item>
+               <item>arbaa</item>
+               <item>khamse</item>
+               <item>sette</item>
+               <item>sabaa</item>
+               <item> tamanie</item>
+               <item>tessaa</item>
+               <item>achera</item>
+               <item>wahed achar &amp;c</item>
+
+            <note type="editorial">Arabic numbers 1-11 From <bibl>Savary, Grammaire de la langue
+                  arabe, pp. 255-6.</bibl> For 'wahat', Savary has 'ahed' or 'ouahed'. For 'wahed
+               achar', he has 'ahed achar'.</note></list>
+            
+            <metamark/>
+
+            
+            <list>
+               <item>wahed ashar beit</item>
+               <item>tessa tashar rageol</item>
+
+               <note type="editorial"><bibl>Savary, Grammaire de la langue arabe, p. 257</bibl>,
+                  gives these phrases as: <list>
+                     <item>'ahed achar beit, onze maisons' [eleven houses]</item>
+                     <item>'tessa-t-achar rageol, dix-neuf hommes' [nineteen men]</item>
+                  </list></note>
+            </list>
+            <metamark/>
+
+            <list>
+               <item>that = kema p[...?] lam ma</item>
+               <item>utinam ia leit</item>
+               <item>vel = am – Sed = laken = bel</item>
+
+               <note type="editorial"><bibl>Savary, Grammaire de la langue arabe, p. 297.</bibl>
+                  <list>
+                     <item>'Postquam, vel cùm, lamma' [after]</item>
+                     <item>'Ut ut, kema' [that]</item>
+                     <item>'Utinàm, ia leit, leit' [would that]</item>
+                     <item>'Vel, amma, aou, am' [or]</item>
+                     <item> 'Sed, laken, bel' [but]</item>
+                  </list></note>
+            </list>
+            <metamark/>
+
+
+            <list>
+               <item><note type="arabic" facs="xxx">[Arabic]</note> Ego me</item>
+               <item>ent Tu</item>
+               <item>hou ille</item>
+               <item>nahn nos</item>
+               <note type="editorial"><bibl>Savary, Grammaire de la langue arabe, p. 270.</bibl>
+                  <list>
+                     <item>'Ego, ana' [I - WG has added 'me']</item>
+                     <item>'Tu, ent' [you]</item>
+                     <item>'Ille, illa, hou, hié' [he, she]</item>
+                     <item>'Nos, nahn' [we]</item>
+                  </list></note>
+            </list>
+
+
+            <list>
+               <item>I go anaraieh.</item>
+               <item>ent raieh</item>
+               <note type="editorial"><bibl>Savary, Grammaire de la langue arabe, p. 271.</bibl>
+                  <list>
+                     <item>'Eo, ana raïeh' [I go]</item>
+                     <item>'Is, ent raïeh' [you go]</item>
+                  </list></note>
+            </list>
+
+            <metamark/>
+
+            <list>
+               <item>illi leho<note type="editorial"><bibl>Savary, Grammaire de la langue arabe, p.
+                        287.</bibl> 'Illi, leho' [his: though this translation of the Latin is
+                     questionable, Savary's French alternative is 'à lui' and the section is on
+                     possessive pronouns]</note></item>
+            </list>
+
+            <metamark/>
+
+
+            <list>
+               <item>yes = enn / if laou</item>
+               <item>quia = laen. enho.</item>
+               <item>lo? houza = ha</item>
+               <item>yes = naam = bala</item>
+               <note type="editorial"><bibl>Savary, Grammaire de la langue arabe, pp.
+                     298-300.</bibl>
+                  <list>
+                     <item>'Enim, reverà, enn' [indeed]</item>
+                     <item>'Si, laou' [if]</item>
+                     <item>'Ecce, houza, ha' [WG's 'lo', i.e. behold]</item>
+                     <item>'Sané, naam, éïoua, eïnaam, bala' [yes: Savary's French translation is
+                        'oui']</item>
+                  </list></note>
+            </list>
+            <metamark/>
+
+
+            <list>
+               <item>Meus [Arabic] – Ketabi</item>
+               <item>Tuus ak – Ketabak</item>
+               <item>apud me andi</item>
+               <item>in me vel habeo fii</item>
+               <item>in te fik</item>
+               <item>mihi, li. tibi lek</item>
+               <note type="editorial"><bibl>Savary, Grammaire de la langue arabe, pp. 276,
+                     283-6.</bibl>
+                  <list>
+                     <item>'Meus, i' [my; with corresponding Arabic]; 'Meus liber, ketabi' [my
+                        book]</item>
+                     <item>'Tuus, tua, ak, ek' [your]; 'Tuus liber, ketabak' [your book]</item>
+                     <item>'Apud me, vel habeo, andi' [with me, or I have]</item>
+                     <item>'In me, vel habeo, fii' [in me, or I have]</item>
+                     <item>'In te, vel habes, fik, fiki' [in you, or you have]</item>
+                     <item>'Mihi, li' [to me]</item>
+                     <item>'Tibi, lek, leki' [to you]</item>
+                  </list></note>
+            </list>
+
+            <list><item>Quo abiit – ila hait rah.</item>
+               <item>inter = bein</item>
+               <item>nunquam = lacad.</item>
+               <item>Jam = cad</item>
+               <item>Quare = leaich.</item>
+               <item>how = keif</item>
+               <item>facat = solum</item>
+               <item>cras = rhada. hodie elioum</item><note type="editorial"><bibl>Savary, Grammaire de la langue arabe, pp. 292, 295-7.</bibl>
+                  
+                  <list><item>‘Quò abiit? ila hait rah’ [where did he go?]</item>
+                     <item>‘Inter, inter vos, béïn, béincom’ [among, among you]</item>
+                     <item>‘Nunquàm, laced, cat, abadan’ [never]</item>
+                     <item>‘Jam, ante, cad’ [already]</item>
+                     <item>‘Quare? léaich’ [why?]</item>
+                     <item>‘Quomodò? keif’ [how?]</item>
+                     <item>‘Solùm, facat’ [only]</item>
+                     <item>‘Cras, rhada’ [tomorrow]</item>
+                     <item>‘Hodiè, elioum’ [today]</item></list></note></list>
+
+            <cb/>
+            <!-- citation starts here -->
+            <ab>marrat belboustan essoultan transivit</ab>
+
+            <ab>Quicumque me amabit hunc amabo = men iehobbeni ahobbo. [Arabic]</ab>
+
+            <ab>what you wish I wish = ma terid arid.</ab>
+
+            <ab>haïtma terouh arouh <metamark>–</metamark></ab>
+            <metamark/>
+
+            <ab>sabah el kheir</ab>
+            <ab>sabakoum bil keir. tu.</ab>
+            <ab>masa el kheir</ab>
+            <ab>entoum thaiiebin quom’ vales</ab>
+            <ab>thaiieb el hamd-lil-lah.</ab>
+            <ab>selam aleik</ab>
+            <ab>aleik es. Selam</ab>
+            <ab>marhabak. welcome.</ab>
+            <ab>rouh ma es selame. vade in pace.</ab>
+            
+            <metamark/>
+
+            <ab>Aleikoum es selam ou rehmet allah ou barakato.</ab>
+            <ab>Eich halkoum maoulana</ab>
+            <note type="editorial"><bibl>Savary, Grammaire de la langue arabe, pp. 308, 315-18, 323.</bibl>
+               
+               <list><item>‘Transivit per hortum imperatoris, marrat belboustan essoultan’ [she went through the sultan’s garden]</item>
+                  <item>‘Quicumque me amabit, hunc amabo, men iéhobbéni ahobbo’ [whoever will love me, I will love him]</item>
+                  <item>‘Quidquid volueris, illud placitum habebo, ma térid arid’ [what you wish, I wish]</item>
+                  <item>‘Quocumque ibis, ibo, haïtma térouh arouh’ [wherever you will go, I will go]</item>
+                  <item>‘Salve, sabah el-kheir’ [hello]</item>
+                  <item>‘Salve tu, sabahkoum bil-kheir’ [hello to you]</item>
+                  <item>‘Vesper faustum, maça el-kheir’ [good evening]</item>
+                  <item>‘Quomodò vales? eich halak’ [how are you?]</item>
+                  <item>‘Vobisne prosperè cedit? entoum thaïiébin’ [are you well? WG has confused this and the previous line]</item>
+                  <item>‘Rectè, Deo volente, thaïiéb el-hamd lil-lah’ [well, thank God]</item>
+                  <item>‘Salus tibi, sélam âleik’ [greetings to you]</item>
+                  <item>‘Tibi salus, âleik es-sélam’ [to you, greetings]</item>
+                  <item>‘Felix tibi sit adventus, marhabak, marhaba bak’ [welcome]</item>
+                  <item>‘Vade in pace, rouh mâ es-sélamé’ [go in peace]</item>
+                  <item>‘Aleïkoum es-sélam ou rahmet allah ou barakato’ [from dialogue: Greetings. May God give you his mercy and his blessings.]</item>
+                  <item>‘Eich halkoum maoulana’ [from dialogue: How are you, master?]</item></list></note>
+            
+
+            <ab>Hegira has a T. at the end in fact as <note type="arabic" facs="xxx">هجري <note type="translation">Hijri, the Islamic calendar</note></note> but commonly <note type="arabic" facs="xxx">هجر<note type="translation">flee [the Islamic calendar beginning when the Prophet and his followers left Mecca for Medina]</note></note></ab>
+            <note type="arabic" facs="xxx">الحمد لله <note type="translation">Thank God</note></note>
+            <ab>el Xamdu lillahi</ab>
+            <note type="editorial">Apparently WG's observations from wider reading. This spelling, 'el Xamdu lillahi', does not appear in Savary.</note>
+
+         </div>
+      </body>
+
+      <back>
+         <div type="cover">
+            <note> </note>
+         </div>
+         <div type="index"> </div>
+      </back>
+   </text>
+
+</TEI>

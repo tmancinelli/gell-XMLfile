@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface xml:id="zone_Page_178">
+         <graphic url="https://iiif.bsr.ac.uk/iiif/2/GELL-VI%2Fwg_06_178.tif/full/full/0/default.jpg"/>
+         <zone points="174,108 261,103 261,179 174,195" xml:id="zone_Page_178_817d5f93-3574-45e3-8d0d-2590585f24dc"/> <!-- symbol: triangle -->
+         <zone points="1719,2872 3508,2845 3519,4172 1713,4150" xml:id="zone_Page_178_4a60091f-71b0-4e3d-9bc3-e6cf5b87f4d3"/> <!-- view of Segovia -->
+      </surface>
+   </facsimile>
+   
+   <text>
+      <front>
+         <div type="cover">
+            <note> </note>
+         </div>
+         <div type="inlet">
+            <head> </head>
+         </div>
+      </front>
+
+      <body>
+         <div type="spain"> </div>
+         <div type="portugal">
+            <ab> </ab>
+         </div>
+         <div type="reading_notes">
+            <pb facs="#zone_Page_178" n="178"/>
+            <fw>25</fw>
+            <ab><figure type="symbol" facs="#zone_Page_178_817d5f93-3574-45e3-8d0d-2590585f24dc">
+                  <note type="editorial_label">[Symbol: triangle]</note>
+               <!-- citation starts here --></figure> Emir Handain of Cordova rec<hi rend="superscript">d</hi><note type="editorial">i.e. received them (Conde)</note> well &amp; sent su primo Alfolfoli y su
+               sobrino Omilimad<note type="translation">his cousin Alfolfoli and his nephew Omilimad</note> with horse to turn Aben Tahir out of Murcia. Tahir sent for help to
+               to Alcayde Abu Muh’ ben Ayadah<note type="translation">Governor (alcaide) Abu Muhamad ben Ayadh (as Conde has it)</note> of Valencia.</ab>
+            <ab>He came &amp; met Zaonun Alcayde<note type="translation">Governor (alcaide)</note> of Auriola who made him Amir at Auriola of Murcia,
+               Poor Tahir knew not of this &amp; went with a troop &amp; joy to meet him 1145, 540<note type="editorial">i.e. 1145AD or AH 540</note>,
+               at Alcazarquibir. Abu Tahir went to Dar Saguir &amp; finding out how it was retired
+               to his own house quietly. Many wishd Ayadh to kill him but he would not, knowing his
+               worth, &amp; thus was deposed Abderrahman Aben Tahir. after being Wali 50 days for
+               his Ally.. Then people of Valencia wanted to depose Amir Meruan ben Abdelaziz. People
+               of Lecant, Liria Gezira Xucar y<note type="translation">and</note> Murbiter wrote to Aben Ayadh of Murcia to come.
+               Meruan fled to Alcazar<note type="translation">Fortress</note> from the mob, whence he got to a friends house &amp; thence by
+               night over the walls, broken bones, one guide, lost way in <choice><abbr>M<hi rend="superscript">ts</hi></abbr><expan>Mountains</expan></choice>. of Almeria fell into
+               hands of Alcayde Muh’ ben Maymun<note type="translation">Governor (alcaide) Muhamad</note>, who knew &amp; sent him in chains to Abdala ben
+               Gania, el sobrino<note type="translation">the nephew</note>, who carried him about in chains.</ab>
+            <ab>Meruan ben Abdelaziz fled from Valencia to Colbira &amp; then tired returned by
+               night to Valencia where in a house where recognised again escaped fell into hands of
+               Maymun &amp; so to Gania el sobrino<note type="translation">the nephew</note>,</ab>
+            <ab>At Valencia, the Naib<note type="translation">Captain</note> of Aben Ayadh proclaimed Emir Abdala ben <choice><abbr>Muh<hi rend="superscript">d</hi></abbr><expan>Muhamad</expan></choice> ben Sad ben
+               Mardanis, &amp; placed him in Alcazar<note type="translation">Fortress</note>. Soon after came Aben Ayadh &amp; remained some
+               time &amp; then went to Murcia leaving for Naib Abu <choice><abbr>Muh</abbr><expan>Muhamad</expan></choice> ben Sad. This mans people
+               took Abu Giafar Ahmed ben Gubeir father of Abu Husein el Sabio<note type="translation">the Wise</note> who defended the
+               Alcazar del pueblo, y le envio en cadenas al castillo Maternis<note type="translation">the Fortress of the town, and sent him in chains to Maternis castle</note> &amp; put him in a
+               tower. ransomed him with 3000 doblas<note type="translation">gold coins</note> &amp; stole his books to his greatest grief. He
+               went to Xatiba <sic>wher</sic> again caught by Aben Gania who kept him in a dark prison till
+               sent to Majorca.</ab>
+            <ab>When Hamdain saw Seif Dola chased from Cordova he went to Gien &amp; gaind over the
+               Alcayde<note type="translation">Governor (alcaide)</note> Aben Gozei who burned with revenge against Granada together with Hamdain.
+               They entered Granada por <hi rend="underline">Bab Morur</hi><note type="translation">through Bab Morur (the gate)</note> the Cadi<note type="translation">i.e. qadi, a judge of Islamic law.</note> Aben Adha came to meet there on foot. he
+               saluted them &amp; hospedò<note type="translation">hosted [them]</note>. as also his son Amad-Dola. He called for water Aben Ada
+               brought the cup an Alima said Senor drink not que esta confeccionada. He drank not
+               &amp; Aben Adha ashamed to be suspected drank it all himself. He however died in the
+               night. for en verdad estaba confeccionada con ponzoña agridulce, que parecia agua de
+               azucar y naranja. fuese acaso u maliciosamente preparada para acabar con quien la
+               bebiera de los Aben Hudes<note type="translation">an Alima [possibly an alime, a sage] said My Lord [Conde has 'Sultan'], drink not for it is prepared [i.e. poisoned]. He drank not and Aben Adha ashamed to be suspected drank it all himself. He however died in the night. for in truth it was made with bittersweet poison, which resembled sugar water and orange. It was perhaps maliciously prepared to kill whoever drank it of the Aben Hudes</note> Aben Hud would not stay in City but made a fine pavilion in
+               gardens above for 10 days. Then pasó a la Alcazaba <hi rend="underline">Alamra o de los Principes</hi> y alli
+               hubo sangrientas battallas con los Almoravides que se defendian valerosam<hi rend="superscript">te</hi> contra
+               Aben Hud y los de la ciudad, y asi cada dia morian muchos de cada parte<note type="translation">he went to the Alamra Citadel or Citadel of the Princes [i.e. the Alhambra] and there he had bloody battles [Conde: 'batallas'] with the Almoravids who defended themselves valiantly against Aben Hud and the citizens, and so every day many died on each side.</note>. Till on 8<hi rend="superscript">th</hi>
+               day the Almoravides<note type="translation">Almoravids</note> beat in hōrible battle the citizens &amp; Aben Hud with immense
+               slaughter and took wounded Amad-Dola son of Seif Dola Aben hud who died in Alcazaba<note type="translation">Citadel</note>
+               that night of his wounds. The Almoravids sent him cafanado<note type="editorial">Conde has the same, 'cafanado'. The 1854 English translation gives this as 'wrapped ... in camphor': <bibl>José Antonio Conde, History of the Domination of the Arabs in Spain, trans. Mrs Jonathan Foster (London: Henry G. Bohn, 1854), vol. 2, p. 436.</bibl></note> to his father to bury in a
+               caja de grana con franjas de oro llena de preciosas aromas<note type="translation">a scarlet box with gold stripes, full of precious fragrances.</note>.</ab>
+
+            <cb/>
+            <ab>Aben Hud only staid one month at Granada for people were tired of the evils of war
+               &amp; of him, so at night he went to Gien, having in City of Granada as governor Abu
+               Hasan ben Adha el de la copa<note type="translation">he of the cup.<note type="editorial">WG clarifies Conde here: Abu Hasan ben Adha is of course the son of 'he of the cup', i.e. Aben Adha who had drunk the poison, because that Aben Adha had promptly died.</note></note> (<hi rend="underline">son of course of him</hi>.</ab>
+            <ab>The citizens made peace with the Almoravides of the Alcazaba<note type="translation">Citadel</note> of whom some went to
+               Almunecab puerto de Elbira para estar mas dispuesto para pasar a Africa.<note type="translation">Almunecab, the port of Elbira [i.e. Almuñécar, the port of Elvira], to be readier [Conde: 'dispuestos'] to cross to Africa.</note></ab>
+            <note type="editorial">Extracts from/summary of <bibl>Conde, Historia de la dominacion, vol. 2, pp. 297-301.</bibl></note>
+            
+            <metamark/>
+            <ab>next chapter 38 treats of other civil wars<note type="editorial"><bibl>Conde, Historia de la dominacion, vol. 2, pp. 302-7: Capitulo XXXVIII: Prosiguen las guerras entre los Muzlimes de España</bibl> [Chapter 38: The wars between the Muslims of Spain continue]</note></ab>
+            <metamark/>
+            <ab><note type="arabic" facs="xxx">[Arabic]</note> Hippocrates</ab>
+            <ab><note type="arabic" facs="xxx">[Arabic]</note> Hanno</ab>
+            <ab><note type="arabic" facs="xxx">[Arabic]</note> Varro</ab>
+            <ab><note type="arabic" facs="xxx">[Arabic]</note> Hesiodus Ascraeus</ab>
+            <note type="editorial">Casiri, Bibliotheca, vol. 1, pp. 324-5.The Arabic corresponds to the Latin names.</note>
+            <ab>Abraham Ben Jahia Alnacasch Abu Isaac vulgo Ben Zarcalli Cordubensis<note type="translation">commonly called Ben Zarcalli of Cordoba</note> great
+               astronomer quite like a modern astronomer as to science wrote 51 Books on problems –
+               as declination of Sun. Azimuthi delineationem in Terra effingere<note type="translation">Reproducing a description of azimuths on Earth<note type="editorial">One of Ben Zarcalli's works, listed by Casiri (number 49).</note></note> &amp;c &amp;c. 5<hi rend="superscript">th</hi>
+               age of Hegira<note type="editorial">One of Ben Zarcalli's works, listed by Casiri (number 49).</note>.</ab>
+
+            <metamark/>
+            <ab><!-- citation starts here -->A Certain Senanus was made licenser of Physicians by Almoctader the Emperor a<hi rend="superscript">o</hi> Heg
+               319<note type="editorial">AH 319</note> To him came a dignified Doctor, in a paper in his sleeve he presented gold money
+               said he could neither read nor write but had a numerous family. Senanus said then
+               never practise either bleeding nor cathartics nor in any malady you dont well know.
+               That is exactly my way said the Doctor I have never used any thing but jallap &amp;
+               oxymel &amp; went his way.</ab>
+            <note type="editorial"><bibl>Abridged translation of Casiri, Bibliotheca, vol. 1, p. 438</bibl> (from Latin).</note>
+
+            <metamark/>
+            <figure type="sketch" facs="#zone_Page_178_4a60091f-71b0-4e3d-9bc3-e6cf5b87f4d3">
+               <label><rs type="place" ref="#segovia">Segovia</rs> Gate</label>
+               <note type="editorial_label">Pen and ink drawing: view of <rs type="place" ref="#segovia">Segovia</rs></note>
+            </figure>
+
+         </div>
+      </body>
+
+      <back>
+         <div type="cover">
+            <note> </note>
+         </div>
+         <div type="index"> </div>
+      </back>
+   </text>
+
+</TEI>

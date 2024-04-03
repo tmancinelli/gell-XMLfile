@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <div type="cover">
+            <note> </note>
+         </div>
+         <div type="inlet">
+            <head> </head>
+         </div>
+      </front>
+
+      <body>
+         <div type="spain"> </div>
+         <div type="portugal">
+            <ab> </ab>
+         </div>
+         <div type="reading_notes">
+            <pb facs="#f-185" n="185"/>
+            <fw>18</fw>
+            <!-- citation starts here -->
+            <ab>Codex Arabico Latinus Alcorani confutatio. Auctor P. Dominicus Germanus de
+                  Silesia.<note type="translation">Arabic-Latin Codex Refutation of the Quran.
+                  Author Father Dominicus Germanus of Silesia.</note></ab>
+            <metamark/>
+            <ab>Epistles of S Paul S<hi rend="superscript">t</hi> John S Jude &amp;c &amp;c
+               &amp;c</ab>
+            <metamark/>
+            <ab>Codex Arab. Codex. Sacrorum Canonum collectio ad Usum Hispana-Ecclesiae.<note
+                  type="translation">Arabic Codex. Codex. Collection of Sacred Canons for the Use of
+                  the Spanish Church.</note></ab>
+            <metamark/>
+            <ab>Codex Heg 692<note type="editorial">AH 692</note> of D<hi rend="superscript">r</hi>
+               Ali Ben Hassan Alhossain of Granada Lexicon Theologicum<note type="translation"
+                  >Lexicon of Theology</note>.</ab>
+            <metamark/>
+            <ab>Heg 752<note type="editorial">AH 752</note> Epitome of Theological Dogmas by
+               Abdelrahman Ben Mohamad ebn Khaldun Alhadrami of Granada</ab>
+            <metamark/>
+            <ab>Synopsis Theologica<note type="translation">Theological Synopsis</note> of Abulabbas
+               Ahmad Ben Mohamad vulgo Ebn Albanna<note type="translation">commonly called Ebn
+                  Albanna</note> of Granada.</ab>
+            <metamark/>
+            <ab>Scholastic Theology de Actibus humanis<note type="translation">On Human Actions
+               </note> by Ebn Altalmansani<note type="editorial">Casiri has 'Altalmasani'</note> of
+               Granada</ab>
+            <metamark/>
+            <ab>Mahomet Alkobari of Granada wrote Unitatis &amp; fidei<note type="translation">Knowledge of Unity and Faith</note> scientia comments on Heg <hi
+               rend="underline">954</hi><note type="editorial">AH 954</note>.</ab>
+            <metamark/>
+            <ab>Poem explaining Alcoran by Ebn Haian of Granada Heg 792<note type="editorial">AH 792</note></ab>
+            <metamark/>
+            <ab>on the Coran <metamark>–</metamark> The shining Star by Abu <sic>Mohan’<note type="editorial">i.e. Mohamad</note></sic> Abdalla Ben
+               Alvaschi of Toledo but at Granada ob Heg 487<note type="translation">died (obiit) AH 487</note></ab>
+            <ab> many others <metamark>–</metamark></ab>
+            <metamark/>
+            <ab>Heg 652<note type="editorial">AH 652</note> Ebn Alkathib of Granada Oceani Rivus on the Alcoran<note type="translation">River of the Ocean (on the Quran)</note></ab>
+            <metamark/>
+            <ab>Abdalla Ben Moh’ ben Zakri Granada Heg 838 wrote Curiosi Viri desiderium.<note type="editorial">Abdalla Ben Mohamad ben Zakri [of] Granada AH 838 wrote The Curious Man’s Desire.</note></ab>
+            <note type="editorial">From <bibl>Casiri, Bibliotheca, vol. 1, pp. 468, 486, 504, 508,
+                  523, 527, 530, 540-1, 543.</bibl></note>
+
+            <cb/>
+            <ab><!-- citation starts here -->The library had 600 000 volumes. 44 of catalogue 300 writers &amp; more. 70 public
+               libraries in Andalusia. 3<hi rend="superscript">d</hi> Caliph had 12 045 000 dinars
+               or 6 millions of £ per <choice><abbr>an<hi rend="superscript">m</hi></abbr><expan>per annum (yearly)</expan></choice>. Cordova had 640 mosques. 900
+               baths 200 000 houses. Banks of Guadalquivir had 12000 Villages.</ab>
+            <ab>Saraglio had 6,300 persons. had a guard of 12 000 horse.</ab><note type="editorial">From <bibl>Brewster (ed.), Edinburgh Encyclopaedia, vol. 18, p. 281.</bibl>
+               
+               The Encyclopaedia quotes Gibbon, Decline and Fall, vol. 5, chapter LI: Conquests by the Arabs, Part VII, and chapter LII: More Conquests by the Arabs, parts I and III.
+               
+               '640 mosques' confirms that WG was reading the Encyclopaedia, as Gibbon gives 600.</note>
+            <ab><note type="arabic" facs="xxx">دار الخلافة<note type="translation">The House of the Caliphate</note></note> Dar el Kalifat the Kalifs Palace<metamark> –</metamark>
+               dar is door porte<note type="translation">door (French)</note>, dar demeure<note type="translation">residence (French)</note>.</ab>
+            <ab>Almogares = soldados viejos<note type="translation">old soldiers</note> in Castle garrisons. Elite.</ab>
+            <ab><note type="arabic" facs="xxx"> [Arabic]</note> Talayha = piquet or adorned
+               post.</ab>
+            <ab><note type="arabic" facs="xxx">طلاعة المسلمين <note type="editorial">Usually refers to the vanguard or most powerful troop - soldiers or Muslims</note></note> pickets of Muslemin</ab>
+            <ab><note type="arabic" facs="xxx">القائد <note type="translation">Commander</note><note type="editorial">Though Gell has written القايد </note></note> Alcayde = commander of 10 men.</ab>
+            <ab><note type="arabic" facs="xxx">[Arabic]</note> = Calatrava – rabia rabat
+               <note type="arabic" facs="xxx">رباط رباه رباط <note type="translation">Battle cries, the second asking God for the power to keep fighting.</note></note></ab>
+            <ab>rab rabat towers of sentinels, round towers,</ab>
+            <ab><note type="arabic" facs="xxx">القنطره<note type="translation">the arch</note></note> Alcantara from bridge. 2 Spanish
+               orders with arab names. Fontarabia from <note type="arabic" facs="xxx"
+                  >[Arabic]</note></ab>
+            <ab>Almogavares from <note type="arabic" facs="xxx">غار<note type="translation">raid</note></note> gar = pillage.</ab>
+            <!-- citation starts here --><ab>Almogavares of Granada = peons labradores y hombres del Campo. 3 Knights with 2 of
+               these in Las antiguidades de la ciuidas de España 1775 mentions these as
+               distinguished<note type="editorial">'labradores y hombres del Campo': peasant farmers and country men.
+                  
+                  <bibl>[Ambrosio de Morales], Las antiguedades de las ciudades de España (Alcalá de Henares, 1575), fo. 127v</bibl> (foliated, not paginated). [The antiquities of the cities of Spain; not 1775]
+                  
+                  Morales does not reproduce Arabic script, though, so cannot be source for what comes before. In fact, WG likely to be reading about Morales through another source, perhaps with same error on publication date.</note></ab>
+            <metamark/>
+            <ab>Adalides <note type="translation">Or champions, military leaders</note><note type="arabic" facs="xxx">الدليل<note type="translation">guides</note></note> = guides. Almocadems <note
+               type="arabic" facs="xxx">المقدم<note type="translation">chief</note></note> chief. in armies. King only named
+               these.</ab>
+            <ab>An Adalid had a dress, a sword, a horse &amp; 2 armours. a rich man girded on his
+               sword &amp; he was hoisted on his shield. He drew his sword &amp; turning defied the
+               enemies of his King.</ab>
+            <ab>Thus an Adalid was a Knight or like one.</ab>
+            <ab>A <choice><abbr>K<hi rend="superscript">t</hi></abbr><expan>Knight</expan></choice> or Rico ombre<note type="translation">Nobleman (the common Spanish term; literally, 'rich man')</note> had coat of arms &amp; a Banner. If
+               an Adalid was taken by Enemy the state ransomed them &amp; had them cruelly killed.
+               yet the honour sought by Knights.</ab>
+         </div>
+      </body>
+
+      <back>
+         <div type="cover">
+            <note> </note>
+         </div>
+         <div type="index"> </div>
+      </back>
+   </text>
+
+</TEI>

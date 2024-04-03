@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <div type="cover">
+            <note> </note>
+         </div>
+         <div type="inlet">
+            <head> </head>
+         </div>
+      </front>
+
+      <body>
+         <div type="spain"> </div>
+         <div type="portugal">
+            <ab> </ab>
+         </div>
+         <div type="reading_notes">
+            <pb facs="#f-207" n="207"/>
+            <!-- actually 207, 207a, 207b -->
+            <ab>The Horse Guards at Granada.</ab>
+            <figure facs="xxx">
+               <note type="editorial_label">Pen and ink drawing: gate<note type="editorial">Despite
+                     some differences, WG's drawing bears similarities to David Roberts's
+                     illustration in <bibl>Thomas Roscoe, The Tourist in Spain. Granada (London,
+                        1835), pp. 116-17: 'The Casa del Carbon'</bibl>. The similarities include
+                     this title, which WG also uses.</note></note>
+               <label>CASA DEL CARBON<note type="editorial">i.e. Corral del Carbón (Coal Yard; 'Casa
+                     del Carbón' would be Coal House), Granada. WG's drawing represents the building
+                     before twentieth-century restoration.</note></label>
+            </figure>
+
+            <ab>The Casa del Carbon is nearly in centre of City, between the Zacatin &amp; the
+               Moorish bridge. close to the Darro, the Post house for Couriers &amp; Cavaleriera.
+               Built by Abu Alhamar. Some of The Horses of the breed of Nejdi some of Dongola – The
+               Casa del Carbon not unlike a jewish house.<note type="editorial">Summary of <bibl>Roscoe,
+                  Tourist in Spain. Granada, pp. 117-20.</bibl> Same observations in same order, though WG
+                  has replaced Roscoe's 'high-bred corredores' (runners, i.e. horses) with 'Couriers
+                  &amp; Cavaleriera'. By the latter, WG must mean 'caballería', cavalry
+               horses.</note></ab>
+
+         </div>
+      </body>
+
+      <back>
+         <div type="cover">
+            <note> </note>
+         </div>
+         <div type="index"> </div>
+      </back>
+   </text>
+
+</TEI>

@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <div type="cover">
+            <note> </note>
+         </div>
+         <div type="inlet">
+            <head> </head>
+         </div>
+      </front>
+
+      <body>
+         <div type="spain"> </div>
+         <div type="portugal">
+            <ab> </ab>
+         </div>
+         <div type="reading_notes">
+            <pb facs="#f-170" n="170"/>
+            <fw>35</fw>
+            <cb/>
+            <note type="editorial">The following are extracts from/summary of <bibl>Conde, Historia
+                  de la dominacion, vol. 1, pp. 1-7.</bibl></note>
+            <ab><!-- possible anchor here -->Conde. La dominación de los Arabés</ab>
+            <ab>de los campos de Yemen. Islam = seguridad y resignation. unde Muslimes. Idolatrous
+               antes Mahomad.</ab>
+            <ab>Saad ben Ahmed Cadi de la ciudad de Toledo decia que fueran 2 generaciones de Arabes
+               in Arabia. One is extinct tribes of Ad, of Themud, Tesm y Jadis. Los que permanecen
+               son dos castas de Cahtan y Adnan. el imperio estaba en la cabila o tribu de Cahtan. y
+               la familia de los Reyes Homiares. Kings Lords y <hi rend="underline">Tobeos</hi>.
+               Campiñas di Irak o Caldea.</ab>
+            <ab>Homiar tribu adoraba el sol, Canenah a la Luna. Misam la estrella Aldebaran. Laham y
+               Jedam, Jupiter Estrella. Tay la constellacion de Sohail. Kais la Ashera al Obur. Asad
+               la de Mercurio. Tzaquif un tempillo Alat en las alturas de Nahla. Some believed in ye
+               resurrection &amp; some sacrificed a camel or horse on the tombs.</ab>
+            <ab>Mahomad naciò en Mecca ciudad del Hegiaz. <note type="translation">Conde, The
+                  domination of the Arabs from the lands of Yemen. Islam = security and resignation
+                  [i.e. resignación]. whence Muslims. Idolatrous before Muhammad. Saad ben Ahmed,
+                  qadi [judge of Islamic law] of the city of Toledo, said that there were 2
+                  generations of Arabs in Arabia. One is extinct tribes of Ad, of Themud, Tesm and
+                  Jadis. Those who remain are two castes [i.e. lines] of Cahtan and Adnan. The
+                  empire was in the tribe [cabila] or tribe [tribu] of Cahtan. and the family of the
+                  Himyarite Kings. Kings, Lords and Successors [Conde: 'Tobeos ó sucesores'].
+                  Countryside of [Conde: 'de'] Iraq or Chaldea. Himyarite tribe worshipped the sun,
+                  Canenah the moon, Misam the star Aldebaran, Laham and Jedam the star Jupiter, Tay
+                  the constellation Suhail [Vela], Kais [the star] Ashera al Obur, Asad that of
+                  Mercury, Tzaquif a small temple [Conde: 'templillo'] Alat in the heights of Nahla.
+                  Some believed in the resurrection [of the dead, not specifically of Christ: Conde]
+                  and some sacrificed a camel or horse on the tombs. Muhammad was born in Mecca, a
+                  city in the Hejaz.</note> there the Anc<hi rend="superscript">t</hi> Temple
+                     <sic>Albaram<note type="editorial">Conde has 'Alharam'</note></sic> to true
+               God. founded by Ismael. Mahomad of tribe or Cabila de Coraix <note type="editorial"
+                  >tribe of Quraysh</note> of great family. Conqueror at Honain at Bedrè &amp;
+               Ohod.</ab>
+            <ab>Adnan descendant of Ismael</ab>
+            <ab>Maad</ab>
+            <ab>Nazar</ab>
+            <ab>Modhar</ab>
+            <ab>Alyas</ab>
+            <ab>Modreca</ab>
+            <ab>Hozaimah</ab>
+            <ab>Kenanah</ab>
+            <ab>Alnadhr</ab>
+            <ab>Malec</ab>
+            <ab>Fehr</ab>
+            <ab>Galeb</ab>
+            <ab>Lova</ab>
+            <ab>Caab</ab>
+            <ab>Morra</ab>
+            <ab>Kelab</ab>
+            <ab><sic>Rosa<note type="editorial">Conde has 'Kosa'</note></sic></ab>
+            <ab>Abdmenaf</ab>
+            <ab>Hasem</ab>
+            <ab>Abdelmotaleb <metamark>X<note type="editorial">i.e. indicating
+                  below</note></metamark></ab>
+            <ab>Abdalah = Amina</ab>
+            <ab>Mahomad = Cadijah<note type="editorial">Khadija, the Prophet's first wife. Not in
+                  Conde.</note></ab>
+            <ab>Arabs counted from the epoch of the Ethiopic war or “la entrada del Señor del Alfil
+               o del Elefante<note type="editorial">the entry of the Lord of the Elephant ('alfil'
+                  is Arabic for elephant). Invasion of Mecca by the Ethiopian Christian governor of
+                  Yemen, Abrahah al-Ashram, in c.570-1AD.</note>. In this Abdelmotaleb
+                     <metamark>X<note type="editorial">i.e. indicating above, Muhammad's
+                     grandfather</note></metamark> defended his country &amp; destroyed the army of
+               the Ethiopian King. This war mentioned in the Koran. Jusuf ben Said of Illora writes
+               about it also.</ab>
+            <ab>Medina Yatrib afterwards called Medinatalnabi = city of Prophet.</ab>
+            <ab>Mahomed born at dawn 8 of month Rebie primera<note type="editorial">Rabi al-Awwal
+                  (month in Islamic calendar)</note> on tuesday 622 after <choice>
+                  <abbr>X<hi rend="superscript">t</hi></abbr>
+                  <expan>Christ</expan>
+               </choice>.<note type="editorial">WG has misread here: Conde says Muhammad was born in
+                  572AD, but that Hegira (Islamic calendar) begins in 622AD.</note></ab>
+
+
+            <cb/><metamark/>
+            <note type="editorial">The following are extracts from/summary of <bibl>Conde, Historia
+                  de la dominacion, vol. 1, pp. 22-30, 33.</bibl></note>
+            <ab>In year of Hegira 86. A<hi rend="superscript">o</hi> X<hi rend="superscript">t</hi>
+                  705<note type="editorial">AH 86, 705AD</note> died the Calif Abdelmelec. His son
+               Walid ben Abdelmelic succeeded. He confirmed Muza ben Noseir <note type="editorial"
+                  >i.e. Musa ibn Nusayr (c.640-c.716)</note> in command of the troops in Africa, He
+               &amp; his son Abdelaziz conquered in Almagreb. beat the Moor tribes Masmuda. Zanhaga.
+               Ketama &amp; Hoara. Meruan son of Musa came to Tanja <note type="editorial">i.e.
+                  Tangier</note>.</ab>
+            <ab><!-- possible anchor here -->Certain Xtians of Gezira de Alandalus ofendida de su
+               Rey Ruderic vinieron a Muza ben Noseir, y le incitaron a pasar con tropas a España.
+               The channel or gut called Alzacac. El Rey Don Alfonso el Sabio made the chronicle of
+               these times but la Caba the Donzella Alifa &amp;c all Moorish fictions. The Calif
+               applauded Muzas enterprise. Muza sent Taric ben Zeyad. He passed with quinientos
+               caballeros Arabes en 4 barcos grandes a<hi rend="superscript">o</hi> 710 <note
+                  type="translation">Certain Christians of Gezira of al-Andalus [Conde's
+                  translation: the peninsula of Spain], offended by their King Ruderic, came to Musa
+                  ibn Nusayr and incited him to cross with troops into Spain. The channel or gut
+                  called Alzacac. King Don Alfonso the Wise made the chronicle of these times but la
+                  Caba, the maiden [Conde has 'doncella'] Alifa etc all Moorish fictions [Conde,
+                  vol. 1, p. 25: part of story of why the Arabs crossed to Spain; la Caba, daughter
+                  of Count Don Julian]. The Calif applauded Musa's enterprise. Musa sent Taric ben
+                  Zeyad. He passed with four hundred Arab knights in 4 large ships in 710AD.</note>.
+               They took some places on the coast of Andalucia. &amp; returned.</ab>
+            <ab>After this Taric landed with an army at Gezira Alhadra or Isla Verde<note
+                  type="translation">Green Island</note>. Taric beat the natives &amp; fortified
+               Gebal Taric Alfeth anciently. &amp; burnt his Ships. Tadmir, Roderics captain there.
+               He wrote to Roderic. <!-- possible anchor here -->Señor aqui han llegado gentes
+               enemigas de la parte de Africa. yo no se si del cielo u de la tierra: yo me halle
+               acometido de ellos de improviso: resisti con todas mis fuerzas para defender la
+               entrada: pero me fue forzoso cedar a la muchedumbre y al impetu suyo, ahora a mi
+               pesar acampan en nuestra tierra: ruegoos Señor, pues tanto os cumple que vengais a
+               socorrernos con la mayor diligencia. y con cuanta gente se pueda allegar: venid vos
+               Senor en persona que sera lo mejor.”<note type="translation">My lord, enemy peoples
+                  from Africa have arrived here. I do not know if from heaven or earth: I found
+                  myself suddenly attacked by them: I resisted with all my strength to defend
+                  against their arrival: but I was forced to give in to the crowd and their
+                  momentum, now in spite of me they camp on our land: I beg, my lord, that it
+                  satisfies you to come to help us with the greatest diligence. and with however
+                  many people can be gathered: come yourself in person, my lord, which would be
+                  best.</note></ab>
+            <ab>He sent a fine body of cavalry Gothic who skirmished always with loss. The Muslimes
+               commanded by Mugueiz el Rumi.</ab>
+            <ab>Roderic raised the whole country &amp; came to</ab>
+
+         </div>
+      </body>
+
+      <back>
+         <div type="cover">
+            <note> </note>
+         </div>
+         <div type="index"> </div>
+      </back>
+   </text>
+
+</TEI>

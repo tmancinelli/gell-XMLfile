@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface xml:id="zone_Page_202">
+         <graphic url="https://iiif.bsr.ac.uk/iiif/2/GELL-VI%2Fwg_06_202.tif/full/full/0/default.jpg"/>
+         <zone points="2339,500 2540,429 2747,522 2796,1006 2241,1033" xml:id="zone_Page_202_eab696f7-5d31-4e70-9333-f106fe15bbd6"/>
+      </surface>
+   </facsimile>
+   <text>
+      <front>
+         <div type="cover">
+            <note> </note>
+         </div>
+         <div type="inlet">
+            <head> </head>
+         </div>
+      </front>
+
+      <body>
+         <div type="spain">
+         </div>
+         <div type="portugal">
+            <ab> </ab>
+         </div>
+         <div type="reading_notes">
+            <pb facs="#zone_Page_202" n="202"/>
+            <fw>1</fw>
+            <!-- citation starts here and ends at bottom -->
+            <ab>King N<hi rend="sueprscript">o</hi>1??</ab>
+            <ab>Muhamad Alhayzari fled to Malaga but became King again. dethroned by 4<hi rend="sueprscript">th</hi> King</ab>
+            <figure type="sketch" facs="#zone_Page_202_eab696f7-5d31-4e70-9333-f106fe15bbd6"><note type="editorial_label">Pen and ink drawing with watercolour, Arabic motto: miniature</note><ab>ملك أبو ابد الله </ab><note type="editorial">King Abu Abdullah [though with shaky spelling][i.e. Muhammad XII of Granada, c. 1460-1533]</note></figure>
+            <ab>4<hi rend="sueprscript">th</hi> King</ab>
+            <ab>Mahomad Aben Ozmin fled from 5<hi rend="sueprscript">th</hi> King</ab>
+            
+            <!-- [Complex genealogy] -->
+            <ab>Juzef K.G buried in Genealarife<note type="editorial">King of Granada buried in Generalife [same spelling as Conde]</note></ab>
+            <ab>1427</ab>
+            <ab>Brother</ab>
+            <ab><choice><abbr>KG.</abbr><expan>King of Granada</expan></choice> Muley Mahomad Nazar 14</ab>
+            <ab>Aben Juzef Izquierdo<note type="translation">The Left-Handed</note> or el Hayzari deposed by Muhamad el Zaquir his <hi rend="underline">primo</hi> Pequeño<note type="translation">his little cousin [Conde only has 'primo': cousin]</note> 1430, but the usurper beheaded [symbol: therefore] Muley Alhayzari King again, Juzef Aben Alhamar next dethroned him. His sobrino nephew in 1444 Aben Ozmin deposed him</ab>
+            <ab>the 3<hi rend="sueprscript">d</hi> time</ab>
+            <ab><choice><abbr>G.K.</abbr><expan>King of Granada</expan></choice> Muhamad Aben Ozmin was prince of Aben Ismail but Ismail was primo<note type="translation">cousin</note> of Ozmin Ozmin slew many great persons in Alhambra<note type="editorial">WG's addition: Conde has only 'la fortaleza' (the fortress).</note>.</ab>
+            
+            <ab> Abu<note type="editorial">Conde has 'Aben'
+            </note> Ismail 5<hi rend="sueprscript">th</hi> King</ab>
+            <ab>Muley Abul Hacen 6 King = Zoraya Sultana</ab>
+            <ab>Abdallah Alcayde<note type="translation">Governor (alcaide)</note> of Malaga</ab>
+            <ab>Abu Abdallah el Zaquir prisoner to K.<hi rend="sueprscript">g</hi> of Spain 7<hi rend="sueprscript">th</hi> &amp; 9<hi rend="sueprscript">th</hi> &amp; last K<hi rend="sueprscript">g</hi> of Granada El Chico<note type="editorial">This seems to be WG's addition to Conde: i.e. Muhammad XII of Granada, nicknamed Boabdil or 'El Rey Chico' (the Boy King) by the Christians.</note></ab>
+            <ab>Abdallah el Zagal 8<hi rend="sueprscript">th</hi> King. Granada Abu Abdilehi yields Almeria &amp; Guadix 1491<note type="editorial">This seems to be WG's addition to Conde</note></ab>
+            
+            <ab>El Zogoybi nephew of<!-- in pencil --></ab>
+            <ab>El Zogoybi nephew of El Zagal.<note type="editorial">This seems to be WG's addition to Conde</note></ab>
+            
+            <ab>Aben Ismail <choice><abbr>K.G.</abbr><expan>King of Granada</expan></choice> 1460</ab>
+            <ab>su prima<note type="translation">his cousin
+            </note> = <choice><abbr>K.G.</abbr><expan>King of Granada
+            </expan></choice> Muley Abul Hassan = Zoraya D of the Alcayde<note type="translation">Daughter of the Governor (alcaide)</note> of Martos</ab>
+            <ab>Sidi Abdallah</ab>
+            <ab>Muhamad Abuabdilah</ab>
+            <ab>Cidi Yahye</ab>
+            <ab>Cidi Almayar.</ab>
+            <note type="editorial">Mostly notes on <bibl>Conde, Historia de la dominacion, vol. 3, pp. 180-222</bibl>, with a few additions by WG, presumably from other reading.</note>
+         </div>
+      </body>
+
+      <back>
+         <div type="cover">
+            <note> </note>
+         </div>
+         <div type="index"> </div>
+      </back>
+   </text>
+
+</TEI>

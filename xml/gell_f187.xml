@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface xml:id="zone_Page_187">
+         <graphic url="https://iiif.bsr.ac.uk/iiif/2/GELL-VI%2Fwg_06_187.tif/full/full/0/default.jpg"/>
+         <zone points="674,2888 816,2883 832,2997 690,3008" xml:id="zone_Page_187_6c1236cd-0071-4520-9e30-2fc3cfe4df74"/> <!-- crescent moon -->
+         <zone points="2654,2861 2768,2850 2774,2937 2649,2964" xml:id="zone_Page_187_c0561738-ee83-4f42-bc25-ab85f78cb5ab"/> <!-- full moon -->
+      </surface>
+   </facsimile>
+   <text>
+      <front>
+         <div type="cover">
+            <note> </note>
+         </div>
+         <div type="inlet">
+            <head> </head>
+         </div>
+      </front>
+
+      <body>
+         <div type="spain"> </div>
+         <div type="portugal">
+            <ab> </ab>
+         </div>
+         <div type="reading_notes">
+            <pb facs="#zone_Page_187" n="187"/>
+            <fw>16</fw>
+            <!-- citation starts here -->
+            <ab>Verses by Valadata Daughter of Mohamad Almostakfi Billah of Cordova to her lover
+                  Abansi<note type="editorial"><bibl>Casiri</bibl> has 'Abdusius'</note>
+               <metamark>–</metamark> a noble Moor.</ab>
+            <ab>from Arabic in Escurial.</ab>
+            <lg>
+               <l>“My presence wounds your heart, yet not less true</l>
+               <l>“My cheeks in blushes speak my love for you</l>
+               <l>“Yet mutual wounds not equal shame impart</l>
+               <l>“By all my cheek is seen but not your heart.</l>
+               <note type="editorial">WG's translation is quite far from the Latin given by
+                     <bibl>Casiri (vol. 1, p. 106)</bibl>, so is indeed likely based on the Arabic
+                  original in Casiri's footnote b.</note>
+            </lg>
+            <note type="editorial">From <bibl>Casiri, Bibliotheca, vol. 1, p. 106.</bibl></note>
+
+            <ab>King Don Hernando took Ronda in 485 <note type="arabic" facs="xxx">هجري<note
+                     type="translation">Hijri, the Islamic calendar<note type="editorial">Though
+                        Gell has (by missing a letter) actually written the verb:هجر
+                     flee</note></note></note> before 1486.</ab>
+            <!-- citation starts here and ends at bottom -->
+            <ab>In Marmol <metamark>–</metamark> prophecy in inquisition of Granada .p182. that
+               Turks will take Rome with armies &amp; the Moors will take the Isla de España, y
+               Malaga se tornara a labrar y edificar<note type="translation">the Moors will take the
+                  Island of Spain, and Málaga will return to working and building</note>. At Velez
+               &amp; Almuñecar will be quell’d the pride of the heresy of Cordova which keeps it in
+               its vices &amp; sins. A Comet the sign of this.</ab>
+            <ab>Recibo de ti mi dios lo que me has ordenado<note type="editorial"
+                     ><bibl>Mármol</bibl> has ‘Recibo de tí, mi Dios, lo que me has ordenado’: <note type="translation">I
+                  receive from you, my God, what you have ordered for me.</note></note>. Çidi el Guerguali
+               a Morabite<note type="editorial"><bibl>Mármol</bibl> has 'Cidi' (no cedilla). A
+                  marabout, a Muslim holy man or hermit.</note>.</ab>
+            <ab>Prophecy of Tauca al<note type="editorial"><bibl>Mármol</bibl> has 'el'</note>
+               Hamema or Doves breast. Succour to Islam when year begins with Saturday &amp; a cloud
+               of birds come among which 2 are Gabriel &amp; Miguel<note type="editorial">The
+                  archangels Gabriel and Michael</note>
+               <metamark>–</metamark> then all world moslem<note type="editorial"
+                     ><bibl>Mármol</bibl> has 'volverá todo el mundo á la ley de los Moros': <note type="translation">all the
+                  world will come under the law of the Moors.</note> </note>
+               <metamark>–</metamark></ab>
+            <ab>In inquisition of Granada &amp; in cave of Castares in Alpuxárra. Translated by
+               Alonzo del Castillo Interpreter of Office. but he says the Arabic is so equivocal
+               that a long or short vowell makes all the difference. “The generation of those who
+               adore one only God shall possess Gibraltar for it was their origin &amp; entry &amp;
+               to them shall return in 10<hi rend="superscript">th</hi> succession. y que dios
+               revelo no falto ni faltarà.<note type="editorial"><bibl>Mármol</bibl> has 'Y lo que
+                  Dios reveló, no faltó, ni faltará': <note type="translation">And what God revealed was not lacking, nor
+                  will it be lacking</note>.</note></ab>
+            <ab>Convertios a dios y no os durmais que amanecerais sepultados entre las peñas.<note
+                  type="editorial"><bibl>Mármol</bibl> has 'convertios á Dios, y no os durmais, que
+                  amanecereis sepultados entre las penas': <note type="translation">turn to God, and do not sleep, lest you
+                  wake buried among miseries</note>.</note></ab>
+            <ab>The <figure type="in_text" facs="#zone_Page_187_6c1236cd-0071-4520-9e30-2fc3cfe4df74">
+                  <note type="editorial_label">[drawing: crescent moon]</note>
+               </figure> shall descend into the garden of Tuhema after the <figure type="in_text"
+                  facs="#zone_Page_187_c0561738-ee83-4f42-bc25-ab85f78cb5ab">
+                  <note type="editorial_label">[drawing: full moon]</note>
+               </figure> shall have risen split &amp; prophets shall appear. Then shall a King son
+               of a faultless King with Troops take Alhambra &amp; thence many provinces &amp;
+               climes. Then shall be glory to the Moors. He takes Seville &amp; at the first sally
+               Antequera climbing its walls &amp; by force of arms rompiendolos<note
+                  type="translation">breaking them</note>. 7 years this victory endures &amp; riches
+               taken from Heretics. Dolarfe King of the <choice>
+                  <abbr>Xtians</abbr>
+                  <expan>Christians</expan>
+               </choice>. A Brutal old Antichrist will sow at midday &amp; reap at vespers</ab>
+            <ab>He Plants trees with right &amp; plucks fruits with left hand <metamark>–</metamark>
+               Sins were before as heavy as mountains.</ab>
+            <note type="editorial">From <bibl>Luis del Mármol Carvajal, Historia del rebelion y
+                  castigo de los moriscos del reyno de Granada, 2 vols (Madrid, 1797), vol. 1, pp.
+                  178, 181-4, 190-5.</bibl> WG's page reference is to the 1797 second edition,
+               rather than to Mármol's original work of 1600.</note>
+
+         </div>
+      </body>
+
+      <back>
+         <div type="cover">
+            <note> </note>
+         </div>
+         <div type="index"> </div>
+      </back>
+   </text>
+
+</TEI>

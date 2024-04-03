@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <div type="cover">
+            <note> </note>
+         </div>
+         <div type="inlet">
+            <head> </head>
+         </div>
+      </front>
+
+      <body>
+         <div type="spain"> </div>
+         <div type="portugal">
+            <ab> </ab>
+         </div>
+         <div type="reading_notes">
+            <pb facs="#f-201" n="201"/>
+            <fw>2</fw>
+            <!-- citation starts here and ends at <cb/> -->
+            <label>Kings of Cordova</label>
+            <list>
+               <item>Abderahman I <metamark>–</metamark> 171</item>
+               <item>Hixem I <metamark>–</metamark> 180</item>
+               <item>Alhakem I <metamark>–</metamark> 206</item>
+               <item>Abderahman II <metamark>–</metamark> 238</item>
+               <item>Muhamad I <metamark>–</metamark> 273</item>
+               <item>Almondhir 275</item>
+               <item>Abdala 300</item>
+               <note type="editorial">WG has missed out Abderahman III - 350</note>
+               <item>Alhakem II 366</item>
+               <item>Hixem II preso<note type="translation">prisoner</note>
+                  <metamark>–</metamark> 399</item>
+               <item>Muhamad II el Mohdi Bila 400</item>
+               <item>Suleiman Almostain Bila 400</item>
+               <item>Hixem II 2<hi rend="superscript">d</hi> time 403</item>
+               <item>Suleiman <choice>
+                     <abbr>Alm<hi rend="superscript">n</hi></abbr>
+                     <expan>Almostain</expan>
+                  </choice> Bila 2<hi rend="superscript">d</hi> time 407</item>
+               <item>Aly ben Hamud <metamark>–</metamark> 413<note type="editorial">408 - WG's
+                     transcription error.</note></item>
+               <item>Abderahman IV 412</item>
+               <item>Alcasim ben Hamud 413</item>
+               <item>Yahye ben Aly <metamark>–</metamark> 413</item>
+               <item>Abderahman V Almostadir Bila 414</item>
+               <item>Muhamad III ben Abderahman 415</item>
+               <item>Yahye ben Aly 2<hi rend="superscript">d</hi> time 417</item>
+               <item>Hixem III el Motad Bila 422</item>
+               <item>Gehwar ben Muhamad ben Gehwar</item>
+               <item>Muhamad IV ben Gewar Abulwalid</item>
+            </list>
+            <metamark/>
+            <label>Reyes Xtianos de España y otros Principes<note type="translation">Christian Kings
+                  of Spain and other Princes</note></label>
+            <list>
+               <item>Rey Anfus</item>
+               <item>Armetos hijo de Constantin Rey de Grecia</item>
+               <item>Rey de Grecia</item>
+               <item>Alanfus Rey de Galicia</item>
+               <item>Teofilo Rey de los Griegos</item>
+               <item>Rey Garcia</item>
+               <item>Alfonso III Magno</item>
+               <item>Rey Radmir</item>
+               <item>d<hi rend="superscript">o</hi> de Galicia</item>
+               <item>Rey de Afranc Borel</item>
+               <item>Conde Bermond</item>
+               <item>Conde Armengudi</item>
+               <note type="translation"><list>
+                     <item>King Anfus</item>
+                     <item>Armetos, son of Constantin, King of Greece</item>
+                     <item>King of Greece</item>
+                     <item>Alanfus, King of Galicia</item>
+                     <item>Teofilo, King of the Greeks</item>
+                     <item>King Garcia</item>
+                     <item>Alfonso III, the Great</item>
+                     <item>King Radmir</item>
+                     <item>King Radmir (ditto) of Galicia</item>
+                     <item>Borel, King of France</item>
+                     <item>Count Bermond</item>
+                     <item>Count Armengudi</item>
+                  </list></note>
+            </list>
+            <note type="editorial">From <bibl>Conde, Historia de la dominacion, vol. 1, pp.
+                  625-7.</bibl></note>
+            <cb/>
+            <!-- citation starts here and ends at bottom -->
+            <label>Califas<note type="editorial"><note type="translation">Caliphs</note> Conde has
+                  'Série de los Califas de Oriente que fueron Señores de España en esta época': List
+                  of the Caliphs of the East who were Lords of Spain in this period.</note></label>
+            <list>
+               <item>Walid ben Abdelmelic ben Meruan</item>
+               <item>Suleiman ben Abdelmelic</item>
+               <item>Omar ben Abdelaziz</item>
+               <item>Jezid ben Abdelmelic</item>
+               <item>Hixem ben abdelmelic</item>
+               <item>Walid ben jezid</item>
+               <item>Jezid ben Walid</item>
+               <item>Ibrahim ben Walid</item>
+               <item>Meruan ben Muhamad ben Meruan</item>
+            </list>
+            <metamark/>
+            <label>Amires de España por los Califas de Damasco desde la conquista hasta 137 de la
+               Hegira. 7<hi rend="superscript">mo</hi> de Jusuf el Fehri<note type="translation"
+                  >Emirs of Spain for the Caliphs of Damascus from the conquest until AH 137, the
+                  seventh year of Jusuf el Fehri.</note></label>
+            <list>
+               <item> Taric ben Zeyad el Sadfi</item>
+               <item>Muza ben Noseir el Becri</item>
+               <item>Abdelaziz ben Muza</item>
+               <item>Ayub ben Habib el Lahmi</item>
+               <item>Alhaur ben Abderahman el Tzakefi</item>
+               <item>Alsama ben Malic el Chulani</item>
+               <item>Ambisa ben Sohim el Kelebi</item>
+               <item>Hodeira ben Abdala el Fehri</item>
+               <item>Yahye ben Salema</item>
+               <item>Hodeifa ben Alhaus</item>
+               <item>Otman ben Abi Neza el Chemi</item>
+               <item>Alhaitam ben Obeid el Kenani</item>
+               <item>Muhamad ben Abdala</item>
+               <item>Abderahman ben Abdala el Gafeki</item>
+               <item>Abdelmelic ben Cotan el Fehri</item>
+               <item>Ocba ben Alhegag el Seluli</item>
+               <item>Abdelmelic ben Cotan segunda vez<note type="translation">second
+                  time</note></item>
+               <item>Baleg ben Baxir el Caisi</item>
+               <item>Thaalaba ben Salema el Ameli</item>
+               <item>Husam ben Dhirar el Kelebi</item>
+               <item>Thueba ben Salema el Hezami</item>
+               <item>Jusuf ben Abderahman el Fehri</item>
+            </list>
+            <metamark/>
+            <label>Principes Xtianos en este epoca<note type="translation">Christian Princes in this
+                  period [Conde has 'esta época', correctly].</note></label>
+            <list>
+               <item>Ruderic Rey Godo de España</item>
+               <item>Tadmir Señor de tierra de Murcia</item>
+               <item>Eudon Duque de Aquitania</item>
+               <item>Carlos Martel Maire de la casa real de Francia,</item>
+               <note type="translation"><list>
+                     <item>Ruderic, Gothic King of Spain</item>
+                     <item>Tadmir, Lord of the land of Murcia</item>
+                     <item> Eudon, Duke of Aquitaine</item>
+                     <item>Charles Martel, mayor of the palace of France [his title was maire du
+                        palais]</item>
+                  </list></note>
+            </list>
+            <note type="editorial">From <bibl>Conde, Historia de la dominacion, vol. 1, pp.
+                  145-6.</bibl></note>
+
+         </div>
+      </body>
+
+      <back>
+         <div type="cover">
+            <note> </note>
+         </div>
+         <div type="index"> </div>
+      </back>
+   </text>
+
+</TEI>

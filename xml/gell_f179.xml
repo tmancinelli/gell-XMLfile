@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface xml:id="zone_Page_179">
+         <graphic url="https://iiif.bsr.ac.uk/iiif/2/GELL-VI%2Fwg_06_179.tif/full/full/0/default.jpg"/>
+         <zone points="168,119 3111,125 3378,2763 48,2785" xml:id="zone_Page_179_72302d4b-c85b-44e2-984a-a3979e4e37ae"/> <!-- tower -->
+         <zone points="1055,3247 1506,3236 1506,3416 1039,3400" xml:id="zone_Page_179_222cd6d3-b927-4a5c-a1ac-24cf1bb3580f"/> <!-- animal -->
+      </surface>
+   </facsimile>
+   <text>
+      <front>
+         <div type="cover">
+            <note> </note>
+         </div>
+         <div type="inlet">
+            <head> </head>
+         </div>
+      </front>
+
+      <body>
+         <div type="spain"> </div>
+         <div type="portugal">
+            <ab> </ab>
+         </div>
+         <div type="reading_notes">
+            <pb facs="#zone_Page_179" n="179"/>
+            <fw>24</fw>
+            <figure type="full_page" facs="#zone_Page_179_72302d4b-c85b-44e2-984a-a3979e4e37ae">
+               <note type="editorial_label">Pen and ink drawing: tower</note>
+               <label><note type="ediotiral_label">Framed</note> Tower of <rs type="place" ref="#segovia">Segovia</rs></label>
+            </figure>
+            <ab>Moorish Palace or Alcazar<note type="translation">Fortress</note> on a rocky
+               peninsula between the river <rs type="place" ref="#eresma">Eresema<note type="editorial">Eresma</note></rs> &amp; a
+               ravine. many ceilings gilt &amp; with sentences from Koran. Plaster Compartments</ab>
+
+            <metamark/>
+            <cb/>
+
+            <ab>Under the <rs type="place" ref="#tower_seven_floors">Torre de siete suelos<note type="translation">Tower of the Seven
+                  Floors</note></rs> are The other unseen stories or vaults in which is treasure &amp;
+               the <figure type="in_text" facs="#zone_Page_179_222cd6d3-b927-4a5c-a1ac-24cf1bb3580f">
+                  <note type="editorial_label">[drawing: animal]</note>
+               </figure> called Belludo<note type="editorial">Belludo or Velludo: a headless horse
+                  that supposedly haunts Granada. See, for instance, <bibl>Echeverría, Paseos por
+                     Granada (1814 edn), vol. 1, pp. 210-11.</bibl> (WG may be drawing on
+                  Echeverría's earlier edition here)</note> pursued by seven hell hounds. The Tower
+               on <choice><abbr>W.</abbr><expan>West</expan></choice> side of <rs type="place" ref="#alhambra">Alhambra</rs> not far from water tower at South point. There are not more
+               than 3 or 4 stories above ground. The King is said to have retired by this gate but
+               perhaps he came out of it to meet <rs type="person" ref="#ferdinand_aragona">King Ferdinand</rs> at S<hi rend="superscript">t</hi>. Salvador near the present
+               Passeo de <rs type="place" ref="#genil">Xenil</rs><note type="translation">walk along the river Genil</note> <metamark>–</metamark></ab>
+
+            <cb/>
+
+            <ab><!-- citation starts here -->Arabic <choice><abbr>M.S.</abbr><expan>Manuscript</expan></choice> in Escurial says. Mankeri &amp; Nakeri 2 terrible angels who set a man
+               upright in his Tomb.. &amp; examine his belief in Unity &amp; the Apostle. Quis est
+               Dominus tuus &amp; quae Religio tua &amp; quis Propheta tuus<note type="translation">Who is your Lord and what is your Religion and who is your Prophet?</note>. Only a sect believed in
+               this.<note type="editorial"><bibl>Casiri, Bibliotheca, vol. 1, p. 204.</bibl></note></ab>
+            <ab><!-- citation starts here -->In 1412 the hall of Arteson in the Alcazar<note type="translation">Fortress</note> of Segovia with a gothic inscription.
+               Esta obra mando fazer la muy esclarecida Señora Reina Doña Catalina &amp;c madre del
+               Señor Rey Don Juan 1412<note type="translation">The very illustrious Lady Queen Doña Catalina etc, mother of the Lord King Don Juan, ordered this work to be done [Llaguno y Amírola: 'facer'], 1412.</note>.<note type="editorial">Abridged from <bibl>Llaguno y Amírola, Noticias, vol. 1, p. 302</bibl>.</note></ab>
+
+         </div>
+      </body>
+
+      <back>
+         <div type="cover">
+            <note> </note>
+         </div>
+         <div type="index"> </div>
+      </back>
+   </text>
+
+</TEI>

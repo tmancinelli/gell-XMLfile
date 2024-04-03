@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface xml:id="zone_Page_177">
+         <graphic url="https://iiif.bsr.ac.uk/iiif/2/GELL-VI%2Fwg_06_177.tif/full/full/0/default.jpg"/>
+         <zone points="3046,505 3133,505 3144,571 3046,571" xml:id="zone_Page_177_e934b3ae-c9bf-4ccc-954d-90fd5052a057"/><!-- symbol: therefore -->
+         <zone points="1147,1958 1240,1952 1256,2040 1147,2040" xml:id="zone_Page_177_2b2d4088-7deb-42be-8195-17b4e852a788"/> <!-- symbol: therefore -->
+         <zone points="1142,2137 1245,2127 1256,2208 1153,2214" xml:id="zone_Page_177_90d0a637-8c46-4c12-a805-06c6be151284"/> <!-- symbol: therefore -->
+         <zone points="3149,2692 3258,2681 3280,2768 3160,2779" xml:id="zone_Page_177_faa0cf10-ed1b-4f6c-852b-ce0e69a19c84"/> <!-- symbol: triangle -->
+      </surface>
+   </facsimile>
+   <text>
+      <front>
+         <div type="cover">
+            <note> </note>
+         </div>
+         <div type="inlet">
+            <head> </head>
+         </div>
+      </front>
+
+      <body>
+         <div type="spain"> </div>
+         <div type="portugal">
+            <ab> </ab>
+         </div>
+         <div type="reading_notes">
+            <pb facs="#zone_Page_177" n="177"/>
+            <fw>26</fw>
+            <!-- citation starts here -->
+            <ab>Carmona y Ezija<note type="translation">Carmona and Écija</note></ab>
+            <list>
+               <item>Muhamad ben Abdala.</item>
+            </list>
+
+            <metamark/>
+
+            <label>Huelba y Libla<note type="translation">Huelva and Niebla</note></label>
+            <list>
+               <item>Abdelaziz Albecri 456</item>
+               <item>Abdala ben Abdelaziz 487</item>
+            </list>
+
+            <metamark/>
+
+            <ab>De Lorca<note type="translation">Of Lorca</note></ab>
+            <list>
+               <item>Abu Muhamad Abdala 467</item>
+               <item>Abul Hasan ben Elisa 484</item>
+            </list>
+
+            <metamark/>
+
+            <ab>De Tadmir y Murcia<note type="translation">Of Tadmir and Murcia</note></ab>
+            <list>
+               <item>Muhamad Abu Abderraman</item>
+               <item>Abderraman ben Taher</item>
+               <item>Ahmed Abu Abdala 508</item>
+               <item>Aben Ayad – 540</item>
+               <item>Muhamad ben Juzef 540</item>
+               <item>Alwatik ben Muhamad 540</item>
+               <item>Abu Abdala Muhamad – 569</item>
+               <item>Abdalah Althogri 541? sic</item>
+               <item>Abul Hasan ben Abid 542? sic</item>
+               <item>Aben Hemsek – 560 sic</item>
+               <note type="editorial">WG suggesting (likely) errors (sic) in Conde</note>
+            </list>
+
+            <ab>De Valencia<note type="translation">Of Valencia</note></ab>
+            <list>
+               <item>Mudafas Eslabo <note type="translation">a Slav (eslavo) </note>– 400</item>
+               <item>Mubarik Eslabo<note type="translation">a Slav (eslavo) </note></item>
+               <item>Lebib <choice>
+                     <abbr>d<hi rend="superscript">o</hi></abbr>
+                     <expan>ditto</expan>
+                  </choice><note type="editorial">the same (ditto), i.e. Eslabo (eslabo: a
+                     Slav)</note> 452</item>
+               <item>Abdelaziz ben Abderraman</item>
+               <item>Abdelmalek ben <choice>
+                     <abbr>Abd<hi rend="superscript">z</hi></abbr>
+                     <expan>Abdelaziz</expan>
+                  </choice>. – 469</item>
+               <item>Abu Bakar Abdelmalek 478</item>
+               <item>Yahye Adofar 508</item>
+               <item>Abu Abdala Muhamad 569</item>
+               <item>Aben Hemsek 509</item>
+               <item>Giomail ben Zeyan 569</item>
+            </list>
+
+            <metamark/>
+
+            <ab>De Segura<note type="translation">Of Segura</note></ab>
+            <list>
+               <item>Aben Hemsek 569</item>
+            </list>
+
+            <metamark/>
+
+            <ab>Reyes Almoravides<note type="translation">Almoravid Kings</note></ab>
+            <list>
+               <item>Abu Bekar ben Omar 453</item>
+               <item>Juzef ben Taxfin 500</item>
+               <item>Aly ben Juzef 534</item>
+               <item>Taxfin ben Aly 541</item>
+            </list>
+
+            <metamark/>
+
+            <ab>Almohades<note type="translation">Almohads</note></ab>
+            <list>
+               <item>Ahmed ben Abdala Almahadi 524</item>
+               <item>Abdelmumen ben Aly 558</item>
+               <item>Jozef Abu Jacub 580</item>
+               <item>Jacub Aben Juzef 595</item>
+               <item>Muhamad ben Jacub 610</item>
+               <item>Juzef ben Muhamad 620</item>
+               <item>Abdelwaid 621.</item>
+            </list>
+
+            <note type="editorial">Copied from <bibl>Conde, Historia de la dominacion, vol.
+               2</bibl>, unpaginated frontmatter.</note>
+
+            <cb/>
+            <!--citation starts here -->
+            <ab>Modern Moors by S<hi rend="superscript">r</hi>. Arthur Brooke</ab>
+            <ab>Present Sultan of Morocco is Muley Abderahman Ben Hisham <!-- WG addition from here -->suppose Hixem of Spaniards<note type="editorial">WG's addition</note>.
+               1822 sultan, many rebellions. Succession <sic>nevr</sic> undisputed. Atlas tribes always rebel.
+               Bigoted indolent luxurious, but not very cruel is good. Only Plunders &amp; extorts.
+               When he goes to Fez or Mequinez<note type="editorial">Meknes</note> the South rebels when he goes to Morocco the north
+               rebels. Amaar basha of El Garb was cruel &amp;c the <choice><abbr>Mn</abbr><expan>Mountain</expan></choice> tribes complained. Sultan
+               asked 100 000 dollars to remove him. The Basha offered 300<note type="editorial">i.e. 300,000 dollars</note> to remain. But tribes
+               rebelled &amp; defeated the Bashas troops <figure type="symbol" facs="#zone_Page_177_e934b3ae-c9bf-4ccc-954d-90fd5052a057"><note type="editorial_label">[symbol: therefore]</note></figure> Sultan deposed &amp;
+               plundered Basha &amp; gives him Bastinado<note type="translation">caning his feet</note> night &amp; morning.</ab>
+            <ab>Muley Ishmael sported in murder carried gun or lance on purpose. Sawing in 2 eyes<note type="editorial">Brooke has 'putting out the eyes' [i.e. separate from sawing in two].</note>.
+               crucifying. burying alive &amp; burning. Muley Ismael not passing a river orderd his
+               prisoners to be all killed &amp; with rushes<note type="editorial">Brooke has 'interwoven with rushes'</note> to make the bridge. ???</ab>
+            <ab>When one killed by mistake for another he begged pardon. when one was beat &amp;
+               chained it was in way to fortune<note type="editorial">Brooke has 'he was considered in the high road to preferment'</note>. Sultan called on him in prison send him clothes
+               &amp; make an officer. but despoiled him after for plunder. his Son Muley Mahomet
+               rebelled but he killed him by cutting <sic>of</sic> a hand &amp; foot. Muley Zidan other son
+               strangled by wives for cruelty. Muley Ishmael died at 90<note type="editorial">Brooke has 'past ninety'</note>. had 2 000 women. who
+               quarrelld when he orderd a black Eunuch to weed them 20 or 30 in one day. by a cord
+               round their necks. he had 700 sons on horseback. he married his people to Guinea
+               blacks which makes them now so dark population. his Son Sultan Muley Hamet.<note type="editorial">Summary of Sir <bibl>Arthur de Capell Brooke, Sketches in Spain and Morocco, 2 vols (London, 1831), vol. 1, pp. 223-4, 227-33.</bibl></note> <!-- summary starts here -->Jews in
+               Atlas. Moors tall straight commanding dark eyes white teeth black beard. In hayk like
+               Romans.</ab>
+            <ab>No faith to Xtians, cruel, tyrannical. suspicious. not vicious? never speaks of his
+               wife. in 1831 if you could believe such stories.<note type="editorial">Summary of, and reflection on, points made throughout Brooke, Sketches in Spain and Morocco.</note></ab>
+            
+            <metamark/>
+
+            <ab><!--citation starts here -->Difficulties of dates. each arabic year comprises a part of two of our years
+               generally. Arab year lunar 354 days &amp; the intercalary 355. <figure type="in_text" facs="#zone_Page_177_2b2d4088-7deb-42be-8195-17b4e852a788"><note type="editorial_label">[symbol: therefore]</note></figure>
+               beginning varies. Each year retroceding acia Enero 10 dias in 11<note type="editorial">Conde has 'retrocediendo cada año ácia Enero diez dias ú once.'
+                  <note type="translation">Each year retroceding 10 or 11 days towards January.</note>[ácia = hacia]</note>. When the Arab year
+               agrees with ours intercalary it recedes 12 days. <figure type="symbol" facs="#zone_Page_177_90d0a637-8c46-4c12-a805-06c6be151284"><note type="editorial_label">[symbol: therefore]</note></figure> in 34 years the
+               beginning of Arab Year runs thro’ all our months. Their lunas. Muharram, Safer, Rabié
+               primera, Rabie 2<hi rend="superscript">a</hi>, Giumada 1<hi rend="superscript">a</hi> Giumada 2<hi rend="superscript">a</hi>. Regeb, Xaban, Ramazan, Xawal, Dylcada<note type="editorial">Months of the Islamic calendar: Muharram, Safar, Rabi al-Awwal, Rabi al-Thani, Jumada al-Awwal, Jumada al-Thani, Rajab, Shaban, Ramadan, Shawwal, Dhul Qadah, Dhul Hijjah. Conde says the Arabic name for months is 'lunas'.</note>.
+               Dilhagia. each month from first sight of new moon ‘till 1<hi rend="superscript">st</hi> sight of next. never
+               exceeds 30 days nor less than 29. so they count them alternately. But Dylhagia<note type="editorial">Dhul Hijjah</note> has
+               always 30 in intercalary years.<note type="editorial">Notes on/near-translation of <bibl>Conde, Historia de la dominacion, vol. 1, p. xix.</bibl></note></ab>
+
+            <ab><!-- citation starts here --><bibl>Chap 37 2<hi rend="superscript">d</hi> Vol of Conde</bibl>, abt year 1145 talks of the Bab Morur <figure type="symbol" facs="#zone_Page_177_faa0cf10-ed1b-4f6c-852b-ce0e69a19c84"><note type="editorial_label">[symbol: triangle]<note type="editorial">Links to symbol on pag 178 (WG's page 25)</note></note></figure> of
+               Granada. Then a great rebellion agst. the Almoravides<note type="editorial">Almoravids</note>. Merwan ben Abdelaziz cercò
+               Xatiba, Abu Abdala defendia bien<note type="translation">Meruan ben Abdelaziz besieged Xatiba [Xàtiva], Abu Abdala defended well.<note type="editorial">The past tense, cercó, is WG's adaption of Conde. The spelling 'Meruan' is Conde's.</note></note>. Abu Giafar Wali of Murcia came to help Meruan in
+               siege 2<hi rend="superscript">d</hi> time. The Almoravide garrison forced into the Alcasaba<note type="editorial">Citadel (Alcazaba)</note>. Aben Ayadh the
+               Alcayde<note type="editorial">Governor (alcaide)</note> came to help the Valencians. Then Abdala aben Gania gave up city &amp;
+               retired to Almeria. Then Meruan took &amp; fortified Xatiba &amp; went to Valencia
+               paying well. Entered Valencia on a dromedary hermoso con preciosos vestidos y
+               lucientes armas. rodeade de Xeques y nobles Cavy. in triumph. luna Safer 540 or 1145<note type="translation">[Meruan ben Abdelaziz] entered Valencia on a beautiful dromedary with precious clothing and shining weapons, and surrounded [Conde: 'rodeado'] by Sheikhs and noble knights [Conde: 'caballeros'] in triumph, in the month of Safar AH 540 or 1145AD.</note>.
+               Lecant united. and comand by Merwan ben Abdelaziz. Abu Giafar returned to Murcia
+               pursuing &amp; robbing the Almoravides in their way to Almeria. In Granada rebellion
+               continued. the Almoravides defended themselves in Alcazaba<note type="editorial">Citadel</note>. The rebels sent to
+               Cordova for help. The Cadi<note type="editorial">i.e. qadi, a judge of Islamic law.</note> Abul Hacen ben Adha wrote &amp; Hamdain sent su sobrino
+               Aly ben Omar Muhamad Adha conocido por Omilimad<note type="translation">his nephew, Aly ben Omar Muhamad Adha, known as Omilimad</note>. &amp; from Gien came Aben Gozei the
+               Alcayde<note type="editorial">Governor (alcaide)</note> with troops &amp; mil caballos de la Ajarquia<note type="translation">a thousand horse from the East</note> &amp; united to Abu Giafar of
+               Murcia made 12 000 horse &amp; more foot. The Almoravids frightened fled from
+               Alcasaba<note type="editorial">Citadel (Alcazaba)</note> at Alba &amp; joind their friends en cercanias de Granada<note type="translation">on the outskirts of Granada</note>. fell on the
+               Rebels killed Giafar of Murcia routed all &amp; returned to Alcazaba<note type="editorial">Citadel</note>. The fugitive
+               Murcians returning to their city proclaimed Amir the noble Xeque<note type="editorial">Sheikh</note> Abderrahman ben
+               Tahir, 1145 540<note type="editorial">1145AD or AH 540</note>. Wali Almanzor &amp; his Almoravides in Alcasaba di Malaga<note type="editorial">Conde has 'Alcazaba de Málaga', the citadel of Málaga</note> yielded
+               the fort &amp; Amir Abu Alhakem Ben entered. 540. The Wali Almanzor went into Murcia
+               to his father Abu <choice><abbr>Muh</abbr><expan>Muhamad</expan></choice> ben Alhag.</ab>
+            <ab>Tahir from love to family of Aben Hud named Seif-Dola Aben Hud his Naib<note type="translation">Captain</note> in Murcia.
+               Thence Abu Muhamad ben Alhag &amp; Aben Suar &amp; others went to Cordova </ab>
+            <note type="editorial">Extracts from/summary of <bibl>Conde, Historia de la dominacion, vol. 2, pp. 294-7, 300.</bibl></note>
+
+         </div>
+      </body>
+
+      <back>
+         <div type="cover">
+            <note> </note>
+         </div>
+         <div type="index"> </div>
+      </back>
+   </text>
+
+</TEI>

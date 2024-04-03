@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <div type="cover">
+            <note> </note>
+         </div>
+         <div type="inlet">
+            <head> </head>
+         </div>
+      </front>
+
+      <body>
+         <div type="spain"> </div>
+         <div type="portugal">
+            <ab> </ab>
+         </div>
+         <div type="reading_notes">
+            <pb facs="#f-173" n="173"/>
+            <fw>32</fw>
+            <cb/>
+            <note type="editorial">Extracts from/summary of <bibl>Conde, Historia de la dominacion,
+                  vol. 1, pp. 66-80, 84-92, 98-105, 123-9.</bibl></note>
+            <ab>Calif Omar ben Abdelaziz succeeded Suleiman he ordered Aly not to be cursed in
+               pulpits.</ab>
+            <ab>He deposed Ayub as a son of Muza &amp; made Amir of Spain Alhaur ben Abderahman el
+               Caisi. Ayub only governed but well 7 months. Alhaur el Amir went with an army into
+               Galia Narbonense que es Tierra de Afranc <note type="translation">Gallia Narbonensis,
+                  which is a Land of France</note> a cruel man. Gibal Albortat = the Pyrenees. from
+               latin portas<note type="translation">gates</note>. Jezid was next Calif Ahaur deposed
+               for cruelty 103. Hegira <note type="editorial">AH 103</note>. next Wali was Alsama
+               ben Melic el Chulani, he got to Carcaxona y Tolosa (Thoulouse) <note
+                  type="translation">Carcassonne and Toulouse</note>. The Señor de Alfranc<note
+                  type="translation">Lord of France (i.e. Charles Martel)</note> here opposed him
+               &amp; beat &amp; killed him. Moors retired Ambisa ben Sohim who had been left
+               lieutenant sent reinforcements. Abderahman ben Abdala el Gafeki made Amir</ab>
+            <ab>The Calif Jezid died for love of Hebaba who was dead. he kept her to look at &amp;
+               at last buried her then had her dug up again &amp; died in a few days. aged 33 years
+               or 29. Hixem ben Abdelmelic next Calif 105 Hegira <note type="editorial">AH 105
+                  (723AD)</note>. Abderahman was deposed &amp; Ambisa became Amir but the deposed
+               Amir remained his friend. Ambisa rebuilt the bridge of Cordova visited the provinces
+               &amp; gave X<hi rend="superscript">ts</hi> &amp; Muslimes <note type="editorial"
+                  >Christians and Muslims. Conde includes Jews.</note> equal justice.</ab>
+            <ab>In this time Jews of France &amp; Spain many &amp; rich heard Zonaria their messiah
+               was come &amp; went to Syria leaving their goods. He got into France to the Rodans.
+               Killed by wounds 106 Heg. 724 X<hi rend="superscript">t</hi><note type="editorial">AH
+                  106, 724AD</note>.</ab>
+            <ab>He left Hodeira ben Abdala el Fehri who was changed for Yahye ben Zalema. the
+               Basques in Alguf montes Albaskenses <note type="translation">Basque mountains</note>.
+               changed for Otman ben Abi Neza Amir. Next Amir was Hodaifa ben Alhaus. <sic>nex</sic>
+               Otman ben Abi Neza el <hi rend="underline">Chemi</hi>. 109. These Emirs rapidly changed.</ab>
+            <ab>Albab in M<hi rend="superscript">es</hi> Albortat = Puycerda <note type="editorial"
+                  >i.e. Albab in the Pyrenees (Montes Albortat) = Puigcerdà</note></ab>
+            <ab>The Moors arrived at the Garuna. The King of Afranc<note type="translation"
+                  >France</note> was Caldus. (Carlos Martel <note type="translation">Charles
+                  Martel</note>). Mesaudi calls all French Kings Colorio &amp; Lodorio the Spanish
+               Lodron or Odron. Bordhal = Bordeaux.</ab>
+            <ab>Medina Towrs = Tours. Moors took it. Hosts met on banks of Owar (Loire). The Moors
+               lost the battle &amp; fly to Narbona Medina<note type="translation">Narbonne</note>
+               Abderahman being killed.</ab>
+            <ab>The moors get into France again under the Amir Abdelmelic ben Cotan 736 X<hi
+                  rend="superscript">t</hi><note type="editorial">736AD</note>. next Emir Ocba ben
+               Alhegag. he established Cadis <note type="editorial">Conde has 'Cadies', i.e.
+                  Cádiz</note>. Abdelmelic became Amir again but was delivered by his own people to
+               Baleg &amp; Thaalaba two new adventurers from Africa at </ab>
+
+            <cb/>
+            <metamark/>
+            <ab>Cordova tied to a stake at end of bridge. They cut off his head. Abderahman ben Ocba
+               came to revenge his father. already Thaalaba &amp; Baleg had separated. The son of
+               Ocba killed Baleg with his lance &amp; his troops fled. Abderahman had the title of
+               Almanzor <note type="editorial">i.e. al-Mansur, the Victorious</note> from this
+               Victory. 742<hi rend="superscript">ao</hi>. Hegira 125 <note type="editorial">742AD,
+                  AH 125</note>.</ab>
+            <ab>The Calif Walid ben Jezid impious drank wine abused power, entered lands of Mecca
+               with hunting dogs made good verses &amp; liked music. he was killed 126 <note
+                  type="editorial">AH 126, 743AD</note>.</ab>
+            <ab>Iusuf el Fehri Amir de España <note type="translation">Jusuf el Fehri, Emir of
+                  Spain</note>746. Amer made governor of Sevilla, he descended from Mosab alferez
+               del Profeta en la batalla de Bedre. era muy poderoso y habia cōstruido un magnifico
+               palacio en Cordoba fuera de sus muros a la parte del ponente de la ciudad y un
+               espacioso cementerio. <note type="translation">Mosab, ensign of the Prophet in the
+                  battle of Bedre [i.e. Badr, 624AD]. He [Amer] was very powerful and had built
+                  [construido] a magnificent palace in Cordoba outside its walls in the Poniente
+                  part of the city and a spacious cemetery.</note> Lisbon = Alisbona. Portocale a
+               city or port.</ab>
+            <ab>Loado seas Senor Dios, dueño de los imperios que das el señorio a quien quieres, y
+               quitas el señorio a quien quieres, y honras a quien quieres y humillas a quien
+               quieres en tu mano esta el bien y el mal y tu eres sobre todas las cosas poderoso.
+                  <note type="translation">Praise be to you, Lord God, owner of the empires, you who
+                  give lordship to whomever you want, and take lordship away from whomever you want,
+                  and honour whomever you want, and humble whomever you want, in your hand is good
+                  and evil, and you have power over all things.</note> &amp;. So begins the reign of
+               the Calif Meruan. Forat the Euphrates.</ab>
+
+            <ab>Spain in time of Calif Meruan. under jusuf el Fehri.</ab>
+            <ab>Mando restituir los caminos militares de Andalucia a Tolaitola. a Merida, a
+               Alisbona, a Asturica, y a Saracusta y Tarracona. Reparò los puentes deribabos las
+               Aljamas &amp; con la tercia parte de los productos di cada provincia. La primera
+               provincia Andalucia antes Beitica del Beti rio de Cordoba desde su nascimiento. &amp;
+               Guadiana contiene Cordoba Esbilia, Carmona, Estija, Talica cerca de Esbilia antigua
+               casa real de los Eparcos de España, Sidonia Arcos, Libla, Malaga, Elbira, jayen
+               Arjona Castolona, Alturja, Cabra Bulcona (*Porcuna) Astaba Ossona, y otras. 2<hi rend="superscript">d</hi>
+               Provincia de Tolaitola antes de Cartagena de las sierras de Guadaramla hasta las
+               montañas del otro lado del Duero, contiene Tolaitola, Ubeda, Bayeza, Mentiza,
+               Wadiacix. Basta, Murcia, Bocastra, Mula, Lorca, Auriola, Elixe, Xatiba, Denia,
+               Lucante, Cartagena, Valencia, Valeria, Segovia, Segobrica Ercabica, Wadilhijara,
+               Secunda, Oxima, Colounia, Cauca, Balancia y otras. 3 Provincia de Merida antes
+               Lugidania y Galicia Algarbe hasta las costas que baña el mar Britanico – contiene
+               Merida Beja, Baracara, Dumio, Alisbona, Portocale, Tude Auria, Luco, Astorica,
+               Samora, Iria, <note type="translation">He ordered the military roads to be restored
+                  from Andalucia to Tolaitola [Toledo], Merida, Alisbona [Lisbon], Asturica
+                  [Astorga], Saracusta [Zaragoza] and Tarracona [Tarragona]. He repaired the
+                  demolished [Conde: 'derribados'] bridges, great mosques [etc] with a third of the
+                  produce of each province. The first province, Andalucia, formerly Beitica from the
+                  Beti, a river in Cordoba, from its source [until it enters the ocean (Conde)]. and
+                  [the river] Guadiana [i.e. the region between these two rivers (Conde)] contains
+                  Cordoba, Esbilia [Seville], Carmona, Estija [Écija], Talica [Italica] near Esbilia
+                  [Seville], the former royal home of the Eparchs of Spain, Sidonia, Arcos, Libla
+                  [Niebla], Málaga, Elbira, Jayen [Jaén], Arjona, Castolona, Alturja, Cabra, Bulcona
+                  (*Porcuna), Astaba, Ossona, and others. 2nd Province of Tolaitola [Toledo],
+                  formerly Cartagena, from the Guadaramla [i.e. Guadarrama] mountains to the
+                  mountains on the other side of the Douro, contains Tolaitola [Toledo], Ubeda,
+                  Bayeza, Mentiza, Wadiacix, Basta, Murcia, Bocastra, Mula, Lorca, Auriola, Elixe,
+                  Xatiba, Denia, Lucante, Cartagena, Valencia, Valeria, Segovia, Segobrica,
+                  Ercabica, Wadilhijara, Secunda, Ocxima, Colounia, Cauca, Balancia and others. 3rd
+                  Province of Merida, formerly Lugidania [Lusitania] and Galicia, [from] the Algarve
+                  to the coasts that bathe in the British Sea - containing Merida, Beja, Baracara,
+                  Dumio, Alisbona [Lisbon], Portocale [Porto], Tude, Auria, Luco [Lugo], Astorica
+                  [Astorga], Samora, Iria [... onto next page ...]</note></ab>
+            <ab>*Porcuna now</ab>
+
+         </div>
+      </body>
+
+      <back>
+         <div type="cover">
+            <note> </note>
+         </div>
+         <div type="index"> </div>
+      </back>
+   </text>
+
+</TEI>

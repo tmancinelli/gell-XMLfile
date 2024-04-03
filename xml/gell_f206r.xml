@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <div type="cover">
+            <note> </note>
+         </div>
+         <div type="inlet">
+            <head> </head>
+         </div>
+      </front>
+
+      <body>
+         <div type="spain">
+         </div>
+         <div type="portugal">
+            <ab> </ab>
+         </div>
+         <div type="reading_notes">
+            <pb facs="#f-206r" n="206r"/>
+            <figure facs="xxx"><note type="editorial_label">Pencil, pen and ink drawing: gate<note type="editorial">With a few small changes, WG has here copied David Roberts's illustration in <bibl>Thomas Roscoe, The Tourist in Spain. Granada (London, 1835), pp. 72-3: 'The Gate of Justice; Entrance to the Alhambra'.</bibl></note></note>
+               <label>Bab el Adel<note type="editorial">i.e. Puerta de la Justicia (Gate of Justice), Alhambra, Granada. 'Bab el Adel' does not appear in any of the sources WG is drawing on in these pages, so it may be his own translation of 'Gate of Justice' into Arabic.</note></label>
+               <ab>Five fingers allude to 5 precepts. Faith. Prayer. Alms. Fasting Pilgrimage.<note type="editorial">Probably summarising <bibl>Thomas Roscoe, The Tourist in Spain. Granada (London, 1835), p. 73.</bibl> WG draws on Roscoe several more times in the following pages.</note></ab></figure>
+            
+         </div>
+      </body>
+
+      <back>
+         <div type="cover">
+            <note> </note>
+         </div>
+         <div type="index"> </div>
+      </back>
+   </text>
+
+</TEI>

@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <div type="cover">
+            <note> </note>
+         </div>
+         <div type="inlet">
+            <head> </head>
+         </div>
+      </front>
+
+      <body>
+         <div type="spain"> </div>
+         <div type="portugal">
+            <ab> </ab>
+         </div>
+         <div type="reading_notes">
+            <pb facs="#f-172" n="172"/>
+            <fw>33</fw>
+            <cb/>
+            <note type="editorial">Extracts from/summary of <bibl>Conde, Historia de la dominacion,
+                  vol. 1, pp. 50-7, 61-6.</bibl></note>
+            <ab><!-- possible anchor = stands for when I can use an anchor element to mark the point where the translation starts -->el no recibira nuestros enemigos ni nos faltarà a la fidelidad, ni ocultarà trato
+               hostil que entienda: que el y sus nobles pagarán el servicio di un dinar o aureo cade
+               año, y cuatro medidas de trigo, y cuatro de cebada, y cuatro de mosto, y cuatro de
+               vinagre, y cuatro de miel, y cuatro de aceite; y los siervos o pecheros la mitad de
+               esto, Fue escrita en cuatro de Regeb, año noventa y cuatro de la Hegira. Testificaron
+               sobre esto Otzman ben Abi Abda, Habib ben Abi Obeida, Edris ben Maicera, y Abulcasim
+               el Mezeli <note type="translation">[From previous page: that] he will not receive our
+                  enemies, nor will he lack loyalty to us, nor will he conceal hostile treatment
+                  that he knows about: that he and his nobles will pay tribute of one dinar or gold
+                  piece each year, and four measures of wheat, and four of barley, and four of grape
+                  juice, and four of vinegar, and four of honey, and four of oil; and the serfs or
+                  commoners half of this, This was written on the fourth of Regeb, year ninety-four
+                  of Hegira [AH 94, by Islamic calendar]. Otzman ben Abi Abda, Habib ben Abi Obeida,
+                  Edris ben Maicera and Abulcasim el Mezeli testified to this.</note>. The messenger
+               who went to make this accord was Tadmir himself. The Moors entering the city next day
+               asked where was the garrison Tadmir told them Women.</ab>
+            <ab><!-- possible anchor -->Abdelaziz next took Sierras de Segura, Bazta, Acxi, Jayen, Elvira y en Garnata, que
+               tenian los Judios y en Anticaria y Malaga y otras ciudades de la costa del mar.<note
+                  type="translation">Abdelaziz next took the mountains of Segura, Bazta, Acxi, Jaén,
+                  Elvira and Granada, which the Jews held, and Antequera and Málaga and other cities
+                  of the sea coast.</note></ab>
+            <ab>Tadmir ben Gobdas King of East<hi rend="superscript">n</hi> Andalucia.</ab>
+            <ab>The Calif sent Muza to restore Taric. Taric &amp; Muza both went against East Spain
+               ordering again <!-- possible anchor --> prohibition de robos y pillage con pena de la vida.<note type="transaltion">Prohibition of robbery and pillage on pain of death.</note></ab>
+            <ab>Taric went to founts of Tagus. <!-- possible anchor -->Arcabica sierras. Molina y Segoncia, y las vegas y
+               campos que riega el Ebro.<note type="translation">Arcabica mountains. Molina and Segoncia, and the fertile plains and fields irrigated by the Ebro.</note> Muza to Sentica &amp; Salamanca Astorica &amp; then along
+               the Duero to the east, to Medina Saracusta<note type="editorial">Zaragoza</note> then besieged by Taric. Muza ben Noseir
+               took a great fine &amp; left governor Hanax ben Abdala Asenani who built <!-- possible anchor -->a Mezquita y
+               una principal Aljama <note type="translation">a mosque and a principal great mosque</note>.</ab>
+            <ab>They took Wesca, Turiazona, Calagurra, Ilerda, Tarragona up to m<hi rend="superscript">ts</hi> Anfranc <note type="editorial">i.e. the Pyrenees (Conde has Afranc: France)</note>. Taric
+               took Tortuxa, Murbiter, Valencia, Xativa y Denia. Islam at Barciluna, Gerunda y
+               Empuria &amp; also into land of <hi rend="underline">Afranc</hi><note type="editorial">France</note> &amp; took Medina Narbona<note type="editorial">Narbonne</note></ab>
+
+            <cb/>
+            <metamark/>
+            <ab>where fine 7 idol equestrian of silver in a temple. Then to Guf &amp; <!-- possible anchor -->to Galicia por
+               Asturica y en Lugidania <note type="translation">through Astorga and into Lusitania</note>. The Calif had a fifth of spoil. They plundred &amp;
+               quarrelled so the Calif ordred both Muza &amp; Taric to Damascus. Muza left his son
+               Abdelaziz Governor of Spain. Amir.</ab>
+            <ab>Muza went to Damascus with great riches &amp; <!-- possible anchor -->400 Varones de las familias regias
+               godas who wore on their heads diademas de oro. &amp; golden belts. entrò en Syria 95
+               of Hegira. <note type="translation">400 men of the Gothic royal families who wore on their heads diadems of gold and golden belts. He entered Syria AH 95 [713AD].</note></ab>
+            <ab>The Calif Walid received him well I mean Taric</ab>
+            <ab>Fostat near Cairo = a Tent. Alguf = north. Alquibla = <choice><abbr>S.</abbr><expan>south</expan></choice> Axarkia = <choice><abbr>E.</abbr><expan>east</expan></choice> Algarbe
+               West.</ab>
+            <ab> Mechtisebes; treasures of provinces</ab>
+            <ab>The Calif ordered the death of Muzas sons in Spain. Poor Abdelaziz was at an
+               <!-- possible anchor -->Alqueria cerca Sevilla que se llamaba Kenisa Rebina <note type="translation">a farmhouse near Seville, called Kenisa Rebina</note> where he built a Mosque. El Wali
+               his Title <!-- possible anchor -->His muger goda Ayela favorecia mucho a los Xtianos<note type="translation">his Gothic wife, Ayela, greatly favoured the Christians</note>. Zeyad ben Nabigat el
+               Temimi got him slain head cut off &amp; body buried <!-- possible anchor -->en el patio. 97 of Hegira <note type="translation">in the yard [courtyard or backyard]. AH 97</note>Tadmir
+               sent &amp; got protection from the Calif.</ab>
+            <ab>Ayub was elected Wali brother of Abdelaziz he moved from Sevilla to Cordoba.</ab>
+            <ab>The Governor of Zaragoza Hanax ben Abdala ben Amru ben Hantala ben Fehid ben Kenan
+               ben Thalbe ben Abdala ben Thamir Asafei el Senani <!-- possible anchor -->conquistador de Egipto Africa
+               Almagreb e de España companero de Muza ben Noseir <note type="translation">conqueror of Egypt, Africa, the Maghreb and Spain, companion of Musa ibn Nusayr.</note>. He built the great Mosque &amp;
+               Calat-Ayub. The embalmed head of Abdelaziz carried to Suleiman the Calif, when Muza
+               visited him his sons head shewn. <!-- possible anchor -->o Muza conoces esta cabeza. si bien la conozco, la
+               maledicion de Dios sea sobre quien asesinó a quien era mejor que el. y se salió del
+               palacio lleno de dolor y fallecio de gran melancolia <note type="translation">Oh Musa, do you know this head? Yes, I know it well, the curse [Conde: 'maldicion'] of God be on whoever murdered he who was better than him. And he left the palace full of grief and died of great melancholy.</note>. This Calif built the great
+               Mosque of Damascus, with 600 lamps hanging from gold chains. cost 40 chests of 14000
+               doblas <note type="translation">gold coins</note> each. Calif Omar charged them. much smoke.</ab>
+
+         </div>
+      </body>
+
+      <back>
+         <div type="cover">
+            <note> </note>
+         </div>
+         <div type="index"> </div>
+      </back>
+   </text>
+
+</TEI>

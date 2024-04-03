@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <div type="cover">
+            <note> </note>
+         </div>
+         <div type="inlet">
+            <head> </head>
+         </div>
+      </front>
+
+      <body>
+         <div type="spain">
+         </div>
+         <div type="portugal">
+            <ab> </ab>
+         </div>
+         <div type="reading_notes">
+            <pb facs="#f-205v" n="205v"/>
+            <!-- half in pencil half in ink -->
+            <!-- citation starts here and ends at bottom -->
+            <ab> <bibl>p 86 3 Volume<note type="editorial">i.e. Conde, Historia de la dominacion, vol. 3, p. 86.</note></bibl> handsome doncella<note type="translation">maiden</note> from Almandhar taken to Granada</ab>
+            
+            <ab>Nasar el Ansari</ab>
+            <ab>Jusef</ab>
+            <ab>Abu Abdallah muhamad <choice><abbr>KG born 1195 or 671 ob 1273</abbr><expan>King of Granada, born 1195AD or AH 671, died (obiit) 1273AD</expan></choice></ab>
+            <ab><del rend="overstrike">abu Abdala Mahamed 2<hi rend="superscript">d</hi> Sultan 1303</del> Muhamad <choice><abbr>K.G.</abbr><expan>King of Granada</expan></choice></ab>
+            <ab>1306 built mosque &amp; Bath <choice><abbr>ob</abbr><expan>obiit (died)</expan></choice> 1235???<note type="editorial">WG is obviously right to doubt the impossible death date of 1235 - for the correct chronology, see list of kings in Conde, Historia de la dominaction, vol. 3, p. v.</note></ab>
+            <ab><del rend="overstrike">born 1195 or 671<note type="editorial">1195AD or AH 671</note></del></ab>
+            <ab><del rend="overstrike"><choice><abbr>ob</abbr><expan>died (obiit)</expan></choice> 1273</del></ab>
+            <ab>1295 Sancho <choice><abbr>K.</abbr><expan>King of</expan></choice> Spain</ab>
+            <ab>Ferag Wali de Malaga Ben Nasar 1306 = Sist. of Muham<hi rend="superscript">d</hi> III<note type="editorial">Ferag Ben Nasar, Governor (Wali) of Málaga 1306 = Sister of Muhamad III</note></ab>
+            <ab>Nasar deposed by Ferag.</ab>
+            <ab>Ismail <choice><abbr>KV Granada</abbr><expan>5th King of Granada</expan></choice></ab>
+            <ab>Muhamad <choice><abbr>K VIII G</abbr><expan>8th King of Granada</expan></choice></ab>
+            <note type="editorial">Notes from <bibl>Conde, Historia de la dominacion, vol. 3, pp. 55-8, 79, 86-7.</bibl></note>
+            
+         </div>
+      </body>
+
+      <back>
+         <div type="cover">
+            <note> </note>
+         </div>
+         <div type="index"> </div>
+      </back>
+   </text>
+
+</TEI>

@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <div type="cover">
+            <note> </note>
+         </div>
+         <div type="inlet">
+            <head> </head>
+         </div>
+      </front>
+
+      <body>
+         <div type="spain">
+         </div>
+         <div type="portugal">
+            <ab> </ab>
+         </div>
+         <div type="reading_notes">
+            <pb facs="#f-176" n="176"/>
+            
+            <fw>27</fw>
+            <list><item>Alcarria Pueblo villar</item>
+               <item>Aldea lugar corto</item>
+               <item>Alhaci, Tutor</item>
+               <item>Alhali Autorizador de casamiento</item>
+               <item>Alhace Mandato de tutoria</item>
+               <item>Acidaque – dote</item>
+               <item>Algufia – parte norte</item>
+               <item>Alcala – Castillo</item>
+               <item>Alcolea – Castillejo</item>
+               <item>Alcocer – palacio pequeño</item>
+               <item>Alkibla – parte meridional</item>
+               <item>Axarquia – parte oriental</item>
+               <item>Borg – Torre</item>
+               <item>Cadi Juez. Catib – Escribano.</item>
+               <item>Chothba, Oracion por el Rey</item>
+               <item>Cid = Señor – Cidi Senor mio</item>
+               <item>Gacira = Isla</item>
+               <item>Gebal = Monte</item>
+               <item>Guadi -a = Rio</item>
+               <item>Hans = Castillo</item>
+               <item>Medina = Ciudad</item>
+               <item>Munimes = fieles</item>
+               <item>Naib = Capitan</item>
+               <item>Said-Almedina = Prefecto de las ejecuciones de justicia</item>
+               <item>Taa = territorio jurisdiccional</item>
+               <item>Wacir = Ministo princpl. Governador</item>
+               <item>Wali = Prefecto caudillo Governador</item>
+               <item> Wala = por dios</item>
+               <item>Wadi = guadi</item>
+            
+               <note type="editorial">Copied from <bibl>Conde, Historia de la dominacion, vol. 3, p. viii</bibl>.</note>
+               <note type="translation"><list>
+                  <item>Alcarria: Town, small town</item>
+                  <item>Aldea: small place [lit. short place, i.e. village or hamlet]</item>
+                  <item>Alhaci, Tutor</item>
+                  <item> Alhali: marriage Authoriser</item>
+                  <item>Alhace: order of guardianship</item>
+                  <item>Acidaque - dowry</item>
+                  <item>Algufia - northern part</item>
+                  <item>Alcala - Castle</item>
+                  <item>Alcolea - small Castle</item>
+                  <item>Alcocer - small palace</item>
+                  <item>Alkibla - southern part</item>
+                  <item>Axarquia - eastern part</item>
+                  <item>Borg - Tower</item>
+                  <item>Cadi: Judge. Catib - Court Clerk.</item>
+                  <item>Chothba, Prayer for the King [Conde has 'Oracion pública por el Rey': public prayer for the King]</item>
+                  <item>Cid = Lord - Cidi: my Lord</item>
+                  <item>Gacira = Island</item>
+                  <item>Gebal = Mountain</item>
+                  <item>Guadi, Guada = River</item>
+                  <item>Hans = Castle</item>
+                  <item>Medina = City</item>
+                  <item>Munimes = the faithful</item>
+                  <item>Naib = Captain</item>
+                  <item>Said-Almedina = Prefect of the execution of justice</item>
+                  <item>Taa = jurisdictional territory</item>
+                  <item>Wacir - principal Minister, Governor [of a city: Conde has 'Gebernador [sic] de ciudad']</item>
+                  <item>Wali - Prefect, leader, Governor [of a province: Conde has 'Gobernador de provincia']</item>
+                  <item>Wala = by God [oath]</item>
+                  <item>Wadi = [is pronounced like (Conde)] guadi</item></list></note></list>
+            
+            <metamark/>
+            
+            <ab>These in years of Hegira<note type="editorial">Islamic calendar (AH)</note> from Arabic.</ab>
+            <label>Reyes de Azahila y Aben Razin</label>
+            <list><item>Abu Meruan 401</item>
+               <item>Muhamad Gesan Daula 476</item>
+               <item>Abelmalek ben Gesan</item>
+               <item>Yahye ben Gesan 483.</item>
+            
+            
+               <item>Almeria y Denia<note type="translation">Almeria and Denia</note></item>
+               <item>Cairan Eslabo<note type="translation">a Slav (eslavo)</note></item>
+               <item>Zoair <choice><abbr>d<hi rend="superscript">o</hi></abbr><expan>ditto (the same)</expan></choice><note type="editorial">i.e. Zoair Eslabo [eslavo: a Slav]</note> 444</item>
+               <item>Muhamad ben Man 484</item>
+               <item>Obeidala Moez Daula 484</item></list>
+            
+            <cb/>
+            <!-- start citation -->
+            <label>Reyes de Cordoba<note type="translation">Kings of Cordoba</note> not infallible<note type="editorial">WG's addition</note></label>
+           <note> years of Hegira – from Arabians.</note>
+            <list><item>Gehwar 435</item>
+            <item>Muhamad ben Gehwar. 452</item></list>
+            
+            <label>Reyes de Malaga<note type="translation">Kings of Málaga</note></label>
+            <list><item>Aly Aben Hamud 408</item>
+               <item>Alcasen ben Hamud 415</item>
+               <item>Yahye ben Aly 417</item>
+               <item>Edris ben Aly.</item>
+               <item>- - Valiye<note type="editorial">WG's addition</note></item>
+               <item>Muhamad Almahdi</item>
+               <item>Alcasen Almoztali 445</item>
+               <item>Zagut ben Muhamad 470<note type="editorial">Conde has 479</note></item></list>
+               
+            <label>De Sevilla<note type="translation">Of Seville</note></label>
+               <list><item>Albucasin Muhamad ben Abed 433</item>
+               <item>Abu Amru 461</item>
+               <item>Muhamad Almotamed 484</item></list>
+            
+               <label>De Toledo<note type="translation">Of Toledo</note></label>
+               <list><item>Ismail ben Dylun</item>
+               <item> Yahye ben Ismail 469</item>
+               <item> Alcadir Bilah – 471</item>
+               <item>Yahye Adofar 478</item></list>
+                  
+               <label>De Zaragoza<note type="translation">Of Zaragoza</note></label>
+               <list><item>Almondar ben Yahye 430</item>
+               <item>Soliman Algiuzami 438</item>
+               <item>Ahmed ben Soliman 474</item>
+               <item>Juzef ben Ahmed 478</item>
+                  <item>Ahmed ben<note type="editorial">Conde has 'Abu'</note> Giafar 503</item>
+               <item>Abdelmalek abu Meruan 512</item>
+                  <item>Ahmed abu Giafar ben Abdelmalek 140<note type="editorial">Conde has '540' [WG's error]></note></item></list>
+            
+            <label>De Granada<note type="translation">Of Granada</note></label>
+            <list><item>Abus ben Maskan<note type="editorial">Conde has 'Maksan'</note> 420</item>
+               <item>Habus su sobrino<note type="translation">his nephew</note> 429</item>
+               <item>Badis ben Habus 469</item>
+               <item>Abdala ben Balkin 483</item></list>
+               
+            <label>De Badajoz<note type="translation">Of Badajoz</note></label>
+            <list><item>Sabur persa<note type="editorial">Persian</note></item>
+               <item>Abu baker Abdala</item>
+               <item>Muhamad Almudafar</item>
+               <item>Omar Almetuakel 487</item>
+            
+            <note type="editorial">Copied from <bibl>Conde, Historia de la dominacion, vol. 2, unpaginated frontmatter.</bibl></note>
+            
+           <cb/> <!-- writing at 90 degrees within three columns -->
+               <metamark><note type="editorial_label">[symbol: asterisk]<note type="editorial">Linking to asterisk on pag 174</note></note></metamark> 
+               <note><sic>Argumnts</sic> in verse</note>
+               <lg><l>y despues que su inconstancia</l>
+                  <l>mostrò la suerte Enemiga</l>
+                  <l>Cuando de sus pies los alza</l>
+                  <l>y otra vez los acaricia</l>
+                  <l>Injusta sera si a un tiempo</l>
+                  <l>Su faz muestra compasiva</l>
+                  <l>Con hijos de Abdelxiamsi</l>
+                  <l>con esa prosapia impia</l></lg>
+               <lg><l>pues que dios los humillo</l>
+                  <l>por que tu no los humillas</l>
+                  <l>salgan luego de tu casa</l>
+                  <l>no tengas dellos mancilla</l>
+                  <l>De Alhusein y Zaydi</l>
+                  <l>no olvides la muerte indigna</l>
+                  <l>Ni a quien en su propria cama</l>
+                  <l>robaron la dulce Vida</l>
+                  <l>Y aquel inclito Varon</l>
+                  <l> que en Harran amanecia</l>
+                  <l> por las calles arrastrado</l>
+                  <l>muerto con alevosia</l>
+                  <l> y olvidado entre extrangeros</l>
+                  <l>venganza venganza grita.</l></lg> <note>grita</note>
+               <note>Vide 3 leaves back</note>
+            
+            
+         </div>
+      </body>
+
+      <back>
+         <div type="cover">
+            <note> </note>
+         </div>
+         <div type="index"> </div>
+      </back>
+   </text>
+
+</TEI>

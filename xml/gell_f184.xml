@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <div type="cover">
+            <note> </note>
+         </div>
+         <div type="inlet">
+            <head> </head>
+         </div>
+      </front>
+
+      <body>
+         <div type="spain"> </div>
+         <div type="portugal">
+            <ab> </ab>
+         </div>
+         <div type="reading_notes">
+            <pb facs="#f-184" n="184"/>
+            <fw>19</fw>
+            <!-- citation starts here -->
+            <ab>In a Toletan MS of Galen is a note Dn<hi rend="superscript">o</hi> Moyse Susani
+               filio with his friend Joanne Moysis filio Ben Feris. read this work 25 Nov<hi
+                  rend="superscript">r</hi> aerae Sapharensis id est Hispanae 1422. X<hi
+                  rend="superscript">ti</hi> 1384 idque in urbe Toleto quam deus servet incolumem. A
+               Jew &amp; X<hi rend="superscript">tian</hi> Physician of Toledo. Also there notes
+               Xtiani duce Rege Ferrando urbem Jaen recuperarunt die 4 Martis a<hi
+                  rend="superscript">o</hi> X<hi rend="superscript">t</hi> 1245. Hispalim 26 Aprilis
+               1248. Tharifam 21 Sept a<hi rend="superscript">o</hi> 1340. 1257 Nieblam.</ab>
+            <ab>Alphonsus Rex astronomus ob Heg 683 1284 of X<hi rend="superscript">t</hi>.</ab>
+            <ab>Sanchus obiit Toleti 26 April. 1295 Xt.</ab>
+            <ab>obiit Rex Ferrandus in Jaen 7 Sep<hi rend="superscript">t</hi> 1310.</ab>
+            <ab>Ob<hi rend="superscript">t</hi> ejus filius Rex Alphonsus in <hi rend="underline"
+                  >monte expugnationis</hi> id est Gibelthar 26 Martii. X<hi rend="superscript"
+                  >t</hi> 1350</ab>
+            <ab>Ejus filius Rex Petrus 1368</ab>
+            <ab>Rex Henricus 1379</ab>
+            <ab>Rex Johannes equo prolapsus a<hi rend="superscript">o</hi> 1390</ab>
+            <ab>Rex Henricus ob<hi rend="superscript">t</hi> Toleti 20 dec<hi rend="superscript"
+                  >r</hi>. 1432</ab>
+            <ab>Regina Catharina ob<hi rend="superscript">t</hi> in Valladolid in Arabic Baladualid
+                  <note type="arabic" facs="xxx">بلد الوليد<note type="translation"
+                     >Valladolid</note><note type="editorial"> Arabic not present on p. 248 of
+                     Casiri. WG has taken it from elsewhere.</note></note> id est urbs principis
+               Mauritani Valid a<hi rend="superscript">o</hi> 1418<note type="editorial">From
+                     <bibl>Casiri, Bibliotheca, vol. 1, p. 248.</bibl>
+                  <note type="translation"> In a Toletan Manuscript of Galen is a note: Lord Moses,
+                     son of Susanus, with his friend Joannes Moses, son of Ben Ferus, read this work
+                     25 November 1422 in the period of Safar [second month of the Islamic calendar],
+                     that is of Spain. 1384AD. And that in the city of Toledo, which may God keep
+                     safe. A Jew and Christian Physician of Toledo. Also there notes the Christians,
+                     led by King Fernando, retook the city of Jaen on 4 March 1245AD [Casiri has
+                     1243]. Seville, 26 April 1248. Tarifa 21 September 1340. Niebla, 1257. King
+                     Alfonso the astronomer died AH 683, 1284AD. Sancho died at Toledo, 26 April
+                     1295AD. King Fernando died at Jaen, 7 September 1310. His son, King Alfonso,
+                     died at the mountain of storms, that is, Gibraltar, 26 March 1350AD His son,
+                     King Pedro, 1368 King Enrique, 1379 King Juan fell off his horse in the year
+                     1390 King Enrique died at Toledo, 20 December 1432 Queen Catalina [Catherine of
+                     Lancaster] died at Valladolid, in Arabic Baladualid, that is the city of the
+                     Moorish leader Valid, in the year 1418</note></note>
+               <metamark>–</metamark> <!-- citation starts here -->all notes in this book <metamark>–</metamark> p248<note type="editorial">i.e. <bibl>Casiri, Bibliotheca, vol. 1, p. 248.</bibl></note></ab>
+            <metamark/>
+            <ab><!-- citation starts here -->Corans without number p486<note type="editorial"><bibl>Casiri, Bibliotheca, vol. 1, p. 486</bibl>, though the books there are actually commentaries on the Quran.</note></ab>
+            <metamark/>
+            <ab><!-- citation starts here -->Explanation of <choice><abbr>Mahom</abbr><expan>Mahometan</expan></choice> faith by Abu Abdallah Mohamad ben Joseph <hi rend="underline"
+                  >Abderita</hi> for Abi Abdalla Mohammad King of Granada who was of the Nasserites
+               &amp; died Hegirae 733<note type="editorial">AH 733</note><note type="editorial">From <bibl>Casiri, Bibliotheca, vol. 1, p. 526.</bibl></note></ab>
+            <metamark/>
+            <note type="arabic" facs="xxx">بسم الله الرحمن الرحيم <note type="translation">In the name of God (Allah) the most gracious and merciful</note></note>
+
+            <cb/>
+            <!-- citation starts here -->
+            <ab>Codex <metamark>–</metamark> Comment on Khalil ben Isaac great Lawyer by
+               Scharapheddin Althakhikhi Lawyer of Granada.</ab>
+            <metamark/>
+            <ab>Same epitomized by Abdelrahman Alagehuri of Granada.</ab>
+            <metamark/>
+            <ab>Same in 8 Vols by Nassereddin Alzarcani of Granada.</ab>
+            <metamark/>
+            <ab>Abdallah Ben Mohamad Ben Zakri Heg 838<note type="editorial">AH 838</note> Lawyer of Granada.</ab>
+            <metamark/>
+            <ab>Admonitions to Judges &amp;c Heg 896<note type="editorial">AH 896</note> by Abu Abdallah Mohamad Ben Abdalla vulgo
+               Almoknasi<note type="translation">commonly called Almoknasi</note> chief judge of Granada.</ab>
+            <metamark/>
+            <ab>Of Cordova Abu Othman Sada Ben Abi Giaphar Ahmad Ben Leon Altagibi Law,</ab>
+            <note type="arabic" facs="xxx">أبو عثمان سعد بن احمد بن ليون التجيبي<note type="translation">Abu Othman Saad bin Ahmed bin Leon Al-Tajibi [writer, b. AH681, 1282AD, from Almería]</note></note>
+            <metamark/>
+            <ab>Copy of Codex Cuph in urbe Guadix Heg 820 de Jurisprudentie carmen – Auctor Abu
+               Giaphar Mohamad of Granada 790 Heg.<note type="translation">Copy of Kufic Codex in the City of Guadix, AH 820, Poem on Jurisprudence – Author Abu Giaphar Mohamad of Granada, AH 790.</note></ab>
+            <metamark/>
+            <ab>Book of Kings Tributes &amp; Rents of Cordova Heg 677 X<hi rend="superscript"
+               >ti</hi> 1278<note type="editorial">AH 677 or 1278AD</note>, by Abu Giaphar Ben Nasser Alravadi of Cordova. Orders that <choice><abbr>Xtians</abbr><expan>Christians</expan></choice>
+               when conquered by Mahometans may have lauds &amp; Churches</ab>
+            <metamark/>
+            <ab>Even books from Bokhara<note type="editorial">i.e. Bukhara, in present-day Uzbekistan
+            </note> in Spain.</ab>
+            <metamark/>
+            <ab>Abdelrahman Alagehuri of Granada Civil law,</ab>
+            <metamark/>
+            <ab>Poem on Logic &amp; Algebra by a Cordovan Author with Comment by Ben Ali ben David
+               Almosarati of Granada 7<hi rend="superscript">th</hi> century Heg<note type="editorial">7th century AH</note>.</ab>
+            <metamark/>
+            <ab>Book of Both Laws or Pandects.</ab>
+            <metamark/>
+            <ab>Book to confute the Mahometan methodists<note type="editorial">WG's interpretation. Casiri (vol. 1, p. 483) has 'severiores Alcorani sectatores' (strict followers of the Quran).</note> who would not allow of music &amp;c well
+               confuted.</ab><note type="editorial">From <bibl>Casiri, Bibliotheca, vol. 1, pp. 466-77, 483.</bibl></note>
+
+         </div>
+      </body>
+
+      <back>
+         <div type="cover">
+            <note> </note>
+         </div>
+         <div type="index"> </div>
+      </back>
+   </text>
+
+</TEI>

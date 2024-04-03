@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <div type="cover">
+            <note> </note>
+         </div>
+         <div type="inlet">
+            <head> </head>
+         </div>
+      </front>
+
+      <body>
+         <div type="spain"> </div>
+         <div type="portugal">
+            <ab> </ab>
+         </div>
+         <div type="reading_notes">
+            <pb facs="#f-175" n="175"/>
+            <fw>28</fw>
+
+            <note type="editorial">Copied from <bibl>Conde, Historia de la dominacion, vol. 3, pp.
+                  v-viii.</bibl></note>
+            <ab>Serie de los Reyes Moros – Años de Cristo</ab>
+            <!-- possible encoding using list element -->
+
+            <ab>Sevilla.</ab>
+            <ab>Aben Huz. Perdiò la corona conquistada</ab>
+            <ab>Sevilla 1248.</ab>
+            <ab>Valencia –</ab>
+            <ab>Giomail ben Zeyan, que la perdió 1238</ab>
+            <ab>Murcia</ab>
+            <ab>Abdala Aladel</ab>
+            <ab>Muhamad ben Jusef Aben Huz.</ab>
+            <ab>Granada KINGS.</ab>
+            <ab>Muhamad Aben Alahmar Ist. 1273</ab>
+            <ab> Muhamad II. 1302</ab>
+            <ab>Abu Abdala Muhamad III destronado 1308</ab>
+            <ab>Nazar Depuesto 1313 murio 1322</ab>
+            <ab>Abul Walid y Abul Said Ismail murio 1325</ab>
+            <ab>Muley Muhamad IV – 1333</ab>
+            <ab>Juzef Abul Hagiag – 1354</ab>
+            <ab>Muhamad V. Destronado 1359</ab>
+            <ab>por Ismail destronado por</ab>
+            <ab>Abu Said que muriò a manos del</ab>
+            <ab>Rey don Pedro 1361</ab>
+            <ab>Muhamad VI 1391</ab>
+            <ab>Abu Abdala Juzef 1395</ab>
+            <ab>Muhamad VII 1399</ab>
+            <ab>Juzef – 1420</ab>
+            <ab> Muley Muhamad VIII Depuesto</ab>
+            <ab>Muhamad Zaquir IX asesinado</ab>
+            <ab>Muhamad Alhayzari depuesto tres veces</ab>
+            <ab>Juzef Aben Amar destronado 1433</ab>
+            <ab>Muhamad Aben Ozmin huyo en 1454</ab>
+            <ab>Aben Ismail 1466</ab>
+            <ab>Abul Hacen 1484</ab>
+            <ab>Abdalah el Zagal e Abdala el Zaquir acabaron con el imperio.</ab>
+            <note type="translation">
+               <ab>Succession of the Moorish Kings - Years of Christ [i.e. AD]</ab>
+               <ab>Seville.</ab>
+               <ab> Aben Huz. Lost the conquered crown of Seville, 1248.</ab>
+               <ab>Valencia -</ab>
+               <ab>Giomail ben Zeyan, who lost it 1238</ab>
+               <ab>Murcia</ab>
+               <ab>Abdala Aladel</ab>
+               <ab>Muhamad ben Jusef Aben Huz.</ab>
+               <ab>Granada KINGS.</ab>
+               <ab>Muhamad Aben Alahmar 1st. 1273</ab>
+               <ab>Muhamad II. 1302</ab>
+               <ab>Abu Abdala Muhamad III dethroned 1308</ab>
+               <ab>Nazar deposed 1313 died 1322</ab>
+               <ab>Abul Walid and Abul Said Ismail died [latter] 1325</ab>
+               <ab>Muley Muhamad IV - 1333</ab>
+               <ab>Juzef Abul Hagiag - 1354</ab>
+               <ab>Muhamad V. Dethroned 1359</ab>
+               <ab>by Ismail, dethroned by</ab>
+               <ab>Abu Said, who died at the hands of</ab>
+               <ab>King Don Pedro 1361</ab>
+               <ab>Muhamad VI 1391</ab>
+               <ab>Abu Abdala Juzef 1391</ab>
+               <ab>Muhamad VII 1399</ab>
+               <ab>Juzef - 1420</ab>
+               <ab>Muley Muhamad VIII deposed</ab>
+               <ab>Muhamad Zaquir IX assassinated</ab>
+               <ab>Muhamad Alhayzari deposed three times</ab>
+               <ab>Juzef Aben Amar [Conde has 'Alhamar'] dethroned 1433</ab>
+               <ab>Muhamad Aben Ozmin fled in 1454</ab>
+               <ab> Aben Ismail 1466</ab>
+               <ab>Abul Hacen 1484</ab>
+               <ab>Abdalah el Zagal and Abdala el Zaquir brought the rule [of the kings of Granada]
+                  to an end.</ab></note>
+
+
+            <cb/>
+            <metamark/>
+            <ab>nombres Arabes de esta historia</ab>
+            <ab>alah – Dios</ab>
+            <ab>alislam o islam la religion mahometana</ab>
+            <ab>alcoran – Leyenda – la ley de M</ab>
+            <ab>aljama = concejo, ayuntamiento</ab>
+            <ab>alcadi. Cadi – Jue de Aljama</ab>
+            <ab>alime – Sabio. Alfaki – Doctor</ab>
+            <ab>alhageb Ministro principal de Palacio Primer ministro en Cordoba.</ab>
+            <ab>alcayde – Caudillo Gobernador</ab>
+            <ab>almocri – Lector de mezquita</ab>
+            <ab>ain Fuente</ab>
+            <ab>alimam Prefecto de la oracion en la mequita</ab>
+            <ab>Azala oracion. Azobi del alba – Adohar del medio dia: Alasar de la tarde</ab>
+            <ab>almagrib al ponerse el sol. Alatema al anochecer</ab>
+            <ab>almimbar – Pulpito</ab>
+            <ab>alminar. Faro. torre de mezquita</ab>
+            <ab>almueden – Sacristan = muezin</ab>
+            <ab>alchatib Predicador</ab>
+            <ab>alhafit Doctrinero</ab>
+            <ab>almucadem Capitan – adelantero</ab>
+            <ab>alnahibe Capitan de Caballería</ab>
+            <ab>alferez – el que lleva la bandera</ab>
+            <ab>alfaraz. Caballero de lanza y espada</ab>
+            <ab>almogaraves – Campeadores – Caballeria de lanzas y ballestas</ab>
+            <ab>alhige – peregrinacion santa</ab>
+            <ab>algazazes. Batidores y espias</ab>
+            <ab>algara – Correria – cabalgada</ab>
+            <ab>aliget – Guerra Santa</ab>
+            <ab>algacia Conquista expedicion de guerra</ab>
+            <ab>alwacir. Minist. princip. de ciudad o palacio</ab>
+            <ab>amir, Gefe, Capitan, General, Principe</ab>
+            <ab>amir amumenin, Prince of the faithful</ab>
+            <ab>amelia Provincia gobierno de ella</ab>
+            <ab>alcudia alcaldia – jurisdiccion de alcalde</ab>
+            <ab>alcatib secretario</ab>
+            <ab>algarbia – parte occidental</ab>
+            <ab>afranc – Francia.</ab>
+            <note type="translation">Arab[ic] nouns in this history [i.e. Conde's]
+               
+               Alah - God
+               Alislam or islam: the Muhammadan religion
+               Alcoran - Legend [par excellence (Conde)] - the law of M[uhammad]
+               Aljama = council, city council [elsewhere in this notebook, great mosque seems a more appropriate translation]
+               Alcadi, Cadi - Judge [Conde: 'Juez'] of the Aljama
+               Alime - Sage. Alfaki - Doctor
+               Alhageb: principal Palace Minister, First minister in Cordoba.
+               Alcayde - Leader, Governor
+               Almocri - Reader at the mosque
+               Ain: font
+               Alimam: Prefect of prayer in the mosque [Conde: 'mezquita']
+               Azala: prayer. Azohbi [Conde]: at dawn - Adohar, at midday: Alasar, in the afternoon
+               Almagrib: at sunset. Alatema: at dusk
+               Almimbar - Pulpit
+               Alminar. Beacon. mosque tower
+               Almueden - Sacristan = muezzin [official who proclaims call to prayer; 'muezin' is WG's addition, not in Conde]
+               Alchatib: Preacher
+               Alhafit: one dealing with doctrine
+               Almucadem: Captain - leader
+               Alnahibe: Captain of Cavalry
+               Alferez - he who carries the banner
+               Alfaraz. Knight with lance and sword
+               Almogaraves - Champions - Knights with lances and crossbows
+               Alhige - holy pilgrimage
+               Algazazes. Scouts and spies
+               Algara - foray - cavalcade
+               Aliget - Holy War
+               Algacia: Conquest, war expedition
+               Alwacir. principal Minister of city or palace
+               Amir, Chief, Captain, General, Prince
+               Amir Amumenin, Prince of the faithful
+               Amelia: Province, its government
+               Alcudia: mayoralty - mayor's jurisdiction
+               Alcatib: secretary
+               Algarbia - western part
+               Afranc - France.</note>
+
+
+         </div>
+      </body>
+
+      <back>
+         <div type="cover">
+            <note> </note>
+         </div>
+         <div type="index"> </div>
+      </back>
+   </text>
+
+</TEI>

@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <div type="cover">
+            <note> </note>
+         </div>
+         <div type="inlet">
+            <head> </head>
+         </div>
+      </front>
+
+      <body>
+         <div type="spain"> </div>
+         <div type="portugal">
+            <ab> </ab>
+         </div>
+         <div type="reading_notes">
+            <pb facs="#f-171" n="171"/>
+            <fw>34</fw>
+            <cb/>
+            <note type="editorial">Extracts from/summary of <bibl>Conde, Historia de la dominacion,
+                  vol. 1, pp. 30-50.</bibl></note>
+            <ab>Sidonia with 90 000 men. The hosts met on a Sunday on banks of the
+                     <sic>Guadalede<note type="editorial">i.e. Guadalete</note></sic> 2 days before
+                  Ramazan<note type="editorial">Ramadan</note>.<!-- possible anchor --> Temblaba
+               debajo de sus pies la tierra y se estremecia, y resonaba el ayre con el estruendo de
+               los atambores y añafires y con el sonido di guerreras trompas, y con el espantoso
+               alarido de ambas huestes <note type="translation">The earth trembled under their feet
+                  and shuddered, and the air rang with the noise of the drummers and trumpets
+                  [añafiles] and with the sound of [Conde has 'de'] war trumpets, and with the
+                  dreadful howl of both hosts.</note>. 4 Xtians to 1 Turk <note type="editorial"
+                  >Conde has 'cuatro Cristianos para cada Muslim' (four Christians for each
+                  Muslim)</note> The night separated the armies. Next day the same. Taric on 3<hi
+                  rend="superscript">d</hi> day saw the Moors ready to yield so cried G’uala<note
+                  type="editorial">i.e. a war cry. Conde gives Taric a much longer speech</note>
+               &amp; attacked &amp; killed King Ruderic. &amp; the rest fled. The place covered with
+               bones long after. Taric sent Roderics head to Muza. Muza left Africa or Cairvan to
+               Abdelaziz his son &amp; brought over 8,000 foot &amp; 10 000 horse. His sons Abdelola
+               &amp; Meruan came also, the last gave his name to a palace on the river West of
+               Cordova. Came also Arabs of tribe Coraix <note type="editorial">i.e. Quraysh</note>.
+               also Almonazir, Aly ben Rebie Lahmi, Hayut ben Reja Tamani, Hanas ben Abdala Asenani,
+               <!-- possible anchor -->que despues fue la grande Aljama de Saracusta<note
+                  type="translation">who afterwards founded [Conde: fundó] the great Aljama [mosque]
+                  of Zaragoza</note>. Taria proceeded in spite of Muza &amp; made good regulations
+               for sparing the natives when they submitted. Mugueiz el Rumi went to Cordova. Zayde
+               ben Kesadi el Sekseki to Malaga. The third body Taric took by Jayen<note
+                  type="editorial">Jaén</note> to Tolaitola or Toledo the capital. Kesadi joined on
+               the road having conquered the people of Estija<note type="editorial">Écija</note>.
+               Malaga &amp; Elvira yielded.</ab>
+            <ab>Spali Esbilia = Sevilla. Mugueiz took Cordoba. Taric at Tolaitola which Capitulated.
+               Those who fled lost their goods, those who staid kept all only paying tribute.
+               Churches &amp; religion spared only no more to be built without licence. Taric lived
+               in the <!-- possible anchor -->alcazar del Rey<note type="translation">the King's
+                  fortress</note>. in a room 25 crowns of gold garnished with hyacinths <note
+                  type="editorial">i.e. jacinths</note> &amp;other stones. ie one crown for each of
+               25 Gothic Kings who had reigned.</ab>
+            <ab>Muza went by Esbilia &amp; took it by convention. left Abdila el Towail de Medina
+                  <note type="translation">of Medina</note> governor. Thence to Carmuna <note
+                  type="editorial">Carmona</note> which yielded. he had 18 000 horse few foot. went
+               into Algarbe or Lusitania <note type="editorial">i.e. the south of Portugal</note>
+               &amp; took Libla, Ossonoba,</ab>
+
+            <cb/><metamark/>
+            <ab>Myrtilis Beja &amp;c &amp; came to Merida a magnif<hi rend="superscript">t</hi> city with high towered
+               walls.</ab>
+            <ab>Besieged it sent for his Son Abdelaziz with fresh troops. Citizens skirmished with
+               loss. Ambuscade by Musa in a deep glen. He takes a tower is driven from it called
+               from the deaths Borg Axuhuda = Torre de los Martires <note type="translation">Tower
+                  of the Martyrs</note>.</ab>
+            <ab>Abdelaziz came with 7,000 horse &amp; ballesteria grande de los Berberies <note
+                  type="editorial">Conde has 'gran ballestería': the great crossbowmen of the
+                  Berbers</note>. The city yielded. Those who came to the camp saw his long white
+               beard one day, it was red black the next. it alarmed them. Found at Merida Roderics
+               Queen.</ab>
+            <ab>Taric from Tolaitola took a city tras los montes <note type="translation">beyond the
+                  mountains</note> &amp; gave it his name. Then Guadilhigiara its river &amp; mount.
+               &amp; a Valley Feg Taric. Medina Almeida la mesa de Suleiman <note type="translation"
+                  >Suleiman's table</note> because a mesa <note type="translation">table</note>
+               garnished with emeralds &amp; jacinths found there. Next Medina Maya where much booty
+               &amp; returned to Toledo. Seville rebelled &amp; killed 30 Moors. Abdelaziz sent
+               &amp; took it &amp; chastised it. The Roman bridges of Tagus &amp; Guadiana they
+               admired much &amp; called Ionian. At Talbera Medina <note type="editorial">Conde has
+                  'Medina Talbera'</note> Taric came to meet Musa the Wali &amp; appeased him by
+               jewels &amp; spoil &amp; so they went to Toledo. There in the Alcacar <note
+                  type="editorial">Fortress (Alcázar)</note> Musa asked for the “mesa de Suleyman
+                  <note type="translation">Suleyman's table</note>. It wanted one foot Taric said he
+               had found it so. Musa discharged him for disobedience, to his Wali, in the name of
+               the Calif.</ab>
+            <metamark/>
+            <ab>Abdelaziz conquers Tadmir &amp; its Gothic King in Murcia. Tadmir ben Gobdos. At
+               Lorca <choice>
+                  <abbr>X<hi rend="superscript">ns</hi></abbr>
+                  <expan>Christians</expan>
+               </choice> defeated in a great battle. X<hi rend="superscript">tians</hi> fled to
+               Auriola. The X<hi rend="superscript">n</hi> women mounted guard as men &amp; tied their hair under chins to sham
+               beards. Moors taken in. Capitulation. “En nombre de Dios clemente y misericordioso
+               Abdelaziz y Tadmir hacen este convenio de paz que Dios confirme y proteja: que Tadmir
+               haya el mando de sus gentes, y no otro de los Xtianos de su reyno que no habra entre
+               ellos guerra ni se les tomaran cautivos sus hijos ni mugeres: que no serán molestados
+               sobre su religion, ni se les incendiarán sus iglesias, sin otros servicios ni
+               obligaciones que las aqui convenidas: que esta avenencia se entienda tambien sobre
+               siete ciudades, Auriola Valentila, Lecant. Mula. Boscara. Ota y Lorca. que <note
+                  type="translation">In the name of God, gracious and merciful, Abdelaziz and Tadmir
+                  make this covenant of peace, which God confirms and protects: that Tadmir is in
+                  command of his people, and not another of the Christians of his kingdom[:] that
+                  there will be no war between them, nor will they take their children or women
+                  captive: that they will not be disturbed in their religion, nor will their
+                  churches be burned, without other services or obligations than those agreed upon
+                  here: that this agreement also be understood for seven cities, Auriola, Valentila,
+                  Lecant, Mula, Bocsara, Ota and Lorca. That [onto next page]</note></ab>
+
+         </div>
+      </body>
+
+      <back>
+         <div type="cover">
+            <note> </note>
+         </div>
+         <div type="index"> </div>
+      </back>
+   </text>
+
+</TEI>

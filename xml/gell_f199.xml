@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <div type="cover">
+            <note> </note>
+         </div>
+         <div type="inlet">
+            <head> </head>
+         </div>
+      </front>
+
+      <body>
+         <div type="spain"> </div>
+         <div type="portugal">
+            <ab> </ab>
+         </div>
+         <div type="reading_notes">
+            <pb facs="#f-199" n="199"/>
+
+
+            <fw>4</fw>
+            <!-- citation starts here and ends at bottom -->
+            <ab>Persians Shiites Ottomans Sunites. At Bagdad &amp; Ispahan the two sects fought.
+               Sultan Selim killed 40000 Shiites Contemporary of Henry VIII of England. Francis I of
+               france Leo the X. Charles V<hi rend="superscript">th</hi>. Andrea Gritti of Venice
+               Doge Wassili Ivanovitch conqueror of Astrachan founder of Russian greatness</ab>
+            <ab>2<hi rend="superscript">d</hi> Century Omar Ben Abdolaziz the most just sovereign of
+               family of Ommia<note type="editorial">i.e. the Umayyad dynasty</note></ab>
+
+            <cb/>
+            <ab>Prince Dschem Brother of Sultan Bajazet. who said “there is no blood between Kings”
+                  <metamark>–</metamark> the custom being to kill all the younger Sons. Dschem fled
+               to Rhodes where the Knights entertained him. They were bought by the Sultan who paid
+               40 000<note type="editorial">Quarterly Review has 45,000</note> Ducats a year to them
+               to keep him. He got to Nice. then to Chamberry then to Rousillon. Then by Rhone to
+               Puy. Here the <choice>
+                  <abbr>K<hi rend="superscript">ts</hi></abbr>
+                  <expan>Knights</expan>
+               </choice> took away &amp; sent back to Rhodes 29 of his attendants. Bajazet offered
+               the right hand of S<hi rend="superscript">t</hi> John to deliver him up. The prince
+               transferred from Castle to Castle. All European Kings tried to deliver him. &amp; the
+               Pope tried. The grand master put him in a tower with seven floors. Cellar Kitchen
+               Servants 3, 4 &amp; 5 rooms &amp; bed of Prince 6 &amp; 7<hi rend="superscript"
+                  >th</hi> for Knights on guard. Charles VIII of france got him sent to the Pope in
+                  7<hi rend="superscript">th</hi> year of captivity. he embarked at Toulon for
+               Civita Vecchia &amp; lived at the Vatican. Charles VIII took him &amp; Pope in <choice>
+                  <abbr>Cas<hi rend="superscript">t</hi> S<hi rend="superscript">t</hi>
+                     Angelo</abbr>
+                  <expan>the Castel Sant'Angelo, Rome</expan>
+               </choice> but poisend by the pope &amp; got in dying state to Naples. his body sent
+               to Egypt but went to Brusa &amp; buried in Tomb of Amurath 2<hi rend="superscript"
+                  >d</hi>.</ab>
+            <metamark/>
+
+            <ab>In reigns of Soliman &amp; Salim best time of Turks the greatest commanders by land
+               &amp; Sea were apostates from <choice>
+                  <abbr>Xtianity</abbr>
+                  <expan>Christianity</expan>
+               </choice>. Hammer<note type="editorial">Joseph von Hammer, Geschichte des Osmanischen
+                  Reiches. </note> gives 8 out of 10 grand Visiers of this epoch.</ab>
+            <ab>Wlad &amp; Drakul princes of Wallachia &amp; Bosnia such murderers as surprized even
+               the Turks.</ab>
+            <ab>But Selim 2<hi rend="superscript">d</hi> contemporary with Charles IX &amp; Ivan the
+               Cruel, S<hi rend="superscript">t</hi> Bartholomews massacre at same time. Fort of
+               Wittenstein in Finland taken garrison cut in pieces Commander spitted on a lance
+               &amp; roasted alive. This at time that Bragadino governor of Famagusta in Cyprus
+               flayed alive by Selim the drunkard who being drunk slipped getting into a bath &amp;
+               got a fever &amp; died.</ab>
+            <ab>Chaireddin Beglerbeg<note type="editorial">Quarterly Review has 'Begler Beg' [i.e.
+                  Beylerbey, Lord of Lords]</note> of Algiers carried off 70 000 of the persecuted
+                  moors<note type="editorial">Quarterly Review has 'Morescoes'</note> from Spain to
+               Africa. This Chaireddin tried to carry off from Fondi the great beauty Julia Gonzaga
+               wife of Vespasiano Colonna Sister of the “divine” Joanna of Arragon painted by
+               Raffaelle. She was to have been carried to harem of Turkish Sultan. The sailors of
+               Barbarossa disembarked &amp; She scarce escaped nearly naked behind a horseman whom
+               She afterwards stilettoed. because “he had dared or seen too much”. In Solymans time,
+               The turks played the devil in Fondi for 4 hours &amp; particularly insulted the
+               Virgin mary.</ab>
+            <ab>Hayreddin or Barbarossas own commentaries give all this<note type="editorial">Gell
+                  drafted a novel about the sixteenth-century Ottoman pirate, Hayreddin Barbarossa,
+                  about the same time as he was working on these notes: <bibl>American School of
+                     Classical Studies at Athens, Gennadius Library, MSS 70.3</bibl>: Sir William
+                  Gell, An authentic narrative of the History of Jacub of Jenigawarder and his son,
+                  Ariadeno Barbarossa, of the island of Mitylene, in the Aegean Sea, [19th
+                  century].</note> He was of Greek descent a Roumelian Sipahi who settled in
+               Mitylene at its conquest by Mahomet 2<hi rend="superscript">d</hi>. His father had 4
+               sons the first a Lesbian merchant the 3 others Pirates. Elias the youngest killed
+               against Rhodians Urudsch or Horuc &amp; Chisr or Chaireddin Pirates. They took a rich
+               french Ship sent it to Sultan &amp; had in return 2 caftans of honour &amp; 2
+               gallies. They seized two African towns Budscha &amp; Dscherdshill but fought for
+               Algiers against Spain, Then the elder brother Isaac joined Them but he was killed by
+               Spaniards storming Kalaatol Kalaat or the Castle of Castles. Kalaatol. Usdruch <note
+                  type="editorial">Quarterly Review has 'Urudsch'</note>killed at capture of
+               Telmessan but Chaireddin was Beglerbeg of Algiers. Sultan Selim sent him a scimitar a
+               horse &amp; a sandschak or investiture. Subdued for Sultan the native princes of
+               Tennes &amp; Telmessan.</ab>
+            <note type="editorial">Extracted/summarised (with same spellings, order etc) from review
+               of <bibl>Joseph von Hammer, Geschichte des Osmanischen Reiches, vols 1-8 (Pest,
+                  1827-32), in The Quarterly Review, vol. 49, no. 98 (Jul 1833), pp. 283-322, at pp.
+                  288, 299-303, 306-7, 309-15.</bibl></note>
+
+
+         </div>
+      </body>
+
+      <back>
+         <div type="cover">
+            <note> </note>
+         </div>
+         <div type="index"> </div>
+      </back>
+   </text>
+
+</TEI>

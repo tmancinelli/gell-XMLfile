@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface xml:id="zone_Page_181">
+         <graphic url="https://iiif.bsr.ac.uk/iiif/2/GELL-VI%2Fwg_06_181.tif/full/full/0/default.jpg"/>
+         <zone points="516,435 609,435 614,511 516,511" xml:id="zone_Page_181_abebc7ac-5598-4549-afe5-50fdefb6f8fb"/> <!-- symbol: therefore -->
+         <zone points="1746,2513 2556,2518 2741,2464 3340,2469 3345,1093 1751,1109" xml:id="zone_Page_181_b0770b2a-5176-4e30-aee4-2f55944ae823"/> <!-- mosque -->
+         <zone points="1871,3519 3318,3541 3187,2866 2105,2899" xml:id="zone_Page_181_c1c59941-bc0b-4ebe-9528-71cf78948f35"/> <!-- very faint plan -->
+      </surface>
+   </facsimile>
+   <text>
+      <front>
+         <div type="cover">
+            <note> </note>
+         </div>
+         <div type="inlet">
+            <head> </head>
+         </div>
+      </front>
+
+      <body>
+         <div type="spain"> </div>
+         <div type="portugal">
+            <ab> </ab>
+         </div>
+         <div type="reading_notes">
+            <pb facs="#zone_Page_181" n="181"/>
+            <fw>22</fw>
+            <!-- citation starts here -->
+            <ab>MUHAMED ABU ALAHMAR.</ab>
+            <ab>Abu Abdallah = father of Abdallah?? called also Muhamed Ibn Alahmar or Muhamed son??
+               Of Alahamar <figure type="symbol" facs="#zone_Page_181_abebc7ac-5598-4549-afe5-50fdefb6f8fb">
+                  <note type="editorial_label">[symbol: therefore]</note>
+               </figure> Abu father &amp; son. oh oh. Ben Alahim would be son of
+                  <metamark>–</metamark>
+               <metamark>–</metamark>
+               <note type="editorial">WG is learning about Arabic nomenclature, but 'abu' only means
+                  'father of', not 'son of'. WG's joke worked when he originally (and erroneously)
+                  had 'Muhamed Abu Alahmar', which he has corrected to 'Ibn'. The joke is WG's
+                  rather than Irving's.</note>. Abu Alahmar his name in short <metamark>–</metamark>
+               founder of Alhambra born in year 1195 or year of Hegira<note type="editorial">Islamic
+                  calendar</note> 591. of family Bena Nasar. made governor of Arjoua? Arjona<note
+                  type="editorial">This error, 'Arjoua' for Arjona, presumably a printing error,
+                  appears consistently in Irving's original but is corrected in The Monthly Review.
+                  Gell's correction suggests that he may have seen both texts, but most strongly
+                  that he had read Irving's original. His correction may draw on his wider knowledge
+                  of al-Andalus by 1832, rather than The Monthly Review.</note> &amp; Jaen
+                  <metamark>–</metamark> At death of Aben Hud many factions &amp; divisions in Spain
+               &amp; in 1238 he became Kg. of Granada. made hospitals colleges fountains baths
+               &amp;c <metamark>–</metamark> but James the Conqueror had subdued Valencia &amp;
+               Ferdinand the Saint came to Andalusia &amp; <sic>beseiged</sic> Jaen Muhamed Abu
+               Alahmar went to him kneeled &amp; became his Vassal <metamark>–</metamark> paid
+               tribute <metamark>–</metamark> attended Cortes as Vassal noble &amp; served in war
+               with horsemen. Served Ferdinand with 500 Knights at seige of Seville. <choice>
+                  <abbr>A<hi rend="superscript">o</hi></abbr>
+                  <expan>The year (anno)</expan>
+               </choice> 1248 Seville taken, Muhamed foresaw the ruin of Moslems, said “Que angoste
+               y miserabile seria nuestra vida, sino fuera tan dilatada y capaciosa nuestra
+                  esperanza”<note type="editorial">WG declines to record the English translation
+                  given by <bibl>[Irving], Alhambra, vol. 2, p. 281</bibl>: <note type="translation"
+                     >'How straightened and wretched would be our life, if our hope were not so
+                     spacious and extensive.'</note> Irving and Monthly Review both have
+                  'espaciosa', rather than WG's 'capaciosa'.</note>
+               <metamark>–</metamark></ab>
+            <ab>He returned unhappy to Granada. People hailed him as El Ghalib
+                  <metamark>–</metamark> he shook his head saying Wa la ghalib ila Ala<note
+                  type="editorial">Again, WG declines to include the translation offered by
+                  [Irving], Alhambra, vol. 2, p. 281: <note type="translation">'There is no
+                     conqueror but God'</note></note>. Then he took this motto. He used to say “Arm
+               thy self in peace clothe thyself in summer” aware that his peace with <choice><abbr>Xtians</abbr><expan>Christians
+               </expan></choice> could
+               not last long. Encouraged arts, planted. Silk. gardens gold mines
+                  <metamark>–</metamark> other metals. made gold money with his own name. Begun
+               Alhambra after 1248<note type="editorial">Irving has 'towards the middle of the thirteenth century'.</note>. His dress plain. Went seldom to his harem. Made his <sic>wifes</sic> live
+               in friendship. Made Alhambra gardens with flowers &amp; delighted in them. Read
+               histories. taught his 3 sons. <metamark>–</metamark></ab>
+            <ab>Ferdinand died at Sevilla in 1254. Abu Alahmar sent 100 Knights to funeral to K<hi
+                  rend="superscript">g</hi> Alonzo X<hi rend="superscript">th</hi>. who each carried
+               a taper <metamark>–</metamark> He sent these every year on anniversary. Went himself
+               to battle in his 79th year to resist an invasion. The Alcayde<note type="translation">Governor (alcaide)</note> going out broke his
+               lance against gate <metamark>–</metamark> bad omen <metamark>–</metamark> King taken
+               ill &amp; nearly fell. Don Philip, brother</ab>
+
+            <cb/>
+            <ab>to King Alonzo X was with him<note type="editorial">i.e. when he died.</note>. put in silver coffin embalmed and buried in a marble
+               sepulchre in Alhambra. His treasury always full though he spent much whence people
+               said he dealt in magic.<note type="editorial">Paraphrasing/summary of <bibl>[Irving],
+                     Alhambra, vol. 2, pp. 269-83.</bibl> There is almost nothing that is not also
+                  in <bibl>The Monthly Review, 2:2 (1832), pp. 221-47, at pp. 243-6</bibl>, but the
+                  error 'Arjoua' and the note on Yusef Abul Hagig, who does not appear in the
+                  review, both suggest WG had actually read Irving's book.</note> His name often
+               repeated in the inscripts of Alhambra <metamark>–</metamark><note type="editorial">i.e. inscriptions. This observation is WG's, not appearing in Irving or the Monthly Review.</note></ab>
+            <metamark/>
+            <ab><!-- citation starts here -->Yusef Abul Hagig finished the building &amp; ornaments of Alhambra. King in
+               1333.<note type="editorial"><bibl>[Irving], Alhambra, vol. 2, pp. 287-95.</bibl> This is not mentioned in the Monthly Review article, so is more evidence that WG had actually read Irving's book.</note></ab>
+
+            <figure type="sketch" facs="#zone_Page_181_b0770b2a-5176-4e30-aee4-2f55944ae823">
+               <note type="editorial_label">Pen and ink drawing: mosque</note>
+               <label>MOSQUE?</label>
+               <label>Cathedral &amp; Alcazar<note type="translation">Fortress</note> of Granada 1529 Diego de Siloe architect with
+                  Covarrubias?<note type="editorial">Probably drawing on <bibl>Llaguno y Amírola, Noticias, vol. 1, p. 198</bibl>, though he draws comparisons with Covarrubias rather than suggesting that he and Siloe worked together.</note></label>
+            </figure>
+            <ab><!-- citation starts here -->Huat idris <metamark>–</metamark> I think is Apes hill. Vateres. Guadres marmol Afric. The best soldiers
+               of K<hi rend="superscript">g</hi> of Granada came thence. They had a guard of 500 who lived in the Calle de los
+               Gomeles. Bula lul the Orlando of the Moorish songs came hence, Killed in plain of
+               Tolosa in hegira 609 or 1231.<note type="editorial">From <bibl>Antoine Augustin Bruzen de La Martinière, Le grand dictionnaire géographique et critique, 9 vols (The Hague, Amsterdam and Rotterdam, 1726-39), vol. 4, p. 196.</bibl>Various works make similar points, but the spellings, citation of Mármol and order of the observations point only to La Martinière. 'I think is Apes hill' is WG's addition, and he has changed La Martinière's 'Gomeres' to 'Gomeles'. The present-day street is Cuesta de Gomérez. The date is AH 609 or 1231AD.</note></ab>
+
+            <figure type="sketch" facs="#zone_Page_181_c1c59941-bc0b-4ebe-9528-71cf78948f35">
+               <note type="editorial_label">Pencil drawing: very faint plan</note>
+               <label>Mesquita Major<note type="translation">Great Mosque</note></label>
+               <label>Granada</label>
+               <note type="arabic" facs="xxx">محمد بن زكريا أبو بكر<note type="editorial"><note type="translation">Muhammad bin Zakaria Abu Bakr </note>i.e. Abu Bakr al-Razi (c.864/5-935), Persian physician, philosopher and alchemist</note></note>
+            </figure>
+
+            <ab>Castillo de Bibataubin is in Carrera de Xenil<note type="translation">The Castle of Bibataubin is on the Carrera del Genil [a street in Granada]</note></ab>
+            <note type="arabic" facs="xxx">محمد بن محمد <note type="translation">Mohammad Son of Mohammad [i.e. Gell’s ‘Ben Muhamed']</note></note>
+            <ab>Ben Muhamed</ab>
+            <ab>In Cufic. the letters being without the points are difficult to distinguish
+                  <metamark>–</metamark></ab>
+
+         </div>
+      </body>
+
+      <back>
+         <div type="cover">
+            <note> </note>
+         </div>
+         <div type="index"> </div>
+      </back>
+   </text>
+
+</TEI>

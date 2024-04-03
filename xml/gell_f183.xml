@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface xml:id="zone_Page_183">
+         <graphic url="https://iiif.bsr.ac.uk/iiif/2/GELL-VI%2Fwg_06_183.tif/full/full/0/default.jpg"/>
+         <zone points="1088,3106 1262,3095 1267,3225 1077,3225" xml:id="zone_Page_183_c6e92a28-bf5a-4eee-ae6b-894059883752"/>
+      </surface>
+   </facsimile>
+   <text>
+      <front>
+         <div type="cover">
+            <note> </note>
+         </div>
+         <div type="inlet">
+            <head> </head>
+         </div>
+      </front>
+
+      <body>
+         <div type="spain"> </div>
+         <div type="portugal">
+            <ab> </ab>
+         </div>
+         <div type="reading_notes">
+            <pb facs="#zone_Page_183" n="183"/>
+            <fw>20</fw>
+            <!-- citation starts here -->
+            <ab>Serendit is called Sarnadib<note type="editorial">Sri Pada or Adam's Peak, Sri
+                  Lanka</note>. on <choice>
+                  <abbr>M<hi rend="superscript">t</hi></abbr>
+                  <expan>Mountain</expan>
+               </choice> says the Nubian <choice>
+                  <abbr>Geog<hi rend="superscript">r</hi></abbr>
+                  <expan>Geographer</expan>
+               </choice> all sorts of jacinths are found in a valley Adamas which sculpts other
+               gems, on M<hi rend="superscript">t</hi> Spices aromatic. Aloes. Musk. <hi
+                  rend="underline">Zibeti</hi>. Sugarcanes Cypress. Nux Indica. In streams Beryllus.
+               Fishing.</ab>
+            <ab>Several books like those of Herculaneum<note type="editorial">WG's comparison, not
+                  Casiri's.</note> de Ira &amp;c Virtues &amp; Vices. Florilegium &amp;c</ab>
+
+            <metamark/>
+            <ab>Regum ac militiae Ducum Regimen.</ab>
+            <note type="translation">on Anger etc Virtues and Vices. Anthology etc The Rule of Kings
+               and Military Leaders</note>
+            <note type="editorial"><bibl>From <bibl>Casiri, Bibliotheca, vol. 1, pp.
+                  212-14</bibl></bibl>.</note>
+            <metamark/>
+
+            <!-- citation starts from here -->
+            <ab>Work of Ab<hi rend="superscript">m</hi> Ben Jahia Alnacsch Abu Isaac vulgo Ben
+                  Zarcalli<note type="editorial">Abraham Ben Jahia Alnacasch Abu Isaac, commonly
+                  called Ben Zarcalli. Casiri has 'Alnacasch' rather than WG's 'Alnacsch'.</note> of
+               Corduba has an incredible number of <choice>
+                  <abbr>Astron’</abbr>
+                  <expan>Astronomical</expan>
+               </choice> propositions on taking latitudes. &amp;c &amp;c &amp;c very scientific</ab>
+            <ab>De ratione Harmonica <note type="translation">On Harmonic Theory</note>&amp;c&amp;c
+               Ahmad Ben Omar Alkarabisi.</ab>
+            <ab>Alhassan Ben Alkhathib predicted the K<hi rend="superscript">g</hi> of Egypts death
+               if the decensus Saturni in primum geminorum gradum contingeret<note
+                  type="translation">If the descent of Saturn happened in the first degree of
+                  Gemini</note> but it was false.</ab>
+            <ab>Alhassan on eclipses. quadratura parabolae. Geodaesiae principiis. De Harmonia
+               numerica De Lunae motu, De inveniendis Cubi lateribus. De corona circa Lunam. De
+               horologiis horizontalibus. De Clepsydrae usu &amp;c. Algebra. De Speculis parabolicis
+               comburendis &amp;c<note type="translation">Quadrature of the Parabola. On Geodetic
+                  Principles. On Numerical Harmony. On the Motion of the Moon. On Finding the Sides
+                  of a Cube. On the Ring around the Moon. On Horizontal Clocks. On the Use of the
+                  Hourglass etc. Algebra. On Parabolic Burning Mirrors. <note type="editorial"
+                     >Casiri has 'comburentibus' rather than WG's 'comburendis'.</note></note></ab>
+            <ab>Giaphare Ben Almoktaphi wrote on Tailed Comets. a<hi rend="superscript">o</hi> Heg
+               225 temp<note type="editorial">AH 225, in the time of</note> Caliph Almotasem a black
+               spot for many days in Suns centre 91 days &amp; Caliph died. But two <figure
+                  type="in_text" facs="#zone_Page_183_c6e92a28-bf5a-4eee-ae6b-894059883752">
+                  <note type="editorial_label">[drawing: comet]</note>
+               </figure> were seen before death of Raschid.</ab>
+            <note type="editorial">From <bibl>Casiri, Bibliotheca, vol. 1, pp. 393-6, 410, 413-15,
+                  422.</bibl></note>
+            <!-- citation starts here -->
+            <ab>P241 read in Uni<note type="editorial">i.e. <bibl>Casiri, Bibliotheca, vol. 1, p.
+                     241.</bibl> Presumably a note that WG did not finish, perhaps relating to
+                  'lecti in Toletano Collegio' (read at the College of Toledo), if WG was initially
+                  going to translate this as 'University'.</note></ab>
+            <!-- citation starts here -->
+            <ab>Liber primus de febrium differentiis<note type="translation">First book on the
+                  differences in fevers</note></ab>
+            <ab>The 2<hi rend="superscript">d</hi> Book of this read &amp; written in the College of
+               Toledo. a<hi rend="superscript">o</hi> Heg 333. ao X<hi rend="superscript">ti</hi>.
+                  944<note type="editorial">AH 333 or 944AD</note></ab>
+            <ab>Galen 6 Books of Medicine written at Granada Heg 646. X<hi rend="superscript">t</hi>
+                  1248<note type="editorial">AH 646 or 1248AD</note></ab>
+            <ab><note type="arabic" facs="xxx">جالينوس</note> Galen<note type="editorial">The Arabic
+                  for Galen is within a longer Arabic extract, and is not picked out by Casiri,
+                  again showing WG's growing facility in reading the language.</note> many copies
+               translated into Arabic</ab>
+            <note type="editorial">From <bibl>Casiri, Bibliotheca, vol. 1, pp. 241-2.</bibl></note>
+
+            <cb/>
+            <ab><!-- citation starts here -->Albategni wrote Heg. 269. He was Harranita professione
+               Sabaeus (ie) Cultor Stellarum. Astronomical calculations died Heg 317 X<hi
+                  rend="superscript">ti</hi> 929. Works at Granada. Longitudes Universal History
+                  &amp;c.<note type="editorial">From <bibl>Casiri, Bibliotheca, vol. 1, pp.
+                     343-4.</bibl> Albategni wrote AH 269. He was from Harran [which Casiri puts in
+                  Syria; modern Turkey; formerly Carrhae], a Sabean by profession (i.e.) a
+                  worshipper of the stars. [Casiri also explains the word ‘Sabaeus’]. Astronomical
+                  calculations died AH 317, 929AD. Works at Granada. Longitudes Universal History
+                  etc.</note></ab>
+            <!-- citation starts here --><ab><note type="arabic" facs="xxx">عين زربة</note> Anazarbeus</ab>
+            <ab><note type="arabic" facs="xxx">ديسقوريدوس</note>  Dioscorides</ab>
+            
+            
+            <ab>medicus<note type="translation">physician</note> <note type="arabic" facs="xxx">حكيم<note type="translation">wise person [in Casiri, referring to Dioscorides]</note></note></ab><note type="editorial">From <bibl>Casiri, Bibliotheca, vol. 1, p. 283.</bibl></note>
+            <!-- citation starts here --><ab><note type="arabic" facs="xxx">[Arabic]</note> </ab>
+            <ab>Scriptus est in “excelsa Granata urbe Regia<note type="translation">It is written in "sublime Granada, the royal city</note></ab>
+            <metamark/>
+            <ab>Poema de testamento de Consanguinitate ejusque gradibus ac de Haereditate et Haerede
+               auctor Abu Mohamad Abdalla Ben Abrahim Granatensis.<note type="translation">Poem on will[s], on kinship and its degrees, and on inheritance and heir[s], author Abu Mohamad Abdalla Ben Abrahim of Granada.</note></ab><note type="editorial">From <bibl>Casiri, Bibliotheca, vol. 1, p. 290.</bibl></note>
+            <!-- citation starts here --><ab>Legal Decisions by Abu Isaac Abrahamus Ben Abdelrahman. Praefectus Regiae Curiae
+               Granatensis.<note type="translation">Prefect of the Royal Court, of Granada
+                  
+                  [Casiri’s ‘Praefectus Regius Curiae’ would be Royal Prefect of the Court]</note> p457</ab>
+            <ab>Codex literis Cuphicis exoratus Marochi Heg 944 but the author abu Baker Asemo
+               Alcaisi. Granatae Cancellarius. born in a<hi rend="superscript">o</hi> Heg 760. died
+               829. Munus Judicibus oblatum.<note type="translation">Codex written [Casiri has ‘exaratus’] in kufic letters [litteris] in Morocco, AH 944 but the author Abu Baker Asemo Alcaisi. Chancellor of Granada. Born in AH 760. Died 829. A gift offered to judges.</note></ab>
+            <metamark/>
+            <ab>Theatrum Judicum<note type="translation">Theatre of Judges</note> by Mohamad Ben Abraham Ben Farhun a Lawyer of Granada a<hi
+               rend="superscript">o</hi> Hegirae 811.<note type="editorial">AH 811</note></ab>
+            <metamark/>
+            <ab>Several books on Matrimony.</ab>
+            <metamark/>
+            <ab>Amantium Certamina<note type="translation">Lovers’ Struggles</note> by Ahmad Ben Abrahim Ben Mohamad a Syrian who lived at Granada
+               a<hi rend="superscript">o</hi> Hegirae 812.<note type="editorial">AH 812</note></ab>
+            <metamark/>
+            <ab>Codex lit Cuph exaratus Granatae</ab>
+            <ab>Averrois tractatus de Sacrificiis<note type="translation">Codex written in kufic letters at Granada
+               Averroes’s treatise on Sacrifices</note> or Animals for Sacrifice or Victuals according to
+               <choice><abbr>Mahom<hi rend="superscript">n</hi></abbr><expan>Mahometan (i.e. Islamic)</expan></choice> law.</ab><note type="editorial">From <bibl>Casiri, Bibliotheca, vol. 1, pp. 457-66.</bibl></note>
+
+         </div>
+      </body>
+
+      <back>
+         <div type="cover">
+            <note> </note>
+         </div>
+         <div type="index"> </div>
+      </back>
+   </text>
+
+</TEI>
