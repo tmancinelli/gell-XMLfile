@@ -65,9 +65,10 @@
                <item>Wali = Prefecto caudillo Governador</item>
                <item> Wala = por dios</item>
                <item>Wadi = guadi</item>
-            
+            </list>
                <note type="editorial">Copied from <bibl>Conde, Historia de la dominacion, vol. 3, p. viii</bibl>.</note>
-               <note type="translation"><list>
+               <note type="translation">
+                  <list>
                   <item>Alcarria: Town, small town</item>
                   <item>Aldea: small place [lit. short place, i.e. village or hamlet]</item>
                   <item>Alhaci, Tutor</item>
@@ -96,7 +97,7 @@
                   <item>Wacir - principal Minister, Governor [of a city: Conde has 'Gebernador [sic] de ciudad']</item>
                   <item>Wali - Prefect, leader, Governor [of a province: Conde has 'Gobernador de provincia']</item>
                   <item>Wala = by God [oath]</item>
-                  <item>Wadi = [is pronounced like (Conde)] guadi</item></list></note></list>
+                  <item>Wadi = [is pronounced like (Conde)] guadi</item></list></note>
             
             <metamark/>
             
@@ -162,7 +163,7 @@
                <item>Abu baker Abdala</item>
                <item>Muhamad Almudafar</item>
                <item>Omar Almetuakel 487</item>
-            
+            </list>
             <note type="editorial">Copied from <bibl>Conde, Historia de la dominacion, vol. 2, unpaginated frontmatter.</bibl></note>
             
            <cb/> <!-- writing at 90 degrees within three columns -->
@@ -189,7 +190,8 @@
                   <l> por las calles arrastrado</l>
                   <l>muerto con alevosia</l>
                   <l> y olvidado entre extrangeros</l>
-                  <l>venganza venganza grita.</l></lg> <note>grita</note>
+                  <l>venganza venganza grita.</l></lg> 
+               <note>grita</note>
                <note>Vide 3 leaves back</note>
             
             
