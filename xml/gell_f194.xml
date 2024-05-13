@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface xml:id="zone_Page_194">
+         <graphic url="https://iiif.bsr.ac.uk/iiif/2/GELL-VI%2Fwg_06_194.tif/full/full/0/default.jpg"/>
+      </surface>
+   </facsimile>
+   <text>
+      <front>
+         <div type="cover">
+            <note> </note>
+         </div>
+         <div type="inlet">
+            <head> </head>
+         </div>
+      </front>
+
+      <body>
+         <div type="spain"> </div>
+         <div type="portugal">
+            <ab> </ab>
+         </div>
+         <div type="reading_notes">
+            <pb facs="#zone_Page_194" n="194"/>
+            <fw>9</fw>
+            <!-- citation 1 starts here -->
+            <ab>Spanish Romances. most ancient are of 13 century – the last of the 15<hi
+                  rend="superscript">th</hi><note type="editorial">WG's error. The original French
+                  says 'la fin du seizième siècle', the end of the 16th century.</note>.</ab>
+            <ab>some really translated from Arabic. written in reigns of Aben Hassan. Muley Abdallah
+               &amp; Boabdil. Romances of Rodriguez later.</ab>
+            <ab>But those of Rodrigo the oldest.</ab>
+            <ab>Bernardo del Carpio son of Sancho Diaz <choice>
+                  <abbr>C<hi rend="superscript">t</hi></abbr>
+                  <expan>Count</expan>
+               </choice> of Saldaña &amp; a Dau<hi rend="superscript">r</hi><note type="editorial"
+                  >i.e. a Daughter, WG's error. The original French says 'une soeur', a sister.
+               </note> of Alphonso the chaste.</ab>
+            <ab>Fernan Gonzales C<hi rend="superscript">t</hi> of Castille.</ab>
+            <ab>Adarga a round shield. Azagaya a javelin</ab>
+            <ab>El Marabeth. Morabeth a Tribe of Zahara.</ab>
+            <ab>Alcala Castle or Citadel.</ab>
+            <ab>Mudexares = tributaries?<note type="editorial">i.e. mudéjares. From the Arabic for
+                  subjugated, tamed or domesticated; and, by extension in Spanish, those Muslims who
+                  remained in Iberia after the Reconquista. </note></ab>
+            <ab>Alcayceria the bazar.</ab>
+            <ab>“Cries resound in the Towers of the Alhambra &amp; through the City of Granada in
+               all parts. For without reason the King has beheaded in one day 36 abencerrages nobles
+               of great valour. Accused by the Zegries &amp; Gomeles of treason. All the Dames weep
+               all that are in Granada. From the windows &amp; open galleries are shewn mourning
+                  draperies..”<note type="editorial">WG's translation from the <bibl>Bibliothèque
+                     universelle's French, p. 258</bibl>: ‘Dans les tours de l’Alhambra de grands
+                  cris retentissent; dans la cité de Grenade des gémissemens résonnent de toutes
+                  parts; ‘Car sans aucun motif, le roi a fait décapiter en un seul jour trente six
+                  Abencerrages, nobles de grand bravoure ... que les Zégris et les Goméles
+                  accusoient de trahison … ‘Toutes les dames les pleuroient, toutes celles que
+                  renferme Grenade; des fenêtres et des façades des maisons tombent des draperies de
+                  deuil.’</note></ab>
+            <ab>Alhama taken by Don Rodrigo Ponce de Leon in 1483.</ab>
+            <ab>Rioverde under Ronda<note type="editorial">i.e. the Río Verde river</note></ab>
+            <ab>Sierra bermeja between Malaga &amp; Gibraltar.</ab>
+            <ab>Fernando Perez de Pulgar<note type="editorial">Hernán Pérez del Pulgar
+                  (1451-1531)</note> wrote avemaria on mosque door.</ab>
+            <note type="editorial">From <bibl>‘Sur les romances espagnols’, Bibliothèque universelle
+                  des sciences, belles-lettres, et arts, vol. 46 (1831), pp. 225-62, at pp. 227-8,
+                  231, 233, 248, 251, 258, 260-1.</bibl></note>
+            <!-- citation 1 ends here -->
+
+            <metamark/>
+            
+            <!-- citation 2 starts here -->
+            <ab>De Rasis. <choice>
+                  <abbr>Hist</abbr>
+                  <expan>History</expan>
+               </choice> from Arabic translated into Spanish ergo true history<note type="editorial"
+                  >WG's addition</note>. tum notabilia quaedam inde excerpta &amp; diligenter
+                  examinata.<note type="editorial">From <bibl>Casiri, Bibliotheca, vol. 1, p.
+                     xxiii.</bibl>
+                  <note type="translation">By Rasis. History from Arabic translated into Spanish
+                     therefore true history. Then some noteworthy things extracted from it and
+                     carefully examined.</note></note></ab>
+            <!-- citation 2 ends here -->
+
+            <cb/>
+            <!-- citation 3 starts here -->
+            <ab>Pedro de Lara <choice><abbr>a<hi rend="superscript">o</hi></abbr><expan>the year (anno)</expan></choice> 1611 near Salè took 2 ships of Zidan
+               K<hi rend="superscript">g</hi> of Morocco. took 3000 <choice><abbr>MSS</abbr><expan>Manuscripts</expan></choice>. King offered 70 000
+               Ducats for ransom. K<hi rend="superscript">g</hi> of Spain answered he would have the
+               release of all the <choice><abbr>X<hi rend="superscript">tian</hi></abbr><expan>Christian</expan></choice> Slaves. The K<hi
+                  rend="superscript">g</hi> Zeidan would have given them but having war with un
+               Morabito y con su sobrino Muley Xeque<note type="translation">a Marabout <note type="editorial">Muslim holy man or hermit</note> and his brother, Sheikh Muley</note> could not, so the books went to the Escurial.
+               Vida y hechos del Rey D. Phelipe III. by Gonzales Davila<note type="editorial">Casiri cites a <note type="editorial">17th-century</note> <bibl>manuscript history of the life and deeds of King Don Philip III by [Gil] González Dávila</bibl>, kept in the Royal Library at Madrid.</note>. Many burnt June 7
+                  1671.<note type="editorial">WG's translation of <bibl>Spanish and Latin from Casiri,
+                  Bibliotheca, vol. 1, pp. iv-v.</bibl> Casiri gives most of this text in Spanish in a
+                  footnote, but additional comments from the main text are in Latin.<bibl> Joseph
+                  [Giuseppe] Baretti, A Journey from London to Genoa, through England, Portugal,
+                  Spain, and France, 3rd edn, 4 vols (London, 1770), vol. 3, pp. 82-4</bibl> gives the
+                  Spanish with an English translation, citing Casiri. WG was drawing directly on
+                  Casiri, though: not only does he leave untranslated Spanish, but he also dates the
+                  Escorial fire precisely, as only Casiri does, and avoids Baretti's error of
+                  1761.</note></ab>
+            <!-- citation 3 ends here -->
+            
+            <!-- citation 4 starts here and ends at bottom --><ab>Ualadata daughter of Kg Mohamad Almostakphi Billa Kg of Spain Poesies in
+               quantity.</ab>
+            <ab>De Urbe Ramla or Rama<note type="translation">On the City of Ramla</note> by Ebn Alkalife<note type="editorial">This is not in Casiri. It is possible WG has misunderstood Casiri's attributions and written 'Ebn Alkalife' in error because Casiri attributes an earlier work to Ebn Alkhathib.</note>, who gives history also of Samarcand &amp;c.
+               also of the Bibliotheca of Porphyrius.<note type="translation">Library of Porphyry [of Tyre]</note></ab>
+            <ab>Dioscorides. Hippocrates. Galen. Plato. Euclid. Ptolemy. Zoroaster. of the city
+               Tadmir.</ab>
+            <ab>On Cannon &amp; Nitrati pulveris <note type="translation">potassium nitrate powder [i.e. gunpowder]</note>&amp; the ancient use of paper by the Arabs. Nubian
+               Geographer.</ab>
+            <ab>De Nominis Andalusia etymo <note type="translation">Etymology of the name Andalusia</note><metamark>–</metamark></ab>
+            <ab>Many of these were in library <metamark>–</metamark> Royal at Granada but taken at
+               the fall to Morocco.</ab><note type="editorial"><bibl>From Casiri, Bibliotheca, vol. 1, pp. xix-xxiii.</bibl></note>
+
+         </div>
+      </body>
+
+      <back>
+         <div type="cover">
+            <note> </note>
+         </div>
+         <div type="index"> </div>
+      </back>
+   </text>
+
+</TEI>
