@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface xml:id="zone_Page_143">
+         <graphic url="https://iiif.bsr.ac.uk/iiif/2/GELL-VI%2Fwg_06_143.tif/full/full/0/default.jpg"/>
+         <zone points="21,97 27,1164 3367,1191 3394,97" xml:id="zone_Page_143_c3e7874f-44da-459d-87b3-f6fca868e268"/>
+      </surface>
+   </facsimile>
+   
+   <text>
+      <front>
+         <div type="cover">
+            <note> </note>
+         </div>
+         <div type="inlet">
+            <head> </head>
+         </div>
+      </front>
+
+      <body>
+         <div type="spain">
+            <ab> </ab>
+         </div>
+         <div type="portugal">
+
+            <pb facs="#zone_Page_143" n="143"/>
+            <fw>62</fw>
+            <figure facs="#zone_Page_143_c3e7874f-44da-459d-87b3-f6fca868e268" type="full_page">
+               <note type="editorial_label"> Pen and ink drawing: view of Alhandra</note>
+               <label><rs type="place" ref="#alhandra">Fort Alhandra Lines</rs></label>
+            </figure>
+
+
+
+            <ab><rs type="place" ref="#povoa">Povoa <note type="editorial">Póvoa de Santa
+                  Iria</note></rs>
+               <rs type="place" ref="#alverca">Alverca<note type="editorial">Alverca do
+                  Ribatejo</note></rs> &amp; <rs type="place" ref="#alhandra">Alhandra</rs> where the
+               heights &amp; the English lines come down to the water. from <rs type="place"
+                  ref="#alhandra">Alhandra</rs> to <rs type="place" ref="#villa_franca">Villa Franca <note
+                     type="editorial">Vila Franca de Xira</note></rs> the bank beautiful the
+               southern shore flat, and sandy islands. At <rs type="place" ref="#castanheira">Castanheira
+                     <note type="eidotiral">Castanheira do Ribatejo</note></rs> another range of
+               heights comes to the water. Passing this see <rs type="place" ref="#alenquer">Alemquer
+                     <note type="editorial">Alenquer</note></rs> at a distance. Further on at <rs
+                  type="place" ref="#villa_nova">Villa Nova <note type="editorial">Vila Nova da
+                     Rainha</note></rs> hills on <choice>
+                  <abbr>N</abbr>
+                  <expan>north</expan>
+               </choice> bank recede. Very flat on each bank. on the <choice>
+                  <abbr>S</abbr>
+                  <expan>south</expan>
+               </choice> see <rs type="place" ref="#zamora">Zamōra</rs>. After <rs type="place"
+                  ref="#villa_nova">Villa Nova <note type="editorial">Vila Nova da Rainha</note></rs> see
+                  <rs type="place" ref="#azambuja">Azambuja</rs>
+               <choice>
+                  <abbr>L</abbr>
+                  <expan>left</expan>
+               </choice> at foot of hills. An island ends on <choice>
+                  <abbr>R or S</abbr>
+                  <expan>right or south</expan>
+               </choice>. See <rs type="place" ref="#benavente">Benaventa <note type="editorial"
+                     >Benavente</note></rs> on S bank at a great distance next convent of <rs
+                        type="place" ref="#jerico">Jerico</rs> &amp; then <rs type="place" ref="#salvaterra_de_magos"
+                  >Salvaterra <note type="editorial">Salvaterra de Magos</note></rs> a great hunting
+               palace with a town &amp; opera house &amp; woods &amp; plain for coursing. very
+               ugly.</ab>
+
+
+         </div>
+         <div type="reading_notes">
+            <ab> </ab>
+         </div>
+      </body>
+
+      <back>
+         <div type="cover">
+            <note> </note>
+         </div>
+         <div type="index"> </div>
+      </back>
+   </text>
+
+</TEI>

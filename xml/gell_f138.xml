@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+   <surface xml:id="zone_Page_138">
+      <graphic url="https://iiif.bsr.ac.uk/iiif/2/GELL-VI%2Fwg_06_138.tif/full/full/0/default.jpg"/>
+      <zone points="299,233 293,456 701,446 728,233" xml:id="zone_Page_138_10d779b0-6925-4626-b9a0-3c850f729f19"/>
+      <zone points="957,217 952,473 1468,467 1490,244" xml:id="zone_Page_138_192fcf8d-ed5e-4788-ad6c-1463bb6ea5ab"/>
+      <zone points="1735,239 1713,446 2050,435 2050,239" xml:id="zone_Page_138_9c6c5502-2bc8-4571-96ff-7af0ef9cc4e8"/>
+      <zone points="2110,233 2110,375 2605,375 2605,239" xml:id="zone_Page_138_7eb6218f-fd39-4ddf-9350-71b88e4a0536"/>
+      <zone points="2823,272 2828,418 3204,413 3220,310" xml:id="zone_Page_138_ae75177d-578f-4175-b85f-31bde1d321c9"/>
+      <zone points="184,424 168,696 538,652 739,435" xml:id="zone_Page_138_2d79435d-51af-4f52-afcb-0f6769704716"/>
+      <zone points="903,484 903,674 1408,680 1474,440" xml:id="zone_Page_138_3ffbcd00-55c3-4080-9437-802617d18010"/>
+      <zone points="1724,435 1713,598 2012,582 2007,424" xml:id="zone_Page_138_ac6551d3-4ccf-49ed-91f2-b6b28458c459"/>
+      <zone points="2132,359 2137,560 2594,582 2594,326" xml:id="zone_Page_138_f4725d1d-1c1e-4c13-bd64-1ba8f51ce66e"/>
+      <zone points="2709,418 2709,658 3405,636 3383,364" xml:id="zone_Page_138_46eae297-bf77-4f1b-82b5-f713cbac8960"/>
+      <zone points="223,674 223,897 658,886 647,674" xml:id="zone_Page_138_9ad4e097-0155-43bc-8632-362f77c7b975"/>
+      <zone points="870,658 864,870 1403,875 1419,658" xml:id="zone_Page_138_a5823b86-a766-44b6-8e10-fe1e06a1b596"/>
+      <zone points="1746,598 1719,832 2578,832 2573,576" xml:id="zone_Page_138_286b753d-3a2d-4eb5-ab04-3c9272b40b09"/>
+      <zone points="2785,631 2779,908 3340,881 3356,587" xml:id="zone_Page_138_0ed9c602-8cbb-4ad2-b52a-348a62c2b1dc"/>
+      <zone points="2072,821 2056,1033 2584,1055 2578,783" xml:id="zone_Page_138_0172d344-330e-4216-af1e-28d09a3c1a13"/>
+      <zone points="2671,870 2665,1071 3372,1039 3351,843" xml:id="zone_Page_138_ef0d55f8-be16-4480-8312-fc95accb65e5"/>
+      <zone points="2943,1017 2926,1169 3356,1169 3367,1006" xml:id="zone_Page_138_57ab88bc-2f5b-4997-aa06-18331c0eccdf"/>
+      <zone points="293,908 272,1060 783,1066 805,919" xml:id="zone_Page_138_7c3f948f-76a2-4394-ada5-5fd5c6244cdb"/>
+      <zone points="282,1066 272,1218 805,1213 805,1060" xml:id="zone_Page_138_5e60a091-4727-4005-a24a-2342dd17568d"/>
+      <zone points="310,1191 310,1316 750,1289 750,1180" xml:id="zone_Page_138_fe8244ed-5fbd-4152-9ee3-e270140c17c3"/>
+      <zone points="163,1305 152,1441 924,1441 919,1294" xml:id="zone_Page_138_e43afe75-1bd8-4e0d-92db-e70cbdb97c93"/>
+      <zone points="315,1419 310,1555 892,1544 881,1419" xml:id="zone_Page_138_56abab1f-56f6-4329-97de-be6ae5036814"/>
+      <zone points="348,1544 348,1653 892,1675 903,1534" xml:id="zone_Page_138_c0ab3c00-42cb-4e7c-a218-9acbbedfa49e"/>
+      <zone points="304,1642 315,1773 554,1757 554,1632" xml:id="zone_Page_138_e73c6590-c75e-4909-96be-dd5029d5ce4c"/>
+      <zone points="320,1778 310,1893 592,1893 592,1757" xml:id="zone_Page_138_cecd202a-5889-4b3f-b738-236414419e83"/>
+      <zone points="206,1882 217,2034 745,2001 756,1855" xml:id="zone_Page_138_4b4659df-1789-446c-b37c-31318680ec0e"/>
+      <zone points="212,2007 206,2154 979,2170 952,1958" xml:id="zone_Page_138_dab5180a-1897-4c15-a8be-7c3542975c9a"/>
+      <zone points="288,2148 272,2290 799,2257 816,2154" xml:id="zone_Page_138_e15b3b82-d4f5-434f-b71e-90059eb170bb"/>
+      <zone points="957,930 941,1071 1408,1077 1403,930" xml:id="zone_Page_138_e1a8d1e7-3bb0-4b19-9996-9c8784f4b0f7"/>
+      <zone points="957,1071 935,1262 1637,1245 1637,1071" xml:id="zone_Page_138_0345cbb0-957f-4195-832e-18f9e8016a27"/>
+      <zone points="968,1229 957,1392 1642,1370 1604,1202" xml:id="zone_Page_138_01cc2d13-35d4-45fe-903b-0d26d675632e"/>
+      <zone points="1028,1370 1022,1566 1648,1528 1664,1365" xml:id="zone_Page_138_d9e441d2-c495-4a2f-ac28-ba16d45b4325"/>
+      <zone points="1006,1517 1017,1702 1632,1626 1637,1501" xml:id="zone_Page_138_845cf274-fe74-44ef-85bf-ddd1db09cee4"/>
+      <zone points="1006,1664 1006,1806 1648,1768 1675,1577" xml:id="zone_Page_138_875a5689-bbaf-4b90-b9b6-6563c7528817"/>
+      <zone points="979,1778 957,1969 1942,1947 1958,1762" xml:id="zone_Page_138_c04575f9-0af6-455a-898e-cb621c802559"/>
+      <zone points="1659,1071 1637,1218 2328,1207 2333,1077" xml:id="zone_Page_138_cf4298fd-e03d-4e06-807a-6548150e7884"/>
+      <zone points="157,2268 146,2491 767,2448 696,2257" xml:id="zone_Page_138_ba699319-39b4-4194-871d-ceb77e0f7d5f"/>
+      <zone points="1006,2796 979,2932 1256,2937 1267,2779" xml:id="zone_Page_138_ebca4062-1e9f-41a6-8d78-13f739ec04af"/>
+      <zone points="108,2948 97,3111 380,3117 397,2921" xml:id="zone_Page_138_0917fb96-8e3a-4e1f-ba68-c323f1cac95f"/>
+      <zone points="195,3095 184,3242 538,3242 549,3079" xml:id="zone_Page_138_58f5653b-2755-4534-831f-f49b8a7e6f0a"/>
+      <zone points="87,3329 87,3508 505,3481 533,3312" xml:id="zone_Page_138_27a0fadd-6d6b-4aec-9648-ceebc566d2cb"/>
+      <zone points="870,3296 854,3454 1142,3454 1158,3236" xml:id="zone_Page_138_02d93ee8-7d53-404f-9f98-c4abcfb75e60"/>
+      <zone points="228,3470 212,3628 576,3639 560,3476" xml:id="zone_Page_138_de5d73f2-cbca-4e17-9539-2f2486a74290"/>
+      <zone points="788,3443 777,3628 1278,3612 1267,3405" xml:id="zone_Page_138_cf1755c5-7a5d-4095-b710-090b4147ef2a"/>
+      <zone points="2012,1925 1996,2029 2861,2018 2872,1914" xml:id="zone_Page_138_4943b82f-8bbe-41f5-a438-24105e37abc6"/>
+      <zone points="2001,2023 2007,2148 2796,2116 2785,2012" xml:id="zone_Page_138_557bf4bc-6b43-4795-9db3-2a2fc4c4c25e"/>
+      <zone points="3057,2078 3046,2219 3171,2208 3193,2078" xml:id="zone_Page_138_0b673f44-ca15-4466-8afd-d0c18edc83de"/>
+      <zone points="2001,2306 1991,2524 2649,2513 2643,2322" xml:id="zone_Page_138_a4ba5ca7-202e-44ea-957f-c6e22eab793e"/>
+      <zone points="1936,2594 1882,2785 2997,2725 3008,2573" xml:id="zone_Page_138_804e49ef-4c8d-4b39-8494-f171520ebb2a"/>
+      <zone points="2012,2910 2012,3051 2257,3024 2273,2904" xml:id="zone_Page_138_fa2b0af6-4814-4cae-907c-c8f7e967067b"/>
+      <zone points="2698,2692 2681,2845 2959,2828 2959,2687" xml:id="zone_Page_138_cc41830f-c0b7-4a96-9e20-833116fe28d7"/>
+      <zone points="2605,2883 2584,3046 3171,3084 3176,2877" xml:id="zone_Page_138_1c485cb7-dc39-4423-a3d6-919a431f2fa0"/>
+      <zone points="2442,3030 2420,3149 2768,3155 2747,3019" xml:id="zone_Page_138_071ea154-2dc1-49e6-8b9f-0058c316c938"/>
+      <zone points="2012,3128 2001,3269 2382,3253 2409,3106" xml:id="zone_Page_138_78505cf4-22de-40eb-bc92-2a2fdb60104f"/>
+      <zone points="2023,3242 2012,3367 2279,3367 2273,3231" xml:id="zone_Page_138_c0643a92-9956-4d66-b338-d73c0dc88f24"/>
+   </surface>
+   </facsimile>
+   
+   <text>
+      <front>
+         <div type="cover">
+            <note> </note>
+         </div>
+         <div type="inlet">
+            <head> </head>
+         </div>
+      </front>
+
+      <body>
+         <div type="spain">
+            <pb facs="#zone_Page_138" n="138"/>
+            <fw>67</fw>
+            <label>Greek names in Arabic from Library at Granada &amp; Morocco.</label>
+            <!-- citation starts here -->
+            <list>
+               <item><note type="arabic" facs="#zone_Page_138_10d779b0-6925-4626-b9a0-3c850f729f19">ارسطون </note>Ariston</item>
+               <item><note type="arabic" facs="#zone_Page_138_192fcf8d-ed5e-4788-ad6c-1463bb6ea5ab">لمساقوس</note>Lampsacus</item>
+               <item><note type="arabic" facs="#zone_Page_138_9c6c5502-2bc8-4571-96ff-7af0ef9cc4e8">اسحق</note>Isaac</item>
+               <item><note type="arabic" facs="#zone_Page_138_7eb6218f-fd39-4ddf-9350-71b88e4a0536">ابون </note>Bion</item>
+               <item><note type="arabic" facs="#zone_Page_138_ae75177d-578f-4175-b85f-31bde1d321c9">اقليدس</note>Euclides</item>
+               <item><note type="arabic" facs="#zone_Page_138_2d79435d-51af-4f52-afcb-0f6769704716">اسدكسيدس</note>Cyricus</item>
+               <item><note type="arabic" facs="#zone_Page_138_3ffbcd00-55c3-4080-9437-802617d18010">ميناديومس</note>Menademus</item>
+               <item><note type="arabic" facs="#zone_Page_138_ac6551d3-4ccf-49ed-91f2-b6b28458c459">كتاب<note type="translation"
+                  >book</note></note></item>
+               <item><note type="arabic" facs="#zone_Page_138_f4725d1d-1c1e-4c13-bd64-1ba8f51ce66e">ابوليوس </note>Apuleius</item>
+               <item><note type="arabic" facs="#zone_Page_138_46eae297-bf77-4f1b-82b5-f713cbac8960">ابن نوقطرس</note>Son of Naucrates??</item>
+               <item><note type="arabic" facs="#zone_Page_138_9ad4e097-0155-43bc-8632-362f77c7b975">طيملاوس </note>Timolaus</item>
+               <item>
+                  <note type="arabic" facs="#zone_Page_138_a5823b86-a766-44b6-8e10-fe1e06a1b596">دمطريوس </note>Demetrius</item>
+               <item><note type="arabic" facs="#zone_Page_138_286b753d-3a2d-4eb5-ab04-3c9272b40b09">اريسطاطاليس</note>Aristoteles</item>
+               <!-- empty space -->
+               <item><note type="arabic" facs="#zone_Page_138_0ed9c602-8cbb-4ad2-b52a-348a62c2b1dc">ارشميدس </note>Archimedes</item>
+               <item><note type="arabic" facs="#zone_Page_138_0172d344-330e-4216-af1e-28d09a3c1a13">انوليوس </note> Ennius</item>
+               <item><note type="arabic" facs="#zone_Page_138_ef0d55f8-be16-4480-8312-fc95accb65e5">ان قبل الاسلام <note type="translation">It was
+                        before Islam</note></note></item>
+               <item><note type="arabic" facs="#zone_Page_138_57ab88bc-2f5b-4997-aa06-18331c0eccdf">بن عمر </note>Omar ben<note type="editorial"
+                     >Umar ibn al-Khattab, companion of the Prophet</note></item>
+            </list>
+            <note type="editorial">Mostly mentioned in <bibl>Casiri, Bibliotheca, vol. 1, passim,
+                  especially pp. 324-5.</bibl></note>
+
+            <metamark/>
+
+            <!-- citation starts here -->
+            <list>
+               <item><note type="arabic" facs="#zone_Page_138_7c3f948f-76a2-4394-ada5-5fd5c6244cdb">ديك <note type="translation">cock</note></note>
+                  Gallus</item>
+               <item><note type="arabic" facs="#zone_Page_138_5e60a091-4727-4005-a24a-2342dd17568d">تور<note type="translation">bull</note></note>
+                  Taurus</item>
+               <item><note type="arabic" facs="#zone_Page_138_fe8244ed-5fbd-4152-9ee3-e270140c17c3">بقر <note type="translation">cow or ox<note
+                           type="editorial">strictly, cows; singular would be بقرة
+                     </note></note></note> Bos</item>
+               <item><note type="arabic" facs="#zone_Page_138_e43afe75-1bd8-4e0d-92db-e70cbdb97c93">جاموس <note type="translation"
+                     >buffalo</note></note> Babalus</item>
+               <item><note type="arabic" facs="#zone_Page_138_56abab1f-56f6-4329-97de-be6ae5036814">جمل<note type="translation">camel</note></note>
+                  Camelus</item>
+               <item><note type="arabic" facs="#zone_Page_138_c0ab3c00-42cb-4e7c-a218-9acbbedfa49e">فيل<note type="translation"
+                     >elephant</note></note> Elephas</item>
+               <item><note type="arabic" facs="#zone_Page_138_e73c6590-c75e-4909-96be-dd5029d5ce4c">خيل <note type="translation">horse</note></note>
+               </item>
+               <item><note type="arabic" facs="#zone_Page_138_cecd202a-5889-4b3f-b738-236414419e83">حمار <note type="translation"
+                     >donkey</note></note>
+               </item>
+               <item><note type="arabic" facs="#zone_Page_138_4b4659df-1789-446c-b37c-31318680ec0e">نعجة<note type="translation">sheep</note></note>
+                  ovis</item>
+               <item><note type="arabic" facs="#zone_Page_138_dab5180a-1897-4c15-a8be-7c3542975c9a">كبش <note type="translation">ram</note></note>
+                  Aries</item>
+               <item><note type="arabic" facs="#zone_Page_138_e15b3b82-d4f5-434f-b71e-90059eb170bb">تيس<note type="translation">goat</note></note>
+                  hircus</item>
+               <item><note type="arabic" facs="#zone_Page_138_e1a8d1e7-3bb0-4b19-9996-9c8784f4b0f7">وز<note type="translation">goose</note></note>
+                  anser</item>
+               <item><note type="arabic" facs="#zone_Page_138_0345cbb0-957f-4195-832e-18f9e8016a27">اللحام<note type="translation"
+                     >dove</note></note> Columba</item>
+               <item><note type="arabic" facs="#zone_Page_138_01cc2d13-35d4-45fe-903b-0d26d675632e">اللقلق <note type="translation"
+                     >stork</note></note> Ciconia</item>
+               <item><note type="arabic" facs="#zone_Page_138_d9e441d2-c495-4a2f-ac28-ba16d45b4325">النسر <note type="translation"
+                     >eagle</note></note> Aquila</item>
+               <item><note type="arabic" facs="#zone_Page_138_845cf274-fe74-44ef-85bf-ddd1db09cee4">البوم <note type="translation">owl</note></note>
+                  Noctua</item>
+               <item><note type="arabic" facs="#zone_Page_138_875a5689-bbaf-4b90-b9b6-6563c7528817">الغداف<note type="translation"
+                     >crow</note></note> Cornix</item>
+               <item><note type="arabic" facs="#zone_Page_138_c04575f9-0af6-455a-898e-cb621c802559">اليهودي<note type="translation">mountain
+                           raven<note type="editorial">though the Arabic translates as ‘the
+                           Jew’</note></note></note> Corvus montanus</item>
+               <item><note type="arabic" facs="#zone_Page_138_cf4298fd-e03d-4e06-807a-6548150e7884">الدرشان<note type="translation"
+                     >turtle</note></note> Turtle</item>
+            </list>
+            <note type="editorial"><bibl>Casiri, Bibliotheca, vol. 1, pp. 318-20.</bibl></note>
+
+            <metamark/>
+
+            <label>Numberless books on Agriculture.</label>
+
+            <ab><note type="arabic" facs="#zone_Page_138_ba699319-39b4-4194-871d-ceb77e0f7d5f">ابن قتيبه<note type="translation">Ben [son of]
+                     Chotaiba</note></note> Ben Chotaba. noble of Granada wrote a<hi
+                  rend="superscript">o</hi> Egirae 511 universam Ruris disciplinam. Alhagi Ahmad of
+               Granada a<hi rend="superscript">o</hi> Eg<hi rend="superscript">ae</hi> 553 wrote
+                  d<hi rend="superscript">o</hi>.<note type="translation">Ben Chotaba, noble of
+                  Granada wrote in AH 511 Universal Knowledge of the Countryside. Alhagi Ahmad of
+                  Granada AH 553 wrote the same (ditto).</note><note type="editorial"><bibl>Casiri,
+                     Bibliotheca, vol. 1, p. 324.</bibl></note></ab>
+            <!-- citation starts here -->
+            <ab>Books on Manure on irrigation on Gardens on Fruit trees on all trees <note
+               type="arabic" facs="#zone_Page_138_ebca4062-1e9f-41a6-8d78-13f739ec04af">بلوط<note type="translation">Oak<note type="editorial"
+                        >Oak [Latin] Acorn [Spanish]</note></note></note> Quercus Bellota</ab>
+            <ab><note type="arabic" facs="#zone_Page_138_0917fb96-8e3a-4e1f-ba68-c323f1cac95f">الفستق<note type="translation"
+                  >pistachio</note></note> Alfistak Pistacia <metamark>–</metamark></ab>
+            <ab><note type="arabic" facs="#zone_Page_138_58f5653b-2755-4534-831f-f49b8a7e6f0a">رمان <note type="translation"
+                  >pomegranate</note></note> malum punicum. Abdelrahman brought it from Syria to
+               Corduba. 12 sorts</ab>
+            <ab><note type="arabic" facs="#zone_Page_138_27a0fadd-6d6b-4aec-9648-ceebc566d2cb">الصنوبر <note type="translation">pine</note></note>
+               pinus <metamark>–</metamark>
+               <note type="arabic" facs="#zone_Page_138_02d93ee8-7d53-404f-9f98-c4abcfb75e60">الارز<note type="translation">rice</note></note>
+                  Cupressus<note type="translation">cypress<note type="editorial">[The Arabic
+                     actually says ‘rice’]</note></note></ab>
+            <ab><note type="arabic" facs="zone_Page_138_de5d73f2-cbca-4e17-9539-2f2486a74290">               الورد</note> Rosa <note type="arabic" facs="#zone_Page_138_cf1755c5-7a5d-4095-b710-090b4147ef2a"
+                  >الياسمين </note> Aliasmin.</ab>
+            <note type="editorial"><bibl>Casiri, Bibliotheca, vol. 1, pp. 327-9.</bibl></note>
+            <!-- citation starts here -->
+            <ab>On grafting Greek persian &amp; Syrian</ab>
+            <ab>How to make one tree flower at pleasure. like Knight. &amp; fruit of many colors.
+               pictures &amp; writing on apples how Vine &amp; fig branches of all colours. Ut uva
+               vinaceis vacet<note type="translation">So that the grape is seedless (void of
+                  seeds).</note>. all sorts of smells &amp; flavours from trees &amp; to grow
+               larger.</ab>
+            <note type="editorial"><bibl>Casiri, Bibliotheca, vol. 1, pp. 331-2.</bibl></note>
+
+            <cb/>
+            <!-- citation starts here -->
+            <ab>Algebra by Othaman Said ben Mohamad Alocbani Granatensis<note type="translation">of Granada</note>. Poem on it by Mohamad Ben
+               Alcassem Granatensis a<hi rend="superscript">o</hi> Hegirae 711 <note type="translation">of Granada, AH 711</note></ab><metamark/>
+            <ab>Albumasar prophecied from stars that if the religion <choice><abbr>Mah<hi rend="superscript">t</hi></abbr><expan>Mohametan (i.e. Islam)</expan></choice> lasted till year 1000 of
+               Hegira the Arabs would have all Spain a<hi rend="superscript">o</hi> X<hi rend="superscript">t</hi> 1680. or Hag 1091.</ab>
+            <note type="editorial"><bibl>Casiri, Bibliotheca, vol. 1, pp. 370-1.</bibl></note>
+            <ab><note type="arabic" facs="#zone_Page_138_4943b82f-8bbe-41f5-a438-24105e37abc6">و<note type="translation">and</note>بصري <note type="translation">from Basra</note></note> and Bussorah?</ab>
+            <ab><note type="arabic" facs="#zone_Page_138_557bf4bc-6b43-4795-9db3-2a2fc4c4c25e">ابن مالك <note type="translation">Ibn Malek [famous grammarian, of the Basra school]</note></note> Aben Malek</ab>
+            <ab>Grammatica Ben Haiani of Granada <figure type="in_text" facs="#zone_Page_138_0b673f44-ca15-4466-8afd-d0c18edc83de">
+                  <note type="editorial_label">[drawing: cog]</note>
+            </figure>.<note type="editorial"><bibl>Casiri, Bibliotheca, vol. 1, p. 4.</bibl> Similar cog symbols are in Casiri's Arabic footnotes.</note></ab>
+            <ab>De Vini Laudibus<note type="translation">In Praise of Wine</note><note type="editorial"><bibl>Casiri, Bibliotheca, vol. 1, p. 163</bibl></note></ab>
+
+            <metamark/>
+            
+            <!-- citation starts here -->
+            <ab><note type="arabic" facs="#zone_Page_138_a4ba5ca7-202e-44ea-957f-c6e22eab793e">الاترج<note type="translation">citron [rather than orange]</note></note> orange</ab>
+            <ab>Alberikuk</ab>
+            <ab><note type="arabic" facs="#zone_Page_138_804e49ef-4c8d-4b39-8494-f171520ebb2a">قصب السكر<note type="translation">sugarcane [same as Latin]</note></note> Sacchari arundines</ab>
+            <ab>Muza a divine fruit <note type="arabic" facs="#zone_Page_138_cc41830f-c0b7-4a96-9e20-833116fe28d7">الموز<note type="translation">banana</note></note> Banana<!-- in pencil --></ab>
+            <ab>Almauz Poma Adami a sort of fable</ab>
+            <ab><note type="arabic" facs="#zone_Page_138_fa2b0af6-4814-4cae-907c-c8f7e967067b">السان<note type="editorial">Meaning unclear, اللسان would be ‘tongue’</note></note> Calamus <note type="arabic"
+               facs="#zone_Page_138_1c485cb7-dc39-4423-a3d6-919a431f2fa0">[Arabic]<note type="translation">[Arabic for ‘calamus’, reed]
+                  </note></note></ab>
+            <ab>Alfarsy <note type="arabic" facs="#zone_Page_138_071ea154-2dc1-49e6-8b9f-0058c316c938">الفارسي<note type="translation">Persian [‘Alfarsy’]</note></note></ab>
+            <ab><note type="arabic" facs="#zone_Page_138_78505cf4-22de-40eb-bc92-2a2fdb60104f">الحور<note type="translation">poplar</note></note> populus</ab>
+            <ab><note type="arabic" facs="#zone_Page_138_c0643a92-9956-4d66-b338-d73c0dc88f24">بقس<note type="translation">box (plant)</note></note> box.</ab>
+            <note type="editorial">Casiri, Bibliotheca, vol. 1, pp. 330-1.</note>
+            
+            <metamark/>
+            <ab>Kg<hi rend="superscript">s</hi> of Granada had near 100 000 horses in sui. bellique usum &amp; sometimes 200000
+               troops says Cassiri from Annals.<note type="editorial"><bibl>Casiri, Bibliotheca, vol. 1, p. 338.</bibl>
+                  
+                  'in sui. bellique usum': Casiri has 'in sui, bellique usum semper aluisse': of his own, and always raised for war</note></ab>
+            <metamark/>
+            <!-- citation starts here -->
+            <ab>on Burning glasses</ab>
+            <ab>Veterinaria.</ab>
+            <ab>on distance of moons centre.</ab>
+            <note type="editorial"><bibl>Casiri, Bibliotheca, vol. 1, pp. 338, 415.</bibl></note>
+
+         </div>
+         <div type="portugal">
+            <ab> </ab>
+         </div>
+         <div type="reading_notes"> </div>
+      </body>
+
+      <back>
+         <div type="cover">
+            <note> </note>
+         </div>
+         <div type="index"> </div>
+      </back>
+   </text>
+
+</TEI>

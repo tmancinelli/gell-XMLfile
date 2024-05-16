@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface xml:id="zone_Page_136">
+         <graphic url="https://iiif.bsr.ac.uk/iiif/2/GELL-VI%2Fwg_06_136.tif/full/full/0/default.jpg"/>
+         <zone points="157,87 130,1218 3024,1218 2932,76" xml:id="zone_Page_136_933b7549-60df-4f94-b2e3-b3b528475f75"/>
+         <zone points="2034,2137 2012,3040 2507,3024 2643,2083" xml:id="zone_Page_136_484cf56a-9af3-42b0-a99c-8c3f027cae56"/>
+      </surface>
+   </facsimile>
+   
+   <text>
+      <front>
+         <div type="cover">
+            <note> </note>
+         </div>
+         <div type="inlet">
+            <head> </head>
+         </div>
+      </front>
+
+      <body>
+         <div type="spain">
+            <pb facs="#zone_Page_136" n="136"/>
+            <fw>69</fw>
+            <figure facs="#zone_Page_136_933b7549-60df-4f94-b2e3-b3b528475f75">
+               <label><rs type="place" ref="#lisbon">LISBOA</rs></label>
+               <note type="editorial_label">Pen and ink drawing: view of <rs type="place" ref="#lisbon">Lisbon</rs></note>
+            </figure>
+            <ab>At <rs type="place" ref="#lisbon">Lisbon</rs> the <choice><abbr>N</abbr><expan>north</expan></choice> wind is cold. but the town is entirely sheltered by the hill on that
+               side. With a Westerly wind the air is warm but in the autumn like all places on the
+               Atlantic foggy &amp; damp, and often rainy. Grapes begin to be rather scarce in the
+               middle of November. The houses very high some 6 or 7 stories &amp; the generality 3
+               or 4. The Opera house of <rs type="place" ref="#sao_carlos">Sant Carlos<note type="editorial">São Carlos (St Charles)</note></rs> very magnificent, &amp; the court always
+               procured good actors. The lanes ranged round 3/4<hi rend="superscript">ths</hi> of an oval. The proscennium has 4
+               columns but they make part of the oval. The stage is remarkably deep. There is a
+               Spanish Theatre called Salitre with a set of Spanish comedians and dancers.</ab>
+            <figure type="sketch" facs="#zone_Page_136_484cf56a-9af3-42b0-a99c-8c3f027cae56">
+               <note type="editorial_label">Pen and ink plan: opera house</note>
+            </figure>
+         </div>
+         <div type="portugal">
+            <ab> </ab>
+         </div>
+         <div type="reading_notes"> </div>
+      </body>
+
+      <back>
+         <div type="cover">
+            <note> </note>
+         </div>
+         <div type="index"> </div>
+      </back>
+   </text>
+
+</TEI>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <facsimile>
+      <surface xml:id="zone_Page_149">
+         <graphic url="https://iiif.bsr.ac.uk/iiif/2/GELL-VI%2Fwg_06_149.tif/full/full/0/default.jpg"/>
+         <zone points="0,97 16,2986 3405,3035 3394,103" xml:id="zone_Page_149_4f7f26b5-04a1-4ea0-9623-6060f8a4c790"/>
+         <zone points="962,3144 957,3329 1164,3334 1164,3122" xml:id="zone_Page_149_15cf61e3-0cba-4975-a05d-e3eaa0dae285"/>
+         <zone points="2388,3100 2382,3400 3013,3372 3307,3079" xml:id="zone_Page_149_7b4c3b3d-96be-49e5-922c-a37f391dd4de"/>
+         <zone points="3019,3269 2986,3405 3340,3421 3351,3285" xml:id="zone_Page_149_0946d76f-f22d-4621-8ca8-b49417f35d92"/>
+         <zone points="2997,3421 2981,3541 3361,3568 3340,3416" xml:id="zone_Page_149_0dd12ace-9f51-4c55-892d-65f317f16fb4"/>
+         <zone points="2099,3421 2088,3677 2894,3693 2899,3443" xml:id="zone_Page_149_c5eb5741-0108-488f-8add-c97318a582c5"/>
+         <zone points="2888,3601 2883,3808 3410,3829 3405,3579" xml:id="zone_Page_149_a054cdc8-27cf-4267-ada2-dcfb4d35f323"/>
+      </surface>
+   </facsimile>
+   
+   <text>
+      <front>
+         <div type="cover">  <note> </note>  </div>
+         <div type="inlet"> <head> </head> </div>
+      </front>
+      
+      <body>
+         <div type="spain"> <ab> </ab> </div>
+         <div type="portugal"> 
+            
+            <pb facs="#zone_Page_149" n="149"/>
+               <fw>56</fw>
+            <figure facs="#zone_Page_149_4f7f26b5-04a1-4ea0-9623-6060f8a4c790">
+                  <note type="editorial_label">Pen and ink drawing: view of Sintra </note>
+               <label>VIEW OF CINTRA<note type="editorial"><rs type="place" ref="#sintra">Sintra</rs></note> FROM <rs type="person" ref="#mrs_daceys">M<hi rend="superscript">RS</hi> DACEYS</rs></label>
+               </figure>
+               
+               
+            <ab>Mahomad or <figure facs="#zone_Page_149_15cf61e3-0cba-4975-a05d-e3eaa0dae285" type="in_text"><note type="editorial_label">[drawing: heart]</note></figure> Ahmed = le desirè</ab>
+            <ab>He called himself. <rs type="person" ref="#ana_al_nabi">Ana Al Nabi la kedheb ana ebn Mothleb</rs></ab>
+            <ab>Also <rs type="person" ref="#al_nabi_la_kedeb">Al Nabi la Kedeb</rs></ab>
+            <ab>His enemies called him <rs type="person" ref="#al_nabi_la_kedeb">El Nabi al kedeb</rs>.</ab>
+            <ab>or <rs type="person" ref="#the_lying_prophet">The lying Prophet</rs>. Pretended his name was found in both testaments. Xt being called “<rs type="person" ref="#desierd_nations">The Desired of the Nations</rs>.”</ab>
+               
+            <note facs="#zone_Page_149_7b4c3b3d-96be-49e5-922c-a37f391dd4de" type="marginal"><note type="arabic">علي بن ضوان</note> Ali Ben Redwan <note type="editorial">Ali ibn Ridwan [c. 988-c.1061, the Egyptian physician, astrologer and astronomer]</note>
+            <note facs="#zone_Page_149_0946d76f-f22d-4621-8ca8-b49417f35d92" type="marginal"><note type="arabic">رید ھو رامون</note></note> <!-- this might be wrong -> it's not present in Richard's transcription -->
+            <note facs="#zone_Page_149_0dd12ace-9f51-4c55-892d-65f317f16fb4" type="marginal"><note type="arabic">كتاب<note type="translation">book</note></note></note>
+            <note facs="#zone_Page_149_c5eb5741-0108-488f-8add-c97318a582c5" type="marginal"><note type="arabic">علي بن ضوان</note>  Ali Ben Redwan also </note>
+            <note facs="#zone_Page_149_a054cdc8-27cf-4267-ada2-dcfb4d35f323" type="marginal">sous Alaksa is <choice><abbr>M<hi rend="superscript">t</hi></abbr><expan>Mount</expan></choice> Atlas <note type="editorail">From <bibl>Barthélemy d'Herbelot, Bibliothèque orientale... (Maastricht, 1776), p. 591.</bibl> WG may be using another of many editions since 1697.</note></note>
+               
+         </div>
+         <div type="reading_notes"> <ab> </ab>
+         </div>
+      </body>
+      
+      <back>
+         <div type="cover"> <note> </note> </div>
+         <div type="index"> </div>
+      </back>
+   </text>
+   
+</TEI>

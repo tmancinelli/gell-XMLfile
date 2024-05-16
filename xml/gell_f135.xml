@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface xml:id="zone_Page_135">
+         <graphic url="https://iiif.bsr.ac.uk/iiif/2/GELL-VI%2Fwg_06_135.tif/full/full/0/default.jpg"/>
+         <zone points="10,174 10,1185 3378,1224 3389,184" xml:id="zone_Page_135_f0269140-4a49-4e89-83e4-ec9a78811c2a"/>
+         <zone points="136,2932 119,4275 3389,4248 3389,2023" xml:id="zone_Page_135_c011274f-478e-46d5-bb7f-2c3d5e41f353"/>
+      </surface>
+   </facsimile>
+   
+   <text>
+      <front>
+         <div type="cover">
+            <note> </note>
+         </div>
+         <div type="inlet">
+            <head> </head>
+         </div>
+      </front>
+
+      <body>
+         <div type="spain">
+            <pb facs="#zone_Page_135" n="135"/>
+            <fw>70</fw>
+            <figure facs="#zone_Page_135_f0269140-4a49-4e89-83e4-ec9a78811c2a">
+               <note type="editorial_label">Pen and ink drawing: landscape</note>
+               <label><note type="editorial_label">[Symbols]</note></label>
+               <label><rs type="place" ref="#serra_de_montejunto">Serra de Junto<note type="editorial">Serra de Montejunto</note></rs></label>
+               <label><note type="editorial_label">[Symbols]</note></label>
+            </figure>
+
+            <ab>prevailed everywhere considering how near the enemy was. The English fort on a high
+               and very cold spot the highest point between the sea &amp; the <rs type="place" ref="#tagus">Tagus</rs> in this line. In
+               a carriage it takes about 6 hours to go 24 miles in the direction of <rs type="place" ref="#sobral">Sobral<note type="editorial">Sobral de Monte Agraço</note></rs>, &amp;
+               not less on horse back. <rs type="place" ref="#town_of_loures">Town of Loures</rs> in the way 2 leagues from <rs type="place" ref="#lisbon">Lisbon</rs>. On the road
+               many pretty Quintas<note type="translation">Villas or estates</note>. See the source of the <rs type="place" ref="#tagus">Tagus</rs> toward <rs type="place" ref="#santarem">Santarem</rs>. The country as far
+               as the British line extends very uneven and the roads well commanded by forts erected
+               on the occasion</ab>
+
+            <figure facs="#zone_Page_135_c011274f-478e-46d5-bb7f-2c3d5e41f353">
+               <note type="editorial_label">Pen and ink drawing: landscape with buildings</note>
+               <label>ON THE SOUTH BANK OF THE <rs type="place" ref="#tagus">TAGUS</rs></label>
+            </figure>
+
+         </div>
+         <div type="portugal">
+            <ab> </ab>
+         </div>
+         <div type="reading_notes"> </div>
+      </body>
+
+      <back>
+         <div type="cover">
+            <note> </note>
+         </div>
+         <div type="index"> </div>
+      </back>
+   </text>
+
+</TEI>

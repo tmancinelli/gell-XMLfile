@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface xml:id="zone_Page_154">
+         <graphic url="https://iiif.bsr.ac.uk/iiif/2/GELL-VI%2Fwg_06_154.tif/full/full/0/default.jpg"/>
+         <zone points="456,375 516,2040 2763,1963 2817,364" xml:id="zone_Page_154_7d9752aa-5d7c-4337-aa99-1c3db526eb5c"/>
+         <zone points="1974,2067 1952,2263 3514,2263 3519,2067" xml:id="zone_Page_154_cb381180-3597-4af4-a1d1-1bf7a8393c95"/>
+         <zone points="1947,2273 1952,2513 3503,2513 3503,2268" xml:id="zone_Page_154_f6401fb6-350c-4565-9af2-fc71041b02d0"/>
+         <zone points="1958,2589 1969,2687 3497,2654 3497,2545" xml:id="zone_Page_154_e8a9b22e-3958-4218-b9b0-273d4a83b74d"/>
+         <zone points="1980,2671 1985,2790 3481,2768 3487,2643" xml:id="zone_Page_154_ad111d4b-c86f-4970-b8cb-040d40d16a95"/>
+         <zone points="1974,2779 1974,2964 3514,2964 3503,2758" xml:id="zone_Page_154_c7da117a-d4e8-493e-b501-4a9c2e56342e"/>
+      </surface>
+   </facsimile>
+   <text>
+      <front>
+         <div type="cover">
+            <note> </note>
+         </div>
+         <div type="inlet">
+            <head> </head>
+         </div>
+      </front>
+
+      <body>
+         <div type="spain">
+            <ab> </ab>
+         </div>
+         <div type="portugal">
+            <pb facs="#zone_Page_154" n="154"/>
+            <fw>51</fw>
+            <figure facs="#zone_Page_154_7d9752aa-5d7c-4337-aa99-1c3db526eb5c">
+               <note type="editorial_label">Pen and ink drawing: tower</note>
+               <label><rs type="place" ref="#t_belem">TOWER OF BELEM</rs></label>
+               <label>from <rs type="place" ref="#buenos_ayres">Buenos Ayres</rs>.</label>
+            </figure>
+            
+            <ab><date when="1810-11-04">Wednesday Nov<hi rend="superscript">r</hi> 4</date>
+               <note type="arabic">symbols</note> The french before the lines of the allied army at
+               <rs type="place" ref="#sobral">Sobral</rs> not more than 35 000 fighting men,
+               desertions daily reducing them besides sickness, in total want of provisions. on the
+               point of despair. The <choice>
+                  <abbr>Gen<hi rend="superscript">l</hi></abbr>
+                  <expan>General</expan>
+               </choice> supposed to be ready to lay down his arms, &amp; very compleatly conquered.
+               Communications entirely cut off </ab>
+            
+            <ab>The desertions from the french innumerable, the army ruined by it iii </ab>
+            
+            <ab><date when="1810-11-05"> Nov 5</date> imposible for the french to retreat, 20,000 +
+               Militia in their rear. <rs type="place" ref="#abrantes">Abrantes</rs> occupied by the
+               allies the bridge<hi rend="superscript">t</hi> under the walls of the town which is very well fortified, <note
+                  type="arabic">symbols</note> Able to withstand the enemy if he does not come with
+               more than 100000 men. No possibility of that. <rs type="place" ref="#lisbon">Lisbon</rs>
+               safe for the winter </ab>
+            
+            <ab>The French have no artillery nor amūnition</ab>
+            <ab>The Portuguese regulars 50,000 men with cavalry <note type="arabic">symbols</note>
+               The french pursued us before <rs type="place" ref="#busaco">Busaco</rs> so as to leave
+               behind all their guns xx</ab>
+            
+            <ab><date when="1810-11-13">13 Nov<hi rend="superscript">r</hi></date> The French<hi rend="superscript">h</hi> retire to <rs type="place"
+               ref="#santarem">Santarem</rs> will lose all their rear in the retreat, will be
+               surrounded by our forces 38 000 English &amp; 20,000 Portuguese. <rs type="place"
+                  ref="#santarem">Santarem</rs> an unfortified town. The french in great trepidation dying
+               of disease &amp; famine. No<hi rend="superscript">k</hi> fear<hi rend="superscript">k</hi> whatever of the enemy on the south side of the <rs
+                  type="place" ref="#tagus">Tagus</rs>. No bread.q </ab>
+            
+            
+            
+            <ab><date when="1810-11-17">Nov<hi rend="superscript">r</hi> 17</date>. Impossible for the french to retreat the
+               rains having swelled the river <rs type="place" ref="#zezere">Zizare</rs>. No materials
+               either for bridges or boats.</ab>
+            <ab>Want of every thing, wish to retreat if possible. Try to get off their cannon by
+               degrees that they may retreat quicker No possibility of receiving succours<hi rend="superscript">x</hi>. The <rs
+                  type="place" ref="#zezere">Zizare</rs> swelled by rains totally prevents communication
+               or <hi rend="superscript">z</hi> retreat. The french in distress for want of Salt <hi rend="superscript">o</hi> Portuguese said Wine.</ab>
+            
+            <ab>The returns of french passing through <rs type="place" ref="#bayonne">Bayonne</rs> this
+               war 500000 men of which compared with the returns <date when="1810-12">Dec<hi rend="superscript">r</hi>
+                  1810</date> 280000 are dead or prisoner.</ab>
+            
+            <note facs="#zone_Page_154_cb381180-3597-4af4-a1d1-1bf7a8393c95" type="marginal">The french (<metamark>_______</metamark>) have
+               65,000 men without reinforcements.</note>
+            <note facs="#zone_Page_154_f6401fb6-350c-4565-9af2-fc71041b02d0" type="marginal">The french have provisions in such plenty that they
+               left stacks &amp; fields untouched on their retreat. WG <note type="editorial">i.e.
+                  something Gell himself observed?</note></note>
+            
+            <note facs="#zone_Page_154_e8a9b22e-3958-4218-b9b0-273d4a83b74d" type="marginal">
+               <metamark>+</metamark> French retreat to <rs type="place" ref="#santarem">Santarem</rs>
+               <date when="1810-11-13">Nov<hi rend="superscript">r</hi> 13</date> without loss or attack </note>
+            
+            <note facs="#zone_Page_154_ad111d4b-c86f-4970-b8cb-040d40d16a95" type="marginal">iii In the year <date when="1810">1810</date> the
+               french lost by desertion 1500 men the English alone 480 –</note>
+            
+            <note facs="#zone_Page_154_c7da117a-d4e8-493e-b501-4a9c2e56342e" type="marginal">No bridge at all at <rs type="place" ref="#abrantes"
+               >Abrantes</rs>. There was once one of Boats at some distance from the town, which
+               may be taken any time by a coup de main.</note>
+            
+            <ab><date when="1811-01">Jan 1811</date> They have many more guns than the due
+               proportion and a sufficient supply of ammunition</ab>
+            
+            <ab>The Portuguese <hi rend="superscript">m</hi> have no more than 20,000 men <note type="arabic">symbols</note> The
+               <hi rend="superscript">h</hi> General not being at home the french retreat without losing more than 500 men at
+               most. They have time to fortify the causey at <rs type="place" ref="#santarem"
+                  >Santarem</rs> and bid us defiance.</ab>
+            
+            <ab>xx The french have more and larger guns than we. xx</ab>
+            <ab><rs type="place" ref="#santarem">Santarem</rs> the most impregnable position in <rs
+               type="place" ref="#portugal">Portugal</rs>. xx The french have more guns than requisite
+               for their numbers. </ab>
+            
+            <ab> The french ask the English officers to an opera at <rs type="place" ref="#santarem"
+               >Santarem</rs>. <hi rend="superscript">k</hi>The enemy under Soult arrive at <rs type="place" ref="#bandajos"
+                  >Badajos</rs>
+               <date when="1811-01-08">jan 8</date>. Rations of bread regularly served. <note
+                  type="arabic">symbols</note></ab>
+            <ab>In the course of a fortnight 3 bridges over the <rs type="place" ref="#zezere"
+               >zizare</rs> a dock yard at <rs type="place" ref="#costancia">Punhete</rs> on the <rs
+                  type="place" ref="#zezere">Zizare</rs>. No difficulty whatever in passing the river
+               and communications so well established that a corps of 7,000 men join the french
+               about <date when="1811-01-04">Jan 4. 1811</date>. after very hard rain.<hi rend="superscript">x</hi> 21000 men
+               coming in three divisions. z The affair of the <rs type="place" ref="#zezere">Zizare</rs>
+               compleatly given up and communications acknowledged, at the end of December. <hi rend="superscript">o</hi>Solt
+               within 3 leagues.</ab>
+            <ab>
+               <date when="1811-01">Jan 1811</date> It is supposed the french will drive us back to
+               <rs type="place" ref="#sobral">Sobral</rs></ab>
+
+         </div>
+         <div type="reading_notes">
+            <ab> </ab>
+         </div>
+      </body>
+
+      <back>
+         <div type="cover">
+            <note> </note>
+         </div>
+         <div type="index"> </div>
+      </back>
+   </text>
+
+</TEI>

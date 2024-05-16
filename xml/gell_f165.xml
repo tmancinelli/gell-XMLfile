@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <facsimile>
+      <surface xml:id="zone_Page_165">
+         <graphic url="https://iiif.bsr.ac.uk/iiif/2/GELL-VI%2Fwg_06_165.tif/full/full/0/default.jpg"/>
+         <zone points="1550,3829 1550,4259 1822,4264 1789,3808" xml:id="zone_Page_165_96329342-a839-403e-837b-ca3396d34f5d"/>
+      </surface>
+   </facsimile>
+   
+   <text>
+      <front>
+         <div type="cover">  <note> </note>  </div>
+         <div type="inlet"> <head> </head> </div>
+      </front>
+      
+      <body>
+         <div type="spain"> <ab> </ab> </div>
+         <div type="portugal"> <ab> </ab> </div>
+         <div type="reading_notes"> 
+            <pb facs="#zone_Page_165" n="165"/>
+         <fw>40</fw>
+            <ab>100 000 Moors condemned by inquisition 4 000 burnt. <rs type="person" ref="#philip_iii">Philip III</rs> in <date when="1609">1609</date> banished 140 000 from <rs type="place" ref="#valencia">Valencia</rs> &amp; after 3 years 600 000 from <rs type="place" ref="#murcia">Murcia Seville</rs> &amp; <rs type="place" ref="#granada">Granada</rs>. 400 000 families says count <rs type="person" ref="#pedro_rodriguez">Campomanes<note type="editorial"><rs type="person" ref="#pedro_rodriguez">Pedro Rodríguez</rs>, Count of Campomanes (1723-1802).</note></rs> or at least one million.
+               Before this 800 000 Jews in time of <rs type="person" ref="#ferdinand_iv">Ferdinand</rs> &amp; <rs type="person" ref="#isabella_castile">Isabella</rs>.
+               <rs type="person" ref="#damian_fonseca">Fonseca</rs> writes “justa expulcion de los Moriscos. 257 page Spain Vid <note type="translation">see</note>.<note type="editorial"><rs type="person" ref="#damian_fonseca">Damián Fonseca</rs>, Del gusto scacciamento de Moreschi da Spanga, Italian edition (Rome, 1611); Justa <sic>expulsion <note type="editorial">Misspelling of 'expulcion' is <rs type="person" ref="#josiah_conder">Conder</rs>'s. Page reference is to him: Conder, Spain and Portugal, vol. 18, p. 257.</note></sic> de los Moriscos de España <note type="translation">The just expulsion of the Moriscos from Spain</note>, Spanish edition (Rome, 1612).</note>
+         The tricks of sacrificing one child to Baptism &amp; lending it to other families for the same purpose.
+         Vide p258 <rs type="person" ref="#aben_humeyas">Apen Humeyas<note type="editorial"><rs type="person" ref="#aben_humeyas">Aben Humeya</rs>, or <rs type="person" ref="#Muhammad ibn Umayyah">Muhammad ibn Umayyah</rs> (1520-69), led the Morisco Revolt of 1568-71 in the <rs type="place" ref="#alpujarras">Alpujarras</rs>.</note></rs> letter apostolic. <note type="editorial">See <rs type="person" ref="#josiah_conder">Conder</rs>, Spain and Portugal, vol. 18, p. 258, footnote.</note>
+               In <date when="1726">1726</date> the inquisition seized 360 families of Mahometans, their goods 12 000 000 crowns.
+               in <date when="1787">1787</date> the Quemadero or burning place of <rs type="place" ref="#granada">Granada</rs> neglected. but 8 years before 2 Jews &amp; a Turk burned.
+               Silk in <date when="1726">1726</date>. 2. 600 000 lbs. in <date when="1776">1776</date> only 100 000
+               Sugar <rs type="place" ref="#motril">motril<note type="editorial"><rs type="place" ref="#motril">Motril</rs>, a town on the south coast known for its sugar.</note></rs> to <rs type="place" ref="#marbella">Marbella</rs>. canes 9 ft high
+         A village up the darro or Douro Moorish round plump faces bright eyes small nose &amp; underjaws good people.
+         In <rs type="place" ref="#granada">Granada</rs> out of 652990 souls 1979 nobles or hidalgos<note type="translation">gentlemen</note>.</ab> 
+            
+         <metamark/>
+            
+            <ab><rs type="place" ref="#granada_alhama">Alhama</rs> <metamark>–</metamark> <rs type="place" ref="granada_alhama">Alhama</rs> or <rs type="place" ref="#la_malaha">La Mala <note type="editorial"><rs type="place" ref="#la_malaha">La Malahá</rs></note></rs> the royal salt springs in way. 2000 souls. runs to <rs type="place" ref="#el_saltillo">el saladillo <note type="editorial">Probably <rs type="place" ref="#el_saltillo">El Saltillo</rs>, between <rs type="place" ref="#velez_malaga">Vélez-Málaga</rs> and <rs type="place" ref="#granada_alhama">Alhama de Granada</rs>. Conder also calls it ‘El Saladillo’, ascribing the name of the spring to the saline taste of its water.</note></rs>. Thence 4 hours to <rs type="place" ref="#granada_alhama">Alhama</rs>, city only accessible from west where a castle. 1 500 families. Moors had a revenue of 500 000 ducats from letting <choice><abbr>Xtians</abbr><expan>Christians</expan></choice> bathe.
+               <rs type="place" ref="#granada_alhama">Alhama</rs> to <rs type="place" ref="#la_malaha">Lamala <note type="editorial"><rs type="place" ref="#la_malaha">La Malahá</rs></note></rs> 20 miles. only one small village on road.
+               8 Leagues to La Venuela. an hour beyond <rs type="place" ref="#la_venuela">La Venuela <note type="editorial"><rs type="place" ref="#la_venuela">La Viñuela</rs></note></rs> <rs type="place" ref="#velez">Velez Malaga</rs> 7000 souls.
+               <figure facs="#zone_Page_165_96329342-a839-403e-837b-ca3396d34f5d" type="sketch"><note type="editorial">Drawing: drum</note></figure>
+         
+         <cb/>
+               <rs type="place" ref="#malaga">Malaga</rs> 75 000 souls.
+               <rs type="place" ref="#velez">Velez</rs> beautiful </ab>
+            <note type="editorial">Summarises and paraphrases <rs type="person" ref="#josiah_conder">Conder</rs>, Modern Traveller, vol. 18, pp. 256-67, which itself draws on Townsend, Swinburne, Jacob, Peyron and Bourgoing.</note>
+         <metamark/>
+         
+         <ab>Foreign review <date when="1828-11">Nov. 1828</date> says
+            Moors had no knowledge of classics therefore all their poetry new. all in vulgar tongue. even science in verse &amp; algebra. The rest of Europe wrote then in latin. Many <choice><abbr>Xtians</abbr><expan>Christians</expan></choice> in <rs type="place" ref="#spain">Spain</rs> wrote in Arabic, many of their books yet at <rs type="place" ref="#toledo">Toledo</rs> &amp; <rs type="place" ref="#escurial">Escurial</rs>. The clergy menaced <choice><abbr>Xtians</abbr><expan>Christians</expan></choice> for this. Also Moors wrote a code of Arab laws in Spanish &amp; a book of agriculture. A Spanish <choice><abbr>MS</abbr><expan>Manuscript</expan></choice>. in Arab letters mentiond by <rs type="person" ref="#m_de_sacy">M. de Sacy</rs>.
+            When <rs type="place" ref="#calatanazor">Calcanasor <note type="editorial">i.e. the legendary Battle of <rs type="place" ref="#calatanazor">Calatañazor</rs>, usually dated to <date when="1002">1002</date> and usually as a Muslim defeat.
+            </note></rs> was taken by Moors in <date when="0998">998</date>. a ghost as a fisherman on the banks of the <rs type="place" ref="#guadalquivir">Guadalquivir</rs> sung in a loud &amp; mournful voice “<rs type="person" ref="#almanser">Almanser</rs> has lost his drum at <rs type="place" ref="#calatanazor">Calcanasor</rs>”. he sung alternately in Arabic &amp; Spanish &amp; then vanishd.
+            First real Spanish poetry Galician where no Moor. <rs type="person" ref="#gonzalo_hermiguez">Gonzalo Hermiguez</rs> to <rs type="person" ref="#ourouana">Ourouana</rs> his wife </ab> 
+         
+        <metamark>-</metamark>
+            
+        <ab> Many Spanish histories of 12th century.
+           <rs type="person" ref="#ferdinand_iv">Ferdinand</rs> &amp; his Son <rs type="person" ref="#alphonso">Alonzo</rs> the wise translated code of Goths into Spanish &amp; used Spanish in every thing.
+           But <rs type="person" ref="#alphonso">Alphonso</rs> read arabic deeply, but ordered that all useful works should be translated into Spanish.
+           The Limousin tongue, says <rs type="person" ref="#raymond_vidal">Raymond Vidal</rs> an old Troubador was the 3d &amp; principal tongue of Spain used in <rs type="place" ref="#guienne">Guienne</rs> &amp; <rs type="place" ref="#provence_catalonia">Provence Catalonia Valencia</rs> &amp; <rs type="place" ref="#islands">Islands</rs>. <rs type="person" ref="#antonie_ruffi">Antonio Ruffi</rs> historian of Marseilles says tounge of that city changed in 12 century by Catalonian words. [<figure type="sketch"><note type="editorial">O with X through (Indicating continuation onto next page)</note></figure>
+           <note type="editorial">Actually summary of Foreign Quarterly Review, vol. 3, no. 5 (Sep 1828), 1-28: review of Silvestre de Sacy, Chrestomathie Arabe..., 2nd edn, 3 vols (Paris, 1826-7). Specifically, pp. 13-18 of the review.</note>
+         </ab>
+         <metamark/>
+         <ab>Calat Anosor
+         <note type="arabic">Arabic</note>
+            in <rs type="place" ref="#calatanazor">Calcanasor</rs> in his drum has lost El manser
+            Al or Elmanser Khasara Tablahu fi <rs type="place" ref="#calatanazor">Calcanasor</rs>.</ab>
+         
+         
+         </div>
+      </body>
+      
+      <back>
+         <div type="cover"> <note> </note> </div>
+         <div type="index"> </div>
+      </back>
+   </text>
+   
+</TEI>

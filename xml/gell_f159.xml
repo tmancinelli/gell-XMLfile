@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface xml:id="zone_Page_159">
+         <graphic url="https://iiif.bsr.ac.uk/iiif/2/GELL-VI%2Fwg_06_159.tif/full/full/0/default.jpg"/>
+         <zone points="48,97 76,1963 3400,1942 3389,141" xml:id="zone_Page_159_146528cc-d13b-4e39-a3a8-eb38eceaa525"/>
+      </surface>
+   </facsimile>
+   <text>
+      <front>
+         <div type="cover">
+            <note> </note>
+         </div>
+         <div type="inlet">
+            <head> </head>
+         </div>
+      </front>
+
+      <body>
+         <div type="spain">
+            <ab> </ab>
+         </div>
+         <div type="portugal">
+            <pb facs="#zone_Page_159" n="159"/>
+            <fw>46</fw>
+            <lg>
+               <l>Passa lá por minha rua</l>
+               <l>E faz mizura ao Vizinho</l>
+               <l>Faço-lhe hum Ptishu, naõ me ouve,</l>
+               <l>Vai andando &amp;c &amp;c &amp;c.</l>
+            </lg>
+            <note type="translation">
+               <lg>
+                  <l>Go down my street</l>
+                  <l>And size up the Neighbour</l>
+                  <l>I make you a Ptishu[?], you do not hear me,</l>
+                  <l>Go &amp;c &amp;c &amp;c.</l>
+               </lg>
+            </note>
+            <figure facs="#zone_Page_159_146528cc-d13b-4e39-a3a8-eb38eceaa525" type="score">
+               <note type="editorial_label">Music with lyrics</note>
+               <note type="lyrics">Amor anda com hum gatto. Nao-lhe escapa boraquinho.. Pilha
+                  acqui.. pilha acola… Vai andando seu caminho. Pilha acqui. pilha acola.. a … Vai
+                  andando seu caminho<note type="translation">Love walks like a cat. He doesn't miss
+                     a little hole.. He robs here.. He robs there... Go on your way. He robs here.
+                     He robs there... Go on your way</note></note>
+               <metamark/>
+               <label><rs type="place" ref="#ajuda">Ajuda</rs></label>
+            </figure>
+            <label>Modinha</label>
+            <lg>
+               <l>Mude mude de Sistema</l>
+               <l>Que esse proceder he feio</l>
+               <l>Nem use dessas palabras</l>
+               <l>Que tal, que sim, que foi, que veio</l>
+            </lg>
+            <label>2</label>
+            <lg>
+               <l>O fale claro o não fale</l>
+               <l>Tudo omais he puro entero</l>
+               <l>Que eu não quero mais ouvir</l>
+               <l>Que tal que sim q foi q veio</l>
+            </lg>
+            <label>3</label>
+            <lg>
+               <l>Os rapazes desta epoca</l>
+               <l>Quando tem algum receio</l>
+               <l>Esta Retorica sabem</l>
+               <l>Que tal q sim q foi q veio</l>
+            </lg>
+            <label>4</label>
+            <lg>
+               <l>Curese dessa mania</l>
+               <l>Fuja fuja desse enleio</l>
+               <l>Que em barulhos so se entende</l>
+               <l>Que tal qu <metamark>–</metamark></l>
+            </lg>
+            <note type="editorial">Sentimental love song [see note on pag 155]</note>
+            <note type="translation">
+               <lg>
+                  <l>Change, change the system</l>
+                  <l>That his way of doing things is ugly</l>
+                  <l>Don't even use these words</l>
+                  <l>What about, what if, what was, what came</l>
+               </lg>
+               <label>2</label>
+               <lg>
+                  <l>Either speak clearly or do not speak</l>
+                  <l>Everything else is purely and wholly</l>
+                  <l>What I don't want to hear anymore</l>
+                  <l>What about, what if, what was, what came</l>
+               </lg>
+               <label>3</label>
+               <lg>
+                  <l>Boys these days</l>
+                  <l>When they are afraid of something</l>
+                  <l>They know this rhetoric</l>
+                  <l>What about, what if, what was, what came</l>
+               </lg>
+               <label>4</label>
+               <lg>
+                  <l>Cure yourself of this madness</l>
+                  <l>Flee, flee from this entanglement</l>
+                  <l>That is only understood in noise</l>
+                  <l>What about, what <metamark>-</metamark></l>
+               </lg></note>
+            <cb/>
+            <note>p166, 3 Vol</note>
+            <label><rs type="person" ref="#el_rey_muhamad_granada">El Rey Muhamad de Granada</rs>
+               <date when="1375">1375</date></label>
+            <ab>En el tiempo de estas paces a <date
+               when="0777-01-20" calendar="Islamic">20 de Muharram del año setecientos 777</date> mandó <rs
+                  type="person" ref="#el_rey_muhamad_granada">el Rey Muhamad</rs> edificar la casa de Azake para
+               recogimiento de pobres y alivio de sus enfermidades: acabó a <date
+                  when="0798-10-20" calendar="Islamic">20 de Xewal año 798</date>,
+               edificio magnifico con todas las comodidades que sabe proporcionar la sabia
+               arquitectura y la riqueza de un generoso principe con fuentes y espacios estanques de
+               pulidos marmoles para recreo de los melancolicos. Tambien hermoseó con edificios la
+               ciudad de Guadix a donde pasaba una buena temporada cado año. Durante la larga paz
+               que tenia con todos los principes vecinos, fomentò las artes y manufacturas el
+               comercio y la agricultura, y venian a <rs type="place" ref="#granada">Granada</rs> traficantes de todas la partes de Syria
+               <rs type="place" ref="#egypt">Egipto</rs> <rs type="place" ref="#africa">Africa</rs> <rs type="place" ref="#italy">Italia</rs> y <rs type="place" ref="#almeria">Almeria</rs>: era la escala celebre de <rs type="place" ref="#spain">España</rs> pretty stopping in
+               <rs type="place" ref="#spain">Spain</rs> Andaban en <rs type="place" ref="#granada">Granada</rs> gentes de diversas naciones asi Muslimes como Xtianos y
+               Judios, y parecia la patria comun de todas las naciones. Poco despues vino a traer la
+               esposa el <rs type="person" ref="#prince_de_fez">Principe de Fez</rs>, y se casó en <rs type="place" ref="#granada">Granada</rs> con la hermosa <rs type="place" ref="#zahira">Zahira hija de Abu
+                  Abdala Juzef</rs> que fue muy celebrada <note type="editorial">Passage copied from <rs type="person" ref="#jose_antonio_conde">José
+                  Antonio Conde</rs>, Historia de la dominacion de los arabes en España, sacada de varios
+                  manuscritos y memorias arabigas, 3 vols (Madrid, 1820-1), vol. 3, pp. 165-6, with
+                  some additions and abridgements and error in final line.</note><note
+                  type="translation">
+                     <label><rs type="person" ref="#el_rey_muhamad_granada">King Muhamad of Granada</rs>
+                     <date when="1375">1375</date></label> At the time of this peace on <date
+                     when="0777-01-20" calendar="Islamic"> 20 Muharram in the year 777</date>, <rs
+                        type="person" ref="#el_rey_muhamad_granada">King Muhamad</rs> ordered the building of the house of
+                  Azake to gather the poor and alleviate their illnesses: he finished on <date
+                     when="0798-10-20" calendar="Islamic">20 Shawwal in the year 798</date>, a
+                  magnificent building with all the comforts that the wise architect knew how to
+                  provide and the riches of a generous prince, with fountains and spacious pools of
+                  polished marble for the relaxation of the melancholic. He also beautified the city
+                  of <rs type="place" ref="#guadix">Guadix</rs> with buildings, where he spent a good
+                  season every year. During the long peace that he had with all the neighbouring
+                  princes, he promoted the arts and manufacturing, trade and agriculture, and trades
+                  from all parts of <rs type="place" ref="#syria">Syria</rs>, <rs type="place"
+                     ref="#egypt">Egypt</rs>, <rs type="place" ref="#africa">Africa</rs>, <rs type="place"
+                     ref="#italy">Italy</rs> and <rs type="place" ref="#almeria">Almeria</rs> came to <rs
+                     type="place" ref="#granada">Granada</rs>: it was the famous stop-over in <rs
+                        type="place" ref="#spain">Spain</rs> Pretty stopping in <rs type="place" ref="#spain">Spain</rs> <note
+                     type="editorial">i.e. WG's translation of above</note> People from diverse
+                  nations, Muslims as well as Christians and Jews, walked in <rs type="place"
+                     ref="#granada">Granada</rs>, and it seemed the common homeland of all nations.
+                     Shortly afterwards, the <rs type="person" ref="#prince_de_fez">Prince of Fez</rs> came to
+                  bring his wife, and in <rs type="place" ref="#granada">Granada</rs> he married the
+                  beautiful <rs type="person" ref="#zahira">Zahira, daughter of Abu Abdala Juzef</rs>,
+                  who was very famous. <note type="editorial"/>WG's copying error: confusing <rs
+                     type="person" ref="#abu_abdala_juzef">Abu Abdala Juzef</rs>, mentioned in earlier omitted
+                     passage, with <rs type="person" ref="#abu_ayan">Abu Ayan</rs></note></ab>
+
+
+         </div>
+         <div type="reading_notes">
+            <ab> </ab>
+         </div>
+      </body>
+
+      <back>
+         <div type="cover">
+            <note> </note>
+         </div>
+         <div type="index"> </div>
+      </back>
+   </text>
+
+</TEI>

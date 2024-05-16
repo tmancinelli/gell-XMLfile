@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface xml:id="zone_Page_134">
+         <graphic url="https://iiif.bsr.ac.uk/iiif/2/GELL-VI%2Fwg_06_134.tif/full/full/0/default.jpg"/>
+         <zone points="136,250 136,1838 3530,1811 3519,250" xml:id="zone_Page_134_90399184-bbd0-4c92-b54c-2ca796f5ab9e"/>
+         <zone points="1952,1800 1963,4150 3514,4183 3503,1795" xml:id="zone_Page_134_e30e08e7-2d68-474d-b90a-13f63934b776"/>
+      </surface>
+   </facsimile>
+   
+   <text>
+      <front>
+         <div type="cover">
+            <note> </note>
+         </div>
+         <div type="inlet">
+            <head> </head>
+         </div>
+      </front>
+
+      <body>
+         <div type="spain">
+            <pb facs="#zone_Page_134" n="134"/>
+            <fw>71</fw>
+            <figure facs="#zone_Page_134_90399184-bbd0-4c92-b54c-2ca796f5ab9e">
+               <label>Portugal 1810</label>
+               <note type="editorial_label">Pen and ink drawing: view of square through
+                  railings</note>
+            </figure>
+
+            <ab>On Sunday <date when="1810-11-04">Nov 4 1810</date> go to the army about 24 miles from <rs type="place" ref="#lisbon">Lisbon</rs>, dine with <rs type="person" ref="﻿#marshal_beresford">Marshal
+                  Beresford<note type="editorial">William Beresford (1768-1854), then Sir William,
+                  later 1st Viscount Beresford, general in British army and marshal in Portuguese
+                  army.</note></rs> meet<rs type="person" ref="#ld_wellington"> L<hi rend="superscript">d</hi> Wellington</rs> &amp; <rs type="person" ref="#marques_romana﻿">Marques
+                  Romana<note type="editorial">Don Pedro Caro y Sureda, 3rd Marquis of la Romana
+                  (1761-1811), Spanish general.</note></rs>. The English Portuguese &amp; Spanish
+               scattered about in the villages &amp; woods on the western side of a high ridge. The
+               french under <rs type="person" ref="#andre_massena">Massena<note type="editorial">André Masséna (1758-1817)</note></rs> about 6
+               miles east of it. <choice><abbr>Junct</abbr><expan>Junction</expan></choice> on a high flat by a
+               wood. <rs type="place" ref="#sobral ">Sobral<note type="editorial">Sobral de Monte Agraço</note></rs> a village below our
+               lines, in the hands of the french.<rs type="person" ref="#ld_wellington"><choice>
+                  <abbr> L<hi rend="superscript">d</hi> W<hi rend="superscript">n</hi></abbr>
+                  <expan>Lord Wellington</expan>
+               </choice></rs>. at <rs type="place" ref="#pero_negro">Perro Negro<note type="editorial">Pero Negro</note></rs>. <rs type="person" ref="#marshal_beresford">Marshal Beresford</rs>
+               at <rs type="place" ref="#zapateria">Zapateria</rs>. El <rs type="person" ref="#marques_romana">Marques Romana</rs> at <rs type="place" ref="#enxara_dos_cavaleiros">Enxheira dos Cavalheiros<note type="editorial"
+                  >Enxara dos Cavaleiros. WG has originally written 'Enxhara', corrected to
+                  'Enxheira' without crossing out 'a'</note></rs>. <rs type="person" ref="#sir_brent_spencer">Sir Brent Spencer</rs> at a pretty Villa
+               called as Fontinhas the fountains, with orange trees &amp; a pretty garden. House at
+               <rs type="place" ref="#zapateria">Zapateria</rs> by no means bad. Astonishing quiet</ab>
+
+            <figure type="sketch" facs="#zone_Page_134_e30e08e7-2d68-474d-b90a-13f63934b776">
+               <note type="editorial_label">Pen and ink plan: interior and garden</note>
+            </figure>
+
+         </div>
+         <div type="portugal">
+            <ab> </ab>
+         </div>
+         <div type="reading_notes"> </div>
+      </body>
+
+      <back>
+         <div type="cover">
+            <note> </note>
+         </div>
+         <div type="index"> </div>
+      </back>
+   </text>
+
+</TEI>

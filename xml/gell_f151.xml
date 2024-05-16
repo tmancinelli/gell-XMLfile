@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <facsimile>
+      <surface xml:id="zone_Page_151">
+         <graphic url="https://iiif.bsr.ac.uk/iiif/2/GELL-VI%2Fwg_06_151.tif/full/full/0/default.jpg"/>
+         <zone points="10,707 5,2888 3394,2872 3394,511" xml:id="zone_Page_151_3a80df23-28a9-44d6-b843-549a15721ad6"/>
+         <zone points="1626,3965 1626,4275 2284,4270 2246,3965" xml:id="zone_Page_151_25480ab3-4fa3-4bb0-8db5-ecfbb68192fd"/>
+      </surface>
+   </facsimile>
+   
+   <text>
+      <front>
+         <div type="cover">  <note> </note>  </div>
+         <div type="inlet"> <head> </head> </div>
+      </front>
+      
+      <body>
+         <div type="spain"> <ab> </ab> </div>
+         <div type="portugal"> 
+            <pb facs="#zone_Page_151" n="151"/>
+            <fw>54</fw>
+            <figure facs="#zone_Page_151_3a80df23-28a9-44d6-b843-549a15721ad6">
+               <note type="editorial_label">Pen and ink drawing: view of <rs type="place"
+                  ref="#sintra">Sintra </rs></note>
+               <label>CINTRA<note type="editorial">Sintra</note></label>
+            </figure> 
+            
+            <ab>an imitation of Moorish work &amp; at a distance looks like parts of the
+            <rs type="place" ref="#alhambra">Alhambra</rs> but nearer wants the ornaments. A very
+            good inn or two in the village it being the resort of travellers in the summer, &amp;
+            11 degrees cooler than <rs type="place" ref="#lisbon"> Lisbon </rs> with water
+            perpetually running. The height above the sea is great &amp; it is exposed to the <choice>
+               <abbr>N</abbr>
+               <expan>north</expan>
+            </choice> wind. At the <rs type="person" ref="#md_marialvas">Marques de Marialvas</rs> house
+            here the convention <cb/> of <rs type="place" ref="#sintra">Cintra </rs> was signed. The
+            tops of the hill are often bare but some are covered with pines. The royal family
+            have another palace about &#189; mile nearer <rs type="place" ref="#lisbon">Lisbon</rs>.
+               In <rs type="place" ref="#moorish_palace">the Moorish palace</rs> the apartments have azulejos
+            like the <rs type="place" ref="#alhambra">Alhambra</rs> but ill done. The great hall of the swans has a very richly gilt
+            &amp; painted roof with swans in compartments but the walls are half way down
+            whitewash. Another room has<figure facs="#zone_Page_151_25480ab3-4fa3-4bb0-8db5-ecfbb68192fd" type="in_text">
+               <note type="editorial_label">drawing: magpie</note>
+            </figure>por bim <note type="translation">i.e. 'por bem': for the best (literally, for
+               good). The ceilings with magpies at the <rs type="place" ref="#palacio_sintra">Palacio
+                  Nacional de Sintra</rs> do actually read 'por bem'.</note>. Some of the tiles
+            are</ab>
+         
+         </div>
+         <div type="reading_notes"> <ab> </ab>
+         </div>
+      </body>
+      
+      <back>
+         <div type="cover"> <note> </note> </div>
+         <div type="index"> </div>
+      </back>
+   </text>
+   
+</TEI>
