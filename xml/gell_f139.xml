@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface xml:id="zone_Page_139">
+         <graphic url="https://iiif.bsr.ac.uk/iiif/2/GELL-VI%2Fwg_06_139.tif/full/full/0/default.jpg"/>
+         <zone points="1604,141 1697,1577 3329,1621 3334,81" xml:id="zone_Page_139_19cc53be-9ae7-424e-ac51-c7ea1c99f096"/>
+         <zone points="2018,1855 1980,2937 2796,2932 2834,1849" xml:id="zone_Page_139_3ffbf7fa-84ff-4542-a8bf-9dcb9ae1d596"/>
+      </surface>
+   </facsimile>
+   
+   <text>
+      <front>
+         <div type="cover">
+            <note> </note>
+         </div>
+         <div type="inlet">
+            <head> </head>
+         </div>
+      </front>
+
+      <body>
+         <div type="spain">
+            <pb facs="#zone_Page_139" n="139"/>
+            <fw>66</fw>
+            <ab>At the Theatre called from the street <rs type="place" ref="#rua_dos_condes">Rua d’os Condes<note type="editorial">Rua dos Condes</note></rs> are Portuguese plays, and very
+               excellent grotesque dancing. The men appear to leap as high as rope dancers, and
+               twist round in the air very quickly. The streets at <rs type="place" ref="#lisbon">Lisbon</rs> would be impassable in a
+               climate like that of <rs type="place" ref="#london">London</rs>, for every species of filth is thrown into them, but they
+               are generally to be crossed without getting wet and in the new part of the town built
+               by Pombal there are side pavements. Here are 2 very handsome squares with excellent
+               houses. The palaces of the Nobility are not half so handsome as those of <rs type="place" ref="#madrid">Madrid</rs>. The
+               town being on a slope &amp; sometimes on a very steep hill might easily be cleared of all
+               filth but at present this collects in certain places which do not appear ever to be
+               dry or clean. A few</ab>
+
+
+            <figure type="sketch" facs="#zone_Page_139_19cc53be-9ae7-424e-ac51-c7ea1c99f096">
+               <note type="editorial_label">Pencil, pen and ink drawing: street scene</note>
+               <label><rs type="place" ref="#chiado">Schiada<note type="editorial">Chiado neighbourhood of Lisbon</note></rs></label>
+               <label><rs type="place" ref="#chiado">Schiada</rs><!-- in pencil --></label>
+            </figure>
+
+            <figure type="sketch" facs="#zone_Page_139_3ffbf7fa-84ff-4542-a8bf-9dcb9ae1d596">
+               <note type="editorial_label">Pen and ink drawing: man</note>
+            </figure>
+
+         </div>
+         <div type="portugal">
+            <ab> </ab>
+         </div>
+         <div type="reading_notes"> </div>
+      </body>
+
+      <back>
+         <div type="cover">
+            <note> </note>
+         </div>
+         <div type="index"> </div>
+      </back>
+   </text>
+
+</TEI>

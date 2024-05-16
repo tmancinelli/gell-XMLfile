@@ -78,7 +78,7 @@
       <placeName xml:lang="spa" sameAs="https://www.wikidata.org/wiki/Q113122030">Conco qu? Donco</placeName>
       <settlement type="country">Spain</settlement>
    </place>
-   <place xml:id="villa">
+   <place xml:id="villafranca">
       <placeName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q1912688">Villa Franca</placeName>
       <settlement type="country">Spain</settlement>
    </place>
@@ -483,6 +483,10 @@
    <place xml:id="church_stfrancis">
       <placeName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q57525180">church of S<hi rend="superscript">t</hi> Francis</placeName>
       <placeName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q57525180"><choice><abbr>S<hi rend="superscript">n</hi> Francis</abbr><expan>i.e. the church of St Francis</expan></choice></placeName>
+      <settlement type="country">Spain</settlement>
+   </place>
+   <place xml:id="palace_rodrigo">
+      <placeName xml:lang="en" sameAs="xx">The palace of Rodrigo</placeName>
       <settlement type="country">Spain</settlement>
    </place>
    <place xml:id="castillo_cervantes">
@@ -1136,8 +1140,334 @@
    <place xml:id="ubeda">
       <placeName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q329984">Ubeda</placeName>
       <settlement type="country">Spain</settlement>
-   </place>
+va   </place>
+   <place xml:id="torre_de_siete_suelos">
+      <placeName xml:lang="en" sameAs="">torre de siete suelos</placeName>
+      <settlement type="country">Spain</settlement>
+   </place>  
+   <place xml:id="torre_of_comares">
+      <placeName xml:lang="en" sameAs="">Tower of Comares</placeName>
+      <settlement type="country">Spain</settlement>
+   </place>   
+   <place xml:id="piaza_de_los_aljibes">
+      <placeName xml:lang="en" sameAs="">The Court of the Cisterns</placeName>
+      <placeName xml:lang="spa" sameAs="">Plaza de los Aljibes</placeName>
+      <settlement type="country">Spain</settlement>
+   </place>   
+   <place xml:id="court_of_lions">
+      <placeName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q4270926">Court of the Lions</placeName>
+      <settlement type="country">Spain</settlement>
+   </place>   
+   <place xml:id="lindaraja">
+      <placeName xml:lang="en" sameAs="">Lindaraja</placeName>
+      <settlement type="country">Spain</settlement>
+   </place>  
+   <place xml:id="puerta_de_hierro">
+      <placeName xml:lang="en" sameAs="">Puerta de Hierro</placeName>
+      <settlement type="country">Spain</settlement>
+   </place>   
+   <place xml:id="tangiers">
+      <placeName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q126148">Tangiers</placeName>
+      <settlement type="country">Spain</settlement>
+   </place>    
+   <place xml:id="sala_de_las_2">
+      <placeName xml:lang="en" sameAs="">Sala de las 2 Hermanas</placeName>
+      <settlement type="country">Spain</settlement>
+   </place>   
+   <place xml:id="court_of_cisterns">
+      <placeName xml:lang="en" sameAs="">Court of Cisterns</placeName>
+      <placeName xml:lang="en" sameAs="">Alberca</placeName>
+      <settlement type="country">Spain</settlement>
+   </place> 
+   <place xml:id="cacilhas">
+      <placeName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q1025051">Cacilhas</placeName>
+      <settlement type="country">Portugal</settlement>
+   </place>   
+   <place xml:id="belem">
+      <placeName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q18500330">Belem</placeName>
+      <settlement type="country">Spain</settlement>
+   </place>   
+   <place xml:id="pero_negro">
+      <placeName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q10348730">Pero Negro</placeName>
+      <settlement type="country">Spain</settlement>
+   </place>   
+   <place xml:id="zapateria">
+      <placeName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q12403007">Zapateria</placeName>
+      <settlement type="country">Spain</settlement>
+   </place>    
+   <place xml:id="enxara_dos_cavaleiros">
+      <placeName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q10273217">Enxara dos Cavaleiros</placeName>
+      <settlement type="country">Portugal</settlement>
+   </place>   
+   <place xml:id="serra_de_montejunto">
+      <placeName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q7455225">Serra de Montejunto</placeName>
+      <settlement type="country">Spain</settlement>
+   </place>   
+   <place xml:id="town_of_loures">
+      <placeName xml:lang="en" sameAs="">Town of Loures</placeName>
+      <settlement type="country">Spain</settlement>
+   </place>   
+   <place xml:id="sao_carlos">
+      <placeName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q194338">São Carlos</placeName>
+      <settlement type="country">Brazil</settlement>
+   </place>   
+   <place xml:id="rua_dos_condes">
+      <placeName xml:lang="en" sameAs="">Rua dos Condes</placeName>
+      <settlement type="country">Spain</settlement>
+   </place>   
+   <place xml:id="chiado">
+      <placeName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q601430">Chiado neighbourhood of Lisbon</placeName>
+      <settlement type="country">Portugal</settlement>
+   </place>   
+   <place xml:id="palacio_quintela">
+      <placeName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q43209845">Palacio Quintela</placeName>
+      <settlement type="country">Portugal</settlement>
+   </place>   
+   <place xml:id="alhandra">
+      <placeName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q31878751">Alhandra</placeName>
+      <settlement type="country">Portugal</settlement>
+   </place>   
+   <place xml:id="sintra">
+      <placeName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q190187">Sintra</placeName>
+      <settlement type="country">Portugal</settlement>
+   </place>    
+   <place xml:id="benfica">
+      <placeName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q534230">Benfica</placeName>
+      <settlement type="country">Portugal</settlement>
+   </place>    
+   <place xml:id="queluz">
+      <placeName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q14808749">Queluz</placeName>
+      <settlement type="country">Portuga;</settlement>
+   </place>    
+   <place xml:id="palacio_sintra">
+      <placeName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q532399">Palácio Nacional de Sintra</placeName>
+      <settlement type="country">Portugal</settlement>
+   </place>   
+   <place xml:id="pverde">
+      <placeName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q2068574">Peña verde</placeName>
+      <placeName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q2068574">Penha Verde</placeName>
+      <settlement type="country">Portugal</settlement>
+   </place>    
+   <place xml:id="marialva_palace">
+      <placeName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q6761778">Marialva Palace</placeName>
+      <settlement type="country">Portugal</settlement>
+   </place>    
+   <place xml:id="t_belem">
+      <placeName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q215003">Tower of Belém</placeName>
+      <settlement type="country">Portugal</settlement>
+   </place>    
+   <place xml:id="povoa">
+      <placeName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q1020842">Póvoa de Santa Iria</placeName>
+      <settlement type="country">Portugal</settlement>
+   </place>    
+   <place xml:id="alverca">
+      <placeName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q431690">Alverca do Ribatejo</placeName>
+      <settlement type="country">Portugal</settlement>
+   </place>  
+   <place xml:id="castanheira">
+      <placeName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q1048511">Castanheira do Ribatejo</placeName>
+      <settlement type="country">Portugal</settlement>
+   </place>   
+   <place xml:id="alenquer">
+      <placeName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q988830">Alenquer</placeName>
+      <settlement type="country">Portugal</settlement>
+   </place>   
    
+   <place xml:id="zamora">
+      <placeName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q15696">Zamōra</placeName>
+      <settlement type="country">Spain</settlement>
+   </place>    
+   <place xml:id="azambuja">
+      <placeName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q634164">Azambuja</placeName>
+      <settlement type="country">Portugal</settlement>
+   </place>   
+   <place xml:id="jerico">
+      <placeName xml:lang="en" sameAs="">Jerico</placeName>
+      <settlement type="country">Portugal</settlement>
+   </place>   
+   <place xml:id="salvaterra_de_magos">
+      <placeName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q1027809">Salvaterra de Magos</placeName>
+      <settlement type="country">Portugal</settlement>
+   </place>   
+   <place xml:id="valada">
+      <placeName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q2257407">Valada</placeName>
+      <settlement type="country">Portugal</settlement>
+   </place>   
+   <place xml:id="cartaxo">
+      <placeName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q841304">Cartaxo</placeName>
+      <settlement type="country">Portugal</settlement>
+   </place>   
+   <place xml:id="queluz">
+      <placeName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q14808749">Queluz</placeName>
+      <settlement type="country">Portugal</settlement>
+   </place>   
+   <place xml:id="santarem">
+      <placeName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q273877">Santarem</placeName>
+      <settlement type="country">Portugal</settlement>
+   </place>    
+   <place xml:id="derbyshire">
+      <placeName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q23098">Derbyshire</placeName>
+      <settlement type="country">England</settlement>
+   </place>  
+   
+   <place xml:id="moorish_palace">
+      <placeName xml:lang="en" sameAs="">the Moorish palace</placeName>
+      <settlement type="country">England</settlement>
+   </place>   
+   <place xml:id="Colares">
+      <placeName xml:lang="en" sameAs="">Collares</placeName>
+      <settlement type="country">England</settlement>
+   </place>    
+   <place xml:id="abrantes">
+      <placeName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q331191">Abrantes</placeName>
+      <settlement type="country">Portugal</settlement>
+   </place>   
+   <place xml:id="busaco">
+      <placeName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q2119573">Busaco</placeName>
+      <settlement type="country">Portugal</settlement>
+   </place>   
+   <place xml:id="bayonne">
+      <placeName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q134674">Bayonne</placeName>
+      <settlement type="country">France</settlement>
+   </place>    
+   <place xml:id="zezere">
+      <placeName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q15671">Zizare</placeName>
+      <settlement type="country">Portugal</settlement>
+   </place>   
+   <place xml:id="bandajos">
+      <placeName xml:lang="en" sameAs="">Bandajos</placeName>
+      <settlement type="country">England</settlement>
+   </place>   
+   <place xml:id="costancia">
+      <placeName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q15671">Punhete</placeName>
+      <settlement type="country">Portugal</settlement>
+   </place>   
+   <place xml:id="alcantara">
+      <placeName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q1017927">Alcântara</placeName>
+      <settlement type="country">Portugal</settlement>
+   </place>    
+   <place xml:id="tabada">
+      <placeName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q10378127">Tapada das Necessidades</placeName>
+      <settlement type="country">Portugal</settlement>
+   </place>   
+   <place xml:id="ajuda">
+      <placeName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q413311">Ajuda</placeName>
+      <settlement type="country">Portugal</settlement>
+   </place>   
+   <place xml:id="alentejo">
+      <placeName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q20963720">Alentejo</placeName>
+      <settlement type="country">Portugal</settlement>
+   </place>    
+   <place xml:id="setubal">
+      <placeName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q274109">Setubal</placeName>
+      <settlement type="country">Portugal</settlement>
+   </place>   
+   <place xml:id="santissima">
+      <placeName xml:lang="en" sameAs="">Rua Sssma</placeName>
+      <settlement type="country">England</settlement>
+   </place>   
+   <place xml:id="biscay">
+      <placeName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q93366">Biscay</placeName>
+      <settlement type="country">Spain</settlement>
+   </place>  
+   <place xml:id="zapateiro">
+      <placeName xml:lang="en" sameAs="">the Poictiers to Zapateiro</placeName>
+      <placeName xml:lang="en" sameAs="">Zapateiro</placeName>
+      <settlement type="country">England</settlement>
+   </place>  
+   <place xml:id="cathedral_granada">
+      <placeName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q429192">Cathedral of Granada</placeName>
+      <settlement type="country">Spain</settlement>
+   </place>   
+   <place xml:id="italy">
+      <placeName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q38">Italy</placeName>
+      <placeName xml:lang="ita" sameAs="https://www.wikidata.org/wiki/Q38">Italia</placeName>
+      <settlement type="country">Italy</settlement>
+   </place>    
+   <place xml:id="almeria">
+      <placeName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q10400">Almeria</placeName>
+      <settlement type="country">Spain</settlement>
+   </place>    
+   <place xml:id="zahira">
+      <placeName xml:lang="en" sameAs="">Zahira hija de Abu Abdala Juzef</placeName>
+      <settlement type="country">England</settlement>
+   </place>    
+   <place xml:id="guadix">
+      <placeName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q244324">Guadix</placeName>
+      <settlement type="country">Spain</settlement>
+   </place>   
+   <place xml:id="syria">
+      <placeName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q858">Syria</placeName>
+      <settlement type="country">Syria</settlement>
+   </place>    
+   <place xml:id="rua_da_conceptiao">
+      <placeName xml:lang="en" sameAs="">Rua da conceptiao</placeName>
+      <settlement type="country">Portugal</settlement>
+   </place>    
+   <place xml:id="rua_nova_de_almada">
+      <placeName xml:lang="en" sameAs="">Rua nova de almada</placeName>
+      <settlement type="country">Portugal</settlement>
+   </place>    
+   <place xml:id="palace_duke_alcala">
+      <placeName xml:lang="en" sameAs="">Palace of Dukes of Alcala</placeName>
+      <settlement type="country">Spain</settlement>
+   </place>   
+   <place xml:id="medina_celi">
+      <placeName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q484628">Medina Celi</placeName>
+      <settlement type="country">Spain</settlement>
+   </place>   
+   <place xml:id="triana">
+      <placeName xml:lang="en" sameAs="">Triana the Suburb</placeName>
+      <settlement type="country">Spain</settlement>
+   </place>    
+   <place xml:id="cazalla_sierra">
+      <placeName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q1445283">Cazalla de la Sierra</placeName>
+      <settlement type="country">Spain</settlement>
+   </place>    
+   <place xml:id="torre_de_comares">
+      <placeName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q72632505">Torre de Comares</placeName>
+      <settlement type="country">Spain</settlement>
+   </place>    
+   <place xml:id="bosque_del_alhambra">
+      <placeName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q5732469">Bosque del Alhambra</placeName>
+      <settlement type="country">Spain</settlement>
+   </place>  
+   <place xml:id="tanjer">
+      <placeName xml:lang="en" sameAs="">Tanjer</placeName>
+      <settlement type="country">Spain</settlement>
+   </place>   
+   <place xml:id="ataulpho">
+      <placeName xml:lang="en" sameAs="">Ataulpho</placeName>
+      <settlement type="country">Spain</settlement>
+   </place>  
+   <place xml:id="torre_de_piedra">
+      <placeName xml:lang="en" sameAs="">Torre de la piedra</placeName>
+      <settlement type="country">Spain</settlement>
+   </place>   
+   <place xml:id="stone_tower">
+      <placeName xml:lang="en" sameAs="">Stone Tower</placeName>
+      <settlement type="country">Spain</settlement>
+   </place>    
+   <place xml:id="cabo_di_gata">
+      <placeName xml:lang="en" sameAs="">Cabo di Gata</placeName>
+      <settlement type="country">Spain</settlement>
+   </place>   
+   <place xml:id="damascus">
+      <placeName xml:lang="en" sameAs="">Damascus</placeName>
+      <settlement type="country">Spain</settlement>
+   </place>    
+   <place xml:id="irak">
+      <placeName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q796?wprov=srpw1_1">Irak</placeName>
+      <settlement type="country">Iraq</settlement>
+   </place>     
+   <place xml:id="brandao">
+      <placeName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q7232147">Porto Brandão</placeName>
+      <settlement type="country">Portugal</settlement>
+   </place>  
+   <place xml:id="torre_velha">
+      <placeName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q10284061">Torre Velha</placeName>
+      <settlement type="country">Portugal</settlement>
+   </place> 
    <place xml:id="valladolid">
       <placeName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q8356">Valladolid</placeName>
       <settlement type="country">Spain</settlement>

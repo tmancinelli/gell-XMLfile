@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <facsimile>
+      <surface xml:id="zone_Page_152">
+         <graphic url="https://iiif.bsr.ac.uk/iiif/2/GELL-VI%2Fwg_06_152.tif/full/full/0/default.jpg"/>
+         <zone points="136,212 125,2420 3514,2431 3514,184" xml:id="zone_Page_152_d3ef2305-d2fe-4db8-8c3d-bb39f56e1129"/>
+      </surface>
+   </facsimile>
+   
+   <text>
+      <front>
+         <div type="cover">  <note> </note>  </div>
+         <div type="inlet"> <head> </head> </div>
+      </front>
+      
+      <body>
+         <div type="spain"> <ab> </ab> </div>
+         <div type="portugal"> 
+            <pb facs="#zone_Page_152" n="152"/>
+            <fw>53</fw>
+            <figure facs="#zone_Page_152_d3ef2305-d2fe-4db8-8c3d-bb39f56e1129">
+               <note type="editorial_label">Pencil, pen and ink drawing: view of <rs type="place"
+                  ref="#sintra">Sintra </rs></note>
+               <label>Mrs Daseys</label>
+               <label>FROM THE PALACE AT <note type="editorial">Sintra</note>
+                  <!-- part of the label is on folio 155 -->
+               </label>
+            </figure><ab> in raised work of Leaves &amp;c.. The place abounds in all sorts of
+            fountains &amp; tricks cisterns &amp;c &amp;c. The <sic>cieling</sic> of the great
+               square tower has the arms of many of the Portuguese families, that of the <rs type="person" ref="#tavora">conspirator
+               Tavira</rs> <note type="editorial">i.e. <rs type="person" ref="#tavora">Távora family</rs>, publicly executed in <date when="1759">1759</date> for
+                  involvement in assassination attempt on <rs type="person" ref="#king_jose">King José I</rs> the previous year.</note>
+            painted out. The room inside is 14 yards square. The ceilings roofs are all fine or
+            pretty the walls all whitewashed or meanly painted like scenes. view over the sea <rs
+               type="place" ref="#colares">Collares<note type="editorial">Colares</note> Mafra</rs>
+            &amp;c&amp;c but the distant country is ugly.</ab> <cb/>
+            <label>LADRAŌ</label>
+            <lg>
+               <l>O Ladraō Ladraō </l>
+               <l>Di mi roubador </l>
+               <l>De ente la gente </l>
+               <l>Falla meu amor</l>
+            </lg><lg>
+               <l>Ingrato Ladrao</l>
+               <l>Robador de vida</l>
+               <l>Que me ten roubada</l>
+               <l>Toda mea querida.</l>
+            </lg><note type="translation"><label>THIEF</label><lg>
+               <l>The thief, thief </l>
+               <l>Of my robber</l>
+               <l>From among us</l>
+               <l>Speak, my love</l>
+            </lg><lg>
+               <l>Ungrateful thief</l>
+               <l>Robber of life</l>
+               <l>Who has robbed me</l>
+               <l>Of all I hold dear.</l>
+            </lg></note><note>Joachims song.</note>
+         
+         </div>
+         <div type="reading_notes"> <ab> </ab>
+         </div>
+      </body>
+      
+      <back>
+         <div type="cover"> <note> </note> </div>
+         <div type="index"> </div>
+      </back>
+   </text>
+   
+</TEI>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <facsimile>
+      <surface xml:id="zone_Page_150">
+         <graphic url="https://iiif.bsr.ac.uk/iiif/2/GELL-VI%2Fwg_06_150.tif/full/full/0/default.jpg"/>
+         <zone points="146,87 146,2709 3514,2638 3519,103" xml:id="zone_Page_150_5341e9a5-a29d-4792-b595-f103c83f9ccd"/>
+      </surface>
+   </facsimile>
+   
+   <text>
+      <front>
+         <div type="cover">  <note> </note>  </div>
+         <div type="inlet"> <head> </head> </div>
+      </front>
+      
+      <body>
+         <div type="spain"> <ab> </ab> </div>
+         <div type="portugal"> 
+            <pb facs="#zone_Page_150" n="150"/>
+            <fw>55</fw>
+            <figure facs="#zone_Page_150_5341e9a5-a29d-4792-b595-f103c83f9ccd">
+               <note type="editorial_label">Pencil, pen and ink drawing: landscape</note>
+               <label>Cork Convent</label>
+            </figure>
+            <ab><date when="1810-12-04">Dec<hi rend="superscript">r</hi> 4<hi rend="superscript">th</hi> 1810</date> a very fine warm day visit <rs
+               type="place" ref="#sintra">Cintra<note type="editorial">Sintra</note></rs>. In one
+               hour reach <rs type="place" ref="#benfica">Bemfica<note type="editorial"
+                  >Benfica</note></rs>, a village in a dip with some houses gardens &amp; a church.
+               See that of the <!-- Who is that? -> -->
+               <rs type="person" ref="#md_abrantes">Marquez de Abrantes</rs>. It is now much neglected all
+               the gardens of <!-- encoding of portugal -> -->
+               <rs type="place" ref="#portugal">Portugal</rs> are in the same style &amp; very pretty with
+               oranges of all sorts &amp;c&amp;c&amp;c &amp; fountains. An artificial rock &amp;
+               cascade. The small orange or myrtle here. In another hour reach <rs type="place"
+                  ref="#queluz">Quáluz<note type="editorial">Queluz</note></rs> on <note
+                     type="editorial">'R' smudged out</note>Left. a large German looking palace in a
+               hole <cb/> with a village round it &amp; ploughed open fields. In 3 hours more
+               through a very ugly country like the worst parts of <rs type="place" ref="#derbyshire"
+                  >Derbyshire</rs> with stone walls, &amp; very bad ruined paved road reach <rs
+                     type="place" ref="#sintra">Cintra</rs>. The first sight of it is beautiful. Descend
+               into the village. The houses, trees, waterfalls from the hill &amp;c&amp;c the most
+               picturesque possible. The palace on a very pretty hill insulated. The number of roofs
+               make its appearance very singular. Two spires are kitchen chimneys. The whole is </ab>
+         
+         </div>
+         <div type="reading_notes"> <ab> </ab>
+         </div>
+      </body>
+      
+      <back>
+         <div type="cover"> <note> </note> </div>
+         <div type="index"> </div>
+      </back>
+   </text>
+   
+</TEI>

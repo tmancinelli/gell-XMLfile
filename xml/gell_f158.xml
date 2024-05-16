@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface xml:id="zone_Page_158">
+         <graphic url="https://iiif.bsr.ac.uk/iiif/2/GELL-VI%2Fwg_06_158.tif/full/full/0/default.jpg"/>
+         <zone points="119,647 125,2176 3476,2132 3525,614" xml:id="zone_Page_158_ec678aea-f614-4da8-a5b1-6697a3ce4154"/>
+      </surface>
+   </facsimile>
+   
+   <text>
+      <front>
+         <div type="cover">
+            <note> </note>
+         </div>
+         <div type="inlet">
+            <head> </head>
+         </div>
+      </front>
+
+      <body>
+         <div type="spain">
+            <ab> </ab>
+         </div>
+         <div type="portugal">
+            <pb facs="#zone_Page_158" n="158"/>
+            <fw>47</fw>
+            
+            <opener><salute>Valeroso Hijodalgo</salute></opener>
+            <p>Muy bien se muestra en tu virtud la nobleza de tu sangre. Leida la carta hize tocar
+               trompetas y añafiles en regozijo de tu convite y se convino entre todas las donzellas
+               de mi linage, que gozosas iremos con tigo al sarao dispuesto por el noble Caballero
+               que da las Fiestas y Zambras</p> 
+            <p>Ala te embio bonanza y queda con el.</p>
+            <closer> No mas <dateline> De la Alhambra</dateline>
+               <signed><rs type="person" ref="#daraxa">Daraxa</rs> Pariente del <rs type="person"
+                  ref="#el_ray_chico">Rey Chico de Granada</rs></signed></closer>
+            <note type="translation"> Brave Gentleman <note type="editorial">hidalgo</note> The
+               nobility of your blood shows very well in your virtue. Having read the letter, I made
+               the trumpets and añafiles <note type="editorial">long, straight Moorish
+                  trumpets</note> sound in rejoicing at your invitation and it was agreed among all
+               the maidens <note type="editorial">donzelas</note> of my lineage <note
+                  type="editorial">linaje</note>, that we will joyfully go with you to the sarao
+               <note type="editorial">musical soirée</note> arranged by the noble Knight who
+               gives the Feasts and Zambras <note type="editorial">dances associated with Spanish
+                  gypsies and supposedly of Moorish origin</note>. Allah send you <note
+                     type="editorial">te envíe</note> prosperity and be with him. No more From the
+               Alhambra <rs type="person" ref="#daraxa">Daraxa</rs> Kinswoman of the <rs type="person"
+                  ref="#el_ray_chico">Rey Chico <note type="editorial">the Boy King, Muhammad XII</note> of
+                  Granada</rs>
+            </note>
+            <note type="editorial"> This letter may be of WG's composition: the first line ('Muy
+               bien ... tu sangre') opens a different letter in Ginés Pérez de Hita, Historia de los
+               Vandos de los Cegries y Abencerrages... (Barcelona, 1757), p. 44 (and presumably in
+               many other editions), while <rs type="person" ref="#daraxa">Daraxa</rs> herself and many of the things mentioned here
+               (trumpets, añafiles, zambra, sarao etc) appear elsewhere in the book. The Mirador de
+               <rs type="person" ref="#daraxa">Daraxa</rs> is a part of the <rs type="place" ref="#alhambra">Alhambra</rs> complex.</note>
+               
+
+            <figure facs="#zone_Page_158_ec678aea-f614-4da8-a5b1-6697a3ce4154">
+               <note type="editorial_label">Pen and ink drawing: puppet show</note>
+               <label><date when="1810">1810</date> Puppet Shew. <rs type="place" ref="#lisbon">Lisbon</rs>. <date when="1810-12-30">Sunday Decr 30 1810</date></label>
+               <label>DUET Lisbon Jan 27 1811</label>
+            </figure>
+            
+            
+            
+         </div>
+         <div type="reading_notes">
+            <ab> </ab>
+         </div>
+      </body>
+
+      <back>
+         <div type="cover">
+            <note> </note>
+         </div>
+         <div type="index"> </div>
+      </back>
+   </text>
+
+</TEI>

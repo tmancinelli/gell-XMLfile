@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface xml:id="zone_Page_160">
+         <graphic url="https://iiif.bsr.ac.uk/iiif/2/GELL-VI%2Fwg_06_160.tif/full/full/0/default.jpg"/>
+         <zone points="1055,1180 1044,1680 2458,1653 2409,1131" xml:id="zone_Page_160_7a41d1bd-3b86-4875-be1f-92000471e4a6"/>
+      </surface>
+   </facsimile>
+   
+   <text>
+      <front>
+         <div type="cover">
+            <note> </note>
+         </div>
+         <div type="inlet">
+            <head> </head>
+         </div>
+      </front>
+
+      <body>
+         <div type="spain">
+            <ab> </ab>
+         </div>
+         <div type="portugal">
+            <pb facs="#zone_Page_160" n="160"/>
+            <fw>45</fw>
+            <ab>At <rs type="place" ref="#alcazar">Seville the Alcazar</rs><note type="translation"
+                  >Fortress</note> yet a Royal palace. Some is Moorish some of <rs type="person"
+                  ref="#carlos_V">Carlos V</rs>. the Lonja or exchange part of it <metamark>–</metamark>
+               <rs type="place" ref="#palace_duke_alcala">Palace of Dukes of Alcala</rs> fine moorish. <rs
+                  type="place" ref="#medina_celi">Medina Celi</rs> all the same. <rs type="place" ref="#triana"
+                  >Triana the Suburb <choice>
+                     <abbr>S</abbr>
+                     <expan>South</expan>
+                  </choice></rs>, of river. Walls almost entire. Many hermandades &amp;
+                  confradias<note type="translation">fraternities and guilds</note> – Tricles with
+               the river. Cortijos <note type="translation">Farmhouses</note> scattered, <rs
+                  type="place" ref="#cazalla_sierra"><choice>
+                     <abbr>Cazalla</abbr>
+                     <ex>de la Sierra </ex>
+                  </choice></rs>, <rs type="person" ref="#costantina_aracena">Constantina Aracena</rs> places for
+               Summer retreat in <rs type="place" ref="#sierra_morena">Sierra Morena</rs>. </ab>
+            <figure facs="#zone_Page_160_7a41d1bd-3b86-4875-be1f-92000471e4a6">
+               <note type="editorial_label"> Pen and ink drawing: shield </note>
+               <label>Aben – Alhamar</label>
+               <label>Sometimes red blue &amp; green shields</label>
+            </figure>
+            <ab>
+               <note type="editorial"> Copied, translated or paraphrased from Conde, Historia de la
+                  dominacion, vol. 3, pp. 38-9.</note>
+               <rs type="person" ref="#aben_alhamar_granada">Aben Alhamar King of Granada</rs>. Tomò por armas escudo
+               campo de plata banda diagonal azul, y en ella escrito in letras de oro "le galib ile
+               Ala" "no es vencedor sino Dios." porque sus pueblos le solian saludar con el titulo
+               de Galib y el replicaba "Wa le galib ile Ala." y no hay mas vencedor que Ala." las
+               estremos de la banda del escudo en bocas de dragones. His descendant bore same arms
+               only varying the colors, to red blue &amp; green shields &amp; changed color of band
+               also. He began the <rs type="place" ref="#alhambra">Alhambra</rs>, directed the work y
+               andaba entre los alarifes y arquitectos muchas veces. The Court: <rs type="person"
+                  ref="#abu_meruan_abdelmelic">Abu Meruan Abdelmelic Juzef ben Senanid</rs> ilustre natural de Jaen
+               primer Wazir. 2d. Wazir. <rs type="person" ref="#aly_ben_idrahim">Aly ben Ibrahim Asaibani
+                  Azadi</rs>. de Granada, muy noble y rico. Capitan della Guardia <rs type="person"
+                     ref="#muhamad_hijo">Muhamad hijo del Wazir Aly </rs> – he was also Alcayde. Wali o principal
+               Caudillo de sus tropas <rs type="person" ref="#abu_abdala">Abu Abdala Muhamad Arramim</rs>.
+               Almirante o caudillo del mar el padre de este. <rs type="person" ref="#abu_muza">Aben
+                  Muza</rs> Alcayde de su caballeria Secretario de su Mezuar o consejo <rs
+                     type="person" ref="#yahye_ben_alcatib">Yahye ben Alcatib de Granada</rs>. Alcatibes o secretarios
+               para ordenes y cartas. <rs type="person" ref="#abul_hasan">Abul Hasan Aly Arrayni</rs> 1 2
+               <rs type="person" ref="#abu_becar">Abu Becar ben Chatab</rs>. 3 <rs type="person"
+                  ref="#abu_omar">Abu Omar Juzef ben Said Alyahsi di Loxa</rs>. 7 Alcadies o jueces de
+               corte. <rs type="person" ref="#abu_amer">Abu Amer Yahye Alaschari</rs>. 2 <rs type="person"
+                  ref="#abu_alansari">Abu Abdala Muhamad Alansari</rs> celebre jurisconsulto who wrote many
+               works. 3 Cadi de lo criminal, <rs type="person" ref="#abu_tamini">Abu Abdala el Tamini de los
+                  Asalamies de Loxa</rs>. 4 <rs type="person" ref="#abu_ayadh">Aben Ayadh ben Muza el
+                     Yahsabi</rs>. 5 <rs type="person" ref="#aben_adha">Aben Adha</rs>. 6 <rs type="person"
+                        ref="#abul_casem">Abul Casem Abdala ben Abi Amer</rs>. 7 <rs type="person" ref="#aben_fat">Aben
+                  Fat baron de Sevilla</rs>
+               <metamark>–</metamark>
+               <note type="translation"><rs type="person" ref="#aben_alhamar_granada">Aben Alhamar King of
+                     Granada</rs>. He took for his arms a shield with a silver field and blue
+                  diagonal band, on which was written in gold letters "le galib ile Ala" "there is
+                  no victor but God." because his peoples <note type="editorial">or towns</note>
+                  used to greet him with the title of Galib and he would reply "Wa le galib ile Ala"
+                  and there is no other victor but Allah. The ends of the band on the shield in
+                  dragons' mouths. His descendant bore same arms only varying the colors, to red
+                     <note type="editorial">,</note> blue &amp; green shields &amp; changed color of
+                  band also. He began the <rs type="place" ref="#alhambra">Alhambra</rs>, directed the
+                  work and walked among the builders and architects many times. The Court: <rs
+                     type="person" ref="#abu_meruan_abdelmelic">Abu Meruan Abdelmelic Juzef ben Senanid</rs>
+                  illustrious native of Jaen, first Wazir <note type="translation">minister</note>.
+                  2nd Wazir. <rs type="person" ref="#aly_ben_idrahim">Aly ben Ibrahim Asaibani Azadi</rs> of
+                  Granada, very noble and rich. Captain of the <note type="editorial">Conde has 'de
+                     su': of his</note> Guard <rs type="person" ref="#muhamad_son_aly">Muhamad son of Aly the
+                     Wazir</rs> - he was also Governor. Wali or main Commander of his troops <rs
+                        type="person" ref="#abu_abdala">Abu Abdala Muhamad Arramim</rs>. Admiral or sea
+                  commander, the father of the latter. <rs type="person" ref="#aben_muza">Aben Muza</rs>,
+                  Leader <note type="editorial">or Governor</note> of his cavalry. Secretary of his
+                  Mezuar or council, <rs type="person" ref="#yahye_ben_alcatib">Yahye ben Alcatib of Granada</rs>.
+                  Alcatibes or secretaries for decrees and letters. <rs type="person" ref="#abul_hasan">Abul
+                     Hasan Aly Arrayni</rs> 1, 2 <rs type="person" ref="#abu_becar">Abu Becar ben
+                        Chatab</rs>, 3 <rs type="person" ref="#abu_omar">Abu Omar Juzef ben Said Alyahsi of
+                        <note type="editorial">Conde has 'de'</note> Loja</rs>. 7 qadis or court
+                  judges. <rs type="person" ref="#abu_amer">Abu Amer Yahye Alaschari</rs>. 2 <rs
+                     type="person" ref="#abu_alansari">Abu Abdala Muhamad Alansari</rs>, famous jurisconsult
+                  who wrote many works. 3 judge <note type="editorial">qadi</note> of criminal law,
+                     <rs type="person" ref="#abu_tamini">Abu Abdala el Tamini of the Asalamies of Loja</rs>.
+                  4 <rs type="person" ref="#abu_ayadh">Aben Ayadh ben Muza el Yahsabi</rs>. 5 <rs
+                     type="person" ref="#aben_adha">Aben Adha</rs>. 6 <rs type="person" ref="#abul_Casem">Abul
+                     Casem Abdala ben Abi Amer</rs>. 7 <rs type="person" ref="#aben_fat">Aben Fat baron of
+                     Sevilla</rs>
+                  <note type="editorial">erroneous translation of Conde's text: 'Aben Fat el
+                     conocido por Alasbaron de Sevilla': <rs type="person" ref="#aben_fat">Aben Fat, known
+                        as Alasbaron of Seville</rs></note></note>
+            </ab>
+         </div>
+         <div type="reading_notes">
+            <ab> </ab>
+         </div>
+      </body>
+
+      <back>
+         <div type="cover">
+            <note> </note>
+         </div>
+         <div type="index"> </div>
+      </back>
+   </text>
+
+</TEI>

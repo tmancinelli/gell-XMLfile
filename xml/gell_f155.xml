@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface xml:id="zone_Page_155">
+         <graphic url="https://iiif.bsr.ac.uk/iiif/2/GELL-VI%2Fwg_06_155.tif/full/full/0/default.jpg"/>
+         <zone points="0,59 5,2045 3372,2094 3367,76" xml:id="zone_Page_155_8b23e523-50c1-4102-bb58-74ceac9bd2ac"/>
+         <zone points="0,3884 0,4270 3383,4281 3378,3922" xml:id="zone_Page_155_970dd90a-d37d-4aa6-b19e-48f400572b62"/>
+      </surface>
+   </facsimile>
+   
+   <text>
+      <front>
+         <div type="cover">
+            <note> </note>
+         </div>
+         <div type="inlet">
+            <head> </head>
+         </div>
+      </front>
+
+      <body>
+         <div type="spain">
+            <ab> </ab>
+         </div>
+         <div type="portugal">
+            <pb facs="#zone_Page_155" n="155"/>
+            <fw>50</fw>
+            <figure facs="#zone_Page_155_8b23e523-50c1-4102-bb58-74ceac9bd2ac" type="color">
+               <note type="editorial_label">Pen and ink drawing with watercolour: interior of church
+                  with worshippers</note>
+               <label><rs type="place" ref="#belem">PATRIARCHAL : CHURCH : &amp; : CHAPEL : ROYAL : AJUDA : BELEM.</rs></label>
+            </figure>
+            
+            <lg type="song"><label > Song </label>
+               <lg>
+                  <l>Hum corpo sem a metade</l>
+                  <l>Que possa vivir n&#xE3;o sei</l>
+                  <l>Se tu es minha metade</l>
+                  <l>Como sem ti vivirei</l>
+               </lg></lg>
+            <note type="translation"><lg>
+               <l>A body without a half</l>
+               <l>How I can live I don't know</l>
+               <l>If you are my [other] half</l>
+               <l>How will I live without you?</l>
+            </lg></note>
+            <cb/>
+            <label type="song"> Song Modinha <note type="editorial">Modinha: a kind of sentimental
+               love song popuar in <date notBefore="1701" notAfter="1900">18th- and 19th-century</date> Portugal. 'Modinha', the diminutive of
+               'fashion', apparently refers to fashionable aristocratic salons.</note></label>
+            <lg>
+               <l>Amar para ser amada</l>
+               <l>He doce consolac&#xE3;o</l>
+               <l>Eu gozo toda esta dita</l>
+               <l>Que mais quer o meu corac&#xE3;o.</l>
+               <l>Que quer oh que quer</l>
+               <l>Gemir suspirar</l>
+               <l>Tremer palpitar</l>
+               <l>Que quer o meu Corac&#xE3;o.</l>
+            </lg>
+            <label>2</label>
+            <lg>
+               <l>Imperios ricos thesauros</l>
+               <l>N&#xE3;o me moven ambici&#xE3;o</l>
+               <l>Sei que amo e sou amado</l>
+               <l>Que mais quer o meu corac&#xE3;o</l>
+            </lg>
+            <label>3</label>
+            <lg>
+               <l>Se a minha alma d’outra alma</l>
+               <l>Goza a fina adorac&#xE3;o</l>
+               <l>Se a vida toda he praze</l>
+               <l>Que mais quer o meu corac&#xE3;o.</l>
+            </lg>
+            <note type="translation">
+               <lg>
+                  <l>Loving in order to be loved</l>
+                  <l>Is sweet consolation.</l>
+                  <l>I enjoy the whole saying.</l>
+                  <l>What more does my heart want?</l>
+                  <l>What does it want? Oh, what does it want?</l>
+                  <l>To moan, to sigh,</l>
+                  <l>To tremble, to throb.</l>
+                  <l>What does my heart want?</l>
+               </lg>
+               <label>2</label>
+               <lg>
+                  <l>Empires, riches, treasures</l>
+                  <l>Don't move my ambition</l>
+                  <l>I know I love and am loved</l>
+                  <l>What more does my heart want?</l>
+               </lg><label>3</label>
+               <lg>
+                  <l>If my soul enjoys fine adoration</l>
+                  <l>From another soul</l>
+                  <l>If all life is pleasurable</l>
+                  <l>What more does my heart want?</l>
+               </lg></note>
+            <figure facs="#zone_Page_155_970dd90a-d37d-4aa6-b19e-48f400572b62" type="score"><note type="editorial_label">Line of music with lyrics
+               <lg type="lyrics"><l> amar para ser amada he doce consolacao Eu gozo toda esta dita que mais quer o meu
+                  coracao Que quer o que quer gemer <choice><abbr>suspi</abbr><expan>suspirar</expan></choice> </l></lg></note>
+            </figure>
+            
+            
+
+         </div>
+         <div type="reading_notes">
+            <ab> </ab>
+         </div>
+      </body>
+
+      <back>
+         <div type="cover">
+            <note> </note>
+         </div>
+         <div type="index"> </div>
+      </back>
+   </text>
+
+</TEI>

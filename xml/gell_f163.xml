@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface xml:id="zone_Page_163">
+         <graphic url="https://iiif.bsr.ac.uk/iiif/2/GELL-VI%2Fwg_06_163.tif/full/full/0/default.jpg"/>
+      </surface>
+   </facsimile>
+   
+   <text>
+      <front>
+         <div type="cover">
+            <note> </note>
+         </div>
+         <div type="inlet">
+            <head> </head>
+         </div>
+      </front>
+
+      <body>
+         <div type="spain">
+            <ab> </ab>
+         </div>
+         <div type="portugal">
+            <pb facs="#zone_Page_163" n="163"/>
+            <fw>42</fw>
+            <!-- start of extract 1 -->
+            <ab><rs type="person" ref="#abulcacim_tarif">Abulcacim Tarif</rs> says</ab>
+            <!-- this portion of text is divided into 3 columns -->
+            <ab>In <date when="0091" calendar="islamic">year 91</date> of Hegira <rs type="person" ref="#don_rodrigo">Don Rodrigo</rs>
+               .A.D712. <rs type="person" ref="#jacob_almancor">Jacob Almançor or Miramamolin Abilgualit Jacob Almancor</rs> at same time
+               <rs type="person" ref="#anagilda">Anagilda</rs> = Kg Acosta Retired to <rs type="place" ref="#cordoba">Cordova</rs> To <rs type="place" ref="#tanjer">Tanjer</rs> &amp; thence to <rs type="place" ref="#africa">Africa</rs> &amp; died
+               with her son <rs type="person" ref="#don_sancho"><choice>
+                  <abbr>D.</abbr>
+                  <expan>Don</expan>
+               </choice> Sancho</rs></ab>
+
+            <cb/>
+
+            <ab>K <rs type="person" ref="#don_rodrigo">Rodrigo</rs> sent to <rs type="place" ref="#ataulpho">Ataulpho</rs> to imprison <rs type="person" ref="#don_sancho">Sancho</rs> in the <rs type="place" ref="#torre_de_piedra">Torre de la piedra</rs><note
+               type="translation"><rs type="place" ref="#stone_tower">Stone Tower</rs> </note> in the <rs type="place" ref="#sierra_morena">Sierra Morena</rs> near <rs type="place" ref="#cordova">Cordova</rs>. <rs type="person" ref="#anagilda">Anagilda</rs>
+               delivers him &amp; puts off <rs type="person" ref="#ataulphos">Ataulphos</rs> nose &amp; ears. <rs type="person" ref="#don_rodrigo">Rodrigo</rs> destroyd all the
+               Castles of the nobility in <rs type="place" ref="#andalusia">Andalusia</rs> &amp;<rs type="place" ref="#castille">Castille</rs>.</ab>
+
+            <cb/>
+
+            <ab>= <rs type="person" ref="#zahra_abnalyaca">Zahra Abnalyaca</rs> <choice>
+                  <abbr>d</abbr>
+                  <expan>daughter</expan>
+            </choice> of a <rs type="person" ref="#morrish_africa">Moorish African King</rs> who was during a trip to sea driven by the wind
+               to <rs type="place" ref="#cabo_di_gata" >Cabo di Gata</rs> &amp; made prisoner. Became a <choice>
+                  <abbr>Xtian<expan>Christian</expan></abbr>
+               </choice> &amp; Her father died of it. She was taken by <rs type="person" ref="#abulcacim_tarif">Tarif</rs> &amp; well treated.
+               <rs type="person" ref="#mahomet_gilhair">Mahomet Gilhair</rs> had the care of her &amp; made love to her he turned Xtian for her
+               &amp; was by the Moors beheaded.</ab>
+            <!-- this portion of text is divided into 2 columns -->
+            <ab><rs type="person" ref="#don_julian">Don Julian Ld of Algeciras</rs> was sent to the <rs type="person" ref="#viceroy_muca">Viceroy Muça el Zahani</rs></ab>
+            <ab>Almancors title <rs type="person" ref="#rey_arabias">Rey de las Arabias</rs><note type="translation"><rs type="person" ref="#rey_arabias">King of the
+                  Arabias</rs></note>.</ab>
+            <ab><rs type="person" ref="#don_julian">Don Julians</rs> daughter ravished by <rs type="person" ref="#don_rodrigo">Dn Rodrigo</rs> at <rs>Toledo</rs>. <rs type="person" ref="#florinda">Florinda</rs> her name in Arabic
+               La <rs type="person" ref="#caba">Caba</rs> a bad name. <rs type="person" ref="#don_julian">Don Julian</rs> the ambassador at <rs>Mucas</rs> court returns to <rs>Toledo</rs> takes
+               away his Daughter &amp; with all his moveable &amp; tenants flies to <rs>Musas</rs> court who
+               recd him well &amp; sends him to <rs>Arabia</rs> to the <rs type="person" ref="#miramamolin_almancor">Miramamolin Almancor</rs> who agrees to
+               attack Spain &amp; Julian goes with Tarif Abenziet of Damascus with 6000 infantry
+               &amp; a few cavalry. Lands at Jabalfeth Sierra della conquista <!-- The following note refers only to the last 4 words --><note type="editorial"
+                  >Luna, Historia Verdadera, p. 21 has 'Jabalfath', saying that it has been
+                  corrupted into Gibraltar, meaning 'Sierra de la conquista' (Mountains of the
+                  conquest)</note>
+               <!-- The following note refers to the whole extract 1 -->
+               <note type="editorial"> Summary of [Miguel de Luna], Historia Verdadera del Rey Don
+                  Rodrigo ... Compuesta por el Sabio Alcayde Abulcacim Tarif, de Nacion Arabe, 7th edn
+                  (Madrid, 1676), pp. 3-21 (or another of several editions since 1592).[True History of
+                  King Don Rodrigo... Composed by the Wise Governor Abulcacim Tarif, of the Arab
+                  Nation]. As WG notes on pag 168 (his page 37), the work had long been proved a
+                  forgery by the morisco author Miguel de Luna.</note>
+            </ab>
+            <!-- end of extract 1 -->
+
+  
+
+            <space/>
+            <ab>In <date when="1390">1390</date> the Cortes fixed for Henry II fixed 4000 men in garrison &amp; 1,500
+               horsemen</ab>
+            <ab> In <date when="1406">1406</date> Henry 2d of Castille wishing to attack the King of Granada wanted 4 000
+               horse 10 000 lances &amp; 50 000 infantry, with a fleet of 30 galleys &amp;50 ships.
+               6 great cannons. 12 iron rams. 6000 waggons.</ab>
+
+            <cb/>
+            <!-- start of extract 2 -->
+            <ab>Don Rodrigo enters the enchanted Tower one mile east of Toledo in a rocky place a
+               fine old edifice, but degraded by time. under this was a cave, de bobeda <note
+                  type="editorial">Luna has 'una cueba con una boca de bobeda': a cave with a
+                  vaulted mouth [bóveda].</note>. very narrow with a door cut in rock &amp; a strong
+               iron gate over this in Greek letters The king who opens this cave &amp; discovers its
+               marvels shall see good &amp; bad things”. King Rodrigo entered with some friends who
+               fled but the Kg got many lights. In a quadra muy hermosa <note type="translation">
+                  very beautiful hall [quadra = cuadra]</note> like a sumptuous edifice he saw a
+               statue of bronze of great size on a pillar 3 cubits high. This figure with a great
+               club beat the ground &amp; caused a horrid sound. The King told this vision he did
+               not come to destroy anything but only to see its marvels on which the statue ceased
+               the blows. The King &amp; his companions then examined the quadra <note
+                  type="translation">hall</note> &amp; found at the left of the statue written. Oh
+               unhappy King to your own loss have you entered here”. on the Right “By foreign
+               nations shalt thou be dispossessed &amp; thy country chastised.” On the shoulder of
+               the statue “I envoke the Arabs” on the breast. “I do my office” – At the entry of the
+               hall was a bola redonda <note type="translation">round ball</note> whence a noise
+               like a water fall. On the Kgs departure the statue recommenced the noise &amp; the
+               King orderd a heap of earth to be thrown up against the door.<note type="editorial">
+                  Closer abridged translation/paraphrasing of [Luna], Historia Verdadera, pp. 23-5.
+               </note></ab>
+            <!-- end of extract 2 -->
+            <!-- start of the extract 3 -->
+            <ab>Ataulpho went against Tarif with 30 000 men &amp; 500 horse</ab>
+            <ab>Ataulpho conquered. Then Rodrigo sent an Archbishop Don Orpas with 30 000 men &amp;
+               3000 horses.</ab>
+            <ab>Tarif by degrees got 60 000 men &amp; 10000 cavalry.</ab>
+            <ab>Orpas was beat. Rodrigo then came with 23 000 cavalry &amp; 13000 infantry. Ramiro
+               the ensign fell dead.</ab>
+            <ab>Rodrigo in 8 battles lost all &amp; fled &amp; Tarif took Cordova.</ab>
+            <ab>Some moors found a Shepherd in D Rodrigos clothes &amp; took him he had changed with
+               the King.</ab>
+            <ab>Tarif passed thence to Granada without opposition</ab>
+            <ab>They found a small city on a height very pleasant &amp; delightful vale below it
+               thro which ran a very pretty river. The surrounding mountains full of trees &amp;
+               frescuras <note type="translation">Luna has 'arboledas y frescuras': groves and freshness.</note>. a Paradise on earth. The city soon given up to him. on conditions of
+               peaceable nature. Betiz Abenhabuz of Arabia felix made governor. Tarif then went
+               against the Mts de Sol y Ayre <note type="translation">Luna has 'las montañas de Sol, y Ayre': the mountains of Sun and Air, which he places near Granada.
+               </note> where he had great <sic>dificulties</sic>. Captain Abrahem
+               Abuxarra at length subdued them &amp; their Bishop Otogerio. Then Carmona &amp;
+               Merida.</ab> <note type="editorial">Summary (and partial translation on Granada) of [Luna], Historia Verdadera, pp. 31-55.</note>
+            <!-- end of the extract 3 -->
+         </div>
+         <div type="reading_notes">
+            <ab> </ab>
+         </div>
+      </body>
+
+      <back>
+         <div type="cover">
+            <note> </note>
+         </div>
+         <div type="index"> </div>
+      </back>
+   </text>
+
+</TEI>

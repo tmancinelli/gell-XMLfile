@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface xml:id="zone_Page_141">
+         <graphic url="https://iiif.bsr.ac.uk/iiif/2/GELL-VI%2Fwg_06_141.tif/full/full/0/default.jpg"/>
+         <zone points="38,97 0,1267 3378,1229 3367,108" xml:id="zone_Page_141_d1770691-e5a7-4fca-81cc-345cd7ab465c"/>
+         <zone points="1713,1278 1713,1474 3367,1490 3361,1234" xml:id="zone_Page_141_44707590-2999-4481-a53e-4649e4d408b5"/>
+         <zone points="1735,1501 1724,1615 2496,1615 2491,1468" xml:id="zone_Page_141_7cbdd3ba-fbf8-4f04-8295-83e1109771be"/>
+         <zone points="1740,1599 1746,1691 3166,1702 3166,1588" xml:id="zone_Page_141_6afe0750-5630-4c7a-96f0-51f61d3e4aaf"/>
+         <zone points="1740,1675 1740,1974 3030,1958 3068,1675" xml:id="zone_Page_141_4925ae34-323b-49fc-b3a4-4ecdd1a78e16"/>
+         <zone points="1757,1996 1746,2148 3176,2132 3155,1980" xml:id="zone_Page_141_1de1244c-ae88-4df6-bd89-feb55f1313ef"/>
+         <zone points="1729,2127 1740,2790 3394,2774 3394,2148" xml:id="zone_Page_141_ef9b88e8-a5f6-4a16-8dc2-badc5fcb8f1c"/>
+         <zone points="1806,2812 1806,3345 3378,3345 3378,2823" xml:id="zone_Page_141_7831776f-16a7-47d0-9255-ba94f7886f1e"/>
+         <zone points="1822,3361 1795,3519 3171,3525 3176,3361" xml:id="zone_Page_141_767bc833-930d-486e-8fe0-e03d8d324a48"/>
+         <zone points="1827,3497 1833,3633 3084,3644 3084,3503" xml:id="zone_Page_141_026d7994-1ffd-41ef-b562-646a43e01cbd"/>
+         <zone points="1887,3623 1914,3949 3389,3954 3394,3639" xml:id="zone_Page_141_8f05677b-2674-4cae-bbc4-b083853ceb51"/>
+         <zone points="1936,3922 1925,4058 3372,4090 3367,3938" xml:id="zone_Page_141_c0578fba-82db-4a96-a773-e48f4981140f"/>
+         <zone points="1196,4041 1185,4199 3345,4216 3323,4080" xml:id="zone_Page_141_0576a503-c571-443f-99d5-20c215b87743"/>
+      </surface>
+   </facsimile>
+   <text>
+      <front>
+         <div type="cover">
+            <note> </note>
+         </div>
+         <div type="inlet">
+            <head> </head>
+         </div>
+      </front>
+
+      <body>
+         <div type="spain">
+            <pb facs="#zone_Page_141" n="141"/>
+            <fw>64</fw>
+            <figure facs="#zone_Page_141_d1770691-e5a7-4fca-81cc-345cd7ab465c">
+               <note type="editorial_label">Pen and ink drawing: view of <rs type="place" ref="#sintra"
+                     >Sintra</rs></note>
+               <label><rs type="place" ref="#sintra">CINTRA<note type="editorial"
+                  >Sintra</note></rs></label>
+            </figure>
+            <ab>common Spanish books are translated. Two streets the Rua d’ouro &amp; Rua de
+                  Prata<note type="tranlation">(literally, Gold Street and Silver Street)</note> in
+               which gold silver &amp; precious stones are sold. a severe law against selling
+               imitations for real jewels. Over shops Bom Vim for good wine. Gabinete com decencia
+               para bebidas frias<note type="translation">Respectable parlour for cold
+               drinks</note>. A play called the death of Captain Cook in the isles of the
+               Hottentots. Other inscriptions in shops. Cha Caffe e Sagu<note type="translation"
+                  >Tea, Coffee and Tapioca Pudding</note>. Bixas Boas good leeches. Bebidas doces.
+               Bobedas doces &amp; agoas ardentes. Armacem de Musica<note type="translation">Sweet
+                  drinks. Sweet drinks &amp; spirits. Music store. [Bobedas = 'nonsense', but
+                  presumably an error for Bebidas]</note>. Oath “cem pipos de diabos”. “100 pipes of
+               devils”. At a Cake Shop Aqui se vende Pão de luxo<note type="translation">Luxury
+                  bread sold here</note>. Removed from <metamark>–</metamark> Antonio Jose de Coelho
+               filho de Elvas or de Coimbra<note type="translation">Literally, son of Elvas or
+                  Coimbra</note> removed from Elvas or Coimbra. </ab>
+            <note type="marginal" facs="#zone_Page_141_44707590-2999-4481-a53e-4649e4d408b5">Inscriptions on a church wall. Viva Maria Viva Jesus.
+               Jesus amoroso. Jesus, meu, espozo.<note type="translation">Long live Mary[.] Long
+                  live Jesus. Loving Jesus. Jesus, my husband.</note></note>
+            <note type="marginal" facs="#zone_Page_141_7cbdd3ba-fbf8-4f04-8295-83e1109771be">Caffe y Xicolate<!-- in pencil --></note>
+            <note type="marginal" facs="#zone_Page_141_6afe0750-5630-4c7a-96f0-51f61d3e4aaf">Street called Rua dos Santos velhos<note
+                  type="translation">(literally, Old Saints Street)</note></note>
+            <metamark/>
+            <note type="marginal" facs="#zone_Page_141_4925ae34-323b-49fc-b3a4-4ecdd1a78e16">In a Spanish poem <l>“Ni que el Doctor don Apolo”</l>
+               <l>“Alla en Delfos respondiesse.”</l>
+               <note type="translation"><l>Nor that the doctor, Don Apolo,</l>
+                  <l>Answered there in Delphi.</l></note>
+               <note type="editorial">These lines appear in <bibl>Romancero general, en que se
+                     contienen todos los Romances que andan impressos, ed. Pedro Flores (Madrid:
+                     Juan de la Cuesta, 1614), p. 54.</bibl> WG seems to draw on this collection
+                  elsewhere, but an alternative source is possible. There are many editions of
+                  Flores's collection.</note></note>
+            <metamark/>
+            <note type="marginal" facs="#zone_Page_141_1de1244c-ae88-4df6-bd89-feb55f1313ef">Boms vinhos de todas as calidades.<note
+                  type="translation">Good wines of all qualities.</note></note>
+            <note type="marginal" facs="#zone_Page_141_ef9b88e8-a5f6-4a16-8dc2-badc5fcb8f1c">In enquiring at 20 houses to find a person the man
+               knocked at the doors crying o Sir Josè The answer was regularly quim e? <metamark>–</metamark> answer Seu
+               criado <metamark>–</metamark> que procura?<note type="translation">The answer was regularly 'Who is it?'
+                  [quem é?] <metamark>-</metamark> answer, 'Your servant' <metamark>-</metamark> 'What are you looking for?'</note></note>
+            <note type="marginal" facs="#zone_Page_141_7831776f-16a7-47d0-9255-ba94f7886f1e">One of the women <metamark>–</metamark> a grotesque dancer was called
+               Evangelista &amp; was often cheered when she performed well <metamark>–</metamark> brava
+               Evangelista.<note type="translation">well done, Evangelista</note></note>
+            <note type="marginal" facs="#zone_Page_141_767bc833-930d-486e-8fe0-e03d8d324a48">Rapaz a boy &amp; Rapasida a girl</note>
+            <note type="marginal" facs="#zone_Page_141_026d7994-1ffd-41ef-b562-646a43e01cbd">Bom Fim<note type="translation">Good End</note> the name of a Ship.</note>
+            <note type="marginal" facs="#zone_Page_141_8f05677b-2674-4cae-bbc4-b083853ceb51">The English sailors called the stick with which the
+               mules are beaten “Arriba” Mule” Arrivo Sticks.</note>
+            <note type="marginal" facs="#zone_Page_141_c0578fba-82db-4a96-a773-e48f4981140f">Gallician carts “commissarys fiddles”</note>
+            <note type="marginal" facs="#zone_Page_141_0576a503-c571-443f-99d5-20c215b87743">Coimbra the English soldiers called
+               Queenborough.</note>
+         </div>
+         <div type="portugal">
+            <ab> </ab>
+         </div>
+         <div type="reading_notes">
+            <ab> </ab>
+         </div>
+      </body>
+
+      <back>
+         <div type="cover">
+            <note> </note>
+         </div>
+         <div type="index"> </div>
+      </back>
+   </text>
+
+</TEI>

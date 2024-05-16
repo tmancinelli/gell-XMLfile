@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <facsimile>
+      <surface xml:id="zone_Page_161">
+         <graphic url="https://iiif.bsr.ac.uk/iiif/2/GELL-VI%2Fwg_06_161.tif/full/full/0/default.jpg"/>
+      </surface>
+   </facsimile>
+   <text>
+      <front>
+         <div type="cover">  <note> </note>  </div>
+         <div type="inlet"> <head> </head> </div>
+      </front>
+      
+      <body>
+         <div type="spain"> <ab> </ab> </div>
+         <div type="portugal"> 
+            <pb facs="#zone_Page_161" n="160"/>
+            <fw>44</fw>
+            <figure facs="#zone_Page_161">
+               <note type="editorial_label">Pen and ink drawing: street scene</note>
+               <note><rs type="place" ref="#rua_da_conceptiao">Rua da conceptiao</rs></note>
+               <note><rs type="place" ref="#rua_nova_de_almada">Rua nova de almada</rs></note>
+               <label><rs type="place" ref="#rua_nova_de_almada">Rua Nova d Almada</rs> <note type="editorial"><rs type="place" ref="#rua_nova_de_almada">Rua Nova de Almada</rs> [Lisbon Street]</note></label>
+               <label><rs type="place" ref="#rua_da_conceptiao">Rua da Conceptião</rs> <note type="editorial"><rs type="place" ref="#rua_da_conceptiao">Conceição</rs> [Lisbon street]</note></label>
+            </figure>
+         
+         </div>
+         <div type="reading_notes"> <ab> </ab> </div>
+      </body>
+      
+      <back>
+         <div type="cover"> <note> </note> </div>
+         <div type="index"> </div>
+      </back>
+   </text>
+   
+</TEI>

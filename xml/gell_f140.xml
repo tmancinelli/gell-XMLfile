@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface xml:id="zone_Page_140">
+         <graphic url="https://iiif.bsr.ac.uk/iiif/2/GELL-VI%2Fwg_06_140.tif/full/full/0/default.jpg"/>
+         <zone points="141,70 152,1452 3514,1441 3459,103" xml:id="zone_Page_140_0f37afcf-c38a-4b92-911b-a902835350f6"/>
+         <zone points="2007,2535 2034,3944 3519,3965 3503,2507" xml:id="zone_Page_140_71825035-be41-4290-abec-a2cc3ef5cca4"/>
+      </surface>
+   </facsimile>
+   
+   <text>
+      <front>
+         <div type="cover">
+            <note> </note>
+         </div>
+         <div type="inlet">
+            <head> </head>
+         </div>
+      </front>
+
+      <body>
+         <div type="spain">
+            <pb facs="#zone_Page_140" n="140"/>
+            <fw>65</fw>
+            <figure facs="#zone_Page_140_0f37afcf-c38a-4b92-911b-a902835350f6">
+               <note type="editorial_label">Pen and ink drawing: landscape with villa</note>
+               <label>Villa near <rs type="place" ref="#alhandra">Alhandra</rs> on the <rs type="place" ref="#tagus">Tagus</rs></label>
+               <label>Battered by <rs type="person" ref="#mff_berkeley﻿">Lieut Frederic Berkeley<note type="editorial">Probably Maurice Frederick FitzHardinge Berkeley (1788-1867), future 1st Baron FitzHardinge, then a lieutenant commanding gunboats on the Tagus.</note></rs></label>
+               <label>Belongs to <rs type="person" ref="#senor_lopez">Señor Lopez</rs></label>
+            </figure>
+
+            <ab>boats ply on the river to take passengers from <rs type="place" ref="#belem">Belem</rs> <rs type="place" ref="#buenos_ayres">Buenos ayres</rs> &amp;: to the
+               other end of the city. The opposite coast by <rs type="place" ref="#almada">Almada</rs> is very pretty. <rs type="place" ref="buenos_ayres">Buenos ayres</rs> a
+               continuation of <rs type="place" ref="#lisbon">Lisbon</rs> to the west. Here the houses have gardens. The <rs type="place" ref="#palacio_quintela">Palacio
+               Quintella<note type="editorial">i.e. Palácio Quintela, built in the late 18th century. Had been the headquarters of the French governor of Portugal in 1807.</note></rs> is one of the best in the city. It is a large house with a pretty little
+               garden but excepting fine Tapestry in one room, there seems very little difference
+               between the decorations of the interior and those of the common houses of the town.
+               The Arsenal very spacious, 2,000 men employed in it. The look very magnificent &amp;
+               the academy on a most extensive scale as far as the room goes. The booksellers shops
+               not good. There are very few books in the Language except on religious subjects.
+               Several of the most</ab>
+
+
+            <figure type="sketch" facs="#zone_Page_140_71825035-be41-4290-abec-a2cc3ef5cca4">
+               <note type="editorial_label">Pen and ink drawing: carriage</note>
+               <label>fixed stairs</label>
+               <label>King of Spains journey from <rs type="place" ref="#madrid">Madrid</rs> to <rs type="place" ref="#lisbon">Lisbon</rs>. Several yet remain <metamark>–</metamark></label>
+               <label>Bod</label>
+            </figure>
+
+         </div>
+         <div type="portugal">
+            <ab> </ab>
+         </div>
+         <div type="reading_notes"> </div>
+      </body>
+
+      <back>
+         <div type="cover">
+            <note> </note>
+         </div>
+         <div type="index"> </div>
+      </back>
+   </text>
+
+</TEI>

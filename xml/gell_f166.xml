@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <facsimile>
+      <surface xml:id="zone_Page_166">
+         <graphic url="https://iiif.bsr.ac.uk/iiif/2/GELL-VI%2Fwg_06_166.tif/full/full/0/default.jpg"/>
+      </surface>
+   </facsimile>
+   
+   <text>
+      <front>
+         <div type="cover">  <note> </note>  </div>
+         <div type="inlet"> <head> </head> </div>
+      </front>
+      
+      <body>
+         <div type="spain"> <ab> </ab> </div>
+         <div type="portugal"> <ab> </ab> </div>
+         <div type="reading_notes"> 
+         
+            <pb facs="#zone_Page_166" n="166"/>
+            <fw>39</fw>
+            <metamark><note type="editorial">O with X through (Indicating continuation from previous page)</note></metamark>
+            <cb/>
+            <note type="editorial"><bibl>Summary of FQR review of Silvestre de Sacy, pp. 18-19, 22-5.</bibl></note>
+            <ab>Ergo the Troubadours came first from Catalonia, Pittoni in history of Aix says “Ce fut sous eux que nous Proven&#231;aux trouverent l’art de rimer”<note type="translation">It was under them that we Provençals found the art of rhyme.</note>. Hence Toulouse under the Berengers metropolis of Troubadours.</ab>
+            <ab>Abderramen King of Cordova invaded Toulouse in 8<hi rend="superscript">th</hi> century. Then Charlemagne invaded Spain.</ab>
+            <ab>Alphonso 6<hi rend="superscript">th</hi> of Castile conqueror of Toledo being dethroned by his brother Sancho fled to the Saracen King of Toledo. &amp; remained 3 years, recovering his throne he took Toledo from the son of his benefactor, a siege of 5 years, The Moors by stipulation remained at Toledo under the <choice><abbr>Xtians</abbr><expan>Christians</expan></choice> with laws property &amp; grand mosque. &amp; Arabic for more than 100 years the tongue. Some years later Alfonso defeated at Medina by Kings of Cordova &amp; Seville, he made peace marrying Zaïde daughter of the Moorish <note type="editorial">Here, WG has used 'Moorish' rather than the FQR's 'Saracen'.</note> King of Seville.</ab>
+            <ab>Toledo taken in 1085, here Moors French &amp; Spanish lived together. W<hi rend="superscript">m</hi> of Poictiers <note type="editorial">William of Poitiers (c. 1020-90)</note> first of Troubadours known went with Alphonso against Toledo.</ab>
+            <ab> Homer unknown from 4<hi rend="superscript">th</hi> to 14<hi rend="superscript">th</hi> century. Among <choice><abbr>Chas. V<hi rend="superscript">ths</hi></abbr><expan>Charles V's</expan></choice> library at the Louvre 900 Vols only Ovid Lucan &amp; Bo&#235;thius.</ab>
+            <ab>Sonnet in form &amp; alternate rhymes all Moorish</ab>
+            <ab>Times of Chivalry says Sismondy never existed but in Romance.</ab>
+            <ab>Berengere wife of Alfonso VIII of Castile came on walls of Toledo against the besieging moors in 1139 called them cowards &amp; dared them to leave a woman quiet &amp; go &amp; meet the King at Oreja. The Moors did so, lauding her beauty &amp; virtue</ab>
+            <ab>In 10 century the monk Gerbert alias pope Sylvester II studied at Moorish college at Seville. so after did Adelard, Gerard of Cremona &amp;c.</ab>
+            <ab>Frederic Barbarossa had Arabic books turned into Latin.</ab>
+            <cb/>
+            
+            <ab>Petrarch says Arabs invented rhyme.</ab>
+            <ab>15<hi rend="superscript">th</hi> century only Pico of Mirandola studied Arabic.</ab>
+            <ab>Clenard a few years after went to Spain to learn arabic &amp; only found one person Ferdinand Nuntius who knew it a little.</ab>
+            <ab>Pope Gregory destroyed Livy. Cardinal Ximenes burned 5,000 fine volumes. One Zegri a converted Moor burn’t 150,000 volumes though converted by force.</ab>
+            <ab>When Philip 2<hi rend="superscript">d</hi> founded Library of Escurial he could only get 300 Arabic <choice><abbr>M.S.S.</abbr><expan>Manuscripts</expan></choice></ab>
+            <ab>The great stock afterwards added were taken by de Lara off Salee in 1611 in 2 moorish ships bearing the library of the <choice><abbr>Emp</abbr><expan>Emperor</expan></choice>: of Morocco. There were 3,000 arab M.S.S. some said 7,800 as a Moor said. Half this burnt at a fire of Escurial in 1671. The moorish literature not quite forgotten in Spain but the first work printed in Arab letters there <bibl>1760-70 Bibliotheca Arabico-Hispana, by Casiri <note type="editorial">Miguel Casiri, Bibliotheca arabico-hispana escurialensis..., 2 vols (Madrid: Antonio Perez de Soto, 1760-1770).</note></bibl>.</ab>
+            <ab>Koran printed at Venice 1530 probably burnt by Clement VII because no confutation</ab>
+            <ab> About 50 years later Arab press in Maronite convent at Rome.</ab>
+            <ab> English monk Adelard turned Euclid from Arabic to Latin.</ab>
+            <ab>Rob<hi rend="superscript">t</hi>. of Rutland <note type="editorial">Robert of Ketton (fl. 1141-57), an Englishman based in Spain.</note> translated Koran in 12<hi rend="superscript">th</hi> century.</ab>
+            <ab>De Sacy Crestomathie Arabe good new work. 3 Vols 8<hi rend="superscript">oo</hi>. c <note type="editorial"><bibl>Silvestre de Sacy, Chrestomathie Arabe..., 2nd edn, 3 vols (Paris, 1826-7).</bibl></note></ab>
+            <ab>SIERRA NEVADA</ab>
+            <ab><sic>P<hi>a</hi> de Veleta <note type="editorial">surely 'Picacho de Veleta': Peak of Veleta.</note></sic> 3794	Muleyhassan <note type="editorial">Mulhacén</note> </ab>
+            <ab>3886 yards
+               3/11,658 <!-- mathematical forumla --></ab>
+        <ab>Sierra Tejada 2 557</ab>
+            
+         
+         </div>
+      </body>
+      
+      <back>
+         <div type="cover"> <note> </note> </div>
+         <div type="index"> </div>
+      </back>
+   </text>
+   
+</TEI>

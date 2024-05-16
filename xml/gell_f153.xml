@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface xml:id="zone_Page_153">
+         <graphic url="https://iiif.bsr.ac.uk/iiif/2/GELL-VI%2Fwg_06_153.tif/full/full/0/default.jpg"/>
+         <zone points="5,103 5,2415 3400,2377 3405,92" xml:id="zone_Page_153_cce2105a-51b7-4ecb-9a07-48fec28b40b8"/>
+         <zone points="1729,3971 1708,4216 2137,4226 2127,3982" xml:id="zone_Page_153_572298c0-5201-45fd-a331-b689b520e4a0"/>
+      </surface>
+   </facsimile>
+   <text>
+      <front>
+         <div type="cover">
+            <note> </note>
+         </div>
+         <div type="inlet">
+            <head> </head>
+         </div>
+      </front>
+
+      <body>
+         <div type="spain">
+            <ab> </ab>
+         </div>
+         <div type="portugal">
+            <pb facs="#zone_Page_153" n="153"/>
+            <fw>52</fw>
+            <figure facs="#zone_Page_153_cce2105a-51b7-4ecb-9a07-48fec28b40b8">
+               <note type="editorial_label">Pencil, pen and ink drawing: view of <rs type="place"
+                  ref="#sintra">Sintra </rs></note>
+               <label>RA 1810.<!-- part of the label is on folio 154 -->
+               </label>
+               <label><rs type="place" ref="#pverde"> Peña verde</rs><note type="editorial"><rs
+                  type="place" ref="#pverde"> Penha Verde</rs> (house and gardens in
+                  Sintra)</note></label>
+               <label>Saldanha</label>
+               <label>House of Jos An Ferreira</label>
+               <note><rs type="place" ref="#marialva_palace">Marialva Palace</rs> where the Treaty of
+                  Cintra<note type="editorial">Sintra</note> was signed</note>
+            </figure>
+            <label>OS EMBAIXADORES</label>
+            <lg>
+               <l>O embaixador dos deoses</l>
+               <l>Por a Mai de amor mandado</l>
+               <l>Cingido da luz celeste</l>
+               <l>De ajutarme este recado</l>
+               <l>2 A mai e amor do destino</l>
+               <l>O secreto libro abrio</l>
+               <l>O que a todos e verdado</l>
+               <l>So a me eu des-cubrio.</l>
+            </lg>
+            <note type="translation">
+               <label>THE AMBASSADORS</label>
+               <lg>
+                  <l>The ambassador of the gods</l>
+                  <l>Sent for the sake of love</l>
+                  <l>Girded in heavenly light</l>
+                  <l>To give me this message</l>
+                  <l>2 The sake and love of fate</l>
+                  <l>The secret book opened</l>
+                  <l>What is true for all</l>
+                  <l>Only I discovered.</l>
+               </lg></note>
+            <cb/>
+            <label>SI TU NON GOSTAR.</label>
+            <lg>
+               <l>Si tu non gostar di me</l>
+               <l> Otra pastora mais ha</l>
+               <l>Que eu amarei tambien otra</l>
+               <l>Sa&#x14D; Son voltas que o mundo da.</l>
+            </lg>
+            <lg>
+               <l>Dexar huma achar hum ciento</l>
+               <l> &#xD3; ceas que prazer sera</l>
+               <l>Son prazeros doplicados</l>
+               <l> Son voltas que o mundo da.</l>
+               <note>si tu non gostar de me otra pastora mais ha que</note>
+               <!-- line in pencil  -->
+            </lg>
+            <note type="translations">
+               <label>IF YOU DON'T LIKE [ME]</label>
+               <lg>
+                  <l>If you don't like me</l>
+                  <l>There is another shepherdess</l>
+                  <l>Whom I'll love as well</l>
+                  <l>That's how the world turns.</l>
+               </lg>
+               <lg>
+                  <l>Let one find a hundred</l>
+                  <l>I mean, what a pleasure it will be</l>
+                  <l>They are double pleasures</l>
+                  <l>That's how the world turns.</l>
+                  <!-- the translation of the last line is missing -->
+               </lg>
+            </note>
+            <figure facs="#zone_Page_153_572298c0-5201-45fd-a331-b689b520e4a0" type="score"><note type="editorial_label">Musical notes in pencil</note></figure>
+            
+            
+
+         </div>
+         <div type="reading_notes">
+            <ab> </ab>
+         </div>
+      </body>
+
+      <back>
+         <div type="cover">
+            <note> </note>
+         </div>
+         <div type="index"> </div>
+      </back>
+   </text>
+
+</TEI>

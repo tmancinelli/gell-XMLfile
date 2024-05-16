@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface xml:id="zone_Page_164">
+         <graphic url="https://iiif.bsr.ac.uk/iiif/2/GELL-VI%2Fwg_06_164.tif/full/full/0/default.jpg"/>
+         <zone points="1806,756 1811,908 1996,897 1985,750" xml:id="zone_Page_164_4ed01e8b-b10a-47e9-ba28-839b97696e90"/>
+         <zone points="2524,843 2513,984 2698,995 2692,821" xml:id="zone_Page_164_78bbbce9-0ebc-47a9-8ead-6461a54f6b44"/>
+         <zone points="2796,1082 2796,1164 2910,1169 2915,1071" xml:id="zone_Page_164_db9bae93-5d4a-4ba5-9edc-f7e954f6111e"/>
+         <zone points="1909,1207 1898,1316 2040,1327 2040,1202" xml:id="zone_Page_164_d585cd14-7cff-4981-b942-f9e4c0d71a74"/>
+      </surface>
+   </facsimile>
+   
+   <text>
+      <front>
+         <div type="cover">
+            <note> </note>
+         </div>
+         <div type="inlet">
+            <head> </head>
+         </div>
+      </front>
+
+      <body>
+         <div type="spain">
+            <ab> </ab>
+         </div>
+         <div type="portugal">
+            <ab> </ab>
+         </div>
+         <div type="reading_notes">
+            <pb facs="#zone_Page_164" n="163"/>
+            <fw>41</fw>
+            <ab>At MALAGA an arabian palace the <rs type="place" ref="#alcazaba">Alcacaba <note type="editorial"> <rs type="place" ref="#alcazaba">Alcazaba (Citadel)</rs></note></rs> now the new custom house. In castle a sort
+               of chimney over every window &amp; door running up to battlements to throw stones
+               down. Gibralfaro.</ab>
+            <ab><rs type="place" ref="#santafe">Santa Fé</rs> 2 leagues from <rs type="place" ref="#granada">Granada</rs></ab>
+            <ab>Earthquake in 1809. Church cut in 2.</ab>
+            <ab><rs type="place" ref="#mulhacen">Muley Hasen <note type="editorial"><rs type="place" ref="#mulhacen">Mulhacén</rs></note></rs> peak 12 762 feet from sea. <rs type="place" ref="#picacho_de_veleta">Picacho de Veleta <note type="translation"><rs type="place" ref="#picacho_de_veleta">Peak of Veleta</rs></note></rs> 12 459.</ab>
+            <ab>general run 1824 &amp; 1781 fathoms</ab>
+            <ab><rs type="place" ref="#monte_perdu">Mt Perdu <note type="editorial"><rs type="place" ref="#monte_perdu">Mont Perdu / Monte Perdido</rs></note></rs> top of <rs type="place" ref="#pyrenees">Spanish Pyrenees</rs> 1763 fathoms. <rs type="place" ref="#mulhacen">Muleyhasen <note type="editorial">Mulhacén</note></rs> 1824. 76 fathoms lower
+               than <rs type="place" ref="#teneriffe">Teneriffe</rs>.</ab>
+            <ab><rs type="place" ref="#sierra_de_gador">Sierra de Gador</rs> near <rs type="place" ref="#almeria">Almeria</rs> 7.800 feet.</ab>
+            <ab><rs type="place" ref="#rock_filabres">Rock of Filabres</rs> 2 000 feet high. 4 miles round. <rs type="place" ref="#almeria">Almeria</rs> taken 1147 by <rs type="person" ref="#alfonso_vii">Alfonso</rs> &amp;
+               a fleet of Genoese. Garnets <note type="editorial"> i.e. gemstones</note> near <rs type="place" ref="#capo_gata">Capo di Gata <note type="editorial"><rs type="place" ref="#capo_gata">Cabo de Gata</rs></note></rs>. Near <rs type="place" ref="#torre_de_guardas">T de las Guardas</rs> is jasper near
+               T. de <hi rend="underline">White carnelian</hi> <rs type="place" ref="#torre_de_neste">Neste</rs> <note type="editorial"><rs type="place" ref="#torre_de_guardas">Torre de las Guardas</rs> <note type="translation"><rs type="place" ref="#torre_de_guardas">Tower of the Guards</rs></note> and <rs type="place" ref="#torre_de_neste">Torre de Neste</rs> <note type="translation"><rs type="place" ref="#torre_de_neste">Tower of Neste</rs></note></note>. </ab>
+            <ab>Precious stones in <rs type="place" ref="#cavern_bujo">cavern of Bujo</rs>.</ab>
+            <ab>In <rs type="place" ref="#puerto_de_plata">puerto de la plata</rs> <note type="editorial"><rs type="place" ref="#puerto_de_plata">Puerto de la Plata</rs></note> Moorish corsairs. near it in rock <rs type="place" ref="#monte_guardas">el monte de las guardas <note type="translation"><rs type="place" ref="#monte_guardas">Guards' Mount</rs></note></rs>
+               amethysts. <rs type="place" ref="#alpujarras">Alpuxarras <note type="editorial"><rs type="place" ref="#alpujarras">Alpujarras</rs></note></rs> lie between Sierras Nevada &amp; de Gador.</ab>
+            <ab>At Concud human bones &amp;c. <rs type="place" ref="#soto_de_roma">Soto di Roma<note type="editorial"><rs type="place" ref="#soto_de_roma">Soto de Roma</rs>, a royal estate outside <rs type="place" ref="#granada">Granada</rs> granted to the retired minister <rs type="person" ref="#ricardo_wall">Ricardo Wall</rs> (1694-1777).</note></rs> Mr Wall. 4000 acres of forest. Pheasants.
+               died in 1778. <sic>wento <note type="editorial">i.e. went to</note></sic> <rs type="person" ref="#manuel_godoy">Godoy <note type="editorial"><rs type="person" ref="#manuel_godoy">Manuel Godoy</rs>, Spanish minister, inherited <rs type="place" ref="#soto_de_roma">Soto de Roma</rs> after <rs type="person" ref="#ricardo_wall">Ricardo Wall</rs>'s death</note></rs>. road from <rs type="place" ref="#santafe">Sa Fe</rs> to a venta on <rs type="place" ref="#salatillo">rio Saladillo</rs> <note type="translation"><rs type="place" ref="#santafe">Santa Fe</rs> to a country inn on the <rs type="place" ref="#salatillo">river Saltillo</rs></note> from salt
+               springs of <rs type="place" ref="#granada_alhama">Almaha</rs>. <rs type="place" ref="#loja">Loxa <note type="editorial"> <rs type="place" ref="#loja">Loja</rs></note></rs> &amp; its moorish castle in pass 9000 souls. <rs type="place" ref="#chiurriana">Chiuma <note type="editorial"> Possibly <rs type="place" ref="#chiurriana">Churriana</rs>, at the mouth of the <rs type="place" ref="#guadalhorce">Guadalhorce</rs>. </note></rs> has 8000
+               souls. river <rs type="place" ref="#guadalhorce">Guadalhorce</rs>.</ab>
+            <ab> A french Knight &amp; Moorish princess fled from <rs type="place" ref="#granada">Granada</rs> to <rs type="place" ref="#pena_enamorados">pena de los  enamorados</rs> <note type="translation"><rs type="place" ref="#pena_enamorados">Lovers' Rock</rs> [pena = peña]</note>,
+               by tradition.</ab>
+            <ab>Antiquera <note type="editorial">Antequera</note> Anticaria 8000 families 40000 souls, taken 80 years before <rs type="place" ref="#granada">Granada</rs> by <rs type="person" ref="#juan_ii">Juan
+               II</rs>. In Moorish castle which is very perfect is armour. short javelins. Xbows <note type="editorial"> crossbows </note> oval
+               shields </ab>
+            <cb/>
+            <label>Antequera</label>
+            <ab>made of two hides musket proof. The entry called the giants arch. Mosque perfect.
+               fountains. <rs type="place" ref="#fuente_de_piedra">Fuente de la Piedra<note type="translation"><rs type="place" ref="#fuente_de_piedra">Stone Fountain</rs></note></rs>. </ab>
+            <ab>FONTI DIVINO ARAM <rs type="person" ref="#lucius_postumius_statulius">L. POSTUMIUS STATULIUS</rs> EX VOTO .D.D.D. <note type="translation"> <rs type="person" ref="#lucius_postumius_statulius">Lucius Postumius Statulius</rs> gifted and dedicated (dono dedit et dedicavit) the altar of this divine fountain as a votive offering.</note></ab>
+            <ab>Alora 4 leagues from Antequera 4 000 souls. </ab>
+            <figure facs="#zone_Page_164_4ed01e8b-b10a-47e9-ba28-839b97696e90" type="in_text">
+               <note type="editorial">Drawing: arch</note>
+            </figure>
+            <ab>arabs of Syria of the Ommiades <note type="editorial">Umayyads</note>.</ab>
+            <ab>house of Abbas used <figure facs="#zone_Page_164_78bbbce9-0ebc-47a9-8ead-6461a54f6b44" type="in_text">
+                  <note type="editorial">drawing: arch</note>
+               </figure> ??? </ab>
+            <ab>Ronda 20000 souls. encircled by Guadiaro connected with country by an <figure
+               facs="#zone_Page_164_db9bae93-5d4a-4ba5-9edc-f7e954f6111e" type="in_text">
+                  <note type="editorial">drawing: arch bridge</note>
+            </figure> 120 feet high 2d <figure facs="#zone_Page_164_d585cd14-7cff-4981-b942-f9e4c0d71a74" type="in_text">
+                  <note type="editorial">drawing:arch bridge</note>
+               </figure> 280 feet arch 110 feet <choice><abbr>diam</abbr><expan>diameter</expan></choice>?</ab>
+            <ab><rs type="place" ref="#alameda_tajo">Alameda<note type="editorial"> <rs type="place" ref="#alameda_tajo">The Alameda del Tajo</rs>, <rs type="place" ref="#ronda">Ronda</rs></note></rs> has a precipice of 500 feet</ab>
+            <ab>all the rivers of <rs type="place" ref="#ronda">Ronda</rs> fall into the <rs type="place" ref="#cueva_gato">cueva del Gato<note type="translation"><rs type="place" ref="#cueva_gato">Cat's cave</rs></note></rs>. a mile through which is a lake
+               with ruins of antiquity. beyond this deep lake passage of water too small to
+               penetrate 4 miles from cave the river again comes out &amp; runs by <rs type="place" ref="#gaucin">Algaucin<note type="editorial">Probably <rs type="place" ref="#gaucin">Gaucín</rs>. The comment on civility is not in Conder and may be WG's own recollection.</note></rs>. Civil
+               people. </ab>
+            <ab>Algaucin 10 000 souls. </ab>
+            <note type="editorial">This whole section summarises and paraphrases <rs type="person" ref="#josiah_conder">Josiah Conder</rs>, The
+               Modern Traveller. A Description, Geographical, Historical, and Topographical, of the
+               Various Countries of the Globe, 30 vols (London, 1830), vol. 18: Spain and Portugal,
+               pp. 11, 273-87, 293-5, 300. WG's observations and facts are always in the same order
+               as Conder's. Conder's book, a compendium of existing accounts, draws on Jacob (above
+               all), Swinburne, Dillon, Cavanah Murphy, Peyron, Laborde and Bourgoing in these
+               passages.</note>
+            <metamark/>
+            <ab>Drum of Almansor.</ab>
+            <note type="arabic">Arabic <note type="translation">Al-Mansur [Almanzor] lost a drum at Calatañazor [the supposed battle of 1002, since proven a fiction]</note></note>
+            <ab>Almansar Khasara Tabluhu fi Calcanassar</ab>
+            <ab>Drums invented by Arabs</ab>
+            <metamark/>
+            <ab>This is called so by Spaniards <note type="editorial">In reference to 'Calcanassar' (Calatañazor)</note> but it was Kalat Anesor vide Conde Chap CII p 543 Vol
+               I.<note type="translation">See Conde, Historia de la dominacion, vol. 1, p. 543: chapter 102, 'De la batalla de Calat Anosor y muerte de Almanzor' (On the battle of Calat Anosor and the death of Almanzor)</note></ab>
+         </div>
+      </body>
+
+      <back>
+         <div type="cover">
+            <note> </note>
+         </div>
+         <div type="index"> </div>
+      </back>
+   </text>
+
+</TEI>

@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface xml:id="zone_Page_156">
+         <graphic url="https://iiif.bsr.ac.uk/iiif/2/GELL-VI%2Fwg_06_156.tif/full/full/0/default.jpg"/>
+         <zone points="146,92 130,2001 3492,2061 3459,103" xml:id="zone_Page_156_532361af-b0e7-41f9-ab74-53914c1d5b4a"/>
+         <zone points="1642,2567 1642,2692 3508,2649 3481,2486" xml:id="zone_Page_156_19fd1b6a-4258-4b26-850b-45d3eb53153a"/>
+         <zone points="1653,2676 1642,2801 3514,2768 3503,2627" xml:id="zone_Page_156_3ca467c7-c594-4acb-8b1e-2340651e62b2"/>
+         <zone points="1648,2948 1632,3122 2834,3111 2845,2899" xml:id="zone_Page_156_5cd31ce6-7045-4711-9f3c-b9ab8e46d19f"/>
+      </surface>
+   </facsimile>
+   <text>
+      <body>
+         <div type="spain"> </div>
+         <div type="portugal">
+            <pb facs="#zone_Page_156" n="156"/>
+            <fw>49</fw>
+            <figure facs="#zone_Page_156_532361af-b0e7-41f9-ab74-53914c1d5b4a">
+               <note type="editorial_label">Pen and ink drawing: view of <rs type="place" ref="#alcantara"
+                     >Alcântara</rs> valley</note>
+               <label>view into the valley of <rs type="place" ref="#alcantara">Alcantara</rs> from the
+                  garden of the Necessidades. <note type="editorial">i.e. the <rs type="place"
+                     ref="#tabada">Tapada das Necessidades</rs>, <rs type="place" ref="#lisbon"
+                        >Lisbon</rs></note><date when="1811-01">Jan 1811</date></label>
+               <metamark/>
+               <label><rs type="place" ref="#ajuda">Ajuda</rs></label>
+            </figure>
+            <label>REPORTS CONTINUED ON <hi rend="underline"> GOOD AUTHORITY.</hi></label>
+            <ab><note type="arabic">Symbols</note>
+               <date when="1811-01-20">Jan 20</date> when the french get all their reinforcements,
+               we shall exceed them as we have above 100000 men.</ab>
+            <ab>We have 14000 English &amp; Portuguese under <rs type="person" ref="#marshal_beresford"><choice>
+                     <abbr>M.B.</abbr>
+                     <expan>Marshal Beresford</expan>
+                  </choice></rs> on the south bank of the <rs type="place" ref="#tafus">Tagus</rs> and
+               8000 Spaniards.</ab>
+            <ab>They have 1900 waggons in train we are to take them</ab>
+            <ab><choice>
+                  <abbr>Genl</abbr>
+                  <expan>General</expan>
+               </choice>
+               <rs type="person" ref="#carol_siege">Carol Siege of Cadiz</rs> raised by the french <date
+                  when="1811-01-15">Jan 15</date></ab>
+            <note facs="#zone_Page_156_19fd1b6a-4258-4b26-850b-45d3eb53153a" type="marginal"><date when="1811-01-17">Jan 17</date> Date of a
+               letter from <rs type="person" ref="#carol_siege">Cadiz</rs> no movement of the french.</note>
+            <ab>Decr No fear of the french in <rs type="place" ref="#alentejo">Alentejo</rs> –</ab>
+            <note facs="#zone_Page_156_3ca467c7-c594-4acb-8b1e-2340651e62b2" type="marginal"><date when="1811-01-19">Jan 19</date> Inhabitants
+               of <rs type="place" ref="#setubal">Setuval<note type="editorial">Setúbal</note></rs>
+               removed to <rs type="place" ref="#lisbon">Lisbon</rs> for fear of French</note>
+            <ab>The french <space/>
+               <rs type="person" ref="#marques_romana">Romana<note type="editorial">Don Pedro Caro y Sureda, 3rd
+                     Marquis of la Romana (1761-1811), Spanish general.</note></rs> dies &amp; we go
+               to bury him at <rs type="place" ref="#belem">Belem</rs>.</ab>
+            <ab><date when="1811-01-21">Jany 21</date>. <date when="1811">1811</date>
+               <rs type="person" ref="#junot">Junot <note type="editorial">Jean-Andoche Junot
+                     (1771-1813), French general.</note></rs> wounded in the face in a skirmish in
+               which the whole of our advanced poste were driven in.</ab>
+            <ab><rs type="person" ref="#junot">Junot</rs> Killed by the English <metamark>+
+                  –</metamark> Account of <date when="1811-01-25">Jan 25 1811</date></ab>
+            <note facs="#zone_Page_156_5cd31ce6-7045-4711-9f3c-b9ab8e46d19f" type="marginal"><metamark>+</metamark>
+               <rs type="person" ref="#junot">Junot</rs> very little hurt <date when="1811-01-26">Jan
+                  26</date></note>
+
+            <metamark/>
+            <cb/>
+            <ab>I went with Capt <rs type="person" ref="#john_beresford">Beresford <note type="editorial"
+                     >Probably John Beresford (1766-1844), later 1st Baronet.</note></rs> with whom
+               I came to <rs type="place" ref="#lisbon">Lisbon</rs> in <rs type="place" ref="#zapateiro">the
+                  Poictiers to Zapateiro</rs> to see his Brother <rs type="person" ref="#marshal_beresford">Sir Wm.
+                  Beresford <note> William Beresford (1768-1854), then Sir William, later 1st
+                     Viscount Beresford, general in British army and marshal in Portuguese
+                     army.</note></rs> in the lines. We went in a Calesh. Bad road. <rs
+                        type="place" ref="#zapateiro">Zapateiro</rs> a country house by a road side. The Troops
+               very seldom seen. Next morning the <rs type="person" ref="#carol_siege">General</rs> lent us horses. Mine was a strong black
+               called John Bull. We rode to a wickerwork fort &amp; found <rs type="person"
+                  ref="#ld_wellington">Ld. Wellington</rs>. He seeing me without uniform took me entirely under
+               his protection &amp; walked me away from the company. Shewed me <rs type="person"
+                  ref="#junot">Junot</rs>s Camp in the distance. Asked me what They said in England of
+               the army. I said we were told we should meet it coming back half way over the bay of
+                  <rs type="place" ref="#biscay">Biscay</rs>. He quickly said “Then why did you come. I
+               said because it was said you meant to fight &amp; I was sure if you did you would
+               conquer. He was quite pleased at this. It was at the time <rs type="person" ref="#william_cobbett"
+                  >Cobbet</rs> was trying to write him down<note type="editorial"> The radical
+                  William Cobbett (1763-1835) was regularly scathing about Wellington in his Weekly
+                  Political Register. The retrospective tone suggests that this passage was written
+                  some time afterwards, as do the altered hand and the space left to remember the
+                  horses's name.</note>. He said that he could stand the french if they came with no
+               more than 100000 men &amp; that they could not provision more possibly. That it was
+               said <rs type="person" ref="#napoleon">Buonaparte</rs> was coming. He would rather have
+               10000 men more against him as <rs type="person" ref="#napoleon">Bonaparte</rs> could
+               sacrifice the 10000 without a word being said against him. He wished the french would
+               attack him but he could not attack them without being certain of Victory &amp; little
+               loss, because not only he but the whole government at home would be destroyed by the
+               least false step whereas <rs type="person" ref="#napoleon">Buonaparte</rs> feared no
+               opposition &amp; was <sic>unacountable</sic> to any one. Fearful odds for <rs
+                  type="person" ref="#ld_wellington">Ld Wellington</rs> to contend against. He desired me to go
+               to a certain bridge in the valley below – When there said he look about you &amp; see
+               how many guns are pointed at you. Tis only over that the enemy can come &amp; I wish
+               he would try it. I went &amp; found it as he said. He came &amp; dined at <choice>
+                  <abbr>Genl</abbr>
+                  <expan>General</expan>
+               </choice>
+               <rs type="person" ref="#john_beresford">Beresfords</rs> &amp; so did <rs type="person" ref="#marques_romana"
+                  >Romana</rs> &amp; they were both very agreeable. We lived like people in the
+               country &amp; rode out to each others houses to dinner. I rode <rs type="person"
+                  ref="#count_lemos">Count Lemos</rs> horse back to <rs type="place" ref="#lisbon">Lisbon</rs>
+               &amp; <rs type="person" ref="#count_lemos">Mr Lemos</rs> took our Calesh.</ab>
+         </div>
+         <div type="reading_notes"> </div>
+      </body>
+      <back>
+         <div type="cover">
+            <note/>
+         </div>
+         <div type="inlet"> </div>
+      </back>
+   </text>
+</TEI>

@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface xml:id="zone_Page_157">
+         <graphic url="https://iiif.bsr.ac.uk/iiif/2/GELL-VI%2Fwg_06_157.tif/full/full/0/default.jpg"/>
+         <zone points="0,70 5,2078 3405,2088 3405,87" xml:id="zone_Page_157_9559b9e6-e347-42f0-991a-d00539ea680c"/>
+      </surface>
+   </facsimile>
+   
+   <text>
+      <front>
+         <div type="cover">
+            <note> </note>
+         </div>
+         <div type="inlet">
+            <head> </head>
+         </div>
+      </front>
+
+      <body>
+         <div type="spain">
+            <ab> </ab>
+         </div>
+         <div type="portugal">
+            <pb facs="#zone_Page_157" n="157"/>
+            <fw><date when="1811-01">Jany 1811</date></fw>
+            <fw>48</fw>
+            <figure facs="#zone_Page_157_9559b9e6-e347-42f0-991a-d00539ea680c">
+               <note type="editorial_label">Pen and ink drawing: view of <rs type="place" ref="#lisbon"
+                     >Lisbon</rs></note>
+               <label>garden of Austrian minister.</label>
+               <label><rs type="place" ref="#santissima">Rua Sssma<note type="editorial">i.e.
+                        Santíssima</note> Trinidade Lisboa</rs></label>
+            </figure>
+
+            <ab>The ladies played at a game called the Saints. The company took different names as
+               St Antoão St Ursula &amp;c. Each had a veil one of the ladies went round and lifting
+               up the veil asked who would buy such a saint describing him or her &amp; her
+               qualities in a ludicrous way. whoever laughed paid forfeit and stood up to sell the
+               saints.</ab>
+            <cb/>
+            <ab>The impudent attempt frequently printed to make Latin &amp; Portuguese the same
+               <note type="editorial">Noted by many travellers, including <rs type="person" ref="#robert_southey">Robert Southey</rs>, Letters
+                  Written during a Journey in <rs type="place" ref="#spain">Spain</rs>, and a Short Residence in <rs type="place" ref="#portugal">Portugal</rs>, 3rd edn, 2
+                  vols (London, 1808), vol. 2, p. 62. WG's hand and the passage's positioning
+                  suggests that this was a later addition rather than an observation during his own
+                  travels. WG has two more lines than <rs type="person" ref="#robert_southey">Southey</rs> (lines that appear in other versions),
+                  though, and WG uses different punctuation, so <rs type="person" ref="#robert_southey">Southey</rs> was not his
+               source.</note></ab>
+            <metamark/>
+            
+            <lg><l>Canto tuas palmas famosos canto triumphos</l>
+            <l>Ursula divinos martyr concede favores</l>
+            <l>Subjectas sacra nympha feros animosa tirannos</l>
+            <l>Tu phoenix vivendo ardes ardendo triumphos</l>
+            <l>Illustres generosa choros ‘das Ursula, bellas</l>
+            <l>Das rosa bella rosas fortes das sancta columnas</l>
+               <l>&#198;ternas vivas annos o regia planta</l>
+            <l>Devoto cantando hymnos, vos invoco sanctas</l>
+            <l>Tam puras nymphas amo adoro canto celebro</l>
+            <l>Per vos felices annos o candida turba.</l>
+            <l>Per vos innumeros de Christo spero favores.</l></lg>
+            <metamark/>
+            
+            <ab>In <rs type="place" ref="#cathedral_granada">Cathedral of Granada</rs> are carvings.</ab>
+            <ab><rs type="person" ref="#el_ray_chico">Abdallah</rs> delivering Keys of City to <rs type="person" ref="#ferdinand_aragona">Ferdinand</rs>.</ab>
+            <ab>Moors with hands tied going into exile</ab>
+            <ab>Moors male &amp; female baptized. Costumes perfect.</ab>
+            <ab>In Cathedral Tomb of <rs type="person" ref="#ferdinand_aragona">Ferdinand</rs> &amp; <rs type="person" ref="#isabella_castile">Isabella of marble</rs></ab>
+         </div>
+         <div type="reading_notes">
+            <ab> </ab>
+         </div>
+      </body>
+
+      <back>
+         <div type="cover">
+            <note> </note>
+         </div>
+         <div type="index"> </div>
+      </back>
+   </text>
+
+</TEI>
