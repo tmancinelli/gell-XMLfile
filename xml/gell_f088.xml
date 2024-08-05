@@ -81,7 +81,7 @@
             <note type="marginal" facs="xxx">The <rs type="place" ref="#alhambra">Alhambra</rs> begun by <rs type="person" ref="#mahmet_naserita">Mahmet abu Abdallah Benjusuph Ben
                Ahmed <hi rend="underline">Naserita</hi></rs> (a family name) or Elgaleb Billah or
                Vencedor por dios<note type="translation">Victor through God</note>. died <date when="1273">1273</date>.
-               <rs type="person" ref="#medinat_alhamra">Medinat Alhamra</rs> or the red city – the 3<hi rend="superscript">d</hi> king of the
+               <rs type="place" ref="#alhambra">Alhamra</rs> or the red city – the 3<hi rend="superscript">d</hi> king of the
                <rs type="person" ref="#nasrids">Naseritas<note type="editorial">Nasrids</note> Muhamed Abu Abdallah</rs> built a mosque
                all painted with mosaic with columns with bases &amp; capitals of silver.</note>
             <metamark/>
@@ -93,8 +93,7 @@
                   <note type="editorial">Drawing shows arch is 6 varas high</note>
                </figure> arch is 3 varas ½ broad. marble of Machael<note type="editorial"
                   >Macael</note>. Praised be god there is no God but god &amp; Mahmet his prophet
-               &amp; there is no strength but gods. an inscript Arabic says <sic>Abud</sic> <rs type="person" ref="#hagex_yusuph">Hagex
-                  Yusuph</rs> son of King <rs type="person" ref="#abulgualid_nacer">Abulgualid aben Nacer</rs> <date when="1349-04">April 1349</date>.</note>
+               &amp; there is no strength but gods. an inscript Arabic says <rs type="person" ref="#abud_hagex_yusuph"><sic>Abud</sic>Hagex Yusuph</rs> son of King <rs type="person" ref="#abulgualid_nacer">Abulgualid aben Nacer</rs> <date when="1349-04">April 1349</date>.</note>
             <note type="marginal" facs="xxx">Vide Vara measure in page of the Scold<note
                   type="editorail">i.e. See measurement of Spanish vara, perhaps on a page that
                   includes a drawing of a woman. WG's measurement is on pag 190 (his p. 13), which

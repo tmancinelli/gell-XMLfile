@@ -18,7 +18,7 @@
    </teiHeader>
    <text>
       <front>
-         <div type="cover">
+        <div type="cover">
             <note> </note>
          </div>
          <div type="inlet">
@@ -45,7 +45,7 @@
                de Latin y. Arabigo. En tiempo de <rs type="person" ref="#felipe_iii">Felipe III</rs> fu
                presa una nave en que iba la libereria de <rs type="person" ref="#muley_zidan">Muley Zidan
                   Principe de Marruecos</rs>. ma. en <date when="1671">1671</date> un incendio
-               consumia en <rs type="place" ref="#el_escorial">El Escorial</rs> mas de ocho mil volumenes, la
+               consumia en <rs type="place" ref="#library_escorial">El Escorial</rs> mas de ocho mil volumenes, la
                mayor parte arabigos. </ab>
 
             <ab> Arabs at conquest of <rs type="place" ref="#spain">Spain</rs> gave el libre egercicio
@@ -67,7 +67,7 @@
                   >886 J.C.</date>
             </ab>
 
-            <ab>Cronicon <rs type="person" ref="XXX">Abeldense</rs> que a&#241;adi&#242; <rs
+            <ab>Cronicon Abeldense que a&#241;adi&#242; <rs
                   type="person" ref="#monk_vigila">el monge Vigila</rs>
                <date when="0973">973</date>.</ab>
 
@@ -82,7 +82,7 @@
                <note facs="#f-xxx" type="marginal"><metamark>–</metamark> In Era <date when="1119"
                      >MCXXIV</date> die 6. X Kal Novembris die SS. Servandi et Germani, fuit illa
                   arrancada in <rs type="place" ref="#badajoz">Baduzo</rs>. id est <rs type="place" ref="#sagrajas">Sacralias</rs> et
-                  fuit ruptus <rs type="person" ref="XXX">Rex domnus Adefonsus</rs>.</note></ab>
+                  fuit ruptus <rs type="person" ref="#rex_domnus_adefonsus">Rex domnus Adefonsus</rs>.</note></ab>
 
             <ab>los Compostelanos <date when="1248">1248</date>
                <note facs="#f-xxx" type="marginal"><metamark>–</metamark> says. Era <date
@@ -91,7 +91,7 @@
 
             <ab> Toledanos <date when="1290">1290</date>
                <note facs="#f-xxx" type="marginal">– Era <date when="1124">1124</date> arrancaron
-                  Moros al <rs type="person" ref="XXX">Rey don Alonzo</rs> en <rs type="place"
+                  Moros al <rs type="person" ref="#rey_don_alonzo">Rey don Alonzo</rs> en <rs type="place"
                      ref="#zagalla">Zagalla</rs></note>.</ab>
 
             <ab>De estos Cronicones y algunos escritos Arabigos form&#242; <rs type="person"
@@ -112,7 +112,7 @@
                was seized with the library of <rs type="person" ref="#muley_zidan">Muley Zidan, Prince of
                   Morocco</rs>. <note type="editorial">'ma': not in Conde; WG may be using Italian
                   for 'but'.</note> in <date when="1671">1671</date> a fire in <rs type="place"
-                  ref="#el_escorial">the Escorial</rs> consumed more than eight thousand volumes, most of
+                     ref="#library_escorial">the Escorial</rs> consumed more than eight thousand volumes, most of
                them Arabic. Arabs at conquest of <rs type="place" ref="#spain">Spain</rs> gave
                [Christians] the free exercise of their religion, the preservation of their temples
                and the security of their people, property and possessions. And their [the Arabs']
@@ -123,8 +123,8 @@
                the only contemporary to the arrival of the Arabs <note type="editorial">Conde has
                   'Arabes'</note>. Until the 7th year of <rs type="person" ref="#jucef_fehri">Jucef el
                   Fehri</rs>
-               <date when="0745">745AD</date>. Chronicle by <rs type="person" ref="#sebastian_of_salamanca">Sebastian of Salamanca</rs>
-               <date when="0886">886AD</date>. <rs type="person" ref="XXX">Albeldensian</rs>
+               <date when="0754">754AD</date>. Chronicle by <rs type="person" ref="#sebastian_of_salamanca">Sebastian of Salamanca</rs>
+               <date when="0886">886AD</date>. Albeldensian
                Chronicle, compiled by the <rs type="person" ref="#monk_vigila">monk Vigila</rs>
                <date when="0973">973</date>. Chronicle of <rs type="person" ref="#sampiro_asturiense">Sampiro of
                   Asturias</rs>
@@ -135,10 +135,10 @@
                <date when="1119">1119</date> - In the year <date when="1124">1124, on Friday, the
                   10th day before the calends of November</date>, the day of Saints Servando and
                Germán was torn down in <rs type="place" ref="#badajoz">Badajoz</rs>, that is <rs
-                  type="place" ref="#sagrajas">Sagrajas</rs>: and the <rs type="person" ref="XXX">lord
+                  type="place" ref="#sagrajas">Sagrajas</rs>: and the <rs type="person" ref="#rex_domnus_adefonsus">lord
                   King Alfonso</rs> was broken. <note type="editorial">The Battle of Sagrajaz, near
                      <rs type="place" ref="#badajoz">Badajoz</rs>, was an Almoravid victory against <rs
-                     type="person" ref="XXX">Alfonso VI</rs>, though actually on <date
+                     type="person" ref="#rex_domnus_alfonsus">Alfonso VI</rs>, though actually on <date
                      when="1086-10-23">Friday 23 October 1086</date>. ‘arrancada’ (torn down) is
                   Spanish rather than Latin.</note>
                <note type="editorial">Annals of <rs type="place" ref="#santiagodecompostela">Santiago de Compostela</rs></note>
@@ -148,7 +148,7 @@
                <note type="editorial">Annals of</note>
                <rs type="place" ref="#toledo">Toledo</rs>
                <date when="1290">1290</date> - <note>in</note>
-               <date when="1124">1124</date> the Moors threw <rs type="person" ref="XXX">King don
+               <date when="1124">1124</date> the Moors threw <rs type="person" ref="#rey_don_alonzo">King don
                   Alonzo</rs> out of <rs type="place" ref="#zagalla">Zagalla</rs>. <rs type="person"
                   ref="#don_rui_ximenez">Don Rui Ximenez</rs>, Archbishop of <rs type="place" ref="#toledo"
                   >Toledo</rs>, formed his history of the Arabs from these Chronicles and some

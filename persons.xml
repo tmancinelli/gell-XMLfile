@@ -16,6 +16,7 @@
   </person>
   <person xml:id="napoleon">
     <persName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q517">Napoleon</persName>
+    <persName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q517">Buonaparte</persName>
   </person>
   <person xml:id="inigojones">
     <persName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q295929">Inigo Jones I</persName>
@@ -156,9 +157,6 @@
   <person xml:id="don_diego_torres">
     <persName xml:lang="en" sameAs="xx">Don Diego de las Torres y Arze of the Order of St. Yago</persName>
   </person>
-  <person xml:id="alfonso_vi">
-    <persName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q235080">Alfonso</persName>
-  </person>
   <person xml:id="alfonso_viii">
     <persName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q295268">Alfonso VIII</persName>
   </person>
@@ -182,7 +180,7 @@
     <persName xml:lang="en" sameAs="xx">Aben Amar</persName>
   </person>
   <person xml:id="ali_beker_mohamad">
-    <persName xml:lang="en" sameAs="xx">Ali Beker Mohamad</persName>
+    <persName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q4670094">Ali Beker Mohamad</persName>
   </person>
   <person xml:id="brewster">
     <persName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q168468">David Brewster</persName>
@@ -191,25 +189,23 @@
     <persName xml:lang="en" sameAs="xx">Zenith Nadir Azimuth</persName>
   </person>
   <person xml:id="mahmet_naserita">
-    <persName xml:lang="en" sameAs="xx">Mahmet abu Abdallah Benjusuph Ben Ahmed Naserita</persName>
-  </person>
-  <person xml:id="medinat_alhamra">
-    <persName xml:lang="en" sameAs="xx">Medinat Alhamra</persName>
+    <persName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q510879">Mahmet abu Abdallah Benjusuph Ben Ahmed Naserita</persName>
   </person>
   <person xml:id="nasrids">
-    <persName xml:lang="en" sameAs="xx">Naseritas<note type="editorial">Nasrids</note> Muhamed Abu Abdallah</persName>
+    <persName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q704786">Naseritas<note type="editorial">Nasrids</note> Muhamed Abu Abdallah</persName>
   </person>
-  <person xml:id="hagex_yusuph">
-    <persName xml:lang="en" sameAs="xx">Hagex Yusuph</persName>
+  <person xml:id="abud_hagex_yusuph">
+    <persName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q2141886"><sic>Abud</sic>Hagex Yusuph</persName>
+    <persName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q2141886">King Abulhagiagi</persName>
+    <persName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q2141886">Abul Hagig</persName>
+    <persName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q2141886">Abul Hagig King</persName>
+    <persName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q2141886">Juseph Abulhagiageh</persName>
   </person>
   <person xml:id="abulgualid_nacer">
-    <persName xml:lang="en" sameAs="xx">Abulgualid aben Nacer</persName>
-  </person>
-  <person xml:id="abulhagiagi">
-    <persName xml:lang="en" sameAs="xx">King Abulhagiagi</persName>
+    <persName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q563129">Abulgualid aben Nacer</persName>
   </person>
   <person xml:id="billah">
-    <persName xml:lang="en" sameAs="xx">Abu Abdallah Elgani Billah</persName>
+    <persName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q1267953">Abu Abdallah Elgani Billah</persName>
   </person>
   <person xml:id="charles_iii">
     <persName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q36234?wprov=srpw1_0">Charles III</persName>
@@ -301,20 +297,21 @@
   </person> 
   
   <person xml:id="king_juseph">
-    <persName xml:lang="en" sameAs="xx">Juseph K<hi rend="sueprscript">g</hi> of Granada</persName>
-    <persName xml:lang="en" sameAs="xx">Juseph</persName>
+    <persName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q1346443">Juseph K<hi rend="sueprscript">g</hi> of Granada</persName>
+    <persName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q1346443">Juseph</persName>
+    <persName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q1346443">Joseph</persName>
   </person>
   <person xml:id="mahomet">
-    <persName xml:lang="en" sameAs="xx">Mahomet</persName>
+    <persName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q338419">Mahomet</persName>
   </person>
   <person xml:id="king_donjuan">
-    <persName xml:lang="en" sameAs="xx">K<hi rend="sueprscript">g</hi>Don Juan</persName>
+    <persName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q297278">K<hi rend="sueprscript">g</hi>Don Juan</persName>
   </person>
   <person xml:id="fernando_aragon">
     <persName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q47412">Infante</persName>
   </person>
   <person xml:id="sancho_rojas">
-    <persName xml:lang="en" sameAs="xx">Sancho de Rojas Bishop of Palencia</persName>
+    <persName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q3819551">Sancho de Rojas Bishop of Palencia</persName>
   </person>
   <person xml:id="velasquez">
     <persName xml:lang="en" sameAs="xx">Martin Velasquez</persName>
@@ -326,21 +323,17 @@
     <persName xml:lang="en" sameAs="xx">Duquesa de<note type="translation">Duchess of</note> Gor’s Coachman</persName>
   </person>
   <person xml:id="general_dejuan">
-    <persName xml:lang="en" sameAs="xx"><choice><abbr>Gen<hi rend="superscript">l</hi></abbr>
+    <persName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q2895959"><choice><abbr>Gen<hi rend="superscript">l</hi></abbr>
       <expan>General</expan></choice> De Juan</persName>
   </person>
-  <person xml:id="abul_hagig">
-    <persName xml:lang="en" sameAs="xx">Abul Hagig</persName>
-    <persName xml:lang="en" sameAs="xx">Abul Hagig King</persName>
-  </person>
   <person xml:id="yusef">
-    <persName xml:lang="en" sameAs="xx">Yusef</persName>
+    <persName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q2141886">Yusef</persName>
   </person>
   <person xml:id="alonzo_xi">
-    <persName xml:lang="en" sameAs="xx">Alonzo XI <choice><abbr>K<hi rend="superscript">g</hi> Castilla</abbr><expan>King of Castile</expan></choice></persName>
+    <persName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q298808">Alonzo XI <choice><abbr>K<hi rend="superscript">g</hi> Castilla</abbr><expan>King of Castile</expan></choice></persName>
   </person>
   <person xml:id="duke_wellington">
-    <persName xml:lang="en" sameAs="xx">Duke of Wellington</persName>
+    <persName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q131691">Duke of Wellington</persName>
   </person>
   <person xml:id="godoy">
     <persName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q316110">Godoy</persName>
@@ -349,7 +342,7 @@
     <persName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q3074895">marmol</persName>
   </person>
   <person xml:id="fleming">
-    <persName xml:lang="en" sameAs="xx">Captain Fleming</persName>
+    <persName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q5077380">Captain Fleming</persName>
   </person>
   <person xml:id="muley_hacen">
     <persName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q335624">Abu'l-Hasan Ali ibn Sa'd</persName>
@@ -371,26 +364,25 @@
   <person xml:id="aixa">
     <persName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q2741906">Aixa</persName>
   </person>
-  <person xml:id="muhammad_xii">
-    <persName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q312763">Abu Abdellah</persName>
-  </person>
   <person xml:id="adelazri">
     <persName xml:lang="en" sameAs="xx">Heschamo Ben Adelazri</persName>
   </person>
-  <person xml:id="abu_abdallah">
-    <persName xml:lang="en" sameAs="xx">Abu Abdallah</persName>
+  <person xml:id="muhammad_xii">
+    <persName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q312763">Abu Abdallah</persName>
+    <persName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q312763">Abu Abdellah</persName>
+    <persName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q312763">Abu Abdihelsi</persName>
+    <persName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q312763">Re Chicos<note type="editorial_note">Muhammad XII of Granada, nicknamed Boabdil or 'El Rey Chico' (the Boy King) by the Christians.</note></persName>
+    <persName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q312763">Rey Chico</persName>
+    <persName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q312763">El Rey Chico</persName>
   </person>
   <person xml:id="mahomed_ben_juseph">
-    <persName xml:lang="en" sameAs="xx">Mahomed ben Juseph</persName>
-  </person>
-  <person xml:id="muhammad_xii_of_granada">
-    <persName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q312763">Re Chicos</persName>
+    <persName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q510879">Mahomed ben Juseph</persName>
   </person>
   <person xml:id="john_beresford">
     <persName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q6661642">Cap Beresford</persName>
   </person>
   <person xml:id="ld_wellington">
-    <persName xml:lang="en" sameAs="xx">Ld Wellington</persName>
+    <persName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q131691">Ld Wellington</persName>
   </person>
   <person xml:id="henriquez_tuera">
     <persName xml:lang="en" sameAs="xx">Count Henriquez Tuera</persName>
@@ -406,74 +398,20 @@
     <persName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q34464">Felipe III</persName>
     <persName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q34464">Philip III</persName>
   </person>
-  <person xml:id="muley_zidan">
-    <persName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q2031919">Muley Zidan Principe de Marruecos</persName>
-    <persName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q2031919">Muley Zidan</persName>
-  </person>
   <person xml:id="isidoro_beja">
-    <persName xml:lang="en" sameAs="xx">Isidoro de Beja</persName>
-    <persName xml:lang="en" sameAs="xx">Isidoro of Beja</persName>
+    <persName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q19060329">Isidoro de Beja</persName>
+    <persName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q19060329">Isidoro of Beja</persName>
   </person>
   <person xml:id="jucef_fehri">
-    <persName xml:lang="en" sameAs="xx">Jucef el Fehri</persName>
+    <persName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q958303">Jucef el Fehri</persName>
   </person>
   <person xml:id="sebastian_of_salamanca">
     <persName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q64063228">Sebastiano Salmanticense</persName>
     <persName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q64063228">Sebastian of Salamanca</persName>
   </person>
   <person xml:id="monk_vigila">
-    <persName xml:lang="en" sameAs="xx">el monge Vigila</persName>
-    <persName xml:lang="en" sameAs="xx">monk Vigila</persName>
-  </person>
-  <person xml:id="sampiro_asturiense">
-    <persName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q2033937">Sampiro Asturiense</persName>
-    <persName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q2033937">Sampiro of Asturias</persName>
-  </person>
-  <person xml:id="pelagio_ovetense">
-    <persName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q3553612">Pelagio Ovetense</persName>
-    <persName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q3553612">Pelagius of Oviedo</persName>
-  </person>
-  <person xml:id="don_rui_ximenez">
-    <persName xml:lang="en" sameAs="xx">Don Rui Ximenez</persName>
-  </person>
-  <person xml:id="conde">
-    <persName xml:lang="en" sameAs="xx">Conde</persName>
-  </person>
-  <person xml:id="iza_ben_ahmed_razif">
-    <persName xml:lang="en" sameAs="xx">Iza ben Ahmed Razif</persName>
-  </person>
-  <person xml:id="don_alonso_xi">
-    <persName xml:lang="en" sameAs="xx">Don Alonso el onceno</persName>
-  </person>
-  <person xml:id="miguel_de_luna">
-    <persName xml:lang="en" sameAs="xx">Miguel de Luna</persName>
-  </person>
-  <person xml:id="hadgi_chalfa">
-    <persName xml:lang="en" sameAs="xx">Hadgi Chalfa</persName>
-  </person>
-  <person xml:id="aben_ishak_tabari">
-    <persName xml:lang="en" sameAs="xx">Aben Ishak Tabari</persName>
-  </person>
-  <person xml:id="aben_omar_el_wakedi">
-    <persName xml:lang="en" sameAs="xx">Aben Omar el Wakedi</persName>
-  </person>
-  <person xml:id="el_mesaudi">
-    <persName xml:lang="en" sameAs="xx">el Mesaudi</persName>
-  </person>
-  <person xml:id="seif_alezdi">
-    <persName xml:lang="en" sameAs="xx">Seif Alezdi</persName>
-  </person>
-  <person xml:id="aben_kelbi">
-    <persName xml:lang="en" sameAs="xx">Aben Kelbi</persName>
-  </person>
-  <person xml:id="novairi">
-    <persName xml:lang="en" sameAs="xx">Novairi</persName>
-  </person>
-  <person xml:id="aben_regig_rechic">
-    <persName xml:lang="en" sameAs="xx">Aben Regig o Rechic</persName>
-  </person>
-  <person xml:id="aben_hayan">
-    <persName xml:lang="en" sameAs="xx">Aben Hayan</persName>
+    <persName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q76760183">el monge Vigila</persName>
+    <persName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q76760183">monk Vigila</persName>
   </person>
   <person xml:id="senorsor">
     <persName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q254110">Señor Sor</persName>
@@ -549,14 +487,8 @@
   <person xml:id="aixa">
     <persName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q2741906">Aixa</persName>
   </person>
-  <person xml:id="muhammad_xii">
-    <persName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q312763">Abu Abdellah</persName>
-  </person>
   <person xml:id="adelazri">
     <persName xml:lang="en" sameAs="xx">Heschamo Ben Adelazri</persName>
-  </person>
-  <person xml:id="abu_abdallah">
-    <persName xml:lang="en" sameAs="xx">Abu Abdallah</persName>
   </person>
   <person xml:id="mahomed_ben_juseph">
     <persName xml:lang="en" sameAs="xx">Mahomed ben Juseph</persName>
@@ -580,28 +512,19 @@
     <persName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q47595">Rey Alfonso</persName>
     <persName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q47595">Alfonso X</persName>
   </person>
-  <person xml:id="felipe_iii">
-    <persName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q34464">Felipe III</persName>
-    <persName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q34464">Philip III</persName>
+  <person xml:id="rex_domnus_adefonsus">
+    <persName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q235080">Rex domnus Adefonsus</persName>
+    <persName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q235080">Alfonso</persName>
+    <persName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q235080">Lord King Alfonso</persName>
+    <persName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q235080">Alfonso VI</persName>
+  </person>
+  <person xml:id="rey_don_alonzo">
+    <persName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q81833">Rey don Alonzo</persName>
+    <persName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q81833">King don Alonzo</persName>
   </person>
   <person xml:id="muley_zidan">
     <persName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q2031919">Muley Zidan Principe de Marruecos</persName>
     <persName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q2031919">Muley Zidan</persName>
-  </person>
-  <person xml:id="isidoro_beja">
-    <persName xml:lang="en" sameAs="xx">Isidoro de Beja</persName>
-    <persName xml:lang="en" sameAs="xx">Isidoro of Beja</persName>
-  </person>
-  <person xml:id="jucef_fehri">
-    <persName xml:lang="en" sameAs="xx">Jucef el Fehri</persName>
-  </person>
-  <person xml:id="sebastian_of_salamanca">
-    <persName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q64063228">Sebastiano Salmanticense</persName>
-    <persName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q64063228">Sebastian of Salamanca</persName>
-  </person>
-  <person xml:id="monk_vigila">
-    <persName xml:lang="en" sameAs="xx">el monge Vigila</persName>
-    <persName xml:lang="en" sameAs="xx">monk Vigila</persName>
   </person>
   <person xml:id="sampiro_asturiense">
     <persName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q2033937">Sampiro Asturiense</persName>
@@ -612,46 +535,46 @@
     <persName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q3553612">Pelagius of Oviedo</persName>
   </person>
   <person xml:id="don_rui_ximenez">
-    <persName xml:lang="en" sameAs="xx">Don Rui Ximenez</persName>
+    <persName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q562428">Don Rui Ximenez</persName>
   </person>
   <person xml:id="conde">
-    <persName xml:lang="en" sameAs="xx">Conde</persName>
+    <persName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q2362149">Conde</persName>
   </person>
   <person xml:id="iza_ben_ahmed_razif">
-    <persName xml:lang="en" sameAs="xx">Iza ben Ahmed Razif</persName>
+    <persName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q12177920">Iza ben Ahmed Razif</persName>
   </person>
   <person xml:id="don_alonso_xi">
-    <persName xml:lang="en" sameAs="xx">Don Alonso el onceno</persName>
+    <persName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q298808">Don Alonso el onceno</persName>
   </person>
   <person xml:id="miguel_de_luna">
-    <persName xml:lang="en" sameAs="xx">Miguel de Luna</persName>
+    <persName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q6015389">Miguel de Luna</persName>
   </person>
   <person xml:id="hadgi_chalfa">
-    <persName xml:lang="en" sameAs="xx">Hadgi Chalfa</persName>
+    <persName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q390123">Hadgi Chalfa</persName>
   </person>
   <person xml:id="aben_ishak_tabari">
-    <persName xml:lang="en" sameAs="xx">Aben Ishak Tabari</persName>
+    <persName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q192124">Aben Ishak Tabari</persName>
   </person>
   <person xml:id="aben_omar_el_wakedi">
-    <persName xml:lang="en" sameAs="xx">Aben Omar el Wakedi</persName>
+    <persName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q285255">Aben Omar el Wakedi</persName>
   </person>
   <person xml:id="el_mesaudi">
-    <persName xml:lang="en" sameAs="xx">el Mesaudi</persName>
+    <persName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q168705">el Mesaudi</persName>
   </person>
   <person xml:id="seif_alezdi">
-    <persName xml:lang="en" sameAs="xx">Seif Alezdi</persName>
+    <persName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q4520456">Seif Alezdi</persName>
   </person>
   <person xml:id="aben_kelbi">
-    <persName xml:lang="en" sameAs="xx">Aben Kelbi</persName>
+    <persName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q716228">Aben Kelbi</persName>
   </person>
   <person xml:id="novairi">
-    <persName xml:lang="en" sameAs="xx">Novairi</persName>
+    <persName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q288067">Novairi</persName>
   </person>
   <person xml:id="aben_regig_rechic">
     <persName xml:lang="en" sameAs="xx">Aben Regig o Rechic</persName>
   </person>
   <person xml:id="aben_hayan">
-    <persName xml:lang="en" sameAs="xx">Aben Hayan</persName>
+    <persName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q2745220">Aben Hayan</persName>
   </person>
   <person xml:id="senorsor">
     <persName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q254110">Señor Sor</persName>

@@ -42,7 +42,7 @@
                <label>MOORISH</label>
                <label>The two castles are called <rs type="place" ref="#alcazaba">Alcazaba<note type="editorial">Citadel</note></rs> &amp;
                   <rs type="place" ref="#gibralfaro">Gibralfaro</rs> at <rs type="place" ref="#malaga">Malaga</rs>.</label>
-               <label><rs type="place" ref="#gate_malaga">Marble Gate at Malaga</rs>. <choice>
+               <label><rs type="place" ref="#gate_atarazanas">Marble Gate at Malaga</rs>. <choice>
                      <abbr>C.</abbr>
                      <expan>Camera </expan>
                   </choice> Lucida</label>

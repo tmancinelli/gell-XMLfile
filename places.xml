@@ -617,6 +617,7 @@
    </place>
    <place xml:id="alhambra">
       <placeName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q47476">Alhambra</placeName>
+      <placeName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q47476">Medinat Alhamra</placeName>
       <settlement type="country">Spain</settlement>
    </place>
    <place xml:id="avertura">
@@ -668,6 +669,14 @@
       <placeName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q501674">Alhama</placeName>
       <settlement type="country">Spain</settlement>
    </place>
+   <place xml:id="la_mahala_saltworks">
+      <placeName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q120171086">Alhama Saltworks</placeName>
+      <settlement type="country">Spain</settlement>
+   </place>
+   <place xml:id="sierra_de_alhama">
+      <placeName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q2945669">The sierra de Alhama</placeName>
+      <settlement type="country">Spain</settlement>
+   </place>
    <place xml:id="loja">
       <placeName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q332989">Loja</placeName>
       <placeName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q332989">Loxa</placeName>
@@ -678,11 +687,7 @@
       <settlement type="country">Spain</settlement>
    </place>
    <place xml:id="infiernos_loja">
-      <placeName xml:lang="en" sameAs="xx">Los infiernos de Loja</placeName>
-      <settlement type="country">Spain</settlement>
-   </place>
-   <place xml:id="mala">
-      <placeName xml:lang="en" sameAs="xx">Mala</placeName>
+      <placeName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q5915714">Los infiernos de Loja</placeName>
       <settlement type="country">Spain</settlement>
    </place>
    <place xml:id="alhendin">
@@ -695,6 +700,8 @@
    </place>
    <place xml:id="library_escorial">
       <placeName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q3848863">Library of Escorial</placeName>
+      <placeName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q3848863">The Escorial</placeName>
+      <placeName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q3848863">El Escorial</placeName>
       <settlement type="country">Spain</settlement>
    </place>
    <place xml:id="cairo">
@@ -718,7 +725,7 @@
       <settlement type="country">Spain</settlement>
    </place>
    <place xml:id="hall_comares">
-      <placeName xml:lang="en" sameAs="xx">Hall of Comaresch</placeName>
+      <placeName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q47476">Hall of Comaresch</placeName>
       <settlement type="country">Spain</settlement>
    </place>
    <place xml:id="archidona">
@@ -1013,6 +1020,7 @@
    </place>  
    <place xml:id="malaga">
       <placeName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q8851">Málaga</placeName>
+      <placeName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q8851">Mala</placeName>
       <settlement type="country">Spain</settlement>
    </place>
   <place xml:id="gibralfaro">
@@ -1481,11 +1489,8 @@ va   </place>
       <settlement type="country">Spain</settlement>
    </place>
    <place xml:id="gate_atarazanas">
-      <placeName xml:lang="en" sameAs="xx">Gate of the Atarrazanas</placeName>
-      <settlement type="country">Spain</settlement>
-   </place>
-   <place xml:id="gate_malaga">
-      <placeName xml:lang="en" sameAs="xx">Marble Gate at Malaga</placeName>
+      <placeName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q106989774">Gate of the Atarrazanas</placeName>
+      <placeName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q106989774">Marble Gate at Malaga</placeName>
       <settlement type="country">Spain</settlement>
    </place>
    <place xml:id="pardo">
@@ -1551,7 +1556,7 @@ va   </place>
       <settlement type="country">Spain</settlement>
    </place>
    <place xml:id="castel_gordo">
-      <placeName xml:lang="en" sameAs="xx">Castel Gordo</placeName>
+      <placeName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q28065814">Castel Gordo</placeName>
       <settlement type="country">Spain</settlement>
    </place>
    <place xml:id="cerro_san_cristobal">
@@ -1563,7 +1568,7 @@ va   </place>
       <settlement type="country">Spain</settlement>
    </place>
    <place xml:id="cazlona">
-      <placeName xml:lang="en" sameAs="xx">Montes de Cazlona</placeName>
+      <placeName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q7511639">Montes de Cazlona</placeName>
       <settlement type="country">Spain</settlement>
    </place>
    <place xml:id="talavera_reina">
@@ -1663,7 +1668,7 @@ va   </place>
       <settlement type="country">Portugal</settlement>
    </place>
    <place xml:id="buenos_ayres">
-      <placeName xml:lang="en" sameAs="xx">Buenos ayres</placeName>
+      <placeName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q652613">Buenos ayres</placeName>
       <settlement type="country">Portugal</settlement>
    </place>
    <place xml:id="atlantic">
