@@ -105,7 +105,7 @@
       <settlement type="country">Spain</settlement>
    </place>
    <place xml:id="rastro">
-      <placeName xml:lang="en" sameAs="xx">Rastro</placeName>
+      <placeName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q115508740">Rastro</placeName>
       <settlement type="country">Spain</settlement>
    </place>
    <place xml:id="hierreria">
@@ -778,7 +778,7 @@
       <settlement type="country">Spain</settlement>
    </place>  
    <place xml:id="castle_martos">
-      <placeName xml:lang="en" sameAs="">CASTLE MARTOS</placeName>
+      <placeName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q33403131">CASTLE MARTOS</placeName>
       <settlement type="country">Spain</settlement>
    </place>  
    <place xml:id="torredelcampo">
@@ -806,7 +806,7 @@
       <settlement type="country">Spain</settlement>
    </place>
    <place xml:id="mentesa">
-      <placeName xml:lang="en" sameAs="">Mentesa</placeName>
+      <placeName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q1526887">Mentesa</placeName>
       <settlement type="country">Spain</settlement>
    </place>
    <place xml:id="castle_de_hicbin">
@@ -818,7 +818,7 @@
       <settlement type="country">Spain</settlement>
    </place>
    <place xml:id="castillo_de_alcala">
-      <placeName xml:lang="en" sameAs="">Castillo de Alcala</placeName>
+      <placeName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q10861762">Castillo de Alcala</placeName>
       <settlement type="country">Spain</settlement>
    </place>
    <place xml:id="castillo_de_las_agilas">
@@ -847,11 +847,11 @@
       <settlement type="country">Spain</settlement>
    </place>
    <place xml:id="turkey">
-      <placeName xml:lang="en" sameAs="">Turkey</placeName>
+      <placeName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q43">Turkey</placeName>
       <settlement type="country">Spain</settlement>
    </place>
    <place xml:id="sierra_de_aguilla">
-      <placeName xml:lang="en" sameAs="">Sierra de Aguilla</placeName>
+      <placeName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q27916552">Sierra de Aguilla</placeName>
       <settlement type="country">Spain</settlement>
    </place>
    <place xml:id="castille">
@@ -863,7 +863,7 @@
       <settlement type="country">Spain</settlement>
    </place>
    <place xml:id="aguila">
-      <placeName xml:lang="en" sameAs="">AGUILA</placeName>
+      <placeName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q249941">AGUILA</placeName>
       <settlement type="country">Spain</settlement>
    </place>
    <place xml:id="alcala">
@@ -887,7 +887,7 @@
       <settlement type="country">Spain</settlement>
    </place>
    <place xml:id="covarrubios">
-      <placeName xml:lang="en" sameAs="">Covarrubios</placeName>
+      <placeName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q1109944">Covarrubios</placeName>
       <settlement type="country">Spain</settlement>
    </place>
    <place xml:id="velilla">
@@ -895,7 +895,7 @@
       <settlement type="country">Spain</settlement>
    </place>
    <place xml:id="m_elvira">
-      <placeName xml:lang="en" sameAs="">Elvira</placeName>
+      <placeName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q5685282">Elvira</placeName>
       <settlement type="country">Spain</settlement>
    </place>
    <place xml:id="fuente_del_pino">
@@ -927,7 +927,7 @@
       <settlement type="country">Spain</settlement>
    </place> 
    <place xml:id="cartuja">
-      <placeName xml:lang="en" sameAs="">Cartuja</placeName>
+      <placeName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q3207073">Cartuja</placeName>
       <settlement type="country">Spain</settlement>
    </place>  
    <place xml:id="albolote">
@@ -951,7 +951,7 @@
       <settlement type="country">Spain</settlement>
    </place>  
    <place xml:id="plaza_de_bibarrambla">
-      <placeName xml:lang="en" sameAs="">plaza de Bivarambla</placeName>
+      <placeName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q6079430">plaza de Bivarambla</placeName>
       <settlement type="country">Spain</settlement>
    </place> 
    <place xml:id="fount_of_the_leoncillo">
@@ -967,11 +967,11 @@
       <settlement type="country">Spain</settlement>
    </place>  
    <place xml:id="plaza_nueva">
-      <placeName xml:lang="en" sameAs="">Plaza Nueva</placeName>
+      <placeName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q113366105">Plaza Nueva</placeName>
       <settlement type="country">Spain</settlement>
    </place>  
    <place xml:id="st_miguel">
-      <placeName xml:lang="en" sameAs="">St. Miguel</placeName>
+      <placeName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q13198000">St. Miguel</placeName>
       <settlement type="country">Spain</settlement>
    </place>  
    <place xml:id="albaicin">
@@ -1060,11 +1060,11 @@
       <settlement type="country">United Kingdom</settlement>
    </place>  
    <place xml:id="smaria">
-      <placeName xml:lang="en" sameAs="">S. Maria</placeName>
+      <placeName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q15541">S. Maria</placeName>
       <settlement type="country">Spain</settlement>
    </place>
    <place xml:id="silves">
-      <placeName xml:lang="en" sameAs="">Silves</placeName>
+      <placeName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q13050191">Silves</placeName>
       <settlement type="country">Spain</settlement>
    </place> 
    <place xml:id="algeciras">
@@ -1106,7 +1106,7 @@
       <settlement type="country">Spain</settlement>
    </place>  
    <place xml:id="betis">
-      <placeName xml:lang="en" sameAs="">Betis</placeName>
+      <placeName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q14309">Betis</placeName>
       <settlement type="country">Spain</settlement>
    </place> 
    <place xml:id="almenara">
@@ -1114,11 +1114,11 @@
       <settlement type="country">Spain</settlement>
    </place>  
    <place xml:id="castel_jaen">
-      <placeName xml:lang="en" sameAs="">castle of Jaen</placeName>
+      <placeName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q5050416">castle of Jaen</placeName>
       <settlement type="country">Spain</settlement>
    </place> 
    <place xml:id="river_jaen">
-      <placeName xml:lang="en" sameAs="">river of Jaen</placeName>
+      <placeName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q6115281">river of Jaen</placeName>
       <settlement type="country">Spain</settlement>
    </place>  
    <place xml:id="granena">
@@ -1138,7 +1138,7 @@
       <settlement type="country">Spain</settlement>
    </place>  
    <place xml:id="masana">
-      <placeName xml:lang="en" sameAs="">Masana</placeName>
+      <placeName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q1641553">Masana</placeName>
       <settlement type="country">Spain</settlement>
    </place>  
    <place xml:id="campillo_de_arenas">
@@ -1319,11 +1319,11 @@ va   </place>
    </place>  
    
    <place xml:id="moorish_palace">
-      <placeName xml:lang="en" sameAs="">the Moorish palace</placeName>
+      <placeName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q1049008">the Moorish palace</placeName>
       <settlement type="country">England</settlement>
    </place>   
    <place xml:id="Colares">
-      <placeName xml:lang="en" sameAs="">Collares</placeName>
+      <placeName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q1107623">Collares</placeName>
       <settlement type="country">England</settlement>
    </place>    
    <place xml:id="abrantes">
@@ -1413,7 +1413,7 @@ va   </place>
       <settlement type="country">Portugal</settlement>
    </place>    
    <place xml:id="rua_nova_de_almada">
-      <placeName xml:lang="en" sameAs="">Rua nova de almada</placeName>
+      <placeName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q10364899">Rua nova de almada</placeName>
       <settlement type="country">Portugal</settlement>
    </place>    
    <place xml:id="palace_duke_alcala">
@@ -1441,7 +1441,7 @@ va   </place>
       <settlement type="country">Spain</settlement>
    </place>  
    <place xml:id="tanjer">
-      <placeName xml:lang="en" sameAs="">Tanjer</placeName>
+      <placeName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q126148">Tanjer</placeName>
       <settlement type="country">Spain</settlement>
    </place>   
    <place xml:id="ataulpho">
@@ -1449,7 +1449,7 @@ va   </place>
       <settlement type="country">Spain</settlement>
    </place>  
    <place xml:id="torre_de_piedra">
-      <placeName xml:lang="en" sameAs="">Torre de la piedra</placeName>
+      <placeName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q99039547">Torre de la piedra</placeName>
       <settlement type="country">Spain</settlement>
    </place>   
    <place xml:id="stone_tower">
@@ -1457,11 +1457,11 @@ va   </place>
       <settlement type="country">Spain</settlement>
    </place>    
    <place xml:id="cabo_di_gata">
-      <placeName xml:lang="en" sameAs="">Cabo di Gata</placeName>
+      <placeName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q97598967">Cabo di Gata</placeName>
       <settlement type="country">Spain</settlement>
    </place>   
    <place xml:id="damascus">
-      <placeName xml:lang="en" sameAs="">Damascus</placeName>
+      <placeName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q3766">Damascus</placeName>
       <settlement type="country">Spain</settlement>
    </place>    
    <place xml:id="irak">
