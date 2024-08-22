@@ -16,6 +16,11 @@
          </sourceDesc>
       </fileDesc>
    </teiHeader>
+   <facsimile>
+      <surface xml:id="zone_Page_185">
+         <graphic url="https://iiif.bsr.ac.uk/iiif/2/GELL-VI%2Fwg_06_185.tif/full/full/0/default.jpg"/>
+      </surface>
+   </facsimile>
    <text>
       <front>
          <div type="cover">
@@ -32,7 +37,7 @@
             <ab> </ab>
          </div>
          <div type="reading_notes">
-            <pb facs="#f-185" n="185"/>
+            <pb facs="#zone_Page_185" n="185"/>
             <fw>18</fw>
             <!-- citation starts here -->
             <ab>Codex Arabico Latinus Alcorani confutatio. Auctor P. Dominicus Germanus de

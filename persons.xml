@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<listPerson >
+<listPerson xmlns="http://www.tei-c.org/ns/1.0">
   <person xml:id="abubaker">
      <persName xml:lang="en" sameAs="xx">Abu Baker Mohamad Ben Abrahim Almari Alcarschi</persName>
   </person>
@@ -338,9 +338,6 @@
   <person xml:id="godoy">
     <persName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q316110">Godoy</persName>
   </person>
-  <person xml:id="marmol">
-    <persName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q3074895">marmol</persName>
-  </person>
   <person xml:id="fleming">
     <persName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q5077380">Captain Fleming</persName>
   </person>
@@ -348,24 +345,11 @@
     <persName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q335624">Abu'l-Hasan Ali ibn Sa'd</persName>
     <persName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q335624">muley Hassan</persName>
   </person>
-  <person xml:id="charles_elphinstone_fleeming">
-    <persName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q5077380">Adm Flemings</persName>
-  </person>
-  <person xml:id="alejandro_o'reilly">
-    <persName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q103873623">Count o Reilly</persName>
-  </person>
   <person xml:id="john_hookham_frere">
     <persName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q6239771">Mr Frere</persName>
   </person>
-  <person xml:id="muhammad_xiii">
-    <persName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q1377360">El Zagal</persName>
-    <persName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q1377360">Zagal</persName>
-  </person>
   <person xml:id="aixa">
     <persName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q2741906">Aixa</persName>
-  </person>
-  <person xml:id="adelazri">
-    <persName xml:lang="en" sameAs="xx">Heschamo Ben Adelazri</persName>
   </person>
   <person xml:id="muhammad_xii">
     <persName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q312763">Abu Abdallah</persName>
@@ -388,12 +372,6 @@
     <persName xml:lang="en" sameAs="xx">Count Henriquez Tuera</persName>
   </person>
   
-  <person xml:id="king_alfonso_x">
-    <persName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q47595">Rey Don Alfonso el Sabio</persName>
-    <persName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q47595">King Don Alfonso the Wise</persName>
-    <persName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q47595">Rey Alfonso</persName>
-    <persName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q47595">Alfonso X</persName>
-  </person>
   <person xml:id="felipe_iii">
     <persName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q34464">Felipe III</persName>
     <persName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q34464">Philip III</persName>
@@ -413,97 +391,28 @@
     <persName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q76760183">el monge Vigila</persName>
     <persName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q76760183">monk Vigila</persName>
   </person>
-  <person xml:id="senorsor">
-    <persName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q254110">Señor Sor</persName>
-  </person>
-  <person xml:id="king_juseph">
-    <persName xml:lang="en" sameAs="xx">Juseph K<hi rend="sueprscript">g</hi> of Granada</persName>
-    <persName xml:lang="en" sameAs="xx">Juseph</persName>
-  </person>
-  <person xml:id="mahomet">
-    <persName xml:lang="en" sameAs="xx">Mahomet</persName>
-  </person>
-  <person xml:id="king_donjuan">
-    <persName xml:lang="en" sameAs="xx">K<hi rend="sueprscript">g</hi>Don Juan</persName>
-  </person>
-  <person xml:id="fernando_aragon">
-    <persName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q47412">Infante</persName>
-  </person>
-  <person xml:id="sancho_rojas">
-    <persName xml:lang="en" sameAs="xx">Sancho de Rojas Bishop of Palencia</persName>
-  </person>
-  <person xml:id="velasquez">
-    <persName xml:lang="en" sameAs="xx">Martin Velasquez</persName>
-  </person>
-  <person xml:id="avedano">
-    <persName xml:lang="en" sameAs="xx">Martyn Ruys de Avedaño</persName>
-  </person>
-  <person xml:id="gors_coachman_duchess">
-    <persName xml:lang="en" sameAs="xx">Duquesa de<note type="translation">Duchess of</note> Gor’s Coachman</persName>
-  </person>
-  <person xml:id="general_dejuan">
-    <persName xml:lang="en" sameAs="xx"><choice><abbr>Gen<hi rend="superscript">l</hi></abbr>
-      <expan>General</expan></choice> De Juan</persName>
-  </person>
   <person xml:id="abul_hagig">
     <persName xml:lang="en" sameAs="xx">Abul Hagig</persName>
     <persName xml:lang="en" sameAs="xx">Abul Hagig King</persName>
   </person>
-  <person xml:id="yusef">
-    <persName xml:lang="en" sameAs="xx">Yusef</persName>
-  </person>
-  <person xml:id="alonzo_xi">
-    <persName xml:lang="en" sameAs="xx">Alonzo XI <choice><abbr>K<hi rend="superscript">g</hi> Castilla</abbr><expan>King of Castile</expan></choice></persName>
-  </person>
-  <person xml:id="duke_wellington">
-    <persName xml:lang="en" sameAs="xx">Duke of Wellington</persName>
-  </person>
-  <person xml:id="godoy">
-    <persName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q316110">Godoy</persName>
-  </person>
   <person xml:id="marmol">
     <persName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q3074895">marmol</persName>
-  </person>
-  <person xml:id="fleming">
-    <persName xml:lang="en" sameAs="xx">Captain Fleming</persName>
-  </person>
-  <person xml:id="muley_hacen">
-    <persName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q335624">Abu'l-Hasan Ali ibn Sa'd</persName>
-    <persName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q335624">muley Hassan</persName>
   </person>
   <person xml:id="charles_elphinstone_fleeming">
     <persName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q5077380">Adm Flemings</persName>
   </person>
-  <person xml:id="alejandro_o'reilly">
+  <person xml:id="alejandro_o_reilly">
     <persName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q103873623">Count o Reilly</persName>
-  </person>
-  <person xml:id="john_hookham_frere">
-    <persName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q6239771">Mr Frere</persName>
   </person>
   <person xml:id="muhammad_xiii">
     <persName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q1377360">El Zagal</persName>
     <persName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q1377360">Zagal</persName>
   </person>
-  <person xml:id="aixa">
-    <persName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q2741906">Aixa</persName>
-  </person>
   <person xml:id="adelazri">
     <persName xml:lang="en" sameAs="xx">Heschamo Ben Adelazri</persName>
   </person>
-  <person xml:id="mahomed_ben_juseph">
-    <persName xml:lang="en" sameAs="xx">Mahomed ben Juseph</persName>
-  </person>
   <person xml:id="muhammad_xii_of_granada">
     <persName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q312763">Re Chicos</persName>
-  </person>
-  <person xml:id="john_beresford">
-    <persName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q6661642">Cap Beresford</persName>
-  </person>
-  <person xml:id="ld_wellington">
-    <persName xml:lang="en" sameAs="xx">Ld Wellington</persName>
-  </person>
-  <person xml:id="henriquez_tuera">
-    <persName xml:lang="en" sameAs="xx">Count Henriquez Tuera</persName>
   </person>
   
   <person xml:id="king_alfonso_x">
@@ -580,7 +489,6 @@
     <persName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q254110">Señor Sor</persName>
   </person>
   
-=======
   <person xml:id="zegri">
     <persName xml:lang="en" sameAs="xx">Zegri</persName>
   </person> 
@@ -597,16 +505,13 @@
     <persName xml:lang="en" sameAs="xx">Abu Jacub</persName>
   </person>  
   
-  <person xml:id="ld_wellington">
-    <persName xml:lang="en" sameAs="">Ld Wellington</persName>
-  </person>   
   <person xml:id="andre_massena">
     <persName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q43222118">André Masséna</persName>
   </person>   
-  <person xml:id="marques_romana﻿">
+  <person xml:id="marques_romana">
     <persName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q717699">Marques Romana</persName>
   </person>  
-  <person xml:id="﻿marshal_beresford">
+  <person xml:id="marshal_beresford">
     <persName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q332633">Marshal Beresford</persName>
   </person>   
   <person xml:id="sir_brent_spencer">
@@ -615,7 +520,7 @@
   <person xml:id="senor_lopez">
     <persName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q112521910">Señor Lopez</persName>
   </person>  
-  <person xml:id="mff_berkeley﻿">
+  <person xml:id="mff_berkeley">
     <persName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q11771724">Maurice Frederick FitzHardinge Berkeley</persName>
   </person>  
   <person xml:id="abu_al_qasim">
@@ -664,9 +569,6 @@
   </person>  
   <person xml:id="rey_chicho_granada">
     <persName xml:lang="en" sameAs="xx">Rey Chico de Granada</persName>
-  </person>  
-  <person xml:id="john_beresford">
-    <persName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q6661642">John Beresford</persName>
   </person>  
   <person xml:id="william_cobbett">
     <persName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q2141938">William Cobbett</persName>
@@ -887,9 +789,6 @@
   <person xml:id="edward_gibbon">
     <persName xml:lang="en" sameAs="xx">Edward Gibbon</persName>
   </person>   
-  <person xml:id="josiah_conder">
-    <persName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q6290456">Josiah Conder</persName>
-  </person>  
   <person xml:id="pedro_rodriguez">
     <persName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q636533">Pedro Rodríguez, Count of Campomanes (1723-1802)</persName>
   </person>   

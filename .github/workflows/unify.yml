@@ -14,7 +14,7 @@ jobs:
       - run: |
          echo "Generating the index file..."
          echo "<files>" > a.xml
-         find xml -type f | while read LINE; do
+         find xml -type f | sort -u | grep xml$ | while read LINE; do
            echo "<file>$LINE</file>" >> a.xml
          done
          echo "</files>" >> a.xml

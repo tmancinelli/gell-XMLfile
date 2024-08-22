@@ -16,6 +16,11 @@
          </sourceDesc>
       </fileDesc>
    </teiHeader>
+   <facsimile>
+      <surface xml:id="zone_Page_169">
+         <graphic url="https://iiif.bsr.ac.uk/iiif/2/GELL-VI%2Fwg_06_169.tif/full/full/0/default.jpg"/>
+      </surface>
+   </facsimile>
    <text>
       <front>
          <div type="cover">
@@ -34,7 +39,7 @@
             <ab> </ab>
          </div>
          <div type="reading_notes">
-            <pb facs="#f-169" n="169"/>
+            <pb facs="#zone_Page_169" n="169"/>
             <fw>36</fw>
             
             <cb/>

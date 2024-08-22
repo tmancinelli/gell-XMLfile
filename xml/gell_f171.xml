@@ -16,6 +16,11 @@
          </sourceDesc>
       </fileDesc>
    </teiHeader>
+   <facsimile>
+      <surface xml:id="zone_Page_171">
+         <graphic url="https://iiif.bsr.ac.uk/iiif/2/GELL-VI%2Fwg_06_171.tif/full/full/0/default.jpg"/>
+      </surface>
+   </facsimile>
    <text>
       <front>
          <div type="cover">
@@ -32,7 +37,7 @@
             <ab> </ab>
          </div>
          <div type="reading_notes">
-            <pb facs="#f-171" n="171"/>
+            <pb facs="#zone_Page_171" n="171"/>
             <fw>34</fw>
             <cb/>
             <note type="editorial">Extracts from/summary of <bibl>Conde, Historia de la dominacion,

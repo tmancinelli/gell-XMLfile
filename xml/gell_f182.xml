@@ -16,6 +16,11 @@
          </sourceDesc>
       </fileDesc>
    </teiHeader>
+   <facsimile>
+      <surface xml:id="zone_Page_182">
+         <graphic url="https://iiif.bsr.ac.uk/iiif/2/GELL-VI%2Fwg_06_182.tif/full/full/0/default.jpg"/>
+      </surface>
+   </facsimile>
    <text>
       <front>
          <div type="cover">
@@ -32,7 +37,7 @@
             <ab> </ab>
          </div>
          <div type="reading_notes">
-            <pb facs="#f-182" n="182"/>
+            <pb facs="#zone_Page_182" n="182"/>
             <fw>21</fw>
             <label><hi rend="underline">Arabian Spanish names &amp;c</hi></label>
             <!-- citation starts here -->

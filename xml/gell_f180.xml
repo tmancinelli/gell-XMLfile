@@ -16,6 +16,11 @@
          </sourceDesc>
       </fileDesc>
    </teiHeader>
+   <facsimile>
+      <surface xml:id="zone_Page_180">
+         <graphic url="https://iiif.bsr.ac.uk/iiif/2/GELL-VI%2Fwg_06_180.tif/full/full/0/default.jpg"/>
+      </surface>
+   </facsimile>
    <text>
       <front>
          <div type="cover">
@@ -32,7 +37,7 @@
             <ab> </ab>
          </div>
          <div type="reading_notes">
-            <pb facs="#f-180" n="180"/>
+            <pb facs="#zone_Page_180" n="180"/>
             <fw>23</fw>
             <label>NAMES OF MOORISH TOWNS K<hi rend="superscript">g</hi>dom of GRANADA</label>
             <!-- citation starts here -->

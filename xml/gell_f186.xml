@@ -16,6 +16,11 @@
          </sourceDesc>
       </fileDesc>
    </teiHeader>
+   <facsimile>
+      <surface xml:id="zone_Page_186">
+         <graphic url="https://iiif.bsr.ac.uk/iiif/2/GELL-VI%2Fwg_06_186.tif/full/full/0/default.jpg"/>
+      </surface>
+   </facsimile>
    <text>
       <front>
          <div type="cover">
@@ -33,7 +38,7 @@
             <ab> </ab>
          </div>
          <div type="reading_notes">
-            <pb facs="#f-186" n="186"/>
+            <pb facs="#zone_Page_186" n="186"/>
             <fw>17</fw>
             <ab>vid p38 history early<note type="editorial">WG's page 38 of this notebook (pag 167): brief history of the Goths in Spain.</note></ab>
             

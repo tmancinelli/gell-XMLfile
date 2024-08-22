@@ -16,6 +16,11 @@
          </sourceDesc>
       </fileDesc>
    </teiHeader>
+   <facsimile>
+      <surface xml:id="zone_Page_184">
+         <graphic url="https://iiif.bsr.ac.uk/iiif/2/GELL-VI%2Fwg_06_184.tif/full/full/0/default.jpg"/>
+      </surface>
+   </facsimile>
    <text>
       <front>
          <div type="cover">
@@ -32,7 +37,7 @@
             <ab> </ab>
          </div>
          <div type="reading_notes">
-            <pb facs="#f-184" n="184"/>
+            <pb facs="#zone_Page_184" n="184"/>
             <fw>19</fw>
             <!-- citation starts here -->
             <ab>In a Toletan MS of Galen is a note Dn<hi rend="superscript">o</hi> Moyse Susani

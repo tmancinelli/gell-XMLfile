@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<listPlace >
+<listPlace xmlns="http://www.tei-c.org/ns/1.0">
    <place xml:id="greece">
       <placeName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q41">Greece</placeName> 
       <settlement type="country">Greece</settlement>
@@ -415,10 +415,6 @@
       <placeName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q581532">Bridge of Alcantara</placeName>
       <settlement type="country">Spain</settlement>
    </place>
-   <place xml:id="egypt">
-      <placeName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q79">Egypt</placeName>
-      <settlement type="country">Egypt</settlement>
-   </place>
    <place xml:id="tagus">
       <placeName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q14294">Tajo</placeName>
       <placeName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q14294">Tagus</placeName>
@@ -665,7 +661,7 @@
       <placeName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q1002793">Llangollen</placeName>
       <settlement type="country">United Kingdom</settlement>
    </place>
-   <place xml:id="granada alhama">
+   <place xml:id="granada_alhama">
       <placeName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q501674">Alhama</placeName>
       <settlement type="country">Spain</settlement>
    </place>
@@ -753,10 +749,6 @@
       <placeName xml:lang="en" sameAs="">Visillo</placeName>
       <settlement type="country">Spain</settlement>
    </place> 
-   <place xml:id="guadalquivir">
-      <placeName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q14309">Guadalquivir</placeName>
-      <settlement type="country">Spain</settlement>
-   </place>  
    <place xml:id="andalusia">
       <placeName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q5783">Andalusia</placeName>
       <settlement type="country">Spain</settlement>
@@ -837,7 +829,7 @@
       <placeName xml:lang="en" sameAs="">Castillo de duelo</placeName>
       <settlement type="country">Spain</settlement>
    </place>
-   <place xml:id="servilla﻿">
+   <place xml:id="servilla">
       <placeName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q8717">Sevilla</placeName>
       <placeName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q8717">Seville</placeName>
       <settlement type="country">Spain</settlement>
@@ -1035,7 +1027,7 @@
       <placeName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q222702">Tarifa</placeName>
       <settlement type="country">Spain</settlement>
    </place> 
-   <place xml:id="europa_point﻿">
+   <place xml:id="europa_point">
       <placeName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q658246">Europa point</placeName>
       <settlement type="country">Spain</settlement>
    </place>  
@@ -1129,7 +1121,7 @@
       <placeName xml:lang="en" sameAs="">mosque Cordova</placeName>
       <settlement type="country">Spain</settlement>
    </place>  
-   <place xml:id="cordova﻿">
+   <place xml:id="cordova">
       <placeName xml:lang="pt" sameAs="https://www.wikidata.org/wiki/Q79607">Cordova</placeName>
       <settlement type="country">Spain</settlement>
    </place>  
@@ -1148,7 +1140,7 @@
    <place xml:id="ubeda">
       <placeName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q329984">Ubeda</placeName>
       <settlement type="country">Spain</settlement>
-va   </place>
+   </place>
    <place xml:id="torre_de_siete_suelos">
       <placeName xml:lang="en" sameAs="">torre de siete suelos</placeName>
       <settlement type="country">Spain</settlement>
@@ -1174,10 +1166,6 @@ va   </place>
       <placeName xml:lang="en" sameAs="">Puerta de Hierro</placeName>
       <settlement type="country">Spain</settlement>
    </place>   
-   <place xml:id="tangiers">
-      <placeName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q126148">Tangiers</placeName>
-      <settlement type="country">Spain</settlement>
-   </place>    
    <place xml:id="sala_de_las_2">
       <placeName xml:lang="en" sameAs="">Sala de las 2 Hermanas</placeName>
       <settlement type="country">Spain</settlement>
@@ -1190,10 +1178,6 @@ va   </place>
    <place xml:id="cacilhas">
       <placeName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q1025051">Cacilhas</placeName>
       <settlement type="country">Portugal</settlement>
-   </place>   
-   <place xml:id="belem">
-      <placeName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q18500330">Belem</placeName>
-      <settlement type="country">Spain</settlement>
    </place>   
    <place xml:id="pero_negro">
       <placeName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q10348730">Pero Negro</placeName>
@@ -1305,10 +1289,6 @@ va   </place>
       <placeName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q841304">Cartaxo</placeName>
       <settlement type="country">Portugal</settlement>
    </place>   
-   <place xml:id="queluz">
-      <placeName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q14808749">Queluz</placeName>
-      <settlement type="country">Portugal</settlement>
-   </place>   
    <place xml:id="santarem">
       <placeName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q273877">Santarem</placeName>
       <settlement type="country">Portugal</settlement>
@@ -1396,7 +1376,7 @@ va   </place>
       <placeName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q10400">Almeria</placeName>
       <settlement type="country">Spain</settlement>
    </place>    
-   <place xml:id="zahira">
+   <place xml:id="zahira_place">
       <placeName xml:lang="en" sameAs="">Zahira hija de Abu Abdala Juzef</placeName>
       <settlement type="country">England</settlement>
    </place>    
@@ -1478,10 +1458,6 @@ va   </place>
    </place> 
    <place xml:id="valladolid">
       <placeName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q8356">Valladolid</placeName>
-      <settlement type="country">Spain</settlement>
-   </place>
-   <place xml:id="malaga">
-      <placeName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q8851">Málaga</placeName>
       <settlement type="country">Spain</settlement>
    </place>
    <place xml:id="galvez">

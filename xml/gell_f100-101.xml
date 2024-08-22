@@ -16,6 +16,11 @@
          </sourceDesc>
       </fileDesc>
    </teiHeader>
+   <facsimile>
+      <surface xml:id="zone_Page_100">
+         <graphic url="https://iiif.bsr.ac.uk/iiif/2/GELL-VI%2Fwg_06_100.tif/full/full/0/default.jpg"/>
+      </surface>
+   </facsimile>
    <text>
       <front>
          <div type="cover">
@@ -28,7 +33,7 @@
 
       <body>
          <div type="spain">
-            <pb facs="#f-100" n="0100"/>
+            <pb facs="#zone_Page_100" n="100"/>
             <figure type="print" facs="xxx">
                <!-- this is a print, an extract of a newspaper that Gell has included in his notebook -->
                <label>NOTICE.</label>

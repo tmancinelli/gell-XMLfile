@@ -16,6 +16,11 @@
          </sourceDesc>
       </fileDesc>
    </teiHeader>
+   <facsimile>
+      <surface xml:id="zone_Page_99">
+         <graphic url="https://iiif.bsr.ac.uk/iiif/2/GELL-VI%2Fwg_06_099.tif/full/full/0/default.jpg"/>
+      </surface>
+   </facsimile>
    <text>
       <front>
          <div type="cover">
@@ -28,7 +33,7 @@
 
       <body>
          <div type="spain">
-            <pb facs="#f-099" n="099"/>
+            <pb facs="#zone_Page_99" n="099"/>
             <note type="editorial">Blank page, with parts of pag 103 visible</note>
          </div>
          <div type="portugal">

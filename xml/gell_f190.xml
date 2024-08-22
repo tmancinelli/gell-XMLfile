@@ -16,6 +16,11 @@
          </sourceDesc>
       </fileDesc>
    </teiHeader>
+   <facsimile>
+      <surface xml:id="zone_Page_190">
+         <graphic url="https://iiif.bsr.ac.uk/iiif/2/GELL-VI%2Fwg_06_190.tif/full/full/0/default.jpg"/>
+      </surface>
+   </facsimile>
    <text>
       <front>
          <div type="cover">
@@ -33,7 +38,7 @@
             <ab> </ab>
          </div>
          <div type="reading_notes">
-            <pb facs="#f-190" n="190"/>
+            <pb facs="#zone_Page_190" n="190"/>
             <fw>13</fw>
             <!-- in pencil --><ab>Quarter of a Spanish Vara</ab>
             <!-- in pencil --><ab>9 8 7 6 5 4 3 2 1 <note type="editorial">measured ruler</note></ab>

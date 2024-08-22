@@ -41,15 +41,15 @@
             <pb facs="#zone_Page_158" n="158"/>
             <fw>47</fw>
             
-            <opener><salute>Valeroso Hijodalgo</salute></opener>
+            <ab>Valeroso Hijodalgo</ab>
             <p>Muy bien se muestra en tu virtud la nobleza de tu sangre. Leida la carta hize tocar
                trompetas y añafiles en regozijo de tu convite y se convino entre todas las donzellas
                de mi linage, que gozosas iremos con tigo al sarao dispuesto por el noble Caballero
                que da las Fiestas y Zambras</p> 
             <p>Ala te embio bonanza y queda con el.</p>
-            <closer> No mas <dateline> De la Alhambra</dateline>
-               <signed><rs type="person" ref="#daraxa">Daraxa</rs> Pariente del <rs type="person"
-                  ref="#el_ray_chico">Rey Chico de Granada</rs></signed></closer>
+            <ab> No mas De la Alhambra
+               <rs type="person" ref="#daraxa">Daraxa</rs> Pariente del <rs type="person"
+                  ref="#el_ray_chico">Rey Chico de Granada</rs></ab>
             <note type="translation"> Brave Gentleman <note type="editorial">hidalgo</note> The
                nobility of your blood shows very well in your virtue. Having read the letter, I made
                the trumpets and añafiles <note type="editorial">long, straight Moorish
