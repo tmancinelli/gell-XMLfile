@@ -24,7 +24,7 @@ jobs:
          cp scripts/unifier.xql .
          xqilla unifier.xql > output.xml
 
-      - uses: actions/upload-artifact@v3
+      - uses: actions/upload-artifact@v4
         with:
           name: XML-TEI
           path: output.xml
