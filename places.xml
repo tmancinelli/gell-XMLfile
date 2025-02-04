@@ -139,8 +139,8 @@
       <settlement type="country">Spain</settlement>
    </place>
    <place xml:id="cerrodelcastro">
-      <placeName xml:lang="en" sameAs="xx">Cerro del Castro</placeName>
-      <placeName xml:lang="en" sameAs="xx">Sierra del Castro</placeName>
+      <placeName xml:lang="en">Cerro del Castro</placeName>
+      <placeName xml:lang="en">Sierra del Castro</placeName>
       <settlement type="country">Spain</settlement>
    </place>   
    <place xml:id="astorga">
@@ -256,8 +256,8 @@
       <settlement type="country">Spain</settlement>
    </place>   
    <place xml:id="villadefrailes">
-      <placeName xml:lang="en" sameAs="xx">Villa de Frayles</placeName>
-      <placeName xml:lang="en" sameAs="xx">Villa de Frailes</placeName>
+      <placeName xml:lang="en">Villa de Frayles</placeName>
+      <placeName xml:lang="en">Villa de Frailes</placeName>
       <settlement type="country">Spain</settlement>
    </place>   
    <place xml:id="montesdetorozos">
@@ -324,11 +324,11 @@
       <settlement type="country">Spain</settlement>
    </place>   
    <place xml:id="portasego">
-      <placeName xml:lang="en" sameAs="xx">Port Asego</placeName>
+      <placeName xml:lang="en">Port Asego</placeName>
       <settlement type="country">Spain</settlement>
    </place>   
    <place xml:id="crucecalvario">
-      <placeName xml:lang="en" sameAs="xx">La cruce cruz del Calvario</placeName>
+      <placeName xml:lang="en">La cruce cruz del Calvario</placeName>
       <settlement type="country">Spain</settlement>
    </place>   
    <place xml:id="labajos">
@@ -341,7 +341,7 @@
       <settlement type="country">Spain</settlement>
    </place>   
    <place xml:id="rivercardenia">
-      <placeName xml:lang="en" sameAs="xx">Cardenia River</placeName>
+      <placeName xml:lang="en">Cardenia River</placeName>
       <settlement type="country">Spain</settlement>
    </place>   
    <place xml:id="navasdesanantonio">
@@ -367,7 +367,7 @@
       <settlement type="country">Spain</settlement>
    </place>   
    <place xml:id="santamariadelosangeles">
-      <placeName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q5911872">Church of <choice><abbr>S<hi rend="superscript">ta</hi><expan>Santa</expan></abbr></choice> Maria de los Angeles</placeName>
+      <placeName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q5911872">Church of Santa Maria de los Angeles</placeName>
       <placeName xml:lang="en" sameAs="https://www.wikidata.org/wiki/Q5911872"><choice><abbr>+</abbr><expan>church</expan></choice> of La Vergine<note type="editorial">Virgen</note> de los Angeles</placeName>
       <settlement type="country">Spain</settlement>
    </place>
@@ -453,7 +453,7 @@
       <settlement type="country">Spain</settlement>
    </place>
    <place xml:id="puerto_flaminges">
-      <placeName xml:lang="en" sameAs="xx">Puerto de Flaminges</placeName>
+      <placeName xml:lang="en">Puerto de Flaminges</placeName>
       <settlement type="country">Spain</settlement>
    </place>
    <place xml:id="anover_tajo">
@@ -482,7 +482,7 @@
       <settlement type="country">Spain</settlement>
    </place>
    <place xml:id="palace_rodrigo">
-      <placeName xml:lang="en" sameAs="xx">The palace of Rodrigo</placeName>
+      <placeName xml:lang="en">The palace of Rodrigo</placeName>
       <settlement type="country">Spain</settlement>
    </place>
    <place xml:id="castillo_cervantes">
@@ -520,8 +520,8 @@
       <settlement type="country">Spain</settlement>
    </place>
    <place xml:id="albasch">
-      <placeName xml:lang="ar" sameAs="xx"><note type="arabic" facs="xxx"> فحص البلوط </note></placeName>
-      <placeName xml:lang="en" sameAs="xx">Albasch</placeName>
+      <placeName xml:lang="ar"><note type="arabic" facs="xxx"> فحص البلوط </note></placeName>
+      <placeName xml:lang="en">Albasch</placeName>
       <settlement type="country">Spain</settlement>
    </place>
    <place xml:id="hosnalzahr_penaflor">
@@ -535,8 +535,8 @@
       <settlement type="country">Spain</settlement>
    </place>
    <place xml:id="fahsalballuth">
-      <placeName xml:lang="ar" sameAs="xx"><note type="arabic" facs="xxx">البش </note></placeName>
-      <placeName xml:lang="en" sameAs="xx">FahSalballuth or Llano de la Bellotas</placeName>
+      <placeName xml:lang="ar"><note type="arabic" facs="xxx">البش </note></placeName>
+      <placeName xml:lang="en">FahSalballuth or Llano de la Bellotas</placeName>
       <settlement type="country">Spain</settlement>
    </place>
    <place xml:id="acab_lasnavas">
@@ -617,8 +617,8 @@
       <settlement type="country">Spain</settlement>
    </place>
    <place xml:id="avertura">
-      <placeName xml:lang="en" sameAs="xx">Avertura</placeName>
-      <placeName xml:lang="en" sameAs="xx">Averturas</placeName>
+      <placeName xml:lang="en">Avertura</placeName>
+      <placeName xml:lang="en">Averturas</placeName>
       <settlement type="country">Spain</settlement>
    </place>
    <place xml:id="el_escorial">
@@ -746,7 +746,7 @@
       <settlement type="country">Spain</settlement>
    </place>  
    <place xml:id="visillo">
-      <placeName xml:lang="en" sameAs="">Visillo</placeName>
+      <placeName xml:lang="en">Visillo</placeName>
       <settlement type="country">Spain</settlement>
    </place> 
    <place xml:id="andalusia">
@@ -758,7 +758,7 @@
       <settlement type="country">Spain</settlement>
    </place> 
    <place xml:id="pitch_of_dogs">
-      <placeName xml:lang="en" sameAs="">Pitch of Dogs</placeName>
+      <placeName xml:lang="en">Pitch of Dogs</placeName>
       <settlement type="country">Spain</settlement>
    </place> 
    <place xml:id="castle_of_tolosa">
@@ -802,11 +802,11 @@
       <settlement type="country">Spain</settlement>
    </place>
    <place xml:id="castle_de_hicbin">
-      <placeName xml:lang="en" sameAs="">Castillo de Hicbin</placeName>
+      <placeName xml:lang="en">Castillo de Hicbin</placeName>
       <settlement type="country">Spain</settlement>
    </place>
    <place xml:id="castle_heznalquilah">
-      <placeName xml:lang="en" sameAs="">castle HEZNALQUILAH</placeName>
+      <placeName xml:lang="en">castle HEZNALQUILAH</placeName>
       <settlement type="country">Spain</settlement>
    </place>
    <place xml:id="castillo_de_alcala">
@@ -814,19 +814,19 @@
       <settlement type="country">Spain</settlement>
    </place>
    <place xml:id="castillo_de_las_agilas">
-      <placeName xml:lang="en" sameAs="">Castillo de las Agilas</placeName>
+      <placeName xml:lang="en">Castillo de las Agilas</placeName>
       <settlement type="country">Spain</settlement>
    </place>
    <place xml:id="castillo_de_dizensiones">
-      <placeName xml:lang="en" sameAs="">Castillo de dizensiones</placeName>
+      <placeName xml:lang="en">Castillo de dizensiones</placeName>
       <settlement type="country">Spain</settlement>
    </place>
    <place xml:id="castillo_de_las_pendencias">
-      <placeName xml:lang="en" sameAs="">Castillo de las Pendencias</placeName>
+      <placeName xml:lang="en">Castillo de las Pendencias</placeName>
       <settlement type="country">Spain</settlement>
    </place>
    <place xml:id="castillo_de_duelo">
-      <placeName xml:lang="en" sameAs="">Castillo de duelo</placeName>
+      <placeName xml:lang="en">Castillo de duelo</placeName>
       <settlement type="country">Spain</settlement>
    </place>
    <place xml:id="servilla">
@@ -859,7 +859,7 @@
       <settlement type="country">Spain</settlement>
    </place>
    <place xml:id="alcala">
-      <placeName xml:lang="en" sameAs="">Alcala</placeName>
+      <placeName xml:lang="en">Alcala</placeName>
       <settlement type="country">Spain</settlement>
    </place>
    <place xml:id="puerto_lope">
@@ -899,7 +899,7 @@
       <settlement type="country">Spain</settlement>
    </place>
    <place xml:id="alhambra_amphitheatre">
-      <placeName xml:lang="en" sameAs="">Alhambra Amphitheatre</placeName>
+      <placeName xml:lang="en">Alhambra Amphitheatre</placeName>
       <settlement type="country">Spain</settlement>
    </place> 
    <place xml:id="jaen">
@@ -907,7 +907,7 @@
       <settlement type="country">Spain</settlement>
    </place> 
    <place xml:id="t_elvira">
-      <placeName xml:lang="en" sameAs="">Elvira</placeName><!-- no longer existing town -->
+      <placeName xml:lang="en">Elvira</placeName><!-- no longer existing town -->
       <settlement type="country">Spain</settlement>
    </place> 
    <place xml:id="caparacena">
@@ -927,11 +927,11 @@
       <settlement type="country">Spain</settlement>
    </place> 
    <place xml:id="calle_de_los_gomeles">
-      <placeName xml:lang="en" sameAs="">Calle de Los Gomeles</placeName>
+      <placeName xml:lang="en">Calle de Los Gomeles</placeName>
       <settlement type="country">Spain</settlement>
    </place> 
    <place xml:id="gate_of_the_granadas">
-      <placeName xml:lang="en" sameAs="">gate of the granadas</placeName>
+      <placeName xml:lang="en">gate of the granadas</placeName>
       <settlement type="country">Spain</settlement>
    </place>  
    <place xml:id="torre_de_la_campana">
@@ -947,11 +947,11 @@
       <settlement type="country">Spain</settlement>
    </place> 
    <place xml:id="fount_of_the_leoncillo">
-      <placeName xml:lang="en" sameAs="">fount of the Leoncillo</placeName>
+      <placeName xml:lang="en">fount of the Leoncillo</placeName>
       <settlement type="country">Spain</settlement>
    </place>  
    <place xml:id="puente_de_carbon">
-      <placeName xml:lang="en" sameAs="">Puente de Carbon</placeName>
+      <placeName xml:lang="en">Puente de Carbon</placeName>
       <settlement type="country">Spain</settlement>
    </place> 
    <place xml:id="calle_de_zacatin">
@@ -1032,7 +1032,7 @@
       <settlement type="country">Spain</settlement>
    </place>  
    <place xml:id="parsley">
-      <placeName xml:lang="en" sameAs="">Parsley</placeName>
+      <placeName xml:lang="en">Parsley</placeName>
       <settlement type="country">Spain</settlement>
    </place>  
    <place xml:id="palacio_de_la_contaduria">
@@ -1118,7 +1118,7 @@
       <settlement type="country">Spain</settlement>
    </place>  
    <place xml:id="mosque_cordova">
-      <placeName xml:lang="en" sameAs="">mosque Cordova</placeName>
+      <placeName xml:lang="en">mosque Cordova</placeName>
       <settlement type="country">Spain</settlement>
    </place>  
    <place xml:id="cordova">
@@ -1126,7 +1126,7 @@
       <settlement type="country">Spain</settlement>
    </place>  
    <place xml:id="cordova_gate">
-      <placeName xml:lang="en" sameAs="">Cordova gate</placeName>
+      <placeName xml:lang="en">Cordova gate</placeName>
       <settlement type="country">Spain</settlement>
    </place>  
    <place xml:id="masana">
@@ -1142,16 +1142,16 @@
       <settlement type="country">Spain</settlement>
    </place>
    <place xml:id="torre_de_siete_suelos">
-      <placeName xml:lang="en" sameAs="">torre de siete suelos</placeName>
+      <placeName xml:lang="en">torre de siete suelos</placeName>
       <settlement type="country">Spain</settlement>
    </place>  
    <place xml:id="torre_of_comares">
-      <placeName xml:lang="en" sameAs="">Tower of Comares</placeName>
+      <placeName xml:lang="en">Tower of Comares</placeName>
       <settlement type="country">Spain</settlement>
    </place>   
    <place xml:id="piaza_de_los_aljibes">
-      <placeName xml:lang="en" sameAs="">The Court of the Cisterns</placeName>
-      <placeName xml:lang="spa" sameAs="">Plaza de los Aljibes</placeName>
+      <placeName xml:lang="en">The Court of the Cisterns</placeName>
+      <placeName xml:lang="spa">Plaza de los Aljibes</placeName>
       <settlement type="country">Spain</settlement>
    </place>   
    <place xml:id="court_of_lions">
@@ -1159,20 +1159,20 @@
       <settlement type="country">Spain</settlement>
    </place>   
    <place xml:id="lindaraja">
-      <placeName xml:lang="en" sameAs="">Lindaraja</placeName>
+      <placeName xml:lang="en">Lindaraja</placeName>
       <settlement type="country">Spain</settlement>
    </place>  
    <place xml:id="puerta_de_hierro">
-      <placeName xml:lang="en" sameAs="">Puerta de Hierro</placeName>
+      <placeName xml:lang="en">Puerta de Hierro</placeName>
       <settlement type="country">Spain</settlement>
    </place>   
    <place xml:id="sala_de_las_2">
-      <placeName xml:lang="en" sameAs="">Sala de las 2 Hermanas</placeName>
+      <placeName xml:lang="en">Sala de las 2 Hermanas</placeName>
       <settlement type="country">Spain</settlement>
    </place>   
    <place xml:id="court_of_cisterns">
-      <placeName xml:lang="en" sameAs="">Court of Cisterns</placeName>
-      <placeName xml:lang="en" sameAs="">Alberca</placeName>
+      <placeName xml:lang="en">Court of Cisterns</placeName>
+      <placeName xml:lang="en">Alberca</placeName>
       <settlement type="country">Spain</settlement>
    </place> 
    <place xml:id="cacilhas">
@@ -1196,7 +1196,7 @@
       <settlement type="country">Spain</settlement>
    </place>   
    <place xml:id="town_of_loures">
-      <placeName xml:lang="en" sameAs="">Town of Loures</placeName>
+      <placeName xml:lang="en">Town of Loures</placeName>
       <settlement type="country">Spain</settlement>
    </place>   
    <place xml:id="sao_carlos">
@@ -1204,7 +1204,7 @@
       <settlement type="country">Brazil</settlement>
    </place>   
    <place xml:id="rua_dos_condes">
-      <placeName xml:lang="en" sameAs="">Rua dos Condes</placeName>
+      <placeName xml:lang="en">Rua dos Condes</placeName>
       <settlement type="country">Spain</settlement>
    </place>   
    <place xml:id="chiado">
@@ -1274,7 +1274,7 @@
       <settlement type="country">Portugal</settlement>
    </place>   
    <place xml:id="jerico">
-      <placeName xml:lang="en" sameAs="">Jerico</placeName>
+      <placeName xml:lang="en">Jerico</placeName>
       <settlement type="country">Portugal</settlement>
    </place>   
    <place xml:id="salvaterra_de_magos">
@@ -1323,7 +1323,7 @@
       <settlement type="country">Portugal</settlement>
    </place>   
    <place xml:id="bandajos">
-      <placeName xml:lang="en" sameAs="">Bandajos</placeName>
+      <placeName xml:lang="en">Bandajos</placeName>
       <settlement type="country">England</settlement>
    </place>   
    <place xml:id="costancia">
@@ -1351,7 +1351,7 @@
       <settlement type="country">Portugal</settlement>
    </place>   
    <place xml:id="santissima">
-      <placeName xml:lang="en" sameAs="">Rua Sssma</placeName>
+      <placeName xml:lang="en">Rua Sssma</placeName>
       <settlement type="country">England</settlement>
    </place>   
    <place xml:id="biscay">
@@ -1359,8 +1359,8 @@
       <settlement type="country">Spain</settlement>
    </place>  
    <place xml:id="zapateiro">
-      <placeName xml:lang="en" sameAs="">the Poictiers to Zapateiro</placeName>
-      <placeName xml:lang="en" sameAs="">Zapateiro</placeName>
+      <placeName xml:lang="en">the Poictiers to Zapateiro</placeName>
+      <placeName xml:lang="en">Zapateiro</placeName>
       <settlement type="country">England</settlement>
    </place>  
    <place xml:id="cathedral_granada">
@@ -1377,7 +1377,7 @@
       <settlement type="country">Spain</settlement>
    </place>    
    <place xml:id="zahira_place">
-      <placeName xml:lang="en" sameAs="">Zahira hija de Abu Abdala Juzef</placeName>
+      <placeName xml:lang="en">Zahira hija de Abu Abdala Juzef</placeName>
       <settlement type="country">England</settlement>
    </place>    
    <place xml:id="guadix">
@@ -1389,7 +1389,7 @@
       <settlement type="country">Syria</settlement>
    </place>    
    <place xml:id="rua_da_conceptiao">
-      <placeName xml:lang="en" sameAs="">Rua da conceptiao</placeName>
+      <placeName xml:lang="en">Rua da conceptiao</placeName>
       <settlement type="country">Portugal</settlement>
    </place>    
    <place xml:id="rua_nova_de_almada">
@@ -1397,7 +1397,7 @@
       <settlement type="country">Portugal</settlement>
    </place>    
    <place xml:id="palace_duke_alcala">
-      <placeName xml:lang="en" sameAs="">Palace of Dukes of Alcala</placeName>
+      <placeName xml:lang="en">Palace of Dukes of Alcala</placeName>
       <settlement type="country">Spain</settlement>
    </place>   
    <place xml:id="medina_celi">
@@ -1405,7 +1405,7 @@
       <settlement type="country">Spain</settlement>
    </place>   
    <place xml:id="triana">
-      <placeName xml:lang="en" sameAs="">Triana the Suburb</placeName>
+      <placeName xml:lang="en">Triana the Suburb</placeName>
       <settlement type="country">Spain</settlement>
    </place>    
    <place xml:id="cazalla_sierra">
@@ -1425,7 +1425,7 @@
       <settlement type="country">Spain</settlement>
    </place>   
    <place xml:id="ataulpho">
-      <placeName xml:lang="en" sameAs="">Ataulpho</placeName>
+      <placeName xml:lang="en">Ataulpho</placeName>
       <settlement type="country">Spain</settlement>
    </place>  
    <place xml:id="torre_de_piedra">
@@ -1433,7 +1433,7 @@
       <settlement type="country">Spain</settlement>
    </place>   
    <place xml:id="stone_tower">
-      <placeName xml:lang="en" sameAs="">Stone Tower</placeName>
+      <placeName xml:lang="en">Stone Tower</placeName>
       <settlement type="country">Spain</settlement>
    </place>    
    <place xml:id="cabo_di_gata">
@@ -1658,7 +1658,7 @@
       <settlement type="country">Spain</settlement>
    </place>
    <place xml:id="zagalla">
-      <placeName xml:lang="en" sameAs="xx">Zagalla</placeName>
+      <placeName xml:lang="en">Zagalla</placeName>
       <settlement type="country">Spain</settlement>
    </place>
    <place xml:id="alcala_henares">
@@ -1674,7 +1674,7 @@
       <settlement type="country">Spain</settlement>
    </place>
    <place xml:id="tower_seven_floors">
-      <placeName xml:lang="en" sameAs="xx">Torre de siete suelos</placeName>
+      <placeName xml:lang="en">Torre de siete suelos</placeName>
       <settlement type="country">Spain</settlement>
    </place>
    <place xml:id="cathedral_santiago_de_compostela">
