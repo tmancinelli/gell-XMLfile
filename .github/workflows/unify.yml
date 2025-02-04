@@ -2,7 +2,7 @@ name: XML TEI unifier
 on: [push]
 jobs:
   unifier:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-22.04
     steps:
       - run: |
          echo "Installining xqilla..."
